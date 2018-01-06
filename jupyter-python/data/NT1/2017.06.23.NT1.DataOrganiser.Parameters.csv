@@ -1,0 +1,182 @@
+parameter,project_code,data_source,borehole_code,sample_code,sample_depth_top_m,sample_description,laboratory,laboratory_test_code,test_date,test_type,test_standard,test_parameters[0].description,test_parameters[0].value,test_parameters[0].units,test_parameters[1].description,test_parameters[1].value,test_parameters[1].units,test_comment,measurement_convention,value,value_unit,value_scale,value_likelihood,lithology
+sigma_c,NT1,Laboratory,NT1-14,14-1,28.90,Construction Design,KhonKaen University,33,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,56.01,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-2,36.80,Construction Design,KhonKaen University,34,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,106.68,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-3,37.30,Construction Design,KhonKaen University,35,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,126.68,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-4,37.30,Construction Design,KhonKaen University,36,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,78.68,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-5,56.80,Construction Design,KhonKaen University,37,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,105.35,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-15,15-1,32.20,Construction Design,KhonKaen University,38,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,20.67,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-18,18-1,23.50,Construction Design,KhonKaen University,39,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,22.04,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-18,18-2,23.50,Construction Design,KhonKaen University,40,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,19.98,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-19,19-1,63.60,Construction Design,KhonKaen University,41,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,36.06,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-19,19-2,63.60,Construction Design,KhonKaen University,42,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,19.29,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-21,21-1,61.00,Construction Design,KhonKaen University,43,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,8.46,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-21,21-2,61.00,Construction Design,KhonKaen University,44,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,9.77,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-21,21-3,66.90,Construction Design,KhonKaen University,45,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,28.93,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-21,21-4,66.90,Construction Design,KhonKaen University,46,12.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,28.93,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-DL-01,01-01,20.60,Construction Design,KhonKaen University,47,13.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,19.13,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-DL-01,01-02,20.60,Construction Design,KhonKaen University,48,13.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,24.67,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-DL-01,01-03,22.40,Construction Design,KhonKaen University,49,13.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,15.30,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-14,14-1,28.90,Construction Design,KhonKaen University,33,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,13200.00,MPa,Laboratory,Data point,Red Sandstone
+E,NT1,Laboratory,NT1-14,14-2,36.80,Construction Design,KhonKaen University,34,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,51400.00,MPa,Laboratory,Data point,Red Sandstone
+E,NT1,Laboratory,NT1-14,14-3,37.30,Construction Design,KhonKaen University,35,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,17800.00,MPa,Laboratory,Data point,Red Sandstone
+E,NT1,Laboratory,NT1-14,14-4,37.30,Construction Design,KhonKaen University,36,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,19700.00,MPa,Laboratory,Data point,Red Sandstone
+E,NT1,Laboratory,NT1-14,14-5,56.80,Construction Design,KhonKaen University,37,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,22100.00,MPa,Laboratory,Data point,Red Sandstone
+E,NT1,Laboratory,NT1-15,15-1,32.20,Construction Design,KhonKaen University,38,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,4170.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-18,18-1,23.50,Construction Design,KhonKaen University,39,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,6760.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-18,18-2,23.50,Construction Design,KhonKaen University,40,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,2790.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-1,63.60,Construction Design,KhonKaen University,41,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,11400.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-2,63.60,Construction Design,KhonKaen University,42,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,20700.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-21,21-1,61.00,Construction Design,KhonKaen University,43,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,4290.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-21,21-2,61.00,Construction Design,KhonKaen University,44,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,7780.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-21,21-3,66.90,Construction Design,KhonKaen University,45,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,12000.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-21,21-4,66.90,Construction Design,KhonKaen University,46,12.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,7450.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-DL-01,01-01,20.60,Construction Design,KhonKaen University,47,13.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,5650.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-DL-01,01-02,20.60,Construction Design,KhonKaen University,48,13.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,No stiffness,E50,,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-DL-01,01-03,22.40,Construction Design,KhonKaen University,49,13.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,27000.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-14,14-1,28.90,Construction Design,KhonKaen University,50,08.05.2017,Triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,,90.54,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-2,28.90,Construction Design,KhonKaen University,51,08.05.2017,Triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,,127.17,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-3,28.90,Construction Design,KhonKaen University,52,08.05.2017,Triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,,128.55,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-4,57.85,Construction Design,KhonKaen University,53,08.05.2017,Triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,,63.58,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-5,57.85,Construction Design,KhonKaen University,54,08.05.2017,Triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,,87.08,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-14,14-6,57.85,Construction Design,KhonKaen University,55,08.05.2017,Triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,,106.43,MPa,Laboratory,Data point,Red Sandstone
+sigma_c,NT1,Laboratory,NT1-1,,27.10,Basic Design,,56,,Uniaxial compression,ASTM D7012 D,,,,,,,,,86.82,MPa,Laboratory,Data point,Conglomerate
+sigma_c,NT1,Laboratory,NT1-1,,61.50,Basic Design,,57,,Uniaxial compression,ASTM D7012 D,,,,,,,,,75.15,MPa,Laboratory,Data point,Conglomerate
+sigma_c,NT1,Laboratory,NT1-2,,22.12,Basic Design,,58,,Uniaxial compression,ASTM D7012 D,,,,,,,,,44.02,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-4,,11.00,Basic Design,,59,,Uniaxial compression,ASTM D7012 D,,,,,,,,,53.64,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-5,,64.70,Basic Design,,60,,Uniaxial compression,ASTM D7012 D,,,,,,,,,19.97,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-5,,82.91,Basic Design,,61,,Uniaxial compression,ASTM D7012 D,,,,,,,,,29.78,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-6,,39.25,Basic Design,,62,,Uniaxial compression,ASTM D7012 D,,,,,,,,,113.55,MPa,Laboratory,Data point,Conglomerate
+sigma_c,NT1,Laboratory,NT1-6,,52.10,Basic Design,,63,,Uniaxial compression,ASTM D7012 D,,,,,,,,,56.94,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-6,,58.80,Basic Design,,64,,Uniaxial compression,ASTM D7012 D,,,,,,,,,58.69,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-5,,24.25,Basic Design,,65,,Uniaxial compression,ASTM D7012 D,,,,,,,,,83.30,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,UCS-MUD-01,22.00,Basic Design,,66,,Uniaxial compression,ASTM D7012 D,,,,,,,,,25.60,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,UCS-MUD-02,22.00,Basic Design,,67,,Uniaxial compression,ASTM D7012 D,,,,,,,,,7.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-8,,134.70,Basic Design,,68,,Uniaxial compression,ASTM D7012 D,,,,,,,,,122.15,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-9,,94.38,Basic Design,,69,,Uniaxial compression,ASTM D7012 D,,,,,,,,,118.97,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-11,,15.65,Basic Design,,70,,Uniaxial compression,ASTM D7012 D,,,,,,,,,85.02,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-1,,27.10,Basic Design,,56,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,3352.00,MPa,Laboratory,Data point,Conglomerate
+E,NT1,Laboratory,NT1-1,,61.50,Basic Design,,57,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,3532.00,MPa,Laboratory,Data point,Conglomerate
+E,NT1,Laboratory,NT1-2,,22.12,Basic Design,,58,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,2017.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-4,,11.00,Basic Design,,59,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,2669.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-5,,64.70,Basic Design,,60,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,1902.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-5,,82.91,Basic Design,,61,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,1413.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-6,,39.25,Basic Design,,62,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,4895.00,MPa,Laboratory,Data point,Conglomerate
+E,NT1,Laboratory,NT1-6,,52.10,Basic Design,,63,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,3232.00,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-6,,58.80,Basic Design,,64,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,2597.00,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-5,,24.25,Basic Design,,65,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,UCS-MUD-01,22.00,Basic Design,,66,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,UCS-MUD-02,22.00,Basic Design,,67,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-8,,134.70,Basic Design,,68,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,4913.00,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-9,,94.38,Basic Design,,69,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,4594.00,MPa,Laboratory,Data point,Sandstone
+E,NT1,Laboratory,NT1-11,,15.65,Basic Design,,70,,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,,3142.00,MPa,Laboratory,Data point,Sandstone
+sigma_c,NT1,Laboratory,NT1-4,,70.38,Basic Design,,71,,Triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,,20.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-4,,70.38,Basic Design,,72,,Triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,,43.80,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-4,,70.38,Basic Design,,73,,Triaxial compression,ASTM D7012 B,s3,1.40,MPa,,,,,,36.30,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,74,,Triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,,22.30,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,75,,Triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,,11.40,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,76,,Triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,,10.90,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,77,,Triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,,22.10,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,78,,Triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,,21.80,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,79,,Triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,,36.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-4,,70.38,Basic Design,,71,,E measured during triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,E50,1000.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-4,,70.38,Basic Design,,72,,E measured during triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,E50,2200.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-4,,70.38,Basic Design,,73,,E measured during triaxial compression,ASTM D7012 B,s3,1.40,MPa,,,,,E50,2000.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,74,,E measured during triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,E50,1600.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,75,,E measured during triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,E50,1600.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,76,,E measured during triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,E50,2400.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,77,,E measured during triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,E50,2000.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,78,,E measured during triaxial compression,ASTM D7012 B,s3,0.70,MPa,,,,,E50,1300.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-LB-ExpAdit,Mud,22.00,Basic Design,,79,,E measured during triaxial compression,ASTM D7012 B,s3,2.10,MPa,,,,,E50,2300.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A21,,,Construction Design,KhonKaen University,80,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,45.90,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A19,,,Construction Design,KhonKaen University,81,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,47.41,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A?,,,Construction Design,KhonKaen University,82,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,56.97,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A24,,,Construction Design,KhonKaen University,83,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,46.33,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A6,,,Construction Design,KhonKaen University,84,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,39.38,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A25,,,Construction Design,KhonKaen University,85,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,40.88,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-A22,,,Construction Design,KhonKaen University,86,19.05.2017,Uniaxial compression,ASTM D7012 D,,,,,,,,,50.75,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A21,,,Construction Design,KhonKaen University,80,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,2980.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A19,,,Construction Design,KhonKaen University,81,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,8680.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A?,,,Construction Design,KhonKaen University,82,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,16800.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A24,,,Construction Design,KhonKaen University,83,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,13200.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A6,,,Construction Design,KhonKaen University,84,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,11900.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A25,,,Construction Design,KhonKaen University,85,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,9140.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A22,,,Construction Design,KhonKaen University,86,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,E50,9300.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A21,,,Construction Design,KhonKaen University,80,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,6240.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A19,,,Construction Design,KhonKaen University,81,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,5250.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A?,,,Construction Design,KhonKaen University,82,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,8070.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A24,,,Construction Design,KhonKaen University,83,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,6460.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A6,,,Construction Design,KhonKaen University,84,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,4680.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A25,,,Construction Design,KhonKaen University,85,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,4180.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-A22,,,Construction Design,KhonKaen University,86,19.05.2017,E measured during uniaxial compression,ASTM D7012 D,,,,,,,,Es,3940.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-19,19-1,58.60,Construction Design,KhonKaen University,87,,Triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,,59.00,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-19,19-2,58.60,Construction Design,KhonKaen University,88,,Triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,,58.06,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-19,19-3,58.60,Construction Design,KhonKaen University,89,,Triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,,69.11,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-15,15-1,36.08,Construction Design,KhonKaen University,90,,Triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,,52.53,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-15,15-2,36.08,Construction Design,KhonKaen University,91,,Triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,,74.64,MPa,Laboratory,Data point,Siltstone
+sigma_c,NT1,Laboratory,NT1-15,15-3,36.08,Construction Design,KhonKaen University,92,,Triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,,80.17,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-1,58.60,Construction Design,KhonKaen University,87,,E measured during triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,E50,11660.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-2,58.60,Construction Design,KhonKaen University,88,,E measured during triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,E50,8640.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-3,58.60,Construction Design,KhonKaen University,89,,E measured during triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,E50,11510.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-1,36.08,Construction Design,KhonKaen University,90,,E measured during triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,E50,6867.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-2,36.08,Construction Design,KhonKaen University,91,,E measured during triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,E50,11800.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-3,36.08,Construction Design,KhonKaen University,92,,E measured during triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,E50,9579.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-1,58.60,Construction Design,KhonKaen University,87,,E measured during triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,Es,10800.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-2,58.60,Construction Design,KhonKaen University,88,,E measured during triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,Es,7680.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-19,19-3,58.60,Construction Design,KhonKaen University,89,,E measured during triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,Es,5820.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-1,36.08,Construction Design,KhonKaen University,90,,E measured during triaxial compression,ASTM D7012 B,s3,1.00,MPa,,,,,Es,4500.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-2,36.08,Construction Design,KhonKaen University,91,,E measured during triaxial compression,ASTM D7012 B,s3,3.00,MPa,,,,,Es,6400.00,MPa,Laboratory,Data point,Siltstone
+E,NT1,Laboratory,NT1-15,15-3,36.08,Construction Design,KhonKaen University,92,,E measured during triaxial compression,ASTM D7012 B,s3,5.00,MPa,,,,,Es,8210.00,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-21,2-1,57.80,Construction Design,KhonKaen University,93,19.05.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.15,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,2-2,57.80,Construction Design,KhonKaen University,94,19.05.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.29,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,2-3,57.80,Construction Design,KhonKaen University,95,19.05.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.50,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,2-1,57.80,Construction Design,KhonKaen University,93,19.05.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.15,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,2-2,57.80,Construction Design,KhonKaen University,94,19.05.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.31,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,2-3,57.80,Construction Design,KhonKaen University,95,19.05.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.55,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-1,57.80,Construction Design,KhonKaen University,96,19.05.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.13,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-2,57.80,Construction Design,KhonKaen University,97,19.05.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.22,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-3,57.80,Construction Design,KhonKaen University,98,19.05.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.46,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-1,57.80,Construction Design,KhonKaen University,96,19.05.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.14,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-2,57.80,Construction Design,KhonKaen University,97,19.05.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.24,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-21,1-3,57.80,Construction Design,KhonKaen University,98,19.05.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.51,MPa,Laboratory,Data point,Clay
+tau,NT1,Laboratory,NT1-18,1,24.66,Construction Design,KhonKaen University,100,14.06.2017,Direct shear,ASTM D5607-95,s3,0.48,MPa,,,,,Peak strength,0.39,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-18,1,24.66,Construction Design,KhonKaen University,101,14.06.2017,Direct shear,ASTM D5607-95,s3,0.94,MPa,,,,,Peak strength,0.48,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-18,1,24.66,Construction Design,KhonKaen University,102,14.06.2017,Direct shear,ASTM D5607-95,s3,1.87,MPa,,,,,Peak strength,0.83,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-18,1,23.50,Construction Design,KhonKaen University,103,14.06.2017,Direct shear,ASTM D5607-95,s3,0.47,MPa,,,,,Peak strength,0.65,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-18,1,23.50,Construction Design,KhonKaen University,104,14.06.2017,Direct shear,ASTM D5607-95,s3,0.93,MPa,,,,,Peak strength,0.86,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-18,1,23.50,Construction Design,KhonKaen University,105,14.06.2017,Direct shear,ASTM D5607-95,s3,1.85,MPa,,,,,Peak strength,1.48,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-15,1,32.20,Construction Design,KhonKaen University,106,14.06.2017,Direct shear,ASTM D5607-95,s3,0.47,MPa,,,,,Peak strength,0.43,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-15,1,32.20,Construction Design,KhonKaen University,107,14.06.2017,Direct shear,ASTM D5607-95,s3,0.92,MPa,,,,,Peak strength,0.39,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-15,1,32.20,Construction Design,KhonKaen University,108,14.06.2017,Direct shear,ASTM D5607-95,s3,1.82,MPa,,,,,Peak strength,0.50,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-14,1,58.90,Construction Design,KhonKaen University,109,10.06.2017,Direct shear,ASTM D5607-95,s3,0.47,MPa,,,,,Peak strength,1.16,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,NT1-14,1,58.90,Construction Design,KhonKaen University,110,10.06.2017,Direct shear,ASTM D5607-95,s3,0.93,MPa,,,,,Peak strength,1.30,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,NT1-14,1,58.90,Construction Design,KhonKaen University,111,10.06.2017,Direct shear,ASTM D5607-95,s3,2.76,MPa,,,,,Peak strength,2.11,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,NT1-19,1,63.60,Construction Design,KhonKaen University,112,15.06.2017,Direct shear,ASTM D5607-95,s3,0.52,MPa,,,,,Peak strength,0.96,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-19,1,63.60,Construction Design,KhonKaen University,113,15.06.2017,Direct shear,ASTM D5607-95,s3,1.02,MPa,,,,,Peak strength,0.65,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-19,1,63.60,Construction Design,KhonKaen University,114,15.06.2017,Direct shear,ASTM D5607-95,s3,2.02,MPa,,,,,Peak strength,1.19,MPa,Laboratory,Data point,Siltstone
+tau,NT1,Laboratory,NT1-14,1,57.85,Construction Design,KhonKaen University,115,20.06.2017,Direct shear,ASTM D5607-95,s3,0.47,MPa,,,,,Peak strength,0.65,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,NT1-14,1,57.85,Construction Design,KhonKaen University,116,20.06.2017,Direct shear,ASTM D5607-95,s3,0.93,MPa,,,,,Peak strength,0.85,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,NT1-14,1,57.85,Construction Design,KhonKaen University,117,20.06.2017,Direct shear,ASTM D5607-95,s3,1.85,MPa,,,,,Peak strength,1.42,MPa,Laboratory,Data point,Sandstone
+tau,NT1,Laboratory,Diversion Tunnel,SM1-1,,Construction Design,KhonKaen University,118,17.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.14,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM1-2,,Construction Design,KhonKaen University,119,17.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.20,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SMa-3,,Construction Design,KhonKaen University,120,17.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.37,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM1-1,,Construction Design,KhonKaen University,118,17.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.16,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM1-2,,Construction Design,KhonKaen University,119,17.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.25,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM1-3,,Construction Design,KhonKaen University,120,17.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.37,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-1,,Construction Design,KhonKaen University,121,17.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.14,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-2,,Construction Design,KhonKaen University,122,17.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.18,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-3,,Construction Design,KhonKaen University,123,17.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.34,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-1,,Construction Design,KhonKaen University,121,17.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.16,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-2,,Construction Design,KhonKaen University,122,17.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.23,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-2-3,,Construction Design,KhonKaen University,123,17.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.46,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-1,,Construction Design,KhonKaen University,124,19.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.07,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-2,,Construction Design,KhonKaen University,125,19.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.18,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-3,,Construction Design,KhonKaen University,126,19.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.37,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-1,,Construction Design,KhonKaen University,124,19.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.13,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-2,,Construction Design,KhonKaen University,125,19.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.24,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-3-3,,Construction Design,KhonKaen University,126,19.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.46,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-1,,Construction Design,KhonKaen University,127,19.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Peak strength,0.11,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-2,,Construction Design,KhonKaen University,128,19.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Peak strength,0.20,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-3,,Construction Design,KhonKaen University,129,19.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Peak strength,0.41,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-1,,Construction Design,KhonKaen University,130,19.06.2017,Direct shear,ASTM D3080,s3,0.20,MPa,,,,,Residual strength,0.17,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-2,,Construction Design,KhonKaen University,131,19.06.2017,Direct shear,ASTM D3080,s3,0.40,MPa,,,,,Residual strength,0.25,MPa,Laboratory,Data point,Sheared Mudstone
+tau,NT1,Laboratory,Diversion Tunnel,SM-4-3,,Construction Design,KhonKaen University,132,19.06.2017,Direct shear,ASTM D3080,s3,0.80,MPa,,,,,Residual strength,0.49,MPa,Laboratory,Data point,Sheared Mudstone

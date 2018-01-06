@@ -1,0 +1,42 @@
+[I 12:44:44.667 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[I 12:44:49.061 NotebookApp] Serving notebooks from local directory: /home/kaelin_joseph/DataOrganizer/jupyter-python
+[I 12:44:49.062 NotebookApp] 0 active kernels 
+[I 12:44:49.062 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8080/?token=abb53159585c8eaa7812fd8599bcc3e80075d46273e56dc8
+[I 12:44:49.062 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:44:49.062 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8080/?token=abb53159585c8eaa7812fd8599bcc3e80075d46273e56dc8
+[W 12:44:59.731 NotebookApp] Couldn't authenticate WebSocket connection
+[W 12:45:00.301 NotebookApp] 403 GET /api/kernels/ff45856d-5146-4ef6-9748-998fda911e28/channels?session_id=EA61D7EF42684A3C8F51EF5B25EC2EBB (80.254.184.33) 572.35ms referer=None
+[I 12:45:02.480 NotebookApp] 302 GET /notebooks/hydr_confinement/hdyraulic_confinement.ipynb (80.254.184.33) 1.54ms
+[W 12:45:16.840 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.79ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
+[W 12:45:31.111 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.97ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
+[W 12:46:15.881 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.95ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
+[I 12:46:51.436 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.26ms
+[W 12:46:53.221 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 108.22ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 12:46:53.713 NotebookApp] Kernel started: df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+[I 12:46:55.100 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+[W 12:48:49.662 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 1.56ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1_Testing.ipynb
+[I 12:48:51.959 NotebookApp] Kernel started: a17b2b57-5760-4310-b99b-28d443700157
+[I 12:48:52.740 NotebookApp] Adapting to protocol v5.1 for kernel a17b2b57-5760-4310-b99b-28d443700157
+[I 12:49:54.721 NotebookApp] Kernel shutdown: a17b2b57-5760-4310-b99b-28d443700157
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+QPixmap: Must construct a QApplication before a QPaintDevice
+[I 12:50:29.713 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644 restarted
+[W 12:50:33.551 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 2.05ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 12:50:34.204 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 12:52:34.790 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement.ipynb
+[W 13:01:04.206 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 13:45:39.264 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+[W 13:59:25.609 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.57ms referer=None
+[W 14:01:56.267 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.53ms referer=None
+[W 14:21:54.748 NotebookApp] 404 GET /manager/html (58.218.200.24) 1.78ms referer=None
+[W 14:24:09.265 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 14:25:25.265 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+[W 15:20:03.045 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.61ms referer=None
+[W 16:13:06.493 NotebookApp] 404 GET http://testp3.pospr.waw.pl/testproxy.php (91.196.50.33) 1.58ms referer=None
