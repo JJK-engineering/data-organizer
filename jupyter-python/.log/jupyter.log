@@ -1,42 +1,1251 @@
-[I 12:44:44.667 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
-[I 12:44:49.061 NotebookApp] Serving notebooks from local directory: /home/kaelin_joseph/DataOrganizer/jupyter-python
-[I 12:44:49.062 NotebookApp] 0 active kernels 
-[I 12:44:49.062 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8080/?token=abb53159585c8eaa7812fd8599bcc3e80075d46273e56dc8
-[I 12:44:49.062 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 12:44:49.062 NotebookApp] 
-    
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://0.0.0.0:8080/?token=abb53159585c8eaa7812fd8599bcc3e80075d46273e56dc8
-[W 12:44:59.731 NotebookApp] Couldn't authenticate WebSocket connection
-[W 12:45:00.301 NotebookApp] 403 GET /api/kernels/ff45856d-5146-4ef6-9748-998fda911e28/channels?session_id=EA61D7EF42684A3C8F51EF5B25EC2EBB (80.254.184.33) 572.35ms referer=None
-[I 12:45:02.480 NotebookApp] 302 GET /notebooks/hydr_confinement/hdyraulic_confinement.ipynb (80.254.184.33) 1.54ms
-[W 12:45:16.840 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.79ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
-[W 12:45:31.111 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.97ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
-[W 12:46:15.881 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.95ms referer=http://gis.jkaelin.com:8080/login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb
-[I 12:46:51.436 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (80.254.184.33) 1.26ms
-[W 12:46:53.221 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 108.22ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
-[I 12:46:53.713 NotebookApp] Kernel started: df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
-[I 12:46:55.100 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
-[W 12:48:49.662 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 1.56ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1_Testing.ipynb
-[I 12:48:51.959 NotebookApp] Kernel started: a17b2b57-5760-4310-b99b-28d443700157
-[I 12:48:52.740 NotebookApp] Adapting to protocol v5.1 for kernel a17b2b57-5760-4310-b99b-28d443700157
-[I 12:49:54.721 NotebookApp] Kernel shutdown: a17b2b57-5760-4310-b99b-28d443700157
+[I 16:48:29.736 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[I 16:48:33.558 NotebookApp] Serving notebooks from local directory: /home/kaelin_joseph/DataOrganizer/jupyter-python
+[I 16:48:33.558 NotebookApp] 0 active kernels 
+[I 16:48:33.559 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8080/
+[I 16:48:33.559 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:49:49.470 NotebookApp] None
+[W 16:49:49.470 NotebookApp] 403 POST /api/kernels/19d56d4c-f49a-467c-a375-c937743344eb/restart (80.254.184.33) 2.03ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:49:49.521 NotebookApp] None
+[W 16:49:49.521 NotebookApp] 403 DELETE /api/sessions/38c957a1-6297-4d7d-9469-a181245adc6e (80.254.184.33) 1.40ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:49:49.565 NotebookApp] None
+[W 16:49:49.566 NotebookApp] 403 POST /api/sessions (80.254.184.33) 1.37ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:49:57.642 NotebookApp] None
+[W 16:49:57.643 NotebookApp] 403 POST /api/kernels/19d56d4c-f49a-467c-a375-c937743344eb/restart (80.254.184.33) 1.35ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:49:57.690 NotebookApp] None
+[W 16:49:57.691 NotebookApp] 403 DELETE /api/sessions/38c957a1-6297-4d7d-9469-a181245adc6e (80.254.184.33) 1.29ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:49:57.731 NotebookApp] None
+[W 16:49:57.732 NotebookApp] 403 POST /api/sessions (80.254.184.33) 1.31ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[I 16:50:05.597 NotebookApp] 302 GET /tree/hydr_confinement (80.254.184.33) 0.93ms
+[I 16:50:08.524 NotebookApp] 302 POST /login?next=%2Ftree%2Fhydr_confinement (80.254.184.33) 1.26ms
+[E 16:50:13.830 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: 19d56d4c-f49a-467c-a375-c937743344eb)
+[E 16:50:13.866 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10032.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.140 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1518367808|29:username-gis-jkaelin-com-8080|44:YzJjOGEzMDExNGUxNDFhNGJmZWM0NWVkMDZmNDYwOTM=|ee8fb6fb3be167d1fb1e500b68d55bb3991fcea3ab7268c04df9bf3f74e3087e\""
+    }
+[E 16:50:13.866 NotebookApp] 500 POST /api/kernels/19d56d4c-f49a-467c-a375-c937743344eb/restart (80.254.184.33) 37.09ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[W 16:50:13.966 NotebookApp] Session not found: session_id=u'38c957a1-6297-4d7d-9469-a181245adc6e'
+[W 16:50:13.967 NotebookApp] 404 DELETE /api/sessions/38c957a1-6297-4d7d-9469-a181245adc6e (80.254.184.33) 62.95ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[I 16:50:14.117 NotebookApp] Kernel started: 393265a0-63fb-4683-b37c-f73ef630b168
+[I 16:50:15.444 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[E 16:50:27.244 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: f1813af4-16f2-4dd0-b51d-42ff66095e12)
+[E 16:50:27.244 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10032.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.140 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.JK.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1518367808|29:username-gis-jkaelin-com-8080|44:YzJjOGEzMDExNGUxNDFhNGJmZWM0NWVkMDZmNDYwOTM=|ee8fb6fb3be167d1fb1e500b68d55bb3991fcea3ab7268c04df9bf3f74e3087e\""
+    }
+[E 16:50:27.245 NotebookApp] 500 POST /api/kernels/f1813af4-16f2-4dd0-b51d-42ff66095e12/restart (80.254.184.33) 1.69ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.JK.ipynb
+[W 16:50:27.303 NotebookApp] Session not found: session_id=u'f9a21600-0ca8-4545-8f2b-038b2c6c72e7'
+[W 16:50:27.303 NotebookApp] 404 DELETE /api/sessions/f9a21600-0ca8-4545-8f2b-038b2c6c72e7 (80.254.184.33) 1.62ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.JK.ipynb
+[I 16:50:27.353 NotebookApp] Kernel started: a2545b4a-d755-4855-bd18-bacadf535b82
+[I 16:50:28.111 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 16:51:01.381 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[E 16:51:21.369 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: cb0f886d-e5aa-42ce-9d8c-26eb5dc73b28)
+[E 16:51:21.370 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10032.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.140 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1518367808|29:username-gis-jkaelin-com-8080|44:YzJjOGEzMDExNGUxNDFhNGJmZWM0NWVkMDZmNDYwOTM=|ee8fb6fb3be167d1fb1e500b68d55bb3991fcea3ab7268c04df9bf3f74e3087e\""
+    }
+[E 16:51:21.370 NotebookApp] 500 POST /api/kernels/cb0f886d-e5aa-42ce-9d8c-26eb5dc73b28/restart (80.254.184.33) 1.48ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[W 16:51:21.414 NotebookApp] Session not found: session_id=u'1e8a76d3-fe41-4b51-807c-a052feb01fb7'
+[W 16:51:21.415 NotebookApp] 404 DELETE /api/sessions/1e8a76d3-fe41-4b51-807c-a052feb01fb7 (80.254.184.33) 1.60ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 16:51:21.720 NotebookApp] Kernel started: 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 16:51:22.353 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 16:51:39.001 NotebookApp] Kernel restarted: 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 16:51:39.691 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
 Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 16:52:11.758 NotebookApp] Kernel restarted: 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 16:52:12.765 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
 Xlib:  extension "XInputExtension" missing on display ":1.0".
-QPixmap: Must construct a QApplication before a QPaintDevice
-[I 12:50:29.713 NotebookApp] KernelRestarter: restarting kernel (1/5)
-WARNING:root:kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644 restarted
-[W 12:50:33.551 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180106124444 (80.254.184.33) 2.05ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
-[I 12:50:34.204 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
+[I 16:52:55.967 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement.ipynb
+[W 17:35:42.965 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 37.64ms referer=None
+[W 17:47:14.383 NotebookApp] 404 GET /manager/html (58.218.200.24) 1.56ms referer=None
+[W 18:38:01.383 NotebookApp] WebSocket ping timeout after 119887 ms.
+[W 18:38:12.767 NotebookApp] WebSocket ping timeout after 119808 ms.
+[W 18:38:15.445 NotebookApp] WebSocket ping timeout after 119926 ms.
+[I 18:41:35.046 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 18:41:45.975 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 18:41:48.994 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[W 18:56:12.823 NotebookApp] 404 GET /manager/html (58.218.200.24) 2.12ms referer=None
+[W 19:08:25.746 NotebookApp] 405 HEAD / (147.75.52.149) 0.49ms referer=None
+[I 19:08:26.146 NotebookApp] 302 GET / (147.75.52.149) 0.41ms
+[I 19:08:26.249 NotebookApp] 302 GET /tree (147.75.52.149) 0.82ms
+[I 19:24:04.678 NotebookApp] Kernel restarted: 393265a0-63fb-4683-b37c-f73ef630b168
+[I 19:24:07.006 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 19:25:11.950 NotebookApp] Saving file at /hydr_confinement/Reprojection_Vector.ipynb
+[W 20:41:35.478 NotebookApp] 405 CONNECT 104.155.55.255 (125.39.222.247) 29.30ms referer=None
+[W 20:53:05.047 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 20:53:07.007 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 20:53:15.977 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 21:14:48.923 NotebookApp] 404 GET /manager/html (112.133.245.67) 1.44ms referer=None
+[W 21:46:45.396 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.81ms referer=None
+[W 22:20:42.524 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.64ms referer=None
+[W 22:37:09.945 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.43ms referer=None
+[W 23:07:13.919 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.58ms referer=None
+[W 23:26:46.327 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.73ms referer=None
+[W 23:39:36.328 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.65ms referer=None
+[W 23:45:37.269 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.50ms referer=None
+[W 00:17:11.273 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.59ms referer=None
+[W 00:19:05.472 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.68ms referer=None
+[W 00:19:26.419 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.54ms referer=None
+[W 00:30:59.661 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.65ms referer=None
+[W 00:38:48.680 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.85ms referer=None
+[W 00:46:03.356 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.39ms referer=None
+[W 00:51:23.852 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.50ms referer=None
+[W 00:56:35.899 NotebookApp] 404 GET /manager/html (221.229.204.14) 1.44ms referer=None
+[I 02:16:22.627 NotebookApp] 302 GET / (71.6.158.166) 0.50ms
+[I 02:16:23.017 NotebookApp] 302 GET /tree (71.6.158.166) 0.76ms
+[W 02:25:12.276 NotebookApp] 404 GET /.git/HEAD (195.22.127.249) 1.45ms referer=None
+[W 03:11:06.200 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.52ms referer=None
+[W 03:29:41.049 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.89ms referer=None
+[W 04:18:05.286 NotebookApp] 404 GET /manager/html (101.254.149.187) 1.50ms referer=None
+[W 04:48:00.161 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.84ms referer=None
+[I 05:39:17.926 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 05:39:19.893 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 05:39:28.870 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 06:22:16.729 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.95ms referer=None
+[I 07:32:38.037 NotebookApp] 302 GET / (125.76.60.156) 0.45ms
+[W 07:58:47.927 NotebookApp] WebSocket ping timeout after 119955 ms.
+[W 07:58:49.894 NotebookApp] WebSocket ping timeout after 119874 ms.
+[W 07:58:58.871 NotebookApp] WebSocket ping timeout after 119942 ms.
+[I 08:20:27.723 NotebookApp] 302 GET / (139.162.79.87) 0.48ms
+[W 10:02:56.816 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.06ms referer=None
+[W 10:41:44.858 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.57ms referer=None
+[W 11:27:42.238 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.65ms referer=None
+[W 12:09:35.817 NotebookApp] 404 GET /manager/html (123.249.76.125) 2.73ms referer=None
+[W 12:30:38.666 NotebookApp] 404 GET /manager/html (222.186.56.91) 1.45ms referer=None
+[W 13:09:16.448 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.60ms referer=None
+[I 13:13:56.675 NotebookApp] 302 GET / (209.126.136.4) 0.45ms
+[W 13:32:54.577 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.55ms referer=None
+[W 15:31:30.707 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.43ms referer=None
+[I 16:07:01.573 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 16:07:03.561 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 16:07:12.960 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 16:07:20.486 NotebookApp] 404 GET /manager/html (23.248.219.5) 1.46ms referer=None
+[W 16:53:12.962 NotebookApp] WebSocket ping timeout after 119932 ms.
+[W 16:53:31.575 NotebookApp] WebSocket ping timeout after 118643 ms.
+[W 16:53:33.561 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 16:54:59.649 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 17:37:29.651 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 17:48:39.216 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 18:48:23.896 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.05ms referer=None
+[W 19:16:04.792 NotebookApp] 404 GET /manager/html (116.213.144.159) 1.42ms referer=None
+[W 19:40:49.031 NotebookApp] 403 POST /invoker/readonly (45.34.18.226): '_xsrf' argument missing from POST
+[W 19:40:49.033 NotebookApp] 403 POST /invoker/readonly (45.34.18.226) 2.40ms referer=http://104.155.55.255:8080/invoker/readonly
+[W 19:42:21.235 NotebookApp] 403 POST /invoker/readonly (45.34.18.226): '_xsrf' argument missing from POST
+[W 19:42:21.236 NotebookApp] 403 POST /invoker/readonly (45.34.18.226) 2.04ms referer=http://104.155.55.255:8080/invoker/readonly
+[W 19:42:25.984 NotebookApp] 403 POST /invoker/readonly (45.34.18.226): '_xsrf' argument missing from POST
+[W 19:42:25.986 NotebookApp] 403 POST /invoker/readonly (45.34.18.226) 1.85ms referer=http://104.155.55.255:8080/invoker/readonly
+[W 20:25:48.276 NotebookApp] 403 POST /invoker/readonly (58.215.225.174): '_xsrf' argument missing from POST
+[W 20:25:48.277 NotebookApp] 403 POST /invoker/readonly (58.215.225.174) 1.97ms referer=http://104.155.55.255:8080/invoker/readonly
+[W 20:35:34.197 NotebookApp] 404 GET http://www.baidu.com/favicon.ico (123.59.68.9) 1.51ms referer=None
+[W 21:34:09.218 NotebookApp] WebSocket ping timeout after 119957 ms.
+[W 21:41:00.145 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.64ms referer=None
+[I 21:51:10.756 NotebookApp] 302 GET / (60.191.38.77) 0.53ms
+[W 22:09:44.609 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.60ms referer=None
+[W 22:59:59.579 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.61ms referer=None
+[W 23:13:19.021 NotebookApp] 404 GET /manager/html (223.99.167.86) 1.42ms referer=None
+[W 00:49:53.250 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.80ms referer=None
+[I 02:00:40.967 NotebookApp] 302 GET / (107.170.251.213) 0.48ms
+[W 03:32:50.211 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.75ms referer=None
+[W 03:50:03.855 NotebookApp] 404 GET http://104.27.99.47/ (194.182.65.51) 1.38ms referer=None
+[W 04:30:33.992 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.73ms referer=None
+[W 05:43:14.535 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.62ms referer=None
+[I 06:04:59.947 NotebookApp] 302 GET / (196.52.43.84) 0.62ms
+[I 06:05:32.661 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 06:13:02.663 NotebookApp] WebSocket ping timeout after 119686 ms.
+[W 06:29:07.093 NotebookApp] 404 GET http://httpheader.net/ (47.203.89.156) 1.53ms referer=None
+[W 07:13:23.522 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.57ms referer=None
+[W 07:55:11.911 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.54ms referer=None
+[W 08:19:18.264 NotebookApp] 404 GET /manager/html (123.249.71.132) 1.53ms referer=None
+[I 08:46:22.817 NotebookApp] 302 GET / (38.142.119.218) 0.43ms
+[I 09:18:55.140 NotebookApp] 302 GET /notebooks/hydr_confinement/hdyraulic_confinement.ipynb (66.249.81.30) 0.73ms
+[I 09:18:58.214 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (194.230.155.117) 1.27ms
+[W 09:19:00.113 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.2) 109.45ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 09:19:03.375 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 09:20:06.489 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.2) 1.63ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK.ipynb
+[I 09:20:07.529 NotebookApp] Kernel started: afb68012-0300-4ca3-85f3-f1b82c9d6032
+[I 09:20:07.565 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (66.249.81.2) 1.01ms
+[I 09:20:08.188 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[I 09:20:28.311 NotebookApp] 302 GET / (185.46.214.71) 0.47ms
+[I 09:20:28.345 NotebookApp] 302 GET /tree? (185.46.214.71) 0.82ms
+[I 09:20:49.449 NotebookApp] 302 POST /login?next=%2Ftree%3F (185.46.214.71) 1.33ms
+[W 09:21:06.232 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.44ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK.ipynb
+[I 09:21:06.792 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (185.46.214.71) 0.77ms
+[I 09:21:06.952 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[I 09:28:47.061 NotebookApp] Copying geotech_calc/Settlement-JK.ipynb to /geotech_calc
+[W 09:28:47.670 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.57ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK-Copy1.ipynb
+[I 09:28:48.190 NotebookApp] Kernel started: 2c9fc212-07d6-4dab-81d0-8530975b0816
+[I 09:28:48.198 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (185.46.214.71) 0.86ms
+[I 09:28:49.013 NotebookApp] Adapting to protocol v5.1 for kernel 2c9fc212-07d6-4dab-81d0-8530975b0816
+[I 09:29:40.091 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 09:29:40.182 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[W 09:31:35.973 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.67ms referer=None
+[I 09:41:37.277 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 09:55:56.840 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[I 09:55:56.959 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 09:56:24.697 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.30) 1.44ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 09:56:28.141 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 09:56:36.097 NotebookApp] 302 GET /login?next=%2Fnotebooks%2Fhydr_confinement%2Fhdyraulic_confinement.ipynb (66.249.81.2) 0.80ms
+[W 09:56:39.235 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.30) 1.63ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 09:56:42.367 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 09:56:44.184 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.4) 1.54ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 09:56:47.080 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 09:57:35.922 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (66.249.81.4) 1.87ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK.ipynb
+[I 09:57:36.889 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (66.249.81.30) 1.12ms
+[I 09:57:37.079 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[W 10:32:42.163 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.53ms referer=None
+[W 11:14:47.901 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.68ms referer=None
+[W 11:23:00.882 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.55ms referer=None
+[W 11:31:37.279 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 11:48:09.049 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 12:46:09.050 NotebookApp] WebSocket ping timeout after 119883 ms.
+[I 12:59:43.455 NotebookApp] 302 GET / (139.162.79.87) 0.76ms
+[I 13:44:42.885 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 15:01:24.909 NotebookApp] Kernel interrupted: 2c9fc212-07d6-4dab-81d0-8530975b0816
+[W 15:09:01.958 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.90ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/Reprojection_Vector.ipynb
+[I 15:09:03.871 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 15:09:04.239 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[W 15:09:10.452 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.78ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 15:09:17.152 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 15:55:18.383 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.62ms referer=None
+[W 16:22:03.873 NotebookApp] WebSocket ping timeout after 119902 ms.
+[W 16:22:04.241 NotebookApp] WebSocket ping timeout after 119956 ms.
+[W 16:22:17.153 NotebookApp] WebSocket ping timeout after 119916 ms.
+[I 17:21:19.259 NotebookApp] 302 GET /notebooks/geotech_calc/Settlement-JK.ipynb (188.32.181.149) 0.80ms
+[W 17:43:43.727 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.61ms referer=None
+[I 17:48:10.482 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 17:48:10.559 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 17:48:22.261 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 22:35:10.483 NotebookApp] WebSocket ping timeout after 119888 ms.
+[W 22:35:10.560 NotebookApp] WebSocket ping timeout after 119965 ms.
+[W 22:35:22.263 NotebookApp] WebSocket ping timeout after 119792 ms.
+[W 23:20:56.215 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.29ms referer=None
+[W 23:25:18.609 NotebookApp] 405 CONNECT lapis5olkq8hdgv260.gumi.sg:443 (195.22.127.249) 1.96ms referer=None
+[W 00:27:54.147 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.54ms referer=None
+[I 01:35:15.070 NotebookApp] 302 GET / (177.187.4.95) 0.72ms
+[W 01:35:35.553 NotebookApp] 404 GET /webdav (177.187.4.95) 1.68ms referer=None
+[W 01:35:36.031 NotebookApp] 404 GET /service.cgi (177.187.4.95) 1.50ms referer=None
+[W 01:35:36.501 NotebookApp] 404 GET /service.cgi (177.187.4.95) 1.70ms referer=None
+[W 01:35:36.982 NotebookApp] 404 GET /service.cgi (177.187.4.95) 1.48ms referer=None
+[I 01:36:07.484 NotebookApp] 302 GET / (177.187.4.95) 0.57ms
+[W 03:28:20.136 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.98ms referer=None
+[W 03:42:55.871 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.81ms referer=None
+[I 06:21:04.134 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 06:21:04.209 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 06:21:16.118 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 06:23:16.057 NotebookApp] 302 GET / (123.59.56.127) 0.58ms
+[W 06:34:25.611 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.74ms referer=None
+[W 06:48:04.136 NotebookApp] WebSocket ping timeout after 119967 ms.
+[W 06:48:04.210 NotebookApp] WebSocket ping timeout after 119966 ms.
+[W 06:48:16.120 NotebookApp] WebSocket ping timeout after 119786 ms.
+[W 07:18:27.249 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.81ms referer=None
+[I 08:40:28.864 NotebookApp] Adapting to protocol v5.1 for kernel a2545b4a-d755-4855-bd18-bacadf535b82
+[I 08:40:28.914 NotebookApp] Adapting to protocol v5.1 for kernel 393265a0-63fb-4683-b37c-f73ef630b168
+[I 08:40:40.852 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 09:13:16.183 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.83ms referer=None
+[I 09:38:45.965 NotebookApp] 302 GET / (185.46.214.71) 0.60ms
+[I 09:38:46.003 NotebookApp] 302 GET /tree? (185.46.214.71) 0.80ms
+[I 09:39:01.841 NotebookApp] 302 POST /login?next=%2Ftree%3F (185.46.214.71) 1.19ms
+[W 09:39:14.730 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.61ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK.ipynb
+[I 09:39:15.213 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (185.46.214.71) 1.06ms
+[I 09:39:15.298 NotebookApp] Adapting to protocol v5.1 for kernel afb68012-0300-4ca3-85f3-f1b82c9d6032
+[I 09:39:21.690 NotebookApp] Copying geotech_calc/Settlement-JK.ipynb to /geotech_calc
+[W 09:39:22.272 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.42ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK-Copy1.ipynb
+[I 09:39:22.535 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (185.46.214.71) 1.11ms
+[I 09:39:22.778 NotebookApp] Kernel started: 0aa7d8c4-15c0-4104-856e-468395bf6f76
+[I 09:39:23.511 NotebookApp] Adapting to protocol v5.1 for kernel 0aa7d8c4-15c0-4104-856e-468395bf6f76
+[I 09:40:04.870 NotebookApp] 302 GET / (82.221.105.6) 0.49ms
+[I 09:40:05.780 NotebookApp] 302 GET /tree (82.221.105.6) 0.73ms
+[W 09:50:30.642 NotebookApp] 404 GET /index.do?redirect:${%23req%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest'),%23res%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse'),%23res.getWriter().println(%22okokok%22),%23res.getWriter().flush(),%23res.getWriter().close(),new+java.io.BufferedWriter(new+java.io.FileWriter(%23req.getRealPath(%22/%22)%2b%22lndex.jsp%22)).append(%23req.getParameter(%22shell%22)).close()}&shell=%3C%25if(request.getParameter(%22f%22)!%3Dnull)(new%20java.io.FileOutputStream(application.getRealPath(%22%2F%22)%2Brequest.getParameter(%22f%22))).write(request.getParameter(%22t%22).getBytes())%3B%25%3E%3Ca%20href%3D%22One_OK%22%3E%3C%2Fa%3E (123.249.3.226) 1.77ms referer=None
+[W 09:50:30.645 NotebookApp] 404 GET /loginAction.action?redirect:${%23req%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletReq%27%2b%27uest%27),%23resp%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletRes%27%2b%27ponse%27),%23resp.setCharacterEncoding(%27UTF-8%27),%23resp.getWriter().print(%22web%22),%23resp.getWriter().print(%22path:%22),%23resp.getWriter().print(%23req.getSession().getServletContext().getRealPath(%22/%22)),%23resp.getWriter().flush(),%23resp.getWriter().close()} (123.249.3.226) 1.90ms referer=None
+[W 09:50:30.659 NotebookApp] 404 GET /admin/index.action?redirect:${%23req%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletReq%27%2b%27uest%27),%23resp%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletRes%27%2b%27ponse%27),%23resp.setCharacterEncoding(%27UTF-8%27),%23resp.getWriter().print(%22web%22),%23resp.getWriter().print(%22path:%22),%23resp.getWriter().print(%23req.getSession().getServletContext().getRealPath(%22/%22)),%23resp.getWriter().flush(),%23resp.getWriter().close()} (123.249.3.226) 2.69ms referer=None
+[W 09:50:30.719 NotebookApp] 404 GET /index.php?redirect:${%23req%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest'),%23res%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse'),%23res.getWriter().println(%22okokok%22),%23res.getWriter().flush(),%23res.getWriter().close(),new+java.io.BufferedWriter(new+java.io.FileWriter(%23req.getRealPath(%22/%22)%2b%22lndex.jsp%22)).append(%23req.getParameter(%22shell%22)).close()}&shell=%3C%25if(request.getParameter(%22f%22)!%3Dnull)(new%20java.io.FileOutputStream(application.getRealPath(%22%2F%22)%2Brequest.getParameter(%22f%22))).write(request.getParameter(%22t%22).getBytes())%3B%25%3E%3Ca%20href%3D%22One_OK%22%3E%3C%2Fa%3E (123.249.3.226) 1.61ms referer=None
+[W 10:00:47.347 NotebookApp] 404 GET /manager/html (58.218.213.45) 1.50ms referer=None
+[W 10:23:02.230 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.94ms referer=None
+[W 10:35:45.473 NotebookApp] 404 GET /manager/html (58.218.213.45) 1.71ms referer=None
+[W 13:06:54.155 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.89ms referer=None
+[W 13:08:46.963 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.67ms referer=None
+[I 14:04:23.448 NotebookApp] Kernel shutdown: 393265a0-63fb-4683-b37c-f73ef630b168
+[I 14:04:25.082 NotebookApp] Kernel shutdown: a2545b4a-d755-4855-bd18-bacadf535b82
+[I 14:04:29.129 NotebookApp] Kernel shutdown: afb68012-0300-4ca3-85f3-f1b82c9d6032
+[W 14:04:58.409 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.05ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-JK.ipynb
+[I 14:04:58.981 NotebookApp] Kernel started: 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 14:04:58.991 NotebookApp] 302 GET /notebooks/geotech_calc/SettlementTrough.png (46.14.48.6) 0.82ms
+[I 14:04:59.596 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 15:56:19.678 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.24ms referer=None
+[W 16:19:29.598 NotebookApp] WebSocket ping timeout after 119871 ms.
+[W 16:19:40.853 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 16:57:25.921 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.90ms referer=None
+[W 17:26:06.150 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.57ms referer=None
+[I 20:05:57.446 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 20:06:09.736 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 20:52:39.738 NotebookApp] WebSocket ping timeout after 119888 ms.
+[W 20:52:57.448 NotebookApp] WebSocket ping timeout after 119883 ms.
+[I 21:28:48.592 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 21:29:06.619 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 21:42:12.618 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.89ms referer=None
+[W 21:42:48.595 NotebookApp] WebSocket ping timeout after 119914 ms.
+[W 21:43:06.620 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 22:34:12.159 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.88ms referer=None
+[W 23:30:49.189 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.74ms referer=None
+[I 05:53:38.529 NotebookApp] 302 GET / (60.191.38.77) 1.12ms
+[W 05:54:16.219 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.94ms referer=None
+[I 06:02:03.432 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 06:02:21.411 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 06:15:03.433 NotebookApp] WebSocket ping timeout after 119872 ms.
+[W 06:15:21.412 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 06:36:53.597 NotebookApp] 302 GET / (139.162.79.87) 0.51ms
+[W 07:22:03.719 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.03ms referer=None
+[I 08:17:32.161 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 08:17:50.153 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 08:32:03.380 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.67ms referer=None
+[W 08:50:02.163 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 08:50:20.154 NotebookApp] WebSocket ping timeout after 119937 ms.
+[I 09:37:27.599 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 09:37:54.509 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 11:31:32.043 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 3.45ms referer=None
+[W 13:04:59.446 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.55ms referer=None
+[W 13:43:54.510 NotebookApp] WebSocket ping timeout after 119559 ms.
+[W 13:43:57.600 NotebookApp] WebSocket ping timeout after 119697 ms.
+[W 14:22:23.726 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.80ms referer=None
+[W 15:18:41.437 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.92ms referer=None
+[W 15:42:54.892 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.91ms referer=None
+[I 17:18:51.894 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement.ipynb
+[I 17:21:55.217 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 17:22:00.311 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 17:31:25.218 NotebookApp] WebSocket ping timeout after 119837 ms.
+[W 17:31:30.312 NotebookApp] WebSocket ping timeout after 119732 ms.
+[I 17:33:11.767 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 17:33:17.924 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 17:53:17.925 NotebookApp] WebSocket ping timeout after 119924 ms.
+[W 17:53:41.768 NotebookApp] WebSocket ping timeout after 119877 ms.
+[W 17:59:29.593 NotebookApp] 404 GET /invoker/JMXInvokerServlet (221.229.166.223) 1.79ms referer=None
+[W 20:01:48.725 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.48ms referer=None
+[I 20:58:18.894 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 20:58:42.898 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 21:51:12.900 NotebookApp] WebSocket ping timeout after 119966 ms.
+[W 21:51:18.896 NotebookApp] WebSocket ping timeout after 119966 ms.
+[W 22:03:48.046 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.87ms referer=None
+[W 22:32:42.530 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.12ms referer=None
+[W 23:56:10.358 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.00ms referer=None
+[W 00:03:42.629 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.86ms referer=None
+[I 00:43:56.140 NotebookApp] 302 GET / (38.142.119.106) 0.66ms
+[I 02:07:22.877 NotebookApp] 302 GET / (212.237.47.203) 0.72ms
+[W 02:18:16.270 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.21ms referer=None
+[W 02:21:52.053 NotebookApp] 404 GET /status?full=true (212.237.47.203) 1.78ms referer=None
+[I 02:33:05.934 NotebookApp] 302 GET / (196.52.43.51) 1.19ms
+[W 04:19:33.493 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.59ms referer=None
+[W 05:04:04.280 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.30ms referer=None
+[W 05:46:10.159 NotebookApp] 404 GET /admindb/scripts/setup.php (195.54.47.52) 1.67ms referer=None
+[W 05:46:10.267 NotebookApp] 404 GET /admin/phpmyadmin/scripts/setup.php (195.54.47.52) 1.58ms referer=None
+[W 05:46:10.373 NotebookApp] 404 GET /admin/phpMyAdmin/scripts/setup.php (195.54.47.52) 1.64ms referer=None
+[W 05:46:10.480 NotebookApp] 404 GET /admin/scripts/setup.php (195.54.47.52) 1.56ms referer=None
+[W 05:46:10.587 NotebookApp] 404 GET /dbadmin/scripts/setup.php (195.54.47.52) 1.58ms referer=None
+[W 05:46:10.696 NotebookApp] 404 GET /db/scripts/setup.php (195.54.47.52) 1.56ms referer=None
+[W 05:46:10.804 NotebookApp] 404 GET /myadmin/scripts/setup.php (195.54.47.52) 1.58ms referer=None
+[W 05:46:10.912 NotebookApp] 404 GET /MyAdmin/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 05:46:11.025 NotebookApp] 404 GET /mysqladmin/scripts/setup.php (195.54.47.52) 1.88ms referer=None
+[W 05:46:11.164 NotebookApp] 404 GET /mysql/scripts/setup.php (195.54.47.52) 1.62ms referer=None
+[W 05:46:11.271 NotebookApp] 404 GET /phpmyadmin2/scripts/setup.php (195.54.47.52) 1.46ms referer=None
+[W 05:46:11.385 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 05:46:11.493 NotebookApp] 404 GET /phpMyAdmin/scripts/setup0.php (195.54.47.52) 1.53ms referer=None
+[W 05:46:11.601 NotebookApp] 404 GET /phpmyadmin/scripts/setup1.php (195.54.47.52) 1.51ms referer=None
+[W 05:46:11.709 NotebookApp] 404 GET /phpMyAdmin/scripts/setup1.php (195.54.47.52) 1.65ms referer=None
+[W 05:46:11.815 NotebookApp] 404 GET /_phpmyadmin/scripts/setup.php (195.54.47.52) 1.49ms referer=None
+[W 05:46:11.921 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 05:46:12.077 NotebookApp] 404 GET /phpmyadmin_/scripts/setup.php (195.54.47.52) 1.47ms referer=None
+[W 05:46:12.209 NotebookApp] 404 GET /phpmyadmin/scripts/_setup.php (195.54.47.52) 1.59ms referer=None
+[W 05:46:12.316 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (195.54.47.52) 1.61ms referer=None
+[W 05:46:12.444 NotebookApp] 404 GET /phpmyadmin/scripts/Setup.php (195.54.47.52) 1.45ms referer=None
+[W 05:46:12.551 NotebookApp] 404 GET /_phpMyAdmin/scripts/setup.php (195.54.47.52) 1.41ms referer=None
+[W 05:46:12.659 NotebookApp] 404 GET /phpMyAdmin_/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 05:46:12.767 NotebookApp] 404 GET /phpMyAdmin/scripts/_setup.php (195.54.47.52) 1.41ms referer=None
+[W 05:46:12.873 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (195.54.47.52) 1.52ms referer=None
+[W 05:46:13.049 NotebookApp] 404 GET /phpMyAdmin/scripts.setup.php (195.54.47.52) 1.59ms referer=None
+[W 05:46:13.156 NotebookApp] 404 GET /phpMyAdmin/scripts/Setup.php (195.54.47.52) 1.60ms referer=None
+[W 05:46:13.263 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (195.54.47.52) 1.52ms referer=None
+[W 05:46:13.371 NotebookApp] 404 GET /PHPMYADMIN/scripts/setup.php (195.54.47.52) 1.45ms referer=None
+[W 05:46:13.507 NotebookApp] 404 GET /pma/scripts/setup.php (195.54.47.52) 1.54ms referer=None
+[W 05:46:13.616 NotebookApp] 404 GET /PMA/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 05:46:13.758 NotebookApp] 404 GET /scripts/setup.php (195.54.47.52) 1.45ms referer=None
+[W 05:46:13.867 NotebookApp] 404 GET /sql/scripts/setup.php (195.54.47.52) 1.72ms referer=None
+[W 05:59:56.922 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.90ms referer=None
+[W 06:06:31.853 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.69ms referer=None
+[W 06:24:55.677 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.91ms referer=None
+[I 06:47:57.389 NotebookApp] 302 GET / (66.240.192.138) 0.60ms
+[I 06:47:57.681 NotebookApp] 302 GET /tree (66.240.192.138) 0.94ms
+[I 06:54:18.998 NotebookApp] 302 GET / (107.170.226.50) 0.56ms
+[W 07:00:01.395 NotebookApp] 404 GET /admindb/scripts/setup.php (195.54.47.52) 2.06ms referer=None
+[W 07:00:01.503 NotebookApp] 404 GET /admin/phpmyadmin/scripts/setup.php (195.54.47.52) 1.40ms referer=None
+[W 07:00:01.618 NotebookApp] 404 GET /admin/phpMyAdmin/scripts/setup.php (195.54.47.52) 1.37ms referer=None
+[W 07:00:01.726 NotebookApp] 404 GET /admin/scripts/setup.php (195.54.47.52) 1.47ms referer=None
+[W 07:00:01.835 NotebookApp] 404 GET /dbadmin/scripts/setup.php (195.54.47.52) 1.47ms referer=None
+[W 07:00:01.942 NotebookApp] 404 GET /db/scripts/setup.php (195.54.47.52) 1.39ms referer=None
+[W 07:00:02.051 NotebookApp] 404 GET /myadmin/scripts/setup.php (195.54.47.52) 1.37ms referer=None
+[W 07:00:02.157 NotebookApp] 404 GET /MyAdmin/scripts/setup.php (195.54.47.52) 1.44ms referer=None
+[W 07:00:02.263 NotebookApp] 404 GET /mysqladmin/scripts/setup.php (195.54.47.52) 1.35ms referer=None
+[W 07:00:02.374 NotebookApp] 404 GET /mysql/scripts/setup.php (195.54.47.52) 1.34ms referer=None
+[W 07:00:02.483 NotebookApp] 404 GET /phpmyadmin2/scripts/setup.php (195.54.47.52) 1.34ms referer=None
+[W 07:00:02.593 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (195.54.47.52) 1.50ms referer=None
+[W 07:00:02.701 NotebookApp] 404 GET /phpMyAdmin/scripts/setup0.php (195.54.47.52) 1.38ms referer=None
+[W 07:00:02.808 NotebookApp] 404 GET /phpmyadmin/scripts/setup1.php (195.54.47.52) 1.59ms referer=None
+[W 07:00:02.914 NotebookApp] 404 GET /phpMyAdmin/scripts/setup1.php (195.54.47.52) 1.39ms referer=None
+[W 07:00:03.022 NotebookApp] 404 GET /_phpmyadmin/scripts/setup.php (195.54.47.52) 1.35ms referer=None
+[W 07:00:03.129 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (195.54.47.52) 1.48ms referer=None
+[W 07:00:03.238 NotebookApp] 404 GET /phpmyadmin_/scripts/setup.php (195.54.47.52) 1.35ms referer=None
+[W 07:00:03.347 NotebookApp] 404 GET /phpmyadmin/scripts/_setup.php (195.54.47.52) 1.44ms referer=None
+[W 07:00:03.455 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (195.54.47.52) 1.54ms referer=None
+[W 07:00:03.563 NotebookApp] 404 GET /phpmyadmin/scripts/Setup.php (195.54.47.52) 1.70ms referer=None
+[W 07:00:03.671 NotebookApp] 404 GET /_phpMyAdmin/scripts/setup.php (195.54.47.52) 1.51ms referer=None
+[W 07:00:03.783 NotebookApp] 404 GET /phpMyAdmin_/scripts/setup.php (195.54.47.52) 1.44ms referer=None
+[W 07:00:03.891 NotebookApp] 404 GET /phpMyAdmin/scripts/_setup.php (195.54.47.52) 1.36ms referer=None
+[W 07:00:03.996 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (195.54.47.52) 1.43ms referer=None
+[W 07:00:04.104 NotebookApp] 404 GET /phpMyAdmin/scripts.setup.php (195.54.47.52) 1.60ms referer=None
+[W 07:00:04.214 NotebookApp] 404 GET /phpMyAdmin/scripts/Setup.php (195.54.47.52) 1.38ms referer=None
+[W 07:00:04.323 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (195.54.47.52) 1.47ms referer=None
+[W 07:00:04.429 NotebookApp] 404 GET /PHPMYADMIN/scripts/setup.php (195.54.47.52) 1.42ms referer=None
+[W 07:00:04.539 NotebookApp] 404 GET /pma/scripts/setup.php (195.54.47.52) 1.33ms referer=None
+[W 07:00:04.645 NotebookApp] 404 GET /PMA/scripts/setup.php (195.54.47.52) 1.45ms referer=None
+[W 07:00:04.751 NotebookApp] 404 GET /scripts/setup.php (195.54.47.52) 1.34ms referer=None
+[W 07:00:04.861 NotebookApp] 404 GET /sql/scripts/setup.php (195.54.47.52) 1.40ms referer=None
+[W 07:10:16.341 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.80ms referer=None
+[W 07:31:24.482 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.02ms referer=None
+[W 07:39:14.632 NotebookApp] 404 GET /manager/html (220.191.255.148) 1.71ms referer=None
+[W 08:56:15.684 NotebookApp] 404 GET /w00tw00t.at.ISC.SANS.DFind:) (64.83.241.9) 4.95ms referer=None
+[W 09:38:00.030 NotebookApp] 404 GET /manager/html (58.218.213.45) 1.94ms referer=None
+[W 10:04:51.451 NotebookApp] 404 GET /manager/html (123.249.76.125) 2.00ms referer=None
+[W 10:14:42.391 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.88ms referer=None
+[W 10:18:47.792 NotebookApp] 404 GET /manager/html (58.218.213.45) 2.09ms referer=None
+[W 11:30:05.675 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.33ms referer=None
+[W 11:44:48.231 NotebookApp] 404 GET http://104.27.99.47/ (194.182.65.51) 1.70ms referer=None
+[W 11:53:28.367 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.78ms referer=None
+[W 14:30:44.476 NotebookApp] 404 GET /manager/html (220.191.255.148) 3.24ms referer=None
+[I 14:44:26.070 NotebookApp] 302 GET / (89.248.160.199) 0.71ms
+[I 14:44:26.128 NotebookApp] 302 GET /tree? (89.248.160.199) 1.11ms
+[W 14:51:04.038 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.76ms referer=None
+[W 15:59:13.790 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.24ms referer=None
+[W 16:05:35.995 NotebookApp] 404 GET /manager/html (61.176.193.18) 1.70ms referer=None
+[W 17:39:39.384 NotebookApp] 404 GET /manager/html (118.184.85.198) 1.64ms referer=None
+[W 18:26:12.541 NotebookApp] 404 GET /.env (195.22.127.249) 1.60ms referer=None
+[W 20:31:27.066 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 3.21ms referer=None
+[W 20:47:46.422 NotebookApp] 404 GET /manager/html (123.249.71.132) 1.85ms referer=None
+[W 20:58:51.482 NotebookApp] 404 GET /manager/html (123.249.76.125) 2.07ms referer=None
+[I 21:18:38.606 NotebookApp] 302 GET / (66.240.205.34) 0.68ms
+[I 21:18:38.896 NotebookApp] 302 GET /tree (66.240.205.34) 0.92ms
+[W 21:18:39.582 NotebookApp] 404 GET /robots.txt (66.240.205.34) 2.32ms referer=None
+[W 21:18:39.939 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.59ms referer=None
+[W 21:18:40.244 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.67ms referer=None
+[I 21:46:53.142 NotebookApp] 302 GET / (141.212.122.96) 0.49ms
+[I 21:46:53.246 NotebookApp] 302 GET /tree? (141.212.122.96) 0.93ms
+[W 21:54:02.565 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.64ms referer=None
+[W 22:44:50.736 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.20ms referer=None
+[I 00:56:51.249 NotebookApp] 302 GET /notebooks/hydr_confinement/TunnelGIS_testing.ipynb (37.144.82.41) 1.67ms
+[W 01:49:52.983 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.14ms referer=None
+[I 03:32:34.134 NotebookApp] 302 GET / (60.191.38.77) 0.60ms
+[I 04:37:06.521 NotebookApp] 302 GET / (155.94.88.138) 0.68ms
+[W 04:39:41.973 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.93ms referer=None
+[I 07:14:11.356 NotebookApp] 302 GET / (123.59.56.127) 1.06ms
+[W 08:30:48.755 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.80ms referer=None
+[W 11:36:50.828 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 4.18ms referer=None
+[W 13:14:57.681 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 3.11ms referer=None
+[I 13:21:25.308 NotebookApp] 302 GET / (60.191.38.77) 0.73ms
+[W 15:00:18.886 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.21ms referer=None
+[W 15:48:31.774 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.80ms referer=None
+[W 15:54:09.145 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.81ms referer=None
+[W 17:28:47.700 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.81ms referer=None
+[W 18:19:10.116 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 3.09ms referer=None
+[W 18:43:47.595 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.05ms referer=None
+[W 18:45:33.505 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.80ms referer=None
+[W 19:56:27.218 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.93ms referer=None
+[I 20:13:47.480 NotebookApp] 302 GET /api/config/notebook?_=1518898478121 (62.202.180.192) 2.20ms
+[I 20:13:47.518 NotebookApp] 302 GET /api/config/common?_=1518898478122 (62.202.180.192) 1.38ms
+[I 20:13:48.112 NotebookApp] 302 GET /api/kernelspecs (62.202.180.192) 1.03ms
+[I 20:13:48.281 NotebookApp] 302 GET /api/contents/geotech_calc/Plotly-Examples.ipynb?type=notebook&_=1518898478123 (62.202.180.192) 1.45ms
+[W 20:14:24.513 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.37ms referer=None
+[W 20:44:19.210 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.84ms referer=None
+[W 21:25:29.141 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.25ms referer=None
+[W 22:26:03.195 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.42ms referer=None
+[W 23:25:05.439 NotebookApp] 404 GET http://httpheader.net/ (47.203.94.124) 2.79ms referer=None
+[W 03:05:07.951 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.38ms referer=None
+[W 07:05:56.700 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.67ms referer=None
+[W 08:56:18.467 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.99ms referer=None
+[W 09:20:57.625 NotebookApp] 404 GET /invoker/readonly (42.51.194.26) 1.98ms referer=None
+[I 10:19:32.575 NotebookApp] 302 GET / (139.162.79.87) 1.32ms
+[I 10:25:03.665 NotebookApp] 302 GET /notebooks/hydr_confinement/hillslope.ipynb (176.14.10.12) 1.14ms
+[W 12:59:27.663 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.96ms referer=None
+[W 13:23:49.921 NotebookApp] 404 GET /manager/html (123.249.76.125) 1.94ms referer=None
+[W 14:15:53.569 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.87ms referer=None
+[W 14:46:17.191 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.67ms referer=None
+[I 17:13:47.079 NotebookApp] 302 GET / (172.104.230.48) 1.31ms
+[W 17:38:12.532 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 3.15ms referer=None
+[W 18:25:22.836 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 1.87ms referer=None
+[I 18:27:59.636 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 18:28:05.588 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 19:57:49.057 NotebookApp] 404 GET /manager/html (58.218.213.45) 2.04ms referer=None
+[W 20:55:29.638 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 20:55:35.589 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 21:04:08.554 NotebookApp] 404 GET /manager/html (58.218.200.24) 1.63ms referer=None
+[W 21:31:21.725 NotebookApp] 404 GET /manager/html (58.218.200.24) 2.96ms referer=None
+[W 21:43:25.642 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.81ms referer=None
+[W 22:04:12.311 NotebookApp] 404 GET /manager/html (58.218.200.24) 2.37ms referer=None
+[W 22:05:38.606 NotebookApp] 404 GET /manager/html (58.218.213.45) 1.66ms referer=None
+[I 23:10:50.860 NotebookApp] 302 GET / (185.100.87.248) 0.80ms
+[W 23:12:49.396 NotebookApp] 405 HEAD / (185.100.87.248) 0.75ms referer=None
+[I 23:12:49.398 NotebookApp] 302 GET / (185.100.87.248) 0.39ms
+[I 23:12:49.550 NotebookApp] 302 GET / (185.100.87.248) 0.59ms
+[I 23:12:49.551 NotebookApp] 302 GET / (185.100.87.248) 0.45ms
+[I 23:12:49.702 NotebookApp] 302 GET /tree? (185.100.87.248) 1.04ms
+[W 23:15:57.840 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.74ms referer=None
+[I 23:35:04.085 NotebookApp] 302 GET / (198.20.87.98) 0.54ms
+[I 23:35:04.285 NotebookApp] 302 GET /tree (198.20.87.98) 0.74ms
+[W 00:47:16.154 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 2.01ms referer=None
+[W 03:40:18.282 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 3.88ms referer=None
+[W 04:25:01.335 NotebookApp] 404 GET http://104.27.99.47/ (194.182.65.51) 2.21ms referer=None
+[I 05:25:10.401 NotebookApp] 302 GET /tree (5.228.95.140) 1.39ms
+[W 05:59:45.879 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.83ms referer=None
+[W 06:12:21.450 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.86ms referer=None
+[I 06:42:10.506 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 06:42:16.175 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 07:01:58.852 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.98ms referer=None
+[W 07:13:15.069 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 1.78ms referer=None
+[W 08:37:24.941 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 3.15ms referer=None
+[W 08:50:56.699 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.66ms referer=None
+[W 09:02:37.367 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.73ms referer=None
+[I 09:38:53.046 NotebookApp] 302 GET / (107.170.226.204) 0.70ms
+[W 10:31:41.130 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 3.02ms referer=None
+[W 11:42:45.334 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 3.06ms referer=None
+[W 12:05:40.508 NotebookApp] WebSocket ping timeout after 119853 ms.
+[W 12:05:46.176 NotebookApp] WebSocket ping timeout after 119887 ms.
+[I 12:44:43.938 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 12:44:47.530 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 12:46:13.939 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 12:46:17.533 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:12:27.509 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.02ms referer=None
+[W 15:59:39.526 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 4.60ms referer=None
+[I 16:32:11.216 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 16:32:15.188 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 16:52:09.116 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.87ms referer=None
+[W 17:08:13.771 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.71ms referer=None
+[W 17:46:03.929 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.68ms referer=None
+[I 18:37:47.625 NotebookApp] 302 GET / (209.126.136.4) 0.60ms
+[W 18:45:41.125 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 2.29ms referer=None
+[W 18:50:34.988 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 2.42ms referer=None
+[W 19:59:58.054 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 3.29ms referer=None
+[W 20:30:09.470 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.71ms referer=None
+[W 20:38:41.220 NotebookApp] WebSocket ping timeout after 119924 ms.
+[W 20:38:45.190 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 20:57:59.231 NotebookApp] 302 GET / (38.142.184.10) 0.78ms
+[W 21:40:08.038 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 2.14ms referer=None
+[W 23:06:53.779 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.81ms referer=None
+[W 03:23:34.350 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 3.71ms referer=None
+[I 03:32:06.086 NotebookApp] 302 GET / (60.191.38.77) 0.69ms
+[I 04:29:03.411 NotebookApp] 302 GET / (139.162.79.87) 1.20ms
+[W 05:00:29.888 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.88ms referer=None
+[I 05:18:43.077 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 05:18:46.651 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 05:52:10.547 NotebookApp] 404 GET /manager/html (52.172.49.24) 1.75ms referer=None
+[W 05:54:13.079 NotebookApp] WebSocket ping timeout after 119935 ms.
+[W 05:54:16.653 NotebookApp] WebSocket ping timeout after 119822 ms.
+[W 06:55:04.475 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 5.21ms referer=None
+[I 07:27:01.442 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 07:27:04.422 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 07:55:47.067 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.88ms referer=None
+[I 08:05:14.992 NotebookApp] 302 GET / (123.59.56.127) 0.61ms
+[W 08:37:30.681 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.80ms referer=None
+[W 09:18:14.815 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.95ms referer=None
+[W 10:02:38.894 NotebookApp] 404 GET /manager/html (23.248.219.5) 1.78ms referer=None
+[W 10:38:58.774 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.88ms referer=None
+[W 11:08:16.502 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 3.49ms referer=None
+[W 11:29:20.061 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 1.76ms referer=None
+[W 11:56:10.160 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.77ms referer=None
+[W 12:32:22.930 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 1.87ms referer=None
+[W 12:41:24.775 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.74ms referer=None
+[W 13:45:24.551 NotebookApp] 404 GET /manager/html (59.48.91.154) 1.80ms referer=None
+[W 14:11:35.974 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.13ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 14:11:46.304 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 14:12:14.001 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[W 14:24:14.729 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.03ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 14:24:15.585 NotebookApp] Kernel started: 88ef6fc9-3594-44e7-812b-3762e9c91e24
+[I 14:24:16.287 NotebookApp] Adapting to protocol v5.1 for kernel 88ef6fc9-3594-44e7-812b-3762e9c91e24
+[I 14:24:36.759 NotebookApp] Copying hydr_confinement/TunnelGIS.ipynb to /hydr_confinement
+[W 14:24:37.882 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.99ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS-Copy1.ipynb
+[I 14:24:38.653 NotebookApp] Kernel started: 7258125e-308d-4aae-81dc-74c77764b43d
+[I 14:24:39.367 NotebookApp] Adapting to protocol v5.1 for kernel 7258125e-308d-4aae-81dc-74c77764b43d
+[I 14:25:33.187 NotebookApp] Kernel shutdown: 7258125e-308d-4aae-81dc-74c77764b43d
+[I 14:25:33.397 NotebookApp] Kernel shutdown: 88ef6fc9-3594-44e7-812b-3762e9c91e24
+[W 14:25:48.652 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.84ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS-Copy1.ipynb
+[I 14:25:49.710 NotebookApp] Kernel started: 80943118-d302-4821-8658-0736f8ce89a9
+[I 14:25:50.439 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 14:27:12.275 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 14:27:12.980 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
 Xlib:  extension "XInputExtension" missing on display ":1.0".
-[I 12:52:34.790 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement.ipynb
-[W 13:01:04.206 NotebookApp] WebSocket ping timeout after 119950 ms.
-[I 13:45:39.264 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
-[W 13:59:25.609 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.57ms referer=None
-[W 14:01:56.267 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.53ms referer=None
-[W 14:21:54.748 NotebookApp] 404 GET /manager/html (58.218.200.24) 1.78ms referer=None
-[W 14:24:09.265 NotebookApp] WebSocket ping timeout after 119969 ms.
-[I 14:25:25.265 NotebookApp] Adapting to protocol v5.1 for kernel df1434b5-b4db-4f8b-bcc9-5cc47f5e6644
-[W 15:20:03.045 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.61ms referer=None
-[W 16:13:06.493 NotebookApp] 404 GET http://testp3.pospr.waw.pl/testproxy.php (91.196.50.33) 1.58ms referer=None
+[I 14:27:49.781 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[W 14:28:22.196 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.15ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 14:28:23.117 NotebookApp] Kernel started: 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 14:28:23.833 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[W 14:29:54.712 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.46ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 14:29:55.639 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 14:32:55.815 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 14:33:17.664 NotebookApp] Kernel restarted: 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 14:33:18.573 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 14:33:43.788 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 14:33:55.572 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 14:46:19.913 NotebookApp] Kernel restarted: 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 14:46:20.683 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 14:46:45.183 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 14:46:46.110 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 14:47:52.138 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:00:57.100 NotebookApp] Uploading file to /Ostroehre.AlignmentData.R3.csv
+[W 15:08:30.616 NotebookApp] 404 GET /favicon.ico (46.14.48.6) 1.89ms referer=http://gis.jkaelin.com:8080/view/geotech_calc/Ostroehre.TunnelExcavationData.R2.csv
+[I 15:09:08.363 NotebookApp] Uploading file to /Ostroehre.AlignmentData.R3.csv
+[I 15:10:14.274 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:10:27.313 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:10:38.284 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 15:10:39.084 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:11:51.649 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:14:53.151 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[W 15:15:19.450 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.97ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 15:15:20.829 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 15:15:34.160 NotebookApp] Kernel restarted: 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 15:15:35.072 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:15:52.127 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:16:02.544 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:17:21.125 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:18:21.823 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:18:24.833 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:21:20.611 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:21:52.137 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:24:53.041 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:24:59.935 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 15:25:00.849 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:25:51.646 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:26:55.024 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:27:27.439 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:27:41.185 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:27:49.638 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:27:51.781 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:29:21.115 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:29:33.573 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 15:29:34.343 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:29:51.637 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 15:30:21.096 NotebookApp] Kernel restarted: 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 15:30:22.382 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:31:21.119 NotebookApp] Saving file at /hydr_confinement/TunnelGIS.ipynb
+[I 15:31:51.630 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[W 15:45:34.344 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 15:45:44.003 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 15:45:46.306 NotebookApp] WebSocket ping timeout after 119926 ms.
+[W 15:45:52.384 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 15:48:40.050 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.30ms referer=None
+[W 15:57:13.251 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.13ms referer=None
+[W 17:12:32.336 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.70ms referer=None
+[I 17:57:57.697 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 17:58:07.718 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 17:58:10.674 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 17:58:16.714 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 19:06:00.450 NotebookApp] 302 GET / (60.191.38.77) 0.83ms
+[W 19:17:40.827 NotebookApp] 404 GET /manager/html (58.218.213.45) 5.38ms referer=None
+[I 19:31:20.875 NotebookApp] 302 GET / (196.52.43.65) 0.63ms
+[W 19:42:57.848 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.09ms referer=None
+[W 20:15:56.546 NotebookApp] 404 GET http://www.baidu.com/favicon.ico (123.59.138.248) 1.78ms referer=None
+[I 20:34:35.249 NotebookApp] 302 GET / (58.218.201.57) 0.63ms
+[I 20:34:35.539 NotebookApp] 302 GET /tree? (58.218.201.57) 1.27ms
+[W 20:34:36.121 NotebookApp] 404 GET /index.action (58.218.201.57) 2.11ms referer=None
+[W 21:04:57.699 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 21:05:07.720 NotebookApp] WebSocket ping timeout after 119791 ms.
+[W 21:05:10.676 NotebookApp] WebSocket ping timeout after 119880 ms.
+[W 21:05:16.716 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 21:17:39.269 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.25ms referer=None
+[W 21:22:26.643 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.27ms referer=None
+[W 21:44:50.672 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 2.01ms referer=None
+[W 22:35:05.028 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 3.69ms referer=None
+[W 00:23:08.975 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 3.64ms referer=None
+[W 00:37:47.405 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 3.78ms referer=None
+[W 02:09:17.658 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (190.104.25.18) 2.07ms referer=None
+[W 02:09:18.045 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (190.104.25.18) 2.74ms referer=None
+[W 02:09:18.240 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (190.104.25.18) 2.08ms referer=None
+[W 02:09:21.625 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (190.104.25.18) 1.79ms referer=None
+[W 02:09:21.818 NotebookApp] 404 GET /pma/scripts/setup.php (190.104.25.18) 1.59ms referer=None
+[W 02:09:22.214 NotebookApp] 404 GET /pma/scripts/setup.php (190.104.25.18) 1.66ms referer=None
+[W 02:09:22.407 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (190.104.25.18) 1.68ms referer=None
+[W 02:09:25.800 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (190.104.25.18) 1.86ms referer=None
+[W 02:09:25.994 NotebookApp] 404 GET /mysql/scripts/setup.php (190.104.25.18) 1.69ms referer=None
+[W 02:09:26.385 NotebookApp] 404 GET /mysql/scripts/setup.php (190.104.25.18) 1.76ms referer=None
+[W 02:09:26.607 NotebookApp] 404 GET /dbadmin/scripts/setup.php (190.104.25.18) 1.52ms referer=None
+[W 02:09:29.962 NotebookApp] 404 GET /dbadmin/scripts/setup.php (190.104.25.18) 1.59ms referer=None
+[W 02:09:30.189 NotebookApp] 404 GET /admin/scripts/setup.php (190.104.25.18) 1.82ms referer=None
+[W 02:09:30.543 NotebookApp] 404 GET /admin/scripts/setup.php (190.104.25.18) 1.95ms referer=None
+[W 02:09:30.832 NotebookApp] 404 GET /phpMyAdmin/_scripts/setup.php (190.104.25.18) 1.90ms referer=None
+[W 02:09:31.145 NotebookApp] 404 GET /phpMyAdmin/_scripts/setup.php (190.104.25.18) 1.85ms referer=None
+[W 02:09:31.421 NotebookApp] 404 GET /phpmyadmin/_scripts/setup.php (190.104.25.18) 1.58ms referer=None
+[W 02:09:34.741 NotebookApp] 404 GET /phpmyadmin/_scripts/setup.php (190.104.25.18) 1.54ms referer=None
+[W 02:09:35.001 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (190.104.25.18) 1.50ms referer=None
+[W 02:09:35.325 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (190.104.25.18) 1.75ms referer=None
+[W 02:09:35.597 NotebookApp] 404 GET /phpMyAdmin1/scripts/setup.php (190.104.25.18) 2.10ms referer=None
+[W 02:09:35.904 NotebookApp] 404 GET /phpMyAdmin1/scripts/setup.php (190.104.25.18) 1.44ms referer=None
+[W 02:09:39.185 NotebookApp] 404 GET /scripts/setup.php (190.104.25.18) 1.59ms referer=None
+[W 02:09:39.485 NotebookApp] 404 GET /scripts/setup.php (190.104.25.18) 2.00ms referer=None
+[W 02:09:39.769 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (190.104.25.18) 1.61ms referer=None
+[W 02:09:40.069 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (190.104.25.18) 1.78ms referer=None
+[W 03:17:25.164 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 5.31ms referer=None
+[W 03:20:02.983 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.99ms referer=None
+[I 03:32:59.952 NotebookApp] 302 GET / (202.91.248.171) 0.61ms
+[I 03:33:00.252 NotebookApp] 302 GET /tree? (202.91.248.171) 1.08ms
+[W 03:40:14.481 NotebookApp] 404 GET http://www.facebook.com (212.47.227.163) 2.44ms referer=None
+[W 04:04:17.273 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.09ms referer=None
+[I 04:49:41.573 NotebookApp] 302 GET / (80.82.77.33) 0.70ms
+[I 04:49:42.247 NotebookApp] 302 GET /tree (80.82.77.33) 0.87ms
+[I 05:25:24.261 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 05:25:34.182 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 05:25:37.172 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 05:25:43.239 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[W 05:45:24.268 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 05:45:34.184 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 05:45:37.173 NotebookApp] WebSocket ping timeout after 119828 ms.
+[W 05:45:43.240 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 05:46:17.261 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.66ms referer=None
+[W 06:07:53.289 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 2.14ms referer=None
+[W 07:04:01.898 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.00ms referer=None
+[W 07:19:13.218 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.94ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/tunnel_settlements_gis.ipynb
+[I 07:19:14.516 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 07:20:47.435 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 07:20:57.443 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 07:21:00.385 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 07:21:06.423 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[W 07:21:31.282 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.68ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.ipynb
+[I 07:21:31.865 NotebookApp] Kernel started: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 07:21:32.675 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[W 07:21:35.028 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.41ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement.work.ipynb
+[I 07:21:35.949 NotebookApp] Kernel started: acae1b3a-0c0d-4602-809f-82c0446b8308
+[I 07:21:36.623 NotebookApp] Adapting to protocol v5.1 for kernel acae1b3a-0c0d-4602-809f-82c0446b8308
+[I 07:22:42.538 NotebookApp] Copying geotech_calc/Settlement-Lea.ipynb to /geotech_calc
+[W 07:22:43.483 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.84ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea-Copy1.ipynb
+[I 07:22:43.773 NotebookApp] Kernel started: a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 07:22:44.642 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 07:31:06.276 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:39:53.648 NotebookApp] Kernel restarted: 80943118-d302-4821-8658-0736f8ce89a9
+[I 07:39:54.909 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 07:40:13.953 NotebookApp] Saving file at /hydr_confinement/tunnel_settlements_gis.ipynb
+[I 07:42:23.364 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 07:42:24.122 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 07:43:31.765 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:44:04.850 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:45:30.258 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:45:59.530 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 07:46:00.846 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 07:46:15.090 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:47:16.319 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:47:31.764 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:58:18.833 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:58:33.779 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 07:59:31.772 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:00:27.467 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:00:57.287 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:01:31.765 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:01:56.301 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:02:11.060 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:02:59.658 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:03:14.393 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:03:31.773 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:03:36.210 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 08:04:44.119 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 1.71ms referer=None
+[I 08:05:21.886 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:05:51.023 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:06:27.354 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:07:26.675 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:07:31.840 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:09:32.040 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:11:00.474 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:11:06.662 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 08:11:07.518 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 08:11:32.101 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:12:33.321 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:12:34.494 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:13:10.830 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:13:19.613 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:14:03.876 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:14:11.429 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:14:32.595 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:14:47.287 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:15:18.806 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:15:54.011 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:16:11.193 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:21:17.638 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:21:31.780 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:21:37.639 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:22:32.341 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:23:05.219 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 08:23:12.920 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 2.20ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.ipynb
+[I 08:23:13.926 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 08:25:13.776 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:25:16.642 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:25:58.737 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:26:08.594 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:27:49.709 NotebookApp] 302 GET / (185.46.214.71) 0.52ms
+[W 08:28:06.139 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.47ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.ipynb
+[I 08:28:08.481 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[W 08:36:08.034 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 1.86ms referer=None
+[W 08:40:49.735 NotebookApp] 404 GET /manager/html (59.48.91.154) 1.90ms referer=None
+[I 08:42:31.385 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:43:13.749 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:47:39.840 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:48:42.384 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:49:13.773 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:54:25.854 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:55:49.089 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:58:37.211 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:59:13.778 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 08:59:32.528 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:00:02.130 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:01:13.799 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:03:13.765 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:03:42.034 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:05:13.919 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:06:02.951 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 09:34:44.492 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (185.46.214.71) 1.83ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.ipynb
+[I 09:34:47.076 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 09:38:42.346 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:42:39.981 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:45:11.903 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:46:46.390 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:47:13.777 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:49:06.706 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:49:13.762 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:57:36.624 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:58:05.622 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:58:17.648 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:58:20.699 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:01.623 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:13.970 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:18.731 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:22.184 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:28.101 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 09:59:37.817 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 10:15:06.424 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 10:15:13.927 NotebookApp] WebSocket ping timeout after 119946 ms.
+[W 10:15:24.910 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 10:15:27.444 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 10:15:30.387 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 10:18:28.043 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 10:18:34.803 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 10:18:46.023 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 10:18:48.824 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 10:18:51.782 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[W 10:22:32.326 NotebookApp] Replacing stale connection: 2cd202bf-e75c-43a1-92b9-fb2f3e937601:46337A1C607C4B208E362E2CC848242F
+[I 10:22:37.330 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[W 10:26:37.332 NotebookApp] WebSocket ping timeout after 119981 ms.
+[I 10:32:54.347 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[W 10:36:54.348 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 11:15:28.045 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 11:15:34.805 NotebookApp] WebSocket ping timeout after 119921 ms.
+[W 11:15:46.025 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 11:15:48.826 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 11:15:51.783 NotebookApp] WebSocket ping timeout after 119979 ms.
+[I 11:18:17.729 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 11:18:20.766 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 11:18:23.718 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 11:18:44.866 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 11:18:51.732 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:27:38.941 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:28:56.677 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:29:16.181 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:29:48.567 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:31:48.741 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:32:04.940 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:32:06.435 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:32:41.780 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:33:18.013 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:35:46.598 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:35:47.440 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:35:48.046 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:36:22.001 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:37:48.468 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:38:20.739 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:39:24.173 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:39:48.525 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:39:51.392 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:40:05.805 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:40:09.301 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:40:10.754 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:40:43.741 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:40:57.049 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:41:03.512 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:41:04.338 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:41:39.330 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:41:43.655 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:41:44.539 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:41:47.826 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:42:45.492 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:43:35.068 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:43:48.740 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:45:05.389 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:47:00.358 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:47:15.543 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:47:49.009 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:47:56.028 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:49:48.785 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:50:07.331 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:51:19.358 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:51:27.358 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:51:28.161 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:51:48.131 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:52:16.067 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:52:27.867 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:52:28.690 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:53:08.096 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:53:15.318 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:53:16.095 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 11:53:48.470 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:55:13.093 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:55:48.366 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:56:36.275 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:59:14.752 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:59:39.375 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 11:59:57.393 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:00:45.174 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:01:48.226 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:02:16.666 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:03:48.338 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:04:37.983 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:05:48.235 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:05:50.970 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 12:06:02.132 NotebookApp] 404 GET /manager/html (222.186.21.246) 1.96ms referer=None
+[I 12:09:48.141 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:10:07.836 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:10:28.971 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:11:48.192 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:12:26.981 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:12:28.977 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:13:34.888 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:13:48.133 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:16:02.969 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:17:07.412 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:17:40.039 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:19:48.233 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:20:33.296 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:21:21.144 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:21:48.372 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:23:30.494 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:23:32.074 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:37:48.156 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:39:48.146 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:39:48.687 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:40:41.943 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:40:46.075 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:41:48.263 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:42:00.461 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:42:41.736 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:43:04.622 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:43:44.382 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:45:48.235 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:45:53.961 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 12:47:45.311 NotebookApp] 404 GET http://www.facebook.com (212.47.244.68) 2.11ms referer=None
+[I 12:47:48.301 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 12:55:10.015 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (112.217.110.130) 1.75ms referer=None
+[W 12:55:10.637 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (112.217.110.130) 1.58ms referer=None
+[W 12:55:11.255 NotebookApp] 404 GET /pma/scripts/setup.php (112.217.110.130) 1.63ms referer=None
+[W 12:55:11.873 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (112.217.110.130) 1.74ms referer=None
+[W 12:55:12.490 NotebookApp] 404 GET /mysql/scripts/setup.php (112.217.110.130) 1.69ms referer=None
+[W 12:55:13.081 NotebookApp] 404 GET /dbadmin/scripts/setup.php (112.217.110.130) 1.53ms referer=None
+[W 12:55:13.701 NotebookApp] 404 GET /admin/scripts/setup.php (112.217.110.130) 1.64ms referer=None
+[W 12:55:14.329 NotebookApp] 404 GET /phpMyAdmin/_scripts/setup.php (112.217.110.130) 1.59ms referer=None
+[W 12:55:14.925 NotebookApp] 404 GET /phpmyadmin/_scripts/setup.php (112.217.110.130) 1.56ms referer=None
+[W 12:55:15.518 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (112.217.110.130) 1.56ms referer=None
+[W 12:55:16.145 NotebookApp] 404 GET /phpMyAdmin1/scripts/setup.php (112.217.110.130) 1.56ms referer=None
+[W 12:55:16.804 NotebookApp] 404 GET /scripts/setup.php (112.217.110.130) 1.52ms referer=None
+[W 12:55:17.426 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (112.217.110.130) 1.66ms referer=None
+[I 12:57:36.157 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:57:47.252 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:59:13.090 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 12:59:15.998 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 13:00:01.075 NotebookApp] 404 GET /vendor/phpunit/phpunit/src/Util/Filter.php (66.70.218.233) 1.97ms referer=None
+[W 13:32:14.867 NotebookApp] WebSocket ping timeout after 119802 ms.
+[W 13:32:16.097 NotebookApp] WebSocket ping timeout after 119778 ms.
+[W 13:32:17.730 NotebookApp] WebSocket ping timeout after 119949 ms.
+[W 13:32:20.767 NotebookApp] WebSocket ping timeout after 119959 ms.
+[W 13:32:23.719 NotebookApp] WebSocket ping timeout after 119881 ms.
+[W 14:05:06.646 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.72ms referer=None
+[W 14:32:16.947 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (95.163.18.99) 2.69ms referer=None
+[W 14:32:17.063 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (95.163.18.99) 2.36ms referer=None
+[W 14:32:17.175 NotebookApp] 404 GET /pma/scripts/setup.php (95.163.18.99) 1.76ms referer=None
+[W 14:32:17.287 NotebookApp] 404 GET /PhpMyAdmin/scripts/setup.php (95.163.18.99) 1.61ms referer=None
+[W 14:32:17.400 NotebookApp] 404 GET /mysql/scripts/setup.php (95.163.18.99) 1.61ms referer=None
+[W 14:32:17.510 NotebookApp] 404 GET /dbadmin/scripts/setup.php (95.163.18.99) 1.56ms referer=None
+[W 14:32:17.607 NotebookApp] 404 GET /admin/scripts/setup.php (95.163.18.99) 1.60ms referer=None
+[W 14:32:17.724 NotebookApp] 404 GET /phpMyAdmin/_scripts/setup.php (95.163.18.99) 1.63ms referer=None
+[W 14:32:17.836 NotebookApp] 404 GET /phpmyadmin/_scripts/setup.php (95.163.18.99) 1.51ms referer=None
+[W 14:32:17.951 NotebookApp] 404 GET /phpMyAdmin2/scripts/setup.php (95.163.18.99) 1.96ms referer=None
+[W 14:32:18.064 NotebookApp] 404 GET /phpMyAdmin1/scripts/setup.php (95.163.18.99) 1.43ms referer=None
+[W 14:32:18.174 NotebookApp] 404 GET /scripts/setup.php (95.163.18.99) 1.58ms referer=None
+[W 14:32:18.286 NotebookApp] 404 GET /php-my-admin/scripts/setup.php (95.163.18.99) 1.49ms referer=None
+[I 14:40:01.182 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 14:40:01.983 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 14:40:04.103 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 14:40:07.301 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 14:40:10.090 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 14:41:44.504 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:42:24.933 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:42:48.315 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:44:47.656 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:46:47.594 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:46:57.238 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:47:21.676 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:48:47.651 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:50:54.079 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:52:47.826 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:57:11.508 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 14:58:47.683 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:01:56.283 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:02:42.111 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:02:47.451 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:04:47.573 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:04:54.579 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:06:47.578 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:08:47.639 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:09:16.331 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:10:56.869 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:12:47.554 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:13:03.157 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:14:14.544 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:16:47.454 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:17:57.327 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:18:30.040 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:19:10.900 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:19:18.892 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:20:47.540 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:20:48.764 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:21:18.787 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:22:20.078 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:23:39.736 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:25:17.199 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:25:18.341 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:26:47.509 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:27:26.935 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:28:10.491 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:28:47.854 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:29:11.624 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:29:36.856 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:30:20.739 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:30:47.610 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:32:47.846 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 15:35:32.928 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.20ms referer=None
+[I 15:37:05.065 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:37:18.472 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:37:34.077 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:37:35.012 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:38:02.423 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:39:06.781 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:40:10.733 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:40:12.359 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:40:42.500 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 15:40:51.998 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (46.14.48.6) 1.95ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:40:52.590 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 15:40:59.412 NotebookApp] Kernel restarted: a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 15:41:00.370 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 15:41:39.650 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:42:53.094 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:44:47.633 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:44:49.661 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:45:02.228 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:45:07.490 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:45:08.435 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 15:45:59.275 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:46:47.522 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:46:54.354 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[W 15:47:06.822 NotebookApp] 404 GET http://httpheader.net/ (47.203.94.124) 2.04ms referer=None
+[I 15:47:28.168 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:48:37.241 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:48:53.095 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:49:02.896 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:51:47.364 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:52:23.491 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 15:52:48.413 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 15:52:52.357 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[W 15:55:10.092 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 15:55:30.371 NotebookApp] WebSocket ping timeout after 119917 ms.
+[W 15:55:31.185 NotebookApp] WebSocket ping timeout after 119895 ms.
+[W 15:55:34.105 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 15:55:37.303 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 15:55:38.437 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 16:03:36.150 NotebookApp] 404 GET http://www.facebook.com (163.172.149.131) 2.49ms referer=None
+[I 17:59:03.998 NotebookApp] Adapting to protocol v5.1 for kernel 2f2cb232-cfc6-498b-88d3-60693197245d
+[I 17:59:24.982 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 17:59:25.088 NotebookApp] Adapting to protocol v5.1 for kernel 20f66217-4602-4d8f-8b67-06ca3cb15d07
+[I 17:59:28.238 NotebookApp] Adapting to protocol v5.1 for kernel 80943118-d302-4821-8658-0736f8ce89a9
+[I 17:59:30.998 NotebookApp] Adapting to protocol v5.1 for kernel 9f8e456c-798b-47db-a972-7cf9e7ac89bd
+[I 17:59:33.008 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:25:58.432 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 18:26:24.160 NotebookApp] Kernel restarted: a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 18:26:25.352 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 18:27:02.708 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 18:27:09.639 NotebookApp] Kernel restarted: a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 18:27:10.603 NotebookApp] Adapting to protocol v5.1 for kernel a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 18:27:14.305 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 18:27:42.674 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.2017.11.ipynb
+[I 18:28:04.621 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:29:02.159 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:29:06.498 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:29:07.332 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:29:09.069 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:29:49.168 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:30:01.100 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:30:31.000 NotebookApp] Kernel restarted: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:30:31.940 NotebookApp] Adapting to protocol v5.1 for kernel 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:31:10.288 NotebookApp] Saving file at /geotech_calc/Settlement-Lea.ipynb
+[I 18:31:14.280 NotebookApp] Copying geotech_calc/Settlement-Lea.ipynb to /geotech_calc
+[W 18:31:15.754 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (80.254.184.33) 2.09ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea-Copy1.ipynb
+[I 18:31:18.133 NotebookApp] Kernel started: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:31:19.714 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:32:18.097 NotebookApp] Kernel shutdown: 0aa7d8c4-15c0-4104-856e-468395bf6f76
+[I 18:32:18.405 NotebookApp] Kernel shutdown: a5ce10f5-8f7d-4062-be34-d45ac593fa57
+[I 18:32:18.714 NotebookApp] Kernel shutdown: 2cd202bf-e75c-43a1-92b9-fb2f3e937601
+[I 18:32:19.021 NotebookApp] Kernel shutdown: acae1b3a-0c0d-4602-809f-82c0446b8308
+[I 18:32:19.332 NotebookApp] Kernel shutdown: 2c9fc212-07d6-4dab-81d0-8530975b0816
+[I 18:33:01.515 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:33:19.337 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:33:29.344 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 18:33:37.966 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.81ms referer=None
+[I 18:35:02.254 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:35:19.346 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:36:06.230 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:36:10.038 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:36:11.587 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:37:19.361 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:38:18.802 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:38:36.634 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:39:19.324 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:39:50.147 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:40:19.139 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:40:46.756 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:40:49.792 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:40:50.617 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:41:20.055 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:41:41.650 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:43:20.053 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:44:06.532 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:44:15.851 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:44:19.347 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:44:20.335 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:45:20.027 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:45:43.912 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 18:46:29.174 NotebookApp] 404 GET http://www.facebook.com (163.172.168.251) 2.24ms referer=None
+[I 18:47:14.622 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 18:47:24.884 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (80.254.184.33) 4.28ms referer=http://gis.jkaelin.com:8080/notebooks/geotech_calc/Settlement-Lea.ipynb
+[I 18:47:27.421 NotebookApp] Kernel started: f29a082b-4b04-47d4-abdd-23011aefbd1f
+[I 18:47:29.050 NotebookApp] Adapting to protocol v5.1 for kernel f29a082b-4b04-47d4-abdd-23011aefbd1f
+[I 18:51:07.827 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:53:20.043 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:53:50.272 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:55:06.996 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:55:50.995 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:56:01.889 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:56:20.249 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:56:22.716 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:56:23.618 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:57:08.361 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:57:13.386 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:57:14.276 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:57:21.754 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:58:13.055 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:58:23.133 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:58:24.124 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 18:59:09.593 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 18:59:19.230 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:00:10.131 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:01:19.302 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:03:19.317 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:03:21.918 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:04:36.577 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:05:02.098 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:05:19.286 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:05:55.476 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:06:03.703 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:06:19.141 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:06:19.976 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:07:20.091 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:07:38.322 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:09:20.223 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:11:48.688 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:12:24.933 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:13:14.368 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:15:20.107 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:15:32.189 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:16:30.701 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:16:44.750 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:17:08.073 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:17:51.424 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:18:13.144 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:18:20.721 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:18:22.089 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:19:20.131 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:20:10.473 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 19:20:14.118 NotebookApp] Kernel restarted: 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:20:15.285 NotebookApp] Adapting to protocol v5.1 for kernel 3a9050b6-7fbf-4500-9246-6fae6a29873d
+[I 19:21:20.099 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
