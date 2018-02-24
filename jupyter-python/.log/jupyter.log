@@ -319,3 +319,89 @@
 [I 12:52:20.457 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
 [I 12:52:29.147 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
 [I 12:52:57.202 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 13:03:15.653 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 13:07:51.399 NotebookApp] Adapting to protocol v5.1 for kernel 5d8b5891-f0d9-4aca-83cc-e79fe0ce4c26
+[I 13:08:08.044 NotebookApp] Kernel started: cebddc18-35e4-43ee-af67-f68ada4b080f
+[I 13:08:08.698 NotebookApp] Adapting to protocol v5.1 for kernel cebddc18-35e4-43ee-af67-f68ada4b080f
+[W 13:08:43.948 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (80.254.184.33) 2.52ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement.ipynb
+[I 13:08:53.935 NotebookApp] Kernel started: a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 13:08:54.551 NotebookApp] Kernel started: adb50ade-6175-4378-bbc1-4357154c97f3
+[W 13:08:54.894 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180211164829 (80.254.184.33) 2.16ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 13:08:55.001 NotebookApp] Adapting to protocol v5.1 for kernel a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 13:08:55.814 NotebookApp] Kernel started: 68967a23-248f-4694-86fd-b25d1c356562
+[I 13:08:55.993 NotebookApp] Adapting to protocol v5.1 for kernel adb50ade-6175-4378-bbc1-4357154c97f3
+[I 13:08:56.548 NotebookApp] Adapting to protocol v5.1 for kernel 68967a23-248f-4694-86fd-b25d1c356562
+[W 13:24:38.023 NotebookApp] 404 GET /manager/html (58.218.213.45) 2.35ms referer=None
+[W 13:36:26.146 NotebookApp] 404 GET /egateway/egateway.asmx (195.22.125.51) 2.26ms referer=None
+[W 13:36:26.223 NotebookApp] 404 GET /EGateway/EGateway.asmx (195.22.125.51) 1.60ms referer=None
+[W 13:39:38.700 NotebookApp] WebSocket ping timeout after 119922 ms.
+[W 13:39:51.400 NotebookApp] WebSocket ping timeout after 119924 ms.
+[W 13:39:55.002 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 13:39:55.996 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 13:39:56.553 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 13:52:12.025 NotebookApp] Adapting to protocol v5.1 for kernel cebddc18-35e4-43ee-af67-f68ada4b080f
+[I 13:52:25.787 NotebookApp] Adapting to protocol v5.1 for kernel 5d8b5891-f0d9-4aca-83cc-e79fe0ce4c26
+[I 13:52:28.974 NotebookApp] Adapting to protocol v5.1 for kernel a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 13:52:30.117 NotebookApp] Adapting to protocol v5.1 for kernel adb50ade-6175-4378-bbc1-4357154c97f3
+[I 13:52:36.970 NotebookApp] Adapting to protocol v5.1 for kernel 68967a23-248f-4694-86fd-b25d1c356562
+[I 13:55:39.834 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:56:50.376 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:57:37.190 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:57:41.491 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:58:32.689 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:59:10.842 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 13:59:18.848 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:01:27.765 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:01:48.699 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:01:53.338 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:02:09.887 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:02:33.881 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:05:10.401 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:05:39.416 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:05:43.807 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:06:04.392 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:07:53.360 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:08:11.310 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:08:22.815 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:10:23.841 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:10:46.933 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:11:11.355 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 14:11:27.750 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.74ms referer=None
+[I 14:11:28.024 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:13:51.792 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:25:40.256 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[I 14:26:59.642 NotebookApp] Saving file at /geotech_calc/tunnel_settlement.ipynb
+[W 14:29:22.825 NotebookApp] 404 GET /manager/html (58.218.213.45) 1.94ms referer=None
+[W 15:00:28.975 NotebookApp] WebSocket ping timeout after 119859 ms.
+[W 15:00:30.119 NotebookApp] WebSocket ping timeout after 119876 ms.
+[W 15:00:36.971 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 15:00:42.027 NotebookApp] WebSocket ping timeout after 119908 ms.
+[W 15:00:55.789 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 15:37:50.006 NotebookApp] Adapting to protocol v5.1 for kernel a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 15:37:51.002 NotebookApp] Adapting to protocol v5.1 for kernel adb50ade-6175-4378-bbc1-4357154c97f3
+[I 15:37:58.974 NotebookApp] Adapting to protocol v5.1 for kernel 68967a23-248f-4694-86fd-b25d1c356562
+[I 15:38:02.940 NotebookApp] Adapting to protocol v5.1 for kernel cebddc18-35e4-43ee-af67-f68ada4b080f
+[I 15:38:16.958 NotebookApp] Adapting to protocol v5.1 for kernel 5d8b5891-f0d9-4aca-83cc-e79fe0ce4c26
+[W 16:03:00.257 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 3.11ms referer=None
+[W 16:26:16.960 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 16:26:20.008 NotebookApp] WebSocket ping timeout after 119884 ms.
+[W 16:26:21.003 NotebookApp] WebSocket ping timeout after 119958 ms.
+[W 16:26:28.975 NotebookApp] WebSocket ping timeout after 119943 ms.
+[W 16:26:32.941 NotebookApp] WebSocket ping timeout after 119915 ms.
+[I 16:30:18.661 NotebookApp] Adapting to protocol v5.1 for kernel 5d8b5891-f0d9-4aca-83cc-e79fe0ce4c26
+[I 16:30:21.088 NotebookApp] Adapting to protocol v5.1 for kernel a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 16:30:22.086 NotebookApp] Adapting to protocol v5.1 for kernel adb50ade-6175-4378-bbc1-4357154c97f3
+[I 16:30:30.081 NotebookApp] Adapting to protocol v5.1 for kernel 68967a23-248f-4694-86fd-b25d1c356562
+[I 16:30:34.071 NotebookApp] Adapting to protocol v5.1 for kernel cebddc18-35e4-43ee-af67-f68ada4b080f
+[W 17:23:32.967 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 3.25ms referer=None
+[W 17:28:48.663 NotebookApp] WebSocket ping timeout after 119866 ms.
+[W 17:28:51.089 NotebookApp] WebSocket ping timeout after 119835 ms.
+[W 17:28:51.568 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.81ms referer=None
+[W 17:28:52.087 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 17:29:00.082 NotebookApp] WebSocket ping timeout after 119816 ms.
+[W 17:29:04.073 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 17:34:22.400 NotebookApp] Adapting to protocol v5.1 for kernel 5d8b5891-f0d9-4aca-83cc-e79fe0ce4c26
+[I 17:34:26.384 NotebookApp] Adapting to protocol v5.1 for kernel a235f4db-d1ae-4813-bf6c-50ba15c76b5c
+[I 17:34:26.456 NotebookApp] Adapting to protocol v5.1 for kernel adb50ade-6175-4378-bbc1-4357154c97f3
+[I 17:34:34.377 NotebookApp] Adapting to protocol v5.1 for kernel 68967a23-248f-4694-86fd-b25d1c356562
+[I 17:34:38.385 NotebookApp] Adapting to protocol v5.1 for kernel cebddc18-35e4-43ee-af67-f68ada4b080f
