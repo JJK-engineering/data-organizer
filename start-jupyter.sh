@@ -10,4 +10,4 @@ export PYTHONPATH=/home/kaelin_joseph/DataOrganizer/lib/python:$PYTHONPATH
 # "=1.0" is for GIS platform on Google Cloud Compute Engine
 export DISPLAY=:1.0  #jupyter kernel keeps dying without this ??
 
-nohup jupyter notebook --notebook-dir=/home/kaelin_joseph/DataOrganizer/jupyter-python/ --port 8080 --ip=0.0.0.0 --no-browser   > /home/kaelin_joseph/DataOrganizer/jupyter-python/.log/jupyter.log 2>&1 &
+nohup jupyter notebook --notebook-dir=/home/kaelin_joseph/DataOrganizer/jupyter-python/ --port 8080 --ip=0.0.0.0 --NotebookApp.iopub_data_rate_limit=10000000000 --no-browser  > /home/kaelin_joseph/DataOrganizer/jupyter-python/.log/jupyter.log 2>&1 &
