@@ -1,30 +1,1158 @@
-[I 19:44:34.689 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
-[I 19:44:38.185 NotebookApp] Serving notebooks from local directory: /home/kaelin_joseph/DataOrganizer/jupyter-python
-[I 19:44:38.185 NotebookApp] 0 active kernels 
-[I 19:44:38.185 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8080/
-[I 19:44:38.185 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 19:45:02.196 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:02.702 NotebookApp] 403 GET /api/kernels/55bb30a6-cf5e-43a3-97e1-ae4323a8b355/channels?session_id=30A26A8876A4459EAE0EAD1E3F990CFF (80.254.184.33) 507.54ms referer=None
-[W 19:45:05.200 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:05.206 NotebookApp] 403 GET /api/kernels/795313b6-fc82-4a47-9631-0cd5e0c09f27/channels?session_id=A657ED06B7ED468783BAA20846E5D02E (80.254.184.33) 10.45ms referer=None
-[W 19:45:05.269 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:05.275 NotebookApp] 403 GET /api/kernels/ad21ab2f-69ad-4b25-b857-ebd4c1d365ff/channels?session_id=E7306D20435246CC88B39C7313B22FB2 (80.254.184.33) 8.06ms referer=None
-[W 19:45:08.191 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:08.193 NotebookApp] 403 GET /api/kernels/7280d8db-5bc4-4243-ae33-8aa38ab591ac/channels?session_id=D044A21534BC458C8F2170C73D2E1C56 (80.254.184.33) 3.58ms referer=None
-[W 19:45:09.192 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:09.196 NotebookApp] 403 GET /api/kernels/edb44238-b916-4128-86bf-ed0154ddb840/channels?session_id=63F913DD2A4B48D987B3AB2F256C684F (80.254.184.33) 5.63ms referer=None
-[W 19:45:09.260 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:09.262 NotebookApp] 403 GET /api/kernels/46bb404b-4742-4e76-a6b9-0554dbfdf300/channels?session_id=F9E55B5D0C3B4BA48727B8E7DF077D3E (80.254.184.33) 3.40ms referer=None
-[W 19:45:10.867 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:10.869 NotebookApp] 403 GET /api/kernels/12290041-850c-4c93-a6ed-591e4be78036/channels?session_id=1F96A03E47BD42D39F67A6E5EC739BA6 (80.254.184.33) 4.96ms referer=None
-[W 19:45:11.203 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:11.205 NotebookApp] 403 GET /api/kernels/078dc297-9698-4afb-a85c-01bfdc407398/channels?session_id=A9F2BEB67D65464F82D8123AFA1AE64F (80.254.184.33) 3.28ms referer=None
-[W 19:45:16.204 NotebookApp] Couldn't authenticate WebSocket connection
-[W 19:45:16.206 NotebookApp] 403 GET /api/kernels/b8620b45-028c-4799-95bf-b667d3707ab5/channels?session_id=4D7F9FA28D5C4D8E8EBD3D4144CF0477 (80.254.184.33) 3.25ms referer=None
-[I 19:45:40.454 NotebookApp] 302 GET / (168.232.44.30) 0.46ms
-[I 19:45:41.008 NotebookApp] 302 GET / (168.232.44.30) 0.40ms
-[I 19:45:41.568 NotebookApp] 302 GET / (168.232.44.30) 0.43ms
-[I 19:45:42.112 NotebookApp] 302 GET / (168.232.44.30) 0.46ms
-[W 19:45:42.689 NotebookApp] 404 GET /cgi-bin/index.cgi (168.232.44.30) 35.26ms referer=None
-[W 19:45:43.265 NotebookApp] 404 GET /Diagnostics.asp (168.232.44.30) 1.42ms referer=None
-[W 19:50:37.064 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.34ms referer=None
+[I 09:37:17.693 NotebookApp] Serving notebooks from local directory: /home/kaelin_joseph/DataOrganizer/jupyter-python
+[I 09:37:17.693 NotebookApp] 0 active kernels 
+[I 09:37:17.693 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8080/
+[I 09:37:17.694 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 09:37:18.018 NotebookApp] 404 GET /api/kernels/e1eb7639-5160-49db-ad3c-9b5a519f5260/channels?session_id=9DE5DC65495549B18E3F44B3342F4ED3 (185.46.214.71): Kernel does not exist: e1eb7639-5160-49db-ad3c-9b5a519f5260
+[W 09:37:18.082 NotebookApp] 404 GET /api/kernels/e1eb7639-5160-49db-ad3c-9b5a519f5260/channels?session_id=9DE5DC65495549B18E3F44B3342F4ED3 (185.46.214.71) 148.67ms referer=None
+[W 09:37:18.085 NotebookApp] 404 GET /api/kernels/42593bc0-7960-4a3f-9515-3e409e26af8b/channels?session_id=8BDBEAE0629E4149B19D642F342CC659 (80.254.184.33): Kernel does not exist: 42593bc0-7960-4a3f-9515-3e409e26af8b
+[W 09:37:18.086 NotebookApp] 404 GET /api/kernels/42593bc0-7960-4a3f-9515-3e409e26af8b/channels?session_id=8BDBEAE0629E4149B19D642F342CC659 (80.254.184.33) 2.76ms referer=None
+[W 09:37:18.157 NotebookApp] 404 GET /api/kernels/a844ce22-9632-4d53-b678-5788b84cbe9b/channels?session_id=5927B80BB7F6493F9A5EECF9606469E8 (80.254.184.33): Kernel does not exist: a844ce22-9632-4d53-b678-5788b84cbe9b
+[W 09:37:18.158 NotebookApp] 404 GET /api/kernels/a844ce22-9632-4d53-b678-5788b84cbe9b/channels?session_id=5927B80BB7F6493F9A5EECF9606469E8 (80.254.184.33) 3.11ms referer=None
+[W 09:37:18.194 NotebookApp] 404 GET /api/kernels/8b04bcc7-061a-48ea-8942-3ed8cf63d3ad/channels?session_id=18E4E492278041338ABAD6083B6A4614 (185.46.214.71): Kernel does not exist: 8b04bcc7-061a-48ea-8942-3ed8cf63d3ad
+[W 09:37:18.195 NotebookApp] 404 GET /api/kernels/8b04bcc7-061a-48ea-8942-3ed8cf63d3ad/channels?session_id=18E4E492278041338ABAD6083B6A4614 (185.46.214.71) 3.49ms referer=None
+[W 09:37:18.231 NotebookApp] 404 GET /api/kernels/8b04bcc7-061a-48ea-8942-3ed8cf63d3ad/channels?session_id=657C497082A249D282BBEB4BF4E7C8CF (80.254.184.33): Kernel does not exist: 8b04bcc7-061a-48ea-8942-3ed8cf63d3ad
+[W 09:37:18.232 NotebookApp] 404 GET /api/kernels/8b04bcc7-061a-48ea-8942-3ed8cf63d3ad/channels?session_id=657C497082A249D282BBEB4BF4E7C8CF (80.254.184.33) 3.43ms referer=None
+[W 09:37:18.303 NotebookApp] 404 GET /api/kernels/7318cd06-6879-4186-a766-666b02e2c8b5/channels?session_id=AA7B25A0DF354D29B44A318AB506801C (80.254.184.33): Kernel does not exist: 7318cd06-6879-4186-a766-666b02e2c8b5
+[W 09:37:18.304 NotebookApp] 404 GET /api/kernels/7318cd06-6879-4186-a766-666b02e2c8b5/channels?session_id=AA7B25A0DF354D29B44A318AB506801C (80.254.184.33) 3.35ms referer=None
+[W 09:37:18.373 NotebookApp] 404 GET /api/kernels/e1eb7639-5160-49db-ad3c-9b5a519f5260/channels?session_id=906FFFB163B4433499E7C136A271E99A (80.254.184.33): Kernel does not exist: e1eb7639-5160-49db-ad3c-9b5a519f5260
+[W 09:37:18.374 NotebookApp] 404 GET /api/kernels/e1eb7639-5160-49db-ad3c-9b5a519f5260/channels?session_id=906FFFB163B4433499E7C136A271E99A (80.254.184.33) 3.18ms referer=None
+[W 09:37:18.447 NotebookApp] 404 GET /api/kernels/7aa68e76-5e6a-43fd-ab59-4098598eafd9/channels?session_id=DB3275A13D2F4D548FDDC8C47266A9BB (80.254.184.33): Kernel does not exist: 7aa68e76-5e6a-43fd-ab59-4098598eafd9
+[W 09:37:18.448 NotebookApp] 404 GET /api/kernels/7aa68e76-5e6a-43fd-ab59-4098598eafd9/channels?session_id=DB3275A13D2F4D548FDDC8C47266A9BB (80.254.184.33) 3.84ms referer=None
+[W 09:37:18.519 NotebookApp] 404 GET /api/kernels/09b91fb0-27c4-476a-bb9a-99b97335c46a/channels?session_id=4F51034C624B44648C64DABAE72B820E (80.254.184.33): Kernel does not exist: 09b91fb0-27c4-476a-bb9a-99b97335c46a
+[W 09:37:18.520 NotebookApp] 404 GET /api/kernels/09b91fb0-27c4-476a-bb9a-99b97335c46a/channels?session_id=4F51034C624B44648C64DABAE72B820E (80.254.184.33) 3.14ms referer=None
+[W 09:37:20.090 NotebookApp] 404 GET /api/kernels/a17cf78a-96fb-45ca-8ac5-fb0630e5ee09/channels?session_id=0CB9081332B14D21BC79D0087DEBA216 (80.254.184.33): Kernel does not exist: a17cf78a-96fb-45ca-8ac5-fb0630e5ee09
+[W 09:37:20.091 NotebookApp] 404 GET /api/kernels/a17cf78a-96fb-45ca-8ac5-fb0630e5ee09/channels?session_id=0CB9081332B14D21BC79D0087DEBA216 (80.254.184.33) 3.51ms referer=None
+[W 09:37:24.080 NotebookApp] 404 GET /api/kernels/2ea2ddef-3da2-404e-9f86-714940bea184/channels?session_id=7662222CC03B400D8DB85852AF1B44D9 (80.254.184.33): Kernel does not exist: 2ea2ddef-3da2-404e-9f86-714940bea184
+[W 09:37:24.081 NotebookApp] 404 GET /api/kernels/2ea2ddef-3da2-404e-9f86-714940bea184/channels?session_id=7662222CC03B400D8DB85852AF1B44D9 (80.254.184.33) 3.78ms referer=None
+[W 09:37:25.094 NotebookApp] 404 GET /api/kernels/1108fc74-efa3-4cc5-9895-cea90b75cb04/channels?session_id=B158F43F2A35495D8A04E746D08A5B46 (80.254.184.33): Kernel does not exist: 1108fc74-efa3-4cc5-9895-cea90b75cb04
+[W 09:37:25.095 NotebookApp] 404 GET /api/kernels/1108fc74-efa3-4cc5-9895-cea90b75cb04/channels?session_id=B158F43F2A35495D8A04E746D08A5B46 (80.254.184.33) 3.42ms referer=None
+[W 09:37:30.372 NotebookApp] 404 GET /api/kernels/6cab6f40-e9ea-4c8b-a5fb-c8af5b67c257/channels?session_id=9D17B8233EF0448A8E2A177A680DB86D (80.254.184.33): Kernel does not exist: 6cab6f40-e9ea-4c8b-a5fb-c8af5b67c257
+[W 09:37:30.373 NotebookApp] 404 GET /api/kernels/6cab6f40-e9ea-4c8b-a5fb-c8af5b67c257/channels?session_id=9D17B8233EF0448A8E2A177A680DB86D (80.254.184.33) 3.35ms referer=None
+[W 09:37:30.629 NotebookApp] 404 GET /api/kernels/a844ce22-9632-4d53-b678-5788b84cbe9b/channels?session_id=C98D4285BEA74171BDBE2E90707C1BDF (185.46.214.71): Kernel does not exist: a844ce22-9632-4d53-b678-5788b84cbe9b
+[W 09:37:30.631 NotebookApp] 404 GET /api/kernels/a844ce22-9632-4d53-b678-5788b84cbe9b/channels?session_id=C98D4285BEA74171BDBE2E90707C1BDF (185.46.214.71) 3.27ms referer=None
+[E 09:37:32.820 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: 6cab6f40-e9ea-4c8b-a5fb-c8af5b67c257)
+[E 09:37:32.821 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10452.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1525378794|29:username-gis-jkaelin-com-8080|44:NTU4ZWYzOTI2MmUxNGM0YWE2ZDc4MzIyZjM1YTU0YWY=|338e24e863c12685e40f56383a161746bb95cf3e26b77f7683bcd9a0a5baf950\""
+    }
+[E 09:37:32.821 NotebookApp] 500 POST /api/kernels/6cab6f40-e9ea-4c8b-a5fb-c8af5b67c257/restart (80.254.184.33) 1.20ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[W 09:37:32.916 NotebookApp] Session not found: session_id=u'7ef23e72-bc0e-40e1-ae71-274a88be1245'
+[W 09:37:32.917 NotebookApp] 404 DELETE /api/sessions/7ef23e72-bc0e-40e1-ae71-274a88be1245 (80.254.184.33) 56.27ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[I 09:37:33.036 NotebookApp] Kernel started: 68415486-0f36-4eff-8e9c-00e17f85ef42
+[I 09:37:33.663 NotebookApp] Adapting to protocol v5.1 for kernel 68415486-0f36-4eff-8e9c-00e17f85ef42
+[W 09:37:34.710 NotebookApp] Replacing stale connection: e1eb7639-5160-49db-ad3c-9b5a519f5260:9DE5DC65495549B18E3F44B3342F4ED3
+[W 09:37:34.713 NotebookApp] Replacing stale connection: 8b04bcc7-061a-48ea-8942-3ed8cf63d3ad:18E4E492278041338ABAD6083B6A4614
+[W 09:37:35.080 NotebookApp] Replacing stale connection: 7aa68e76-5e6a-43fd-ab59-4098598eafd9:DB3275A13D2F4D548FDDC8C47266A9BB
+[W 09:38:02.737 NotebookApp] Replacing stale connection: a844ce22-9632-4d53-b678-5788b84cbe9b:C98D4285BEA74171BDBE2E90707C1BDF
+[I 09:39:55.868 NotebookApp] 302 GET / (80.254.184.33) 0.57ms
+[I 09:40:05.717 NotebookApp] Creating new notebook in 
+[W 09:40:09.703 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 69.92ms referer=http://gis.jkaelin.com:8080/notebooks/Untitled.ipynb?kernel_name=python3
+[I 09:40:09.915 NotebookApp] Kernel started: 6c858472-3fba-4d76-a6f4-4003dd4ad43f
+[I 09:41:03.734 NotebookApp] 302 GET / (80.254.184.33) 0.52ms
+[W 09:41:35.075 NotebookApp] Replacing stale connection: a17cf78a-96fb-45ca-8ac5-fb0630e5ee09:0CB9081332B14D21BC79D0087DEBA216
+[W 09:41:37.069 NotebookApp] Replacing stale connection: 2ea2ddef-3da2-404e-9f86-714940bea184:7662222CC03B400D8DB85852AF1B44D9
+[W 09:41:41.067 NotebookApp] Replacing stale connection: 1108fc74-efa3-4cc5-9895-cea90b75cb04:B158F43F2A35495D8A04E746D08A5B46
+[I 09:41:42.067 NotebookApp] Adapting to protocol v5.1 for kernel 68415486-0f36-4eff-8e9c-00e17f85ef42
+[W 09:42:07.725 NotebookApp] Replacing stale connection: e1eb7639-5160-49db-ad3c-9b5a519f5260:9DE5DC65495549B18E3F44B3342F4ED3
+[W 09:42:07.727 NotebookApp] Replacing stale connection: 8b04bcc7-061a-48ea-8942-3ed8cf63d3ad:18E4E492278041338ABAD6083B6A4614
+[W 09:42:09.115 NotebookApp] Replacing stale connection: a844ce22-9632-4d53-b678-5788b84cbe9b:5927B80BB7F6493F9A5EECF9606469E8
+[I 09:42:38.446 NotebookApp] Creating new notebook in /data_analysis
+[W 09:42:39.065 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.65ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/Untitled.ipynb?kernel_name=python3
+[I 09:42:39.164 NotebookApp] Kernel started: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:43:14.660 NotebookApp] Saving file at /data_analysis/Untitled.ipynb
+[I 09:44:40.101 NotebookApp] Saving file at /data_analysis/learn_pvlib.ipynb
+[I 09:45:17.395 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 09:46:08.105 NotebookApp] Replacing stale connection: a17cf78a-96fb-45ca-8ac5-fb0630e5ee09:0CB9081332B14D21BC79D0087DEBA216
+[W 09:46:10.071 NotebookApp] Replacing stale connection: 2ea2ddef-3da2-404e-9f86-714940bea184:7662222CC03B400D8DB85852AF1B44D9
+[W 09:46:13.073 NotebookApp] Replacing stale connection: 1108fc74-efa3-4cc5-9895-cea90b75cb04:B158F43F2A35495D8A04E746D08A5B46
+[I 09:46:15.067 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[W 09:46:28.723 NotebookApp] Replacing stale connection: a844ce22-9632-4d53-b678-5788b84cbe9b:C98D4285BEA74171BDBE2E90707C1BDF
+[I 09:46:39.242 NotebookApp] Saving file at /data_analysis/learn_pvlib.ipynb
+[I 09:46:47.092 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:46:47.895 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[W 09:47:06.190 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.05ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 09:47:06.611 NotebookApp] Kernel started: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 09:47:07.833 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[W 09:47:12.754 NotebookApp] Replacing stale connection: e1eb7639-5160-49db-ad3c-9b5a519f5260:9DE5DC65495549B18E3F44B3342F4ED3
+[W 09:47:12.758 NotebookApp] Replacing stale connection: 8b04bcc7-061a-48ea-8942-3ed8cf63d3ad:18E4E492278041338ABAD6083B6A4614
+[W 09:47:14.170 NotebookApp] Replacing stale connection: 42593bc0-7960-4a3f-9515-3e409e26af8b:8BDBEAE0629E4149B19D642F342CC659
+[I 09:47:34.685 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 09:47:55.598 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 09:48:24.507 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[W 09:48:26.239 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.78ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 09:48:31.546 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 09:48:40.103 NotebookApp] Saving file at /data_analysis/learn_pvlib.ipynb
+[E 09:49:07.638 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: 7aa68e76-5e6a-43fd-ab59-4098598eafd9)
+[E 09:49:07.639 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10452.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunPowerhouseDataAnalysis.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1525378794|29:username-gis-jkaelin-com-8080|44:NTU4ZWYzOTI2MmUxNGM0YWE2ZDc4MzIyZjM1YTU0YWY=|338e24e863c12685e40f56383a161746bb95cf3e26b77f7683bcd9a0a5baf950\""
+    }
+[E 09:49:07.639 NotebookApp] 500 POST /api/kernels/7aa68e76-5e6a-43fd-ab59-4098598eafd9/restart (80.254.184.33) 1.65ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunPowerhouseDataAnalysis.ipynb
+[W 09:49:07.682 NotebookApp] Session not found: session_id=u'4f7ff367-776d-4037-8e91-287e57325e39'
+[W 09:49:07.683 NotebookApp] 404 DELETE /api/sessions/4f7ff367-776d-4037-8e91-287e57325e39 (80.254.184.33) 1.77ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunPowerhouseDataAnalysis.ipynb
+[I 09:49:07.735 NotebookApp] Kernel started: 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[W 09:49:27.873 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.74ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunPowerhouseDataAnalysis.ipynb
+[I 09:50:47.995 NotebookApp] Kernel interrupted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 09:50:53.100 NotebookApp] Kernel interrupted: 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[W 09:51:13.175 NotebookApp] Replacing stale connection: a17cf78a-96fb-45ca-8ac5-fb0630e5ee09:0CB9081332B14D21BC79D0087DEBA216
+[W 09:51:15.079 NotebookApp] Replacing stale connection: 2ea2ddef-3da2-404e-9f86-714940bea184:7662222CC03B400D8DB85852AF1B44D9
+[W 09:51:18.067 NotebookApp] Replacing stale connection: 1108fc74-efa3-4cc5-9895-cea90b75cb04:B158F43F2A35495D8A04E746D08A5B46
+[I 09:51:19.085 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[W 09:51:19.155 NotebookApp] Replacing stale connection: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2:41F59A0582794633A6B2BF90B356C541
+[I 09:51:19.182 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 09:51:19.259 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[W 09:51:27.124 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.78ms referer=http://gis.jkaelin.com:8080/notebooks/tunnel_settlements/settlement_trough.ipynb
+[I 09:51:27.816 NotebookApp] Kernel started: 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[W 09:51:27.827 NotebookApp] 404 GET /notebooks/tunnel_settlements/SettlementTrough.png (80.254.184.33): No such file or directory: tunnel_settlements/SettlementTrough.png
+[W 09:51:27.829 NotebookApp] 404 GET /notebooks/tunnel_settlements/SettlementTrough.png (80.254.184.33) 2.54ms referer=http://gis.jkaelin.com:8080/notebooks/tunnel_settlements/settlement_trough.ipynb
+[I 09:51:28.434 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[I 09:51:42.519 NotebookApp] Kernel restarted: 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[I 09:51:44.580 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[E 09:52:05.788 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: 2ea2ddef-3da2-404e-9f86-714940bea184)
+[E 09:52:05.789 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10452.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/hydro-solar/hydro_solar_scoping.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1525378794|29:username-gis-jkaelin-com-8080|44:NTU4ZWYzOTI2MmUxNGM0YWE2ZDc4MzIyZjM1YTU0YWY=|338e24e863c12685e40f56383a161746bb95cf3e26b77f7683bcd9a0a5baf950\""
+    }
+[E 09:52:05.789 NotebookApp] 500 POST /api/kernels/2ea2ddef-3da2-404e-9f86-714940bea184/restart (80.254.184.33) 1.38ms referer=http://gis.jkaelin.com:8080/notebooks/hydro-solar/hydro_solar_scoping.ipynb
+[W 09:52:05.827 NotebookApp] Session not found: session_id=u'e466aa4f-ab52-4d54-b134-ce9efebb0e2e'
+[W 09:52:05.828 NotebookApp] 404 DELETE /api/sessions/e466aa4f-ab52-4d54-b134-ce9efebb0e2e (80.254.184.33) 1.64ms referer=http://gis.jkaelin.com:8080/notebooks/hydro-solar/hydro_solar_scoping.ipynb
+[I 09:52:05.875 NotebookApp] Kernel started: 35512135-291e-4e12-8dd3-dbf811314907
+[I 09:52:06.444 NotebookApp] Adapting to protocol v5.1 for kernel 35512135-291e-4e12-8dd3-dbf811314907
+[I 09:52:27.149 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[E 09:52:45.946 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 120, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python2.7/dist-packages/notebook/services/kernels/kernelmanager.py", line 199, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: a17cf78a-96fb-45ca-8ac5-fb0630e5ee09)
+[E 09:52:45.947 NotebookApp] {
+      "Origin": "http://gis.jkaelin.com:8080", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.9,de-CH;q=0.8,de;q=0.7", 
+      "Accept-Encoding": "gzip, deflate", 
+      "X-Xsrftoken": "2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528", 
+      "Host": "gis.jkaelin.com:8080", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 10452.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1.r2.ipynb", 
+      "Cookie": "_xsrf=2|86a1dfbf|f06fb9c19bd0e68eabdaa013086df434|1504010528; username-gis-jkaelin-com-8080=\"2|1:0|10:1525378794|29:username-gis-jkaelin-com-8080|44:NTU4ZWYzOTI2MmUxNGM0YWE2ZDc4MzIyZjM1YTU0YWY=|338e24e863c12685e40f56383a161746bb95cf3e26b77f7683bcd9a0a5baf950\""
+    }
+[E 09:52:45.947 NotebookApp] 500 POST /api/kernels/a17cf78a-96fb-45ca-8ac5-fb0630e5ee09/restart (80.254.184.33) 1.51ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1.r2.ipynb
+[W 09:52:46.037 NotebookApp] Session not found: session_id=u'379ead75-0e5b-42f0-9003-ea73899effe8'
+[W 09:52:46.037 NotebookApp] 404 DELETE /api/sessions/379ead75-0e5b-42f0-9003-ea73899effe8 (80.254.184.33) 1.60ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1.r2.ipynb
+[I 09:52:46.090 NotebookApp] Kernel started: 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 09:52:46.698 NotebookApp] Adapting to protocol v5.1 for kernel 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 09:53:11.297 NotebookApp] Kernel restarted: 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 09:53:11.976 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[I 09:53:28.168 NotebookApp] Saving file at /tunnel_settlements/settlement_trough.ipynb
+[I 09:53:28.322 NotebookApp] Saving file at /data_analysis/RogunPowerhouseDataAnalysis.ipynb
+[I 09:53:43.391 NotebookApp] Kernel interrupted: 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 09:54:25.377 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:54:26.088 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:54:39.228 NotebookApp] Saving file at /data_analysis/learn_pvlib.ipynb
+[I 09:54:59.674 NotebookApp] Kernel shutdown: 68415486-0f36-4eff-8e9c-00e17f85ef42
+[W 09:54:59.677 NotebookApp] delete /data_analysis/learning_pvlib.ipynb
+[I 09:57:42.787 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 09:57:48.516 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:57:49.434 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:58:39.228 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 09:58:51.198 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.72ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[I 09:58:51.706 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 09:59:20.490 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 10:05:47.390 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.63ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[I 10:05:47.991 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:05:56.356 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:05:57.323 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:07:48.104 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:09:47.834 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:10:52.776 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:12:13.653 NotebookApp] 302 GET / (213.169.75.68) 0.65ms
+[I 10:17:10.823 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:17:11.718 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:17:23.222 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:17:30.449 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:17:31.126 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:17:48.089 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:19:48.201 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:20:30.453 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:21:47.839 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:22:27.709 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:23:48.084 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:24:52.120 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:24:52.838 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:25:48.174 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:29:48.076 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:31:48.140 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:33:47.917 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:35:43.415 NotebookApp] 302 GET / (152.173.44.23) 0.79ms
+[I 10:35:44.948 NotebookApp] 302 GET / (203.170.73.142) 0.49ms
+[I 10:35:47.938 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:36:31.614 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:36:32.388 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:36:52.164 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 10:36:54.887 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.67ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[I 10:36:56.842 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:37:03.309 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:37:04.076 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 10:37:45.248 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 10:38:28.894 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 10:45:04.369 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.21ms referer=None
+[W 11:02:53.103 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.150.212.252): '_xsrf' argument missing from POST
+[W 11:02:53.104 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.150.212.252) 2.33ms referer=None
+[I 11:20:52.570 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:21:09.452 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:22:28.976 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:22:40.824 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:22:55.910 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:22:57.778 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:23:02.851 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:23:20.524 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:26:54.192 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:27:06.338 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 11:27:07.103 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 11:28:30.505 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:28:30.570 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:29:33.301 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:30:57.927 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:32:42.894 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:32:56.243 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:34:55.909 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:35:40.556 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:36:55.912 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:38:55.956 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:39:37.633 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:40:19.184 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 11:40:56.052 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 11:43:20.203 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.93ms referer=None
+[I 11:43:34.889 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 12:18:32.294 NotebookApp] 302 GET / (208.100.26.229) 0.53ms
+[W 12:20:30.123 NotebookApp] 405 HEAD / (208.100.26.229) 0.70ms referer=None
+[I 12:20:30.124 NotebookApp] 302 GET / (208.100.26.229) 0.36ms
+[I 12:20:30.324 NotebookApp] 302 GET / (208.100.26.229) 0.58ms
+[I 12:20:30.325 NotebookApp] 302 GET / (208.100.26.229) 0.65ms
+[W 12:20:30.476 NotebookApp] 404 GET /nmaplowercheck1527855629 (208.100.26.229) 1.73ms referer=None
+[I 12:20:30.526 NotebookApp] 302 GET /tree? (208.100.26.229) 1.03ms
+[W 12:20:30.731 NotebookApp] 404 GET /HNAP1 (208.100.26.229) 1.74ms referer=None
+[W 12:20:31.037 NotebookApp] 404 GET /evox/about (208.100.26.229) 1.61ms referer=None
+[W 12:20:32.788 NotebookApp] 403 POST /sdk (208.100.26.229): '_xsrf' argument missing from POST
+[W 12:20:32.790 NotebookApp] 403 POST /sdk (208.100.26.229) 2.35ms referer=None
+[I 12:20:56.002 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 12:20:57.623 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 12:21:04.644 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 12:21:05.507 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 12:22:55.997 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 12:54:00.161 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 12:54:55.984 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:03:07.216 NotebookApp] 302 GET / (157.61.192.46) 0.61ms
+[W 13:04:20.252 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.03ms referer=None
+[I 13:27:00.798 NotebookApp] Uploading file to /data_analysis/irradiance.ipynb
+[W 13:27:00.800 NotebookApp] Saving untrusted notebook data_analysis/irradiance.ipynb
+[W 13:27:06.542 NotebookApp] Notebook data_analysis/irradiance.ipynb is not trusted
+[W 13:27:06.659 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.59ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/irradiance.ipynb
+[I 13:27:12.207 NotebookApp] Kernel started: 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:27:12.762 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:27:19.975 NotebookApp] Kernel restarted: 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:27:20.692 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:29:13.112 NotebookApp] Saving file at /data_analysis/irradiance.ipynb
+[I 13:32:00.837 NotebookApp] Kernel restarted: 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:32:02.802 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 13:33:12.433 NotebookApp] Saving file at /data_analysis/irradiance.ipynb
+[I 13:35:13.671 NotebookApp] Saving file at /data_analysis/irradiance.ipynb
+[I 13:38:55.978 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:40:55.978 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:42:29.064 NotebookApp] Kernel restarted: b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 13:42:29.750 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 13:42:46.792 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:42:56.017 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:44:48.402 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:44:56.841 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:46:22.533 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:46:57.124 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:48:56.349 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:54:57.408 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:55:21.151 NotebookApp] 302 GET / (89.248.167.131) 0.62ms
+[I 13:56:50.494 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:58:01.339 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 13:58:56.506 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:00:28.986 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:00:56.262 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:04:56.347 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:05:12.960 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:06:23.960 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:09:38.168 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:11:54.909 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:16:56.281 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:17:10.947 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:18:10.960 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:18:11.052 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:18:56.213 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[W 14:19:22.012 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.22ms referer=None
+[I 14:20:50.631 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:23:22.117 NotebookApp] 302 GET / (91.245.207.255) 0.52ms
+[I 14:30:56.828 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:32:28.584 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:33:06.202 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:33:13.333 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:46:56.309 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:47:17.922 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:47:57.878 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 14:48:56.559 NotebookApp] Saving file at /data_analysis/learning_pvlib.ipynb
+[I 15:26:02.876 NotebookApp] 302 GET / (31.184.194.109) 0.58ms
+[I 15:34:21.853 NotebookApp] 302 GET / (189.223.158.36) 0.43ms
+[I 15:36:35.644 NotebookApp] 302 GET / (94.232.32.186) 0.54ms
+[I 16:47:38.543 NotebookApp] 302 GET / (77.157.38.85) 0.57ms
+[I 16:53:03.218 NotebookApp] 302 GET / (5.154.54.199) 0.59ms
+[I 17:00:00.672 NotebookApp] 302 GET / (212.174.183.105) 0.66ms
+[W 17:16:29.752 NotebookApp] WebSocket ping timeout after 119774 ms.
+[W 17:16:32.804 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 17:16:36.446 NotebookApp] WebSocket ping timeout after 119564 ms.
+[W 17:16:41.977 NotebookApp] WebSocket ping timeout after 119688 ms.
+[W 17:16:44.581 NotebookApp] WebSocket ping timeout after 118230 ms.
+[W 17:16:46.701 NotebookApp] WebSocket ping timeout after 119191 ms.
+[W 17:16:49.183 NotebookApp] WebSocket ping timeout after 102697 ms.
+[W 17:19:04.800 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.05ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 17:19:07.864 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[W 17:19:11.625 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.36ms referer=http://gis.jkaelin.com:8080/notebooks/tunnel_settlements/tunnel_settlements.ipynb
+[W 17:19:11.768 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 3.91ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/irradiance.ipynb
+[W 17:19:11.901 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.60ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1.r2.ipynb
+[W 17:19:13.081 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.83ms referer=http://gis.jkaelin.com:8080/notebooks/hydro-solar/hydro_solar_scoping.ipynb
+[W 17:19:22.563 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.08ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/learning_pvlib.ipynb
+[I 17:19:24.131 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 17:19:28.030 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 17:19:30.368 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[I 17:19:58.539 NotebookApp] Adapting to protocol v5.1 for kernel 35512135-291e-4e12-8dd3-dbf811314907
+[I 17:20:24.233 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 17:20:28.078 NotebookApp] Adapting to protocol v5.1 for kernel 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 17:20:30.093 NotebookApp] Kernel started: 47d05816-8bb3-4d59-8a5b-e1f23b221b0d
+[I 17:20:31.354 NotebookApp] Adapting to protocol v5.1 for kernel 47d05816-8bb3-4d59-8a5b-e1f23b221b0d
+[I 17:21:05.252 NotebookApp] Kernel started: 769145f7-5ea8-46a5-82b5-7647bea29236
+[W 17:21:05.703 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 4.01ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/geopython_processing.ipynb
+[I 17:21:05.884 NotebookApp] Adapting to protocol v5.1 for kernel 769145f7-5ea8-46a5-82b5-7647bea29236
+[I 17:21:27.566 NotebookApp] 302 GET / (159.146.119.137) 0.58ms
+[I 17:21:28.682 NotebookApp] Kernel started: cb373dd4-ed8d-4005-8072-4746ca8d93a8
+[W 17:21:29.637 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.46ms referer=http://gis.jkaelin.com:8080/notebooks/tunnel_settlements/tunnel_gis.ipynb
+[I 17:21:30.000 NotebookApp] Adapting to protocol v5.1 for kernel cb373dd4-ed8d-4005-8072-4746ca8d93a8
+[W 17:21:31.708 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 1.82ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 17:21:34.911 NotebookApp] Kernel started: 16c6d4b9-a554-4c06-993c-626a817771d7
+[W 17:21:35.031 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.01ms referer=http://gis.jkaelin.com:8080/notebooks/hydr_confinement/TunnelGIS.ipynb
+[I 17:21:35.496 NotebookApp] Adapting to protocol v5.1 for kernel 16c6d4b9-a554-4c06-993c-626a817771d7
+[I 17:21:49.406 NotebookApp] Kernel started: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 17:21:49.997 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+[W 18:24:04.024 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.132.40): '_xsrf' argument missing from POST
+[W 18:24:04.026 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.132.40) 2.41ms referer=None
+[I 18:24:04.026 NotebookApp] Malformed HTTP message from 187.147.132.40: Malformed HTTP request line
+[W 18:36:35.497 NotebookApp] WebSocket ping timeout after 119939 ms.
+[W 18:36:35.886 NotebookApp] WebSocket ping timeout after 119918 ms.
+[W 18:36:37.865 NotebookApp] WebSocket ping timeout after 119953 ms.
+[W 18:36:49.998 NotebookApp] WebSocket ping timeout after 119900 ms.
+[W 18:36:54.133 NotebookApp] WebSocket ping timeout after 119939 ms.
+[W 18:36:54.234 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 18:36:58.031 NotebookApp] WebSocket ping timeout after 119946 ms.
+[W 18:36:58.079 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 18:36:58.540 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 18:37:00.001 NotebookApp] WebSocket ping timeout after 119968 ms.
+[W 18:37:00.370 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 18:37:01.356 NotebookApp] WebSocket ping timeout after 119789 ms.
+[I 18:55:29.156 NotebookApp] Adapting to protocol v5.1 for kernel 16c6d4b9-a554-4c06-993c-626a817771d7
+[I 18:55:33.144 NotebookApp] Adapting to protocol v5.1 for kernel 769145f7-5ea8-46a5-82b5-7647bea29236
+[I 18:55:43.141 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 18:55:47.129 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 18:55:51.140 NotebookApp] Adapting to protocol v5.1 for kernel 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 18:55:53.138 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 18:55:53.212 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 18:55:53.302 NotebookApp] Adapting to protocol v5.1 for kernel 35512135-291e-4e12-8dd3-dbf811314907
+[I 18:55:53.372 NotebookApp] Adapting to protocol v5.1 for kernel cb373dd4-ed8d-4005-8072-4746ca8d93a8
+[I 18:55:55.116 NotebookApp] Adapting to protocol v5.1 for kernel 47d05816-8bb3-4d59-8a5b-e1f23b221b0d
+[I 18:56:11.117 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[I 19:04:01.105 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[W 19:04:53.759 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.99ms referer=None
+[W 19:21:59.157 NotebookApp] WebSocket ping timeout after 119951 ms.
+[W 19:22:01.106 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:03.144 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 19:22:11.118 NotebookApp] WebSocket ping timeout after 119829 ms.
+[W 19:22:13.142 NotebookApp] WebSocket ping timeout after 119905 ms.
+[W 19:22:17.130 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:21.141 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:23.139 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:23.213 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:23.303 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:22:23.373 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 19:22:25.117 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 19:28:06.942 NotebookApp] 302 GET / (191.242.219.171) 0.60ms
+[W 20:10:04.045 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.12ms referer=None
+[I 20:21:29.081 NotebookApp] 302 GET / (178.47.233.203) 0.55ms
+[I 20:25:42.625 NotebookApp] 302 GET / (202.69.35.131) 0.48ms
+[W 20:33:34.196 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.58ms referer=None
+[W 20:35:56.032 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.163.130.39): '_xsrf' argument missing from POST
+[W 20:35:56.034 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.163.130.39) 2.32ms referer=None
+[I 21:07:46.933 NotebookApp] 302 GET / (103.84.130.46) 0.48ms
+[I 21:08:49.586 NotebookApp] 302 GET / (187.51.47.138) 0.53ms
+[I 21:22:59.792 NotebookApp] 302 GET / (31.184.194.109) 0.66ms
+[I 21:31:56.189 NotebookApp] 302 GET / (141.212.122.16) 0.54ms
+[I 21:31:56.292 NotebookApp] 302 GET /tree? (141.212.122.16) 0.75ms
+[I 21:56:42.610 NotebookApp] 302 GET / (187.95.169.115) 0.58ms
+[I 23:19:57.805 NotebookApp] 302 GET / (189.189.42.34) 0.66ms
+[I 00:06:40.499 NotebookApp] 302 GET / (187.214.238.70) 0.52ms
+[I 00:21:21.456 NotebookApp] 302 GET / (187.214.145.211) 0.45ms
+[I 00:33:32.614 NotebookApp] 302 GET / (184.105.139.67) 0.43ms
+[W 00:41:57.837 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.94ms referer=None
+[I 00:57:35.450 NotebookApp] 302 GET / (95.161.197.26) 0.54ms
+[I 01:20:03.653 NotebookApp] 302 GET / (178.213.252.240) 0.60ms
+[I 01:22:47.716 NotebookApp] 302 GET / (187.57.237.226) 0.54ms
+[W 01:39:49.925 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.59ms referer=None
+[W 02:02:55.308 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.74ms referer=None
+[I 02:03:21.563 NotebookApp] 302 GET / (195.3.146.92) 0.47ms
+[I 02:03:21.659 NotebookApp] 302 GET /tree (195.3.146.92) 0.80ms
+[W 02:16:56.302 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.192.224.206): '_xsrf' argument missing from POST
+[W 02:16:56.303 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.192.224.206) 2.29ms referer=None
+[I 02:43:57.276 NotebookApp] 302 GET / (46.33.110.253) 0.60ms
+[I 03:17:01.769 NotebookApp] 302 GET / (187.10.119.240) 0.60ms
+[I 03:49:28.218 NotebookApp] Adapting to protocol v5.1 for kernel 16c6d4b9-a554-4c06-993c-626a817771d7
+[I 03:49:29.221 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 03:49:31.191 NotebookApp] Adapting to protocol v5.1 for kernel 769145f7-5ea8-46a5-82b5-7647bea29236
+[I 03:49:39.160 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[I 03:49:41.158 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 03:49:45.178 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 03:49:49.169 NotebookApp] Adapting to protocol v5.1 for kernel 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 03:49:51.195 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 03:49:51.263 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 03:49:51.339 NotebookApp] Adapting to protocol v5.1 for kernel cb373dd4-ed8d-4005-8072-4746ca8d93a8
+[I 03:49:51.409 NotebookApp] Adapting to protocol v5.1 for kernel 35512135-291e-4e12-8dd3-dbf811314907
+[I 03:49:53.179 NotebookApp] Adapting to protocol v5.1 for kernel 47d05816-8bb3-4d59-8a5b-e1f23b221b0d
+[W 04:02:11.159 NotebookApp] WebSocket ping timeout after 119882 ms.
+[W 04:02:15.179 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 04:02:19.170 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:02:21.196 NotebookApp] WebSocket ping timeout after 119881 ms.
+[W 04:02:21.265 NotebookApp] WebSocket ping timeout after 119910 ms.
+[W 04:02:21.340 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:02:21.410 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:02:23.180 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 04:02:28.219 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 04:02:29.222 NotebookApp] WebSocket ping timeout after 119820 ms.
+[W 04:02:31.192 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:02:39.161 NotebookApp] WebSocket ping timeout after 119819 ms.
+[I 04:02:51.492 NotebookApp] 302 GET / (150.164.180.61) 0.52ms
+[W 04:59:01.891 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.89ms referer=None
+[I 06:49:41.547 NotebookApp] 302 GET / (187.19.30.15) 0.61ms
+[W 09:26:05.393 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.58ms referer=None
+[W 11:01:52.795 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.93ms referer=None
+[I 11:31:17.243 NotebookApp] 302 GET / (139.162.79.87) 0.49ms
+[I 11:34:59.412 NotebookApp] 302 GET / (189.163.144.122) 0.52ms
+[W 11:36:16.223 NotebookApp] 404 GET http://httpheader.net/ (47.203.88.90) 1.80ms referer=None
+[W 11:40:40.553 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.214.48.101): '_xsrf' argument missing from POST
+[W 11:40:40.556 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.214.48.101) 3.11ms referer=None
+[I 11:40:40.556 NotebookApp] Malformed HTTP message from 187.214.48.101: Malformed HTTP request line
+[I 12:05:49.013 NotebookApp] 302 GET / (31.184.194.109) 0.69ms
+[I 12:20:36.781 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 12:20:40.721 NotebookApp] Adapting to protocol v5.1 for kernel 8a11105a-7fcf-4b25-9a50-6d9527880dbb
+[I 12:20:44.761 NotebookApp] Adapting to protocol v5.1 for kernel 7cb15776-60aa-4a0d-a1d7-377d68754809
+[I 12:20:46.759 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 12:20:46.826 NotebookApp] Adapting to protocol v5.1 for kernel cb373dd4-ed8d-4005-8072-4746ca8d93a8
+[I 12:20:46.913 NotebookApp] Adapting to protocol v5.1 for kernel 35512135-291e-4e12-8dd3-dbf811314907
+[I 12:20:46.983 NotebookApp] Adapting to protocol v5.1 for kernel 8a9e8f16-596e-489e-90eb-a87ad83c984a
+[I 12:20:48.735 NotebookApp] Adapting to protocol v5.1 for kernel 47d05816-8bb3-4d59-8a5b-e1f23b221b0d
+[I 12:20:53.705 NotebookApp] Adapting to protocol v5.1 for kernel 16c6d4b9-a554-4c06-993c-626a817771d7
+[I 12:20:54.813 NotebookApp] Adapting to protocol v5.1 for kernel b903fa96-fede-4dbc-849d-2025dcdf7df4
+[I 12:20:56.702 NotebookApp] Adapting to protocol v5.1 for kernel 769145f7-5ea8-46a5-82b5-7647bea29236
+[I 12:21:04.716 NotebookApp] Adapting to protocol v5.1 for kernel 9023d4c2-04f4-4eda-8541-ec9be9d80b82
+[W 12:55:42.183 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.207.20.8): '_xsrf' argument missing from POST
+[W 12:55:42.185 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.207.20.8) 2.81ms referer=None
+[W 13:04:50.524 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.79ms referer=None
+[I 13:32:40.078 NotebookApp] 302 GET / (51.15.204.246) 0.51ms
+[I 13:34:42.453 NotebookApp] 302 GET / (5.188.87.14) 0.58ms
+[W 13:47:23.707 NotebookApp] WebSocket ping timeout after 119923 ms.
+[W 13:47:24.814 NotebookApp] WebSocket ping timeout after 119905 ms.
+[W 13:47:26.704 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 13:47:34.717 NotebookApp] WebSocket ping timeout after 119875 ms.
+[W 13:47:36.782 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 13:47:40.722 NotebookApp] WebSocket ping timeout after 119940 ms.
+[W 13:47:44.763 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 13:47:46.760 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 13:47:46.827 NotebookApp] WebSocket ping timeout after 119960 ms.
+[W 13:47:46.914 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 13:47:46.984 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 13:47:48.736 NotebookApp] WebSocket ping timeout after 119864 ms.
+[I 15:22:27.592 NotebookApp] 302 GET / (88.255.181.165) 0.60ms
+[I 15:31:05.563 NotebookApp] 302 GET / (31.184.194.109) 0.64ms
+[I 15:41:23.175 NotebookApp] 302 GET / (196.52.43.66) 0.76ms
+[I 15:51:12.299 NotebookApp] 302 GET / (189.18.148.194) 0.58ms
+[W 16:19:44.525 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.05ms referer=None
+[I 16:37:32.473 NotebookApp] 302 GET / (27.109.116.92) 0.50ms
+[I 17:28:29.952 NotebookApp] 302 GET / (190.94.148.126) 0.47ms
+[W 17:28:40.393 NotebookApp] 403 POST /GponForm/diag_Form?images/ (190.94.148.126): '_xsrf' argument missing from POST
+[W 17:28:40.394 NotebookApp] 403 POST /GponForm/diag_Form?images/ (190.94.148.126) 2.44ms referer=None
+[I 17:36:24.172 NotebookApp] 302 GET / (177.68.23.228) 0.57ms
+[I 17:38:20.454 NotebookApp] 302 GET / (103.68.42.150) 0.46ms
+[W 17:46:08.726 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.83ms referer=None
+[I 19:06:55.341 NotebookApp] 302 GET / (201.105.139.113) 0.46ms
+[I 20:06:14.388 NotebookApp] 302 GET / (189.166.50.164) 0.72ms
+[W 20:12:17.553 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.192.245.224): '_xsrf' argument missing from POST
+[W 20:12:17.554 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.192.245.224) 1.89ms referer=None
+[W 21:36:03.341 NotebookApp] 404 GET /manager/html (183.131.83.36) 1.41ms referer=None
+[I 21:40:56.123 NotebookApp] 302 GET / (66.240.205.34) 0.58ms
+[I 21:40:56.420 NotebookApp] 302 GET /tree (66.240.205.34) 0.72ms
+[W 21:40:57.038 NotebookApp] 404 GET /robots.txt (66.240.205.34) 1.68ms referer=None
+[W 21:40:57.329 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.40ms referer=None
+[W 21:40:57.627 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.36ms referer=None
+[I 22:08:08.755 NotebookApp] 302 GET / (201.220.71.46) 0.60ms
+[W 22:16:12.865 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.67ms referer=None
+[I 22:43:13.550 NotebookApp] 302 GET / (179.127.193.66) 0.61ms
+[I 22:58:54.611 NotebookApp] 302 GET / (201.13.187.27) 0.58ms
+[W 23:23:32.212 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.78ms referer=None
+[W 23:38:10.756 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.67ms referer=None
+[I 00:19:09.199 NotebookApp] 302 GET / (201.68.114.147) 0.63ms
+[I 00:29:26.808 NotebookApp] 302 GET / (184.105.139.67) 0.51ms
+[W 00:49:40.847 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.79ms referer=None
+[W 01:33:44.241 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.202.210.217): '_xsrf' argument missing from POST
+[W 01:33:44.243 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.202.210.217) 2.80ms referer=None
+[W 02:02:54.972 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.63ms referer=None
+[I 02:33:38.422 NotebookApp] 302 GET / (187.155.42.10) 0.45ms
+[I 03:30:17.779 NotebookApp] 302 GET / (110.77.183.153) 0.55ms
+[I 03:31:58.664 NotebookApp] 302 GET / (177.104.125.150) 0.62ms
+[W 03:45:24.004 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.86ms referer=None
+[I 03:57:47.464 NotebookApp] 302 GET / (187.199.11.137) 0.51ms
+[I 04:02:29.183 NotebookApp] 302 GET / (78.180.182.251) 0.71ms
+[W 04:26:33.374 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.56ms referer=None
+[W 05:01:22.156 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.90ms referer=None
+[W 05:22:18.001 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.175.47.191): '_xsrf' argument missing from POST
+[W 05:22:18.003 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.175.47.191) 2.12ms referer=None
+[W 05:23:33.743 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.89ms referer=None
+[I 05:34:21.410 NotebookApp] 302 GET / (123.59.60.110) 0.53ms
+[I 06:00:54.455 NotebookApp] 302 GET / (189.226.64.197) 0.60ms
+[W 06:03:50.227 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.11ms referer=None
+[W 06:05:38.524 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:38.526 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 3.50ms referer=None
+[W 06:05:40.548 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:40.550 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.48ms referer=None
+[W 06:05:41.706 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:41.708 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 3.78ms referer=None
+[W 06:05:41.784 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:41.785 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 3.07ms referer=None
+[W 06:05:44.521 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:44.523 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 4.22ms referer=None
+[W 06:05:46.509 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:46.510 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 3.87ms referer=None
+[W 06:05:49.493 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:49.495 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 4.20ms referer=None
+[W 06:05:50.497 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:50.499 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.19ms referer=None
+[W 06:05:50.588 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:50.590 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 3.46ms referer=None
+[W 06:05:52.529 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:52.530 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 3.34ms referer=None
+[W 06:05:54.507 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:54.510 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 4.33ms referer=None
+[W 06:05:55.509 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:55.511 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 3.87ms referer=None
+[W 06:05:55.580 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:55.582 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.02ms referer=None
+[W 06:05:55.660 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:55.661 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 3.01ms referer=None
+[W 06:05:56.493 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:56.494 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.03ms referer=None
+[W 06:05:58.503 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:05:58.505 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 3.96ms referer=None
+[W 06:06:00.510 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:00.512 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.13ms referer=None
+[W 06:06:00.598 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:00.600 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 3.44ms referer=None
+[W 06:06:00.668 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:00.669 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 3.59ms referer=None
+[W 06:06:00.739 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:00.740 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 3.09ms referer=None
+[W 06:06:02.505 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:02.507 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 4.18ms referer=None
+[W 06:06:02.577 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:02.580 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 4.05ms referer=None
+[W 06:06:02.649 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:02.651 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 4.15ms referer=None
+[W 06:06:02.723 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:02.725 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 4.04ms referer=None
+[W 06:06:03.505 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:03.508 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 4.32ms referer=None
+[W 06:06:04.496 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:04.498 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.60ms referer=None
+[W 06:06:04.564 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:04.567 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 4.32ms referer=None
+[W 06:06:06.491 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:06.493 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.39ms referer=None
+[W 06:06:06.561 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:06.563 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 4.34ms referer=None
+[W 06:06:07.497 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:07.499 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 3.61ms referer=None
+[W 06:06:08.491 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:08.492 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 3.43ms referer=None
+[W 06:06:08.558 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:08.560 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 4.82ms referer=None
+[W 06:06:08.628 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:08.629 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 3.23ms referer=None
+[W 06:06:09.500 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:09.502 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 3.36ms referer=None
+[W 06:06:09.572 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:09.574 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 3.81ms referer=None
+[W 06:06:11.492 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:11.494 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.65ms referer=None
+[W 06:06:12.492 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:12.494 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 3.54ms referer=None
+[W 06:06:12.563 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:12.566 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 5.11ms referer=None
+[W 06:06:12.634 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:12.636 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 3.30ms referer=None
+[W 06:06:13.488 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:13.489 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 3.28ms referer=None
+[W 06:06:13.560 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:13.562 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 4.29ms referer=None
+[W 06:06:15.510 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:15.512 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 3.74ms referer=None
+[W 06:06:15.579 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:15.581 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.58ms referer=None
+[W 06:06:17.559 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:17.560 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 3.35ms referer=None
+[W 06:06:17.629 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:17.630 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 3.94ms referer=None
+[W 06:06:20.490 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:20.492 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.40ms referer=None
+[W 06:06:21.488 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:21.489 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 3.23ms referer=None
+[W 06:06:21.557 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:21.559 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.05ms referer=None
+[W 06:06:22.492 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:22.494 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 3.74ms referer=None
+[W 06:06:22.566 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:22.568 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 4.01ms referer=None
+[W 06:06:27.497 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:27.501 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 5.37ms referer=None
+[W 06:06:27.572 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:27.574 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 3.28ms referer=None
+[W 06:06:27.647 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:27.649 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 3.47ms referer=None
+[W 06:06:32.494 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:32.495 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.50ms referer=None
+[W 06:06:34.491 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:34.493 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 3.43ms referer=None
+[W 06:06:37.497 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:37.499 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.78ms referer=None
+[W 06:06:38.498 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:38.500 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 3.75ms referer=None
+[W 06:06:40.494 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:40.496 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 4.13ms referer=None
+[W 06:06:40.563 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:40.564 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 3.40ms referer=None
+[W 06:06:44.514 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:44.516 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 3.76ms referer=None
+[W 06:06:45.520 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:45.523 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 4.58ms referer=None
+[W 06:06:48.495 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:48.497 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 3.77ms referer=None
+[W 06:06:54.494 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:06:54.496 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.11ms referer=None
+[W 06:07:00.503 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:00.505 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 4.92ms referer=None
+[W 06:07:00.575 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:00.577 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 4.32ms referer=None
+[W 06:07:05.511 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:05.512 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.59ms referer=None
+[W 06:07:07.522 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:07.524 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 3.18ms referer=None
+[W 06:07:10.510 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:10.512 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.85ms referer=None
+[W 06:07:11.511 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:11.513 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 3.34ms referer=None
+[W 06:07:13.491 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:13.492 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 2.98ms referer=None
+[W 06:07:13.560 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:13.561 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 3.14ms referer=None
+[W 06:07:17.487 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:17.488 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 3.73ms referer=None
+[W 06:07:50.494 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:50.496 NotebookApp] 403 GET /api/kernels/16c6d4b9-a554-4c06-993c-626a817771d7/channels?session_id=9298809202FF4C0BB34507A754E11623 (80.254.184.33) 3.24ms referer=None
+[W 06:07:53.517 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:53.520 NotebookApp] 403 GET /api/kernels/769145f7-5ea8-46a5-82b5-7647bea29236/channels?session_id=4B3BCA86C6774B518D5547E5E3948E37 (80.254.184.33) 5.84ms referer=None
+[W 06:07:59.493 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:07:59.495 NotebookApp] 403 GET /api/kernels/b903fa96-fede-4dbc-849d-2025dcdf7df4/channels?session_id=9EBEEA292CED40FDA3AB2B319E618351 (80.254.184.33) 3.58ms referer=None
+[W 06:08:05.494 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:05.495 NotebookApp] 403 GET /api/kernels/9023d4c2-04f4-4eda-8541-ec9be9d80b82/channels?session_id=B0D02A2069F84A7880932BC9AB461D25 (80.254.184.33) 3.03ms referer=None
+[W 06:08:05.566 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:05.568 NotebookApp] 403 GET /api/kernels/39c17b31-2c63-47d3-8a70-41a6305b779c/channels?session_id=8DD4C52163144D048C5ACC9E3B3E2E61 (80.254.184.33) 4.11ms referer=None
+[W 06:08:10.509 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:10.510 NotebookApp] 403 GET /api/kernels/8a11105a-7fcf-4b25-9a50-6d9527880dbb/channels?session_id=E003AAC69C054E959F7E8026F3155129 (80.254.184.33) 3.55ms referer=None
+[W 06:08:12.498 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:12.501 NotebookApp] 403 GET /api/kernels/7cb15776-60aa-4a0d-a1d7-377d68754809/channels?session_id=07F662B38A214CDD8BF538375B679C0B (80.254.184.33) 4.98ms referer=None
+[W 06:08:15.497 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:15.498 NotebookApp] 403 GET /api/kernels/35512135-291e-4e12-8dd3-dbf811314907/channels?session_id=21D2CF2413EB41228D6D4ECD110C4EE0 (80.254.184.33) 3.02ms referer=None
+[W 06:08:16.493 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:16.494 NotebookApp] 403 GET /api/kernels/47d05816-8bb3-4d59-8a5b-e1f23b221b0d/channels?session_id=B165E5CD042D43D8B97C5934E028968F (80.254.184.33) 2.98ms referer=None
+[W 06:08:18.502 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:18.504 NotebookApp] 403 GET /api/kernels/cb373dd4-ed8d-4005-8072-4746ca8d93a8/channels?session_id=0A68C58741FA476C8C55BAC2A4362E1C (80.254.184.33) 3.09ms referer=None
+[W 06:08:18.575 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:18.577 NotebookApp] 403 GET /api/kernels/8a9e8f16-596e-489e-90eb-a87ad83c984a/channels?session_id=51BB363A78DF499D969F7E94AB914329 (80.254.184.33) 3.22ms referer=None
+[W 06:08:22.505 NotebookApp] Couldn't authenticate WebSocket connection
+[W 06:08:22.507 NotebookApp] 403 GET /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/channels?session_id=7A84A3B6B53640509A10D82F985F934E (80.254.184.33) 4.00ms referer=None
+[I 06:11:09.867 NotebookApp] 302 GET / (77.45.76.15) 0.60ms
+[W 06:26:39.711 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.66ms referer=None
+[W 06:48:08.658 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.67ms referer=None
+[I 07:21:27.963 NotebookApp] 302 GET / (178.220.80.41) 0.62ms
+[I 07:23:24.869 NotebookApp] 302 GET / (186.121.203.90) 0.47ms
+[W 07:33:20.859 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.76ms referer=None
+[I 07:44:23.621 NotebookApp] 302 GET / (60.37.87.231) 0.52ms
+[W 07:58:54.068 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.91ms referer=None
+[I 08:08:17.517 NotebookApp] 302 GET / (187.144.218.166) 0.48ms
+[I 09:47:24.418 NotebookApp] 302 GET / (189.249.29.105) 0.47ms
+[W 10:02:39.886 NotebookApp] 404 GET /manager/html (43.251.102.97) 1.52ms referer=None
+[W 10:05:34.223 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.250.124.222): '_xsrf' argument missing from POST
+[W 10:05:34.224 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.250.124.222) 2.23ms referer=None
+[I 10:05:34.225 NotebookApp] Malformed HTTP message from 189.250.124.222: Malformed HTTP request line
+[I 10:28:38.998 NotebookApp] 302 GET / (189.183.160.161) 0.52ms
+[W 10:34:58.972 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.159.14.185): '_xsrf' argument missing from POST
+[W 10:34:58.974 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.159.14.185) 2.28ms referer=None
+[W 10:36:18.893 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.184.17): '_xsrf' argument missing from POST
+[W 10:36:18.895 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.184.17) 2.08ms referer=None
+[W 10:48:28.262 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.79ms referer=None
+[W 11:38:59.709 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.62ms referer=None
+[I 12:17:21.836 NotebookApp] 302 GET / (185.91.231.194) 0.47ms
+[I 12:42:05.821 NotebookApp] 302 GET / (187.102.55.243) 0.44ms
+[W 12:59:36.063 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.202.200.74): '_xsrf' argument missing from POST
+[W 12:59:36.064 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.202.200.74) 2.33ms referer=None
+[W 13:11:23.622 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.68ms referer=None
+[I 13:21:56.372 NotebookApp] 302 GET / (31.184.194.109) 0.65ms
+[W 14:38:41.438 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.80ms referer=None
+[W 14:39:06.747 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.91ms referer=None
+[W 15:08:28.369 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.71ms referer=None
+[I 15:34:24.191 NotebookApp] 302 GET / (222.169.9.38) 0.50ms
+[W 15:51:05.419 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.90ms referer=None
+[I 15:53:58.954 NotebookApp] 302 GET / (189.149.3.57) 0.61ms
+[W 15:58:37.135 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.155.22.151): '_xsrf' argument missing from POST
+[W 15:58:37.137 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.155.22.151) 2.69ms referer=None
+[I 15:58:37.137 NotebookApp] Malformed HTTP message from 187.155.22.151: Malformed HTTP request line
+[I 16:06:56.071 NotebookApp] 302 GET / (128.199.201.58) 0.62ms
+[I 16:18:40.271 NotebookApp] 302 GET / (185.34.16.131) 0.57ms
+[W 16:46:22.434 NotebookApp] 404 GET http://db.speedup.gdn/echo.php (134.119.212.87) 1.80ms referer=https://www.google.com/
+[W 16:52:59.269 NotebookApp] 403 POST /GponForm/diag_Form?images/ (201.103.41.180): '_xsrf' argument missing from POST
+[W 16:52:59.271 NotebookApp] 403 POST /GponForm/diag_Form?images/ (201.103.41.180) 2.14ms referer=None
+[I 17:20:49.182 NotebookApp] 302 GET / (31.146.161.250) 0.60ms
+[W 17:21:43.685 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.21ms referer=None
+[W 17:36:52.793 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.55ms referer=None
+[I 17:43:22.420 NotebookApp] 302 GET / (187.202.139.28) 0.52ms
+[I 18:20:13.486 NotebookApp] 302 GET / (191.205.34.185) 0.80ms
+[I 18:24:46.433 NotebookApp] 302 GET / (45.228.92.170) 0.54ms
+[W 18:39:22.228 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.74ms referer=None
+[I 19:06:42.339 NotebookApp] 302 GET / (186.236.1.220) 0.61ms
+[I 19:42:42.878 NotebookApp] 302 GET / (187.10.4.206) 0.56ms
+[W 20:33:52.279 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.159.8.246): '_xsrf' argument missing from POST
+[W 20:33:52.281 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.159.8.246) 2.74ms referer=None
+[W 20:49:13.807 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.81ms referer=None
+[I 21:40:53.951 NotebookApp] 302 GET / (109.73.185.159) 0.53ms
+[I 22:19:21.258 NotebookApp] 302 GET / (111.67.196.111) 0.49ms
+[I 22:19:21.618 NotebookApp] 302 GET /tree? (111.67.196.111) 0.75ms
+[I 22:19:22.477 NotebookApp] 302 GET / (111.67.196.111) 0.47ms
+[I 22:19:22.930 NotebookApp] 302 GET /tree? (111.67.196.111) 0.74ms
+[W 22:19:23.657 NotebookApp] 404 GET /index.do (111.67.196.111) 1.58ms referer=None
+[W 22:19:24.004 NotebookApp] 404 GET /index.action (111.67.196.111) 1.39ms referer=None
+[W 22:19:24.399 NotebookApp] 404 GET /index.jsp (111.67.196.111) 1.48ms referer=None
+[W 22:19:24.790 NotebookApp] 404 GET /login.do (111.67.196.111) 1.39ms referer=None
+[W 22:19:25.197 NotebookApp] 404 GET /login.action (111.67.196.111) 1.73ms referer=None
+[W 22:19:25.698 NotebookApp] 404 GET /login.jsp (111.67.196.111) 1.55ms referer=None
+[W 22:19:26.092 NotebookApp] 404 GET /main.jsp (111.67.196.111) 1.61ms referer=None
+[W 22:19:26.493 NotebookApp] 404 GET /default.jsp (111.67.196.111) 1.52ms referer=None
+[W 22:19:26.884 NotebookApp] 404 GET /register.jsp (111.67.196.111) 1.45ms referer=None
+[W 22:19:27.259 NotebookApp] 404 GET /login/login.jsp (111.67.196.111) 1.49ms referer=None
+[W 22:19:27.650 NotebookApp] 404 GET /login/indexAction.action (111.67.196.111) 1.71ms referer=None
+[W 22:19:28.025 NotebookApp] 404 GET /indexAction.action (111.67.196.111) 1.68ms referer=None
+[W 22:43:45.377 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.01ms referer=None
+[W 23:39:05.941 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.63ms referer=None
+[I 23:59:27.316 NotebookApp] 302 GET / (177.129.166.235) 0.44ms
+[W 00:29:30.766 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.71ms referer=None
+[I 00:35:29.328 NotebookApp] 302 GET / (190.94.141.178) 0.52ms
+[I 00:40:38.597 NotebookApp] 302 GET / (216.218.206.68) 0.46ms
+[I 00:43:00.271 NotebookApp] 302 GET / (195.162.70.137) 0.46ms
+[I 01:39:49.984 NotebookApp] 302 GET / (189.129.96.82) 0.70ms
+[I 01:52:38.891 NotebookApp] 302 GET / (200.207.224.43) 0.59ms
+[I 02:07:19.410 NotebookApp] 302 GET / (189.152.144.237) 0.48ms
+[I 02:20:06.874 NotebookApp] 302 GET / (123.161.84.123) 0.51ms
+[I 02:28:30.278 NotebookApp] 302 GET / (85.180.43.141) 0.58ms
+[I 03:48:45.879 NotebookApp] 302 GET / (190.132.179.79) 0.56ms
+[W 04:41:26.860 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.111.37): '_xsrf' argument missing from POST
+[W 04:41:26.862 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.147.111.37) 2.19ms referer=None
+[I 04:41:26.863 NotebookApp] Malformed HTTP message from 187.147.111.37: Malformed HTTP request line
+[W 04:46:18.710 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.53ms referer=None
+[I 04:48:35.554 NotebookApp] 302 GET / (80.241.240.154) 0.42ms
+[I 04:55:50.622 NotebookApp] 302 GET / (171.100.141.226) 0.70ms
+[W 05:25:05.114 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.70ms referer=None
+[I 05:59:59.793 NotebookApp] 302 GET / (189.149.241.240) 0.60ms
+[W 06:00:00.767 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.149.241.240): '_xsrf' argument missing from POST
+[W 06:00:00.768 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.149.241.240) 2.00ms referer=None
+[I 06:00:00.769 NotebookApp] Malformed HTTP message from 189.149.241.240: Malformed HTTP request line
+[W 06:13:39.951 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.89ms referer=None
+[W 06:15:47.838 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.68ms referer=None
+[I 06:58:06.717 NotebookApp] 302 GET / (190.94.141.21) 0.45ms
+[I 07:18:17.400 NotebookApp] 302 GET / (109.106.226.109) 0.50ms
+[W 07:41:45.382 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.85ms referer=None
+[W 07:42:26.577 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.58ms referer=None
+[I 07:43:02.471 NotebookApp] 302 GET / (187.207.64.7) 0.52ms
+[I 08:48:48.164 NotebookApp] 302 GET / (103.73.32.24) 0.53ms
+[I 09:04:45.458 NotebookApp] 302 GET / (189.226.160.178) 0.50ms
+[I 09:10:47.026 NotebookApp] 302 GET / (191.255.246.138) 0.57ms
+[W 09:22:41.456 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.225.102.45): '_xsrf' argument missing from POST
+[W 09:22:41.457 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.225.102.45) 1.98ms referer=None
+[I 09:22:41.458 NotebookApp] Malformed HTTP message from 189.225.102.45: Malformed HTTP request line
+[I 09:37:31.613 NotebookApp] 302 GET / (181.129.49.130) 0.55ms
+[W 10:10:33.018 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.69ms referer=None
+[W 10:15:50.758 NotebookApp] 404 GET /manager/html (122.224.209.245) 1.40ms referer=None
+[W 10:25:00.323 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.155.89.235): '_xsrf' argument missing from POST
+[W 10:25:00.324 NotebookApp] 403 POST /GponForm/diag_Form?images/ (187.155.89.235) 2.45ms referer=None
+[I 10:25:00.325 NotebookApp] Malformed HTTP message from 187.155.89.235: Malformed HTTP request line
+[I 10:35:29.010 NotebookApp] 302 GET / (189.236.51.180) 0.56ms
+[W 10:35:30.004 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.236.51.180): '_xsrf' argument missing from POST
+[W 10:35:30.006 NotebookApp] 403 POST /GponForm/diag_Form?images/ (189.236.51.180) 2.30ms referer=None
+[I 10:35:30.006 NotebookApp] Malformed HTTP message from 189.236.51.180: Malformed HTTP request line
+[W 11:12:28.465 NotebookApp] None
+[W 11:12:28.466 NotebookApp] 403 POST /api/kernels/3db9cdec-4b60-46d1-b775-3d30e3ed73f2/restart (80.254.184.33) 1.36ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[W 11:12:28.506 NotebookApp] None
+[W 11:12:28.506 NotebookApp] 403 DELETE /api/sessions/37707d2f-a5d3-4121-aee9-6d404da04065 (80.254.184.33) 1.28ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[W 11:12:28.546 NotebookApp] None
+[W 11:12:28.546 NotebookApp] 403 POST /api/sessions (80.254.184.33) 1.30ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:12:39.918 NotebookApp] 302 GET /notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb (80.254.184.33) 0.82ms
+[I 11:12:42.482 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fdata_analysis%2FSnowyMountainsDataAnalysis.ipynb (80.254.184.33) 1.37ms
+[W 11:12:43.814 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180601093717 (80.254.184.33) 2.13ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:12:44.360 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 11:12:55.186 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 11:12:55.950 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[I 11:14:44.270 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:16:44.728 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:18:44.305 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:19:46.302 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:20:03.260 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:20:44.310 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:22:12.529 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:22:43.520 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+> /usr/local/lib/python2.7/dist-packages/IPython/core/compilerop.py(100)ast_parse()
+-> return compile(source, filename, symbol, self.flags | PyCF_ONLY_AST, 1)
+$$id_0$$
+$$id_2$$
+ 95  	    def ast_parse(self, source, filename='<unknown>', symbol='exec'):
+ 96  	        """Parse code to an AST with the current compiler flags active.
+ 97  	        
+ 98  	        Arguments are exactly the same as ast.parse (in the standard library),
+ 99  	        and are passed to the built-in compile function."""
+100  ->	        return compile(source, filename, symbol, self.flags | PyCF_ONLY_AST, 1)
+101  	    
+102  	    def reset_compiler_flags(self):
+103  	        """Reset compiler flags to default state."""
+104  	        # This value is copied from codeop.Compile.__init__, so if that ever
+105  	        # changes, it will need to be updated.
+$$id_3$$
+'["source:#data_sel_df = data_df[\'ID\']\\ndata_df[[\'ID\',\'Source\',\'Rock Unit\',\'Rock Unit Code\',\'Rock Type\',\'chainage\',\'UCS_min\',\'UCS_max\',\'UCS_avg\',\\n         \'GSI_min\',\'GSI_max\',\'GSI_avg\',\'Source.1\',\'UCS_avg_2\',\'E_intact\'.\'MR\',\'GSI_avg_2\',\'UCS_m\',\'E_m\',\\n         \'sigma_t\',\'UCS_ratio\',\'E_ratio\']]\\n", "symbol:exec", "json:<module \'json\' from \'/usr/lib/python2.7/json/__init__.pyc\'>", "self:<IPython.core.compilerop.CachingCompiler instance at 0x7f06f1ba9a28>", "filename:<ipython-input-20-2aecd48df9ed>"]'
+$$id_4$$
+[I 11:24:44.278 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:25:18.294 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:26:05.421 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:26:05.696 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:26:26.234 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:26:37.865 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 11:26:39.672 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[I 11:26:44.269 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:26:58.472 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:27:08.112 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 11:27:42.217 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+> /usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameMisc.py(126)isDateFieldRecurse()
+-> for f in field.dataType.fields:
+$$id_5$$
+$$id_7$$
+121  	    def isDateFieldRecurse(field, targetName):
+122  	        if field.name == targetName:
+123  	            return isDateType(field.dataType)
+124  	        elif checkIfDataType(field.dataType) and targetName.startswith(field.name + "."):
+125  	            nestedFieldName = targetName[len(field.name)+1:]
+126  ->	            for f in field.dataType.fields:
+127  	                if isDateFieldRecurse(f, nestedFieldName):
+128  	                    return True         
+129  	        return False
+130  	    for field in entity.schema.fields:
+131  	        if isDateFieldRecurse(field, fieldName):
+$$id_8$$
+'["field:<pixiedust.utils.dataFrameAdapter. object at 0x7fc9805c1fd0>", "json:<module \'json\' from \'/usr/lib/python2.7/json/__init__.pyc\'>", "targetName:Source.1", "nestedFieldName:1", "isDateFieldRecurse:<function isDateFieldRecurse at 0x7fc980555e60>"]'
+$$id_9$$
+$$id_10$$
+*** NameError: NameError("name 'data_sel_df' is not defined",)
+$$id_11$$
+*** NameError: NameError("name 'data_sel_df' is not defined",)
+$$id_12$$
+*** NameError: NameError("name 'data_sel_df' is not defined",)
+[I 11:45:17.868 NotebookApp] 302 GET / (80.95.44.59) 0.60ms
+[W 11:57:57.644 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.02ms referer=None
+[W 12:01:39.673 NotebookApp] WebSocket ping timeout after 119836 ms.
+[I 12:14:16.887 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 12:15:38.580 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:15:56.390 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 12:15:57.237 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[I 12:16:19.352 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:17:02.346 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:17:44.028 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:18:12.951 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:18:31.881 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:18:34.948 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:18:49.571 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:19:47.764 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:20:04.015 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:20:29.511 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:20:34.975 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:33:15.707 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:34:09.391 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 12:37:27.826 NotebookApp] 302 GET / (31.184.194.109) 0.86ms
+[I 12:40:37.236 NotebookApp] 302 GET / (189.173.76.227) 0.51ms
+[W 13:03:38.908 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.27ms referer=None
+[I 13:05:38.699 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 13:05:47.013 NotebookApp] Kernel restarted: 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+[I 13:05:47.827 NotebookApp] Adapting to protocol v5.1 for kernel 3db9cdec-4b60-46d1-b775-3d30e3ed73f2
+/usr/local/lib/python2.7/dist-packages/pixiedust/utils/dataFrameAdapter.py:102: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  elif np.issubdtype(t, np.integer) or np.issubdtype(t, np.float):
+[I 13:05:57.083 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 13:06:34.957 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 13:07:03.316 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 13:07:19.218 NotebookApp] Saving file at /data_analysis/SnowyMountainsDataAnalysis.ipynb
+[I 13:13:57.976 NotebookApp] 302 GET / (209.126.136.4) 0.60ms
+[I 13:21:38.429 NotebookApp] 302 GET / (189.159.117.105) 0.54ms
+[W 13:32:29.471 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.18ms referer=None
+[W 13:39:22.408 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.69ms referer=None
+[I 14:24:37.778 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 14:24:38.662 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 14:25:06.423 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:27:09.616 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:29:09.834 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:30:05.409 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:31:10.779 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:33:38.285 NotebookApp] 302 GET / (180.246.56.76) 0.57ms
+[I 14:33:48.103 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:35:09.503 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:35:26.739 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:35:41.520 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:35:55.705 NotebookApp] 302 GET / (197.210.212.109) 0.67ms
+[I 14:36:12.586 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:38:59.595 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:46:13.550 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:46:25.174 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:46:50.529 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:47:10.028 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:48:51.900 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:49:09.524 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:49:43.862 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:49:49.857 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:50:03.925 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:50:34.180 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:51:09.696 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:51:13.553 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:52:32.365 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:52:41.269 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:52:56.272 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:54:52.633 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:57:21.320 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:58:46.458 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:59:09.595 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 14:59:25.019 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:00:29.148 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:00:48.955 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:01:09.568 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:01:18.921 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:01:38.194 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:02:13.211 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:02:33.988 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:03:09.604 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:04:04.774 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:04:33.392 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:04:51.227 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:04:53.401 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:04:54.095 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:05:06.178 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:06:39.643 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:06:50.950 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:06:51.718 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:07:06.414 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:08:04.768 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:09:07.028 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:10:04.718 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:10:56.596 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:11:05.493 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:11:06.285 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:11:07.111 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:12:08.728 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:13:07.045 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:14:29.456 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:14:44.380 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:15:11.844 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:16:19.807 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:17:15.992 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:17:27.184 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:17:27.941 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:19:07.004 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:19:34.837 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:20:57.438 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:21:31.135 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:22:02.025 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:23:20.884 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:23:35.855 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:23:49.323 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:23:59.214 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:24:04.219 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:24:05.235 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:25:06.142 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:25:07.411 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:25:33.658 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:25:39.516 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:25:40.467 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:26:38.147 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:26:51.233 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:26:56.961 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:26:57.638 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:27:06.615 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:27:55.568 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:28:30.446 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:29:07.035 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:29:26.294 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:29:36.449 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:29:42.530 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:31:07.017 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:32:22.788 NotebookApp] 302 GET / (185.49.25.10) 0.67ms
+[I 15:33:07.024 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:33:13.739 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:33:54.001 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:34:27.821 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:35:07.069 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:36:47.396 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:37:07.014 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:39:07.013 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:39:39.460 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:41:07.034 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:41:29.527 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:41:55.514 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:42:14.767 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:42:21.024 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:42:21.734 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:42:56.609 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 15:43:12.745 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:43:13.598 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:45:06.691 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:47:06.765 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:49:13.675 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:51:44.061 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:51:53.573 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:51:56.612 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[W 15:51:56.654 NotebookApp] zmq message arrived on closed channel
+[I 15:51:57.432 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:51:59.528 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:53:15.152 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:53:16.022 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:53:21.801 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:53:22.702 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:54:31.053 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 15:54:35.770 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 15:54:36.554 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:55:34.021 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 15:57:44.483 NotebookApp] 302 GET / (197.220.198.110) 0.65ms
+[I 15:59:25.975 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:02:41.285 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:02:59.194 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:03:13.394 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:03:21.662 NotebookApp] Kernel restarted: 39c17b31-2c63-47d3-8a70-41a6305b779c
+[I 16:03:22.666 NotebookApp] Adapting to protocol v5.1 for kernel 39c17b31-2c63-47d3-8a70-41a6305b779c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 16:03:25.653 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:03:30.849 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:06:04.072 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 16:09:41.521 NotebookApp] Saving file at /hydr_confinement/hdyraulic_confinement_SM2_r2.ipynb

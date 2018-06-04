@@ -1,0 +1,15 @@
+ID,Source,Rock Unit,Rock Unit Code,Rock Type,chainage,UCS_min,UCS_max,UCS_avg,GSI_min,GSI_max,GSI_avg,GW_inflow,GW_pressure,sigma_ratio,SRF,sta_top,sta_bottom,azimuth,dip,Risk Situations,SM classification,SM ground rating,Excv. Class,Source_2,UCS_avg_2,E_intact,MR,GSI_avg_2,UCS_m,E_m,sigma_t,UCS_ratio,E_ratio
+1,Feasibility Study Report 2017,Kellys Plain Volcanics,Dkv,"dacite, rhyolite, tuff",0–600,80,200,120,55,70,60,,,,,,,,,,,,,Pells Sullivan Meynink 2018,80,32000,400,75,20,26000,0.5,0.3,0.8
+2,Feasibility Study Report 2017,Tantangara Formation,Syn-I,"sandstone, siltstone, shale",600–3000,20,100,50,20,55,40,,,,,,,,,,,,,Pells Sullivan Meynink 2018,50,12500,250,60,5,6500,0.2,0.1,0.5
+3,Feasibility Study Report 2017,Tantangara Formation,Syn-II,"sandstone, siltstone, shale",3000–7740,50,100,65,35,55,45,,,,,,,,,,,,,Pells Sullivan Meynink 2018,50,12500,250,60,5,6500,0.2,0.1,0.5
+4,Feasibility Study Report 2017,"Tantangara Formation faulted, sheared, or weathered",Syn-II,"sandstone, siltstone, shale","500–950, 2500–2600, 4030–4130, 5200–5300, 7700–7750",5,10,7,5,25,15,,,,,,,,,,,,,,,,,,,,,,
+5,Feasibility Study Report 2017,Temperance Formation,Oitd-I,"tuff, chert, arenite",7740–9850,80,150,100,40,70,65,,,,,,,,,,,,,Pells Sullivan Meynink 2018,100,35000,350,80,33,31000,1.1,0.3,0.9
+6,Feasibility Study Report 2017,"Temperance Formation faulted, sheared, or weathered",Oitd-I,"tuff, chert, arenite","7750–7800, 8800–8850",5,10,7,5,25,15,,,,,,,,,,,,,,,,,,,,,,
+7,Feasibility Study Report 2017,Boggy Plains Granite,Dgk2-I,granite,"8100–8300, 8850–9330",80,150,100,40,70,65,,,,,,,,,,,,,Pells Sullivan Meynink 2018,100,42500,425,80,33,37000,0.7,0.3,0.9
+8,Feasibility Study Report 2017,Boggy Plains Granite alteration zones,Dgk2-II,granite,"8050–8100, 8350–8400",5,10,7,5,25,15,,,,,,,,,,,,,,,,,,,,,,
+9,Feasibility Study Report 2017,Gooandra Volcanics,Oigl-I,"basalt pillow lava, rhyolite, schist, sandstone, shale",9850–14250,60,200,120,45,75,65,,,,,,,,,,,,,Pells Sullivan Meynink 2018,50,19000,380,60,5,10000,0.1,0.1,0.5
+10,Feasibility Study Report 2017,"Gooandra Volcanics faulted, sheared, or weathered",Oigl-I,"basalt pillow lava, rhyolite, schist, sandstone, shale","9330–9380, 9850–9900─ 10700–10800",5,10,7,5,25,15,,,,,,,,,,,,,,,,,,,,,,
+11,Feasibility Study Report 2017,Shaw Hill Gabbro,Og5,"gabbro, diorite, pyroxenite",14250–14700,75,150,100,40,70,60,,,,,,,,,,,,,Pells Sullivan Meynink 2018,80,36000,450,60,9,19000,0.1,0.1,0.5
+12,Feasibility Study Report 2017,Long Plain Fault zone,LPFZ,"slate, quartz",14700–15100,30,60,40,10,30,15,,,,,,,,,,,,,,,,,,,,,,
+13,Feasibility Study Report 2017,Ravine Beds,Ss2-II,"shale, siltstone, sandstone",15100-16200,20,60,35,20,40,35,,,,,,,,,,,,,Pells Sullivan Meynink 2018,80,24000,300,60,9,12500,0.3,0.1,0.5
+14,Feasibility Study Report 2017,Ravine Beds,Ss2-I,"shale, siltstone, sandstone",16200–26300,60,200,100,35,70,50,,,,,,,,,,,,,Pells Sullivan Meynink 2018,80,24000,300,60,9,12500,0.3,0.1,0.5
