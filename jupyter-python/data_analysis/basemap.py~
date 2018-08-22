@@ -1,0 +1,78 @@
+
+# system configuation
+#  move this to a separate json configuration file
+project_basedir = '/home/kaelin_joseph/projects/'
+
+
+
+
+
+
+# grass setup
+
+# set up Python for GRASS GIS
+import os
+import sys
+import subprocess
+import os.path
+from IPython.display import Image, display
+
+# set up GRASS GIS runtime environment
+gisbase = subprocess.check_output(["grass", "--config", "path"]).strip()
+os.environ['GISBASE'] = gisbase
+os.environ['GRASS_FONT'] = 'sans'
+os.environ['GRASS_OVERWRITE'] = '1'  #overwrite existing maps
+sys.path.append(os.path.join(gisbase, "etc", "python"))
+
+# set display modules to render into a file (named map.png by default)
+os.environ['GRASS_RENDER_IMMEDIATE'] = 'cairo'
+os.environ['GRASS_RENDER_FILE_READ'] = 'TRUE'
+os.environ['GRASS_LEGEND_FILE'] = 'legend.txt'
+
+# import GRASS GIS
+import grass.script as gs
+import grass.script.setup as gsetup
+from grass.script import core as grass
+
+# for pygrass
+from grass.pygrass.modules.shortcuts import raster as r, vector as v, general as g, display as d
+
+from subprocess import PIPE
+
+# further setup for GRASS GIS 
+gs.set_raise_on_error(True)
+#gs.set_capture_stderr(True)  #might be Python 2 vs 3 issue (unsure if Python 3 required for this Notebook)
+
+
+def read_grass(*args, **kwargs):
+    kwargs['stdout'] = grass.PIPE
+    kwargs['stderr'] = grass.PIPE
+    ps = grass.start_command(*args, **kwargs)
+    return ps.communicate()
+
+def grass_setup(project):
+    project_dir=project_basedir+project
+    os.chdir(project_dir)
+    return(project_dir)
+
+def grass_mapset(project, project_dir, crs):
+    location_path = project_dir+'/grassdata/'+project
+    startcmd = 'grass' + ' -c ' + crs+' -e ' + location_path
+    print(startcmd)
+    if os.path.exists(location_path) == False:
+        p = subprocess.Popen(startcmd, shell=True,
+                             stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        out, err = p.communicate()
+        if p.returncode != 0:
+            print >>sys.stderr, 'ERROR: %s' % err
+            print >>sys.stderr, 'ERROR: Cannot generate location (%s)' % startcmd
+            sys.exit(-1)
+        else:
+            print 'Created location %s' % location_path
+    else:
+        print 'The location ' + project + 'already exists.'
+    rcfile = gsetup.init(gisbase,
+                         project_dir + '/grassdata',
+                         project, "PERMANENT")
+    return(location_path, rcfile)
+
