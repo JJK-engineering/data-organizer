@@ -1,18 +1,19 @@
-# basemapy.py
-
 """ 
-prepare a set of raster basemaps for a project
-basemaps are suitable for geospatial querying from alignments
-basemaps are suitable for importing as layers into qgis
+    basemapy.py - Basemap Module
+      prepare a set of raster basemaps for a project
+      basemaps are suitable for geospatial querying from alignments
+      basemaps are suitable for importing as layers into qgis
 """
 
 
 # system configuation
-#  move this to a separate json configuration file
+#   move this to a separate json configuration file                                                     #JK ToDo
 project_basedir = '/home/kaelin_joseph/projects/'
 
 
 # grass setup
+#   setup is put into global namespace to enable grass functionality in a Jupyter Notebook importing this module
+#   putting setup into this module simplifies maintenance of the grass setup
 
 # set up Python for GRASS GIS
 import os
@@ -48,11 +49,23 @@ gs.set_raise_on_error(True)
 #gs.set_capture_stderr(True)  #might be Python 2 vs 3 issue (unsure if Python 3 required for this Notebook)
 
 
-class Basemap:
+class Basemap():
     """prepares a set of basemaps for project layout"""
 
+    project = None
+    
+    
+    def __init__(self, project):
+        self.project = project
+        print('project: ' + self.project)
+        print('\n')
+        print('dbg=0 in function arguments -> show error messages only')
+        print('dbg=1 in function arguments -> show std output from grass routines (verbose)')
+    
+    
     def read_grass(self, *args, **kwargs):
         """execute a grass function with error output """
+        # returns a tuple (stderr,stdout)
         kwargs['stdout'] = grass.PIPE
         kwargs['stderr'] = grass.PIPE
         ps = grass.start_command(*args, **kwargs)
@@ -69,7 +82,7 @@ class Basemap:
             sys.exit(0)
         return(project_dir)
 
-    
+
     def grass_mapset(self, project, project_dir, crs):
         """open mapset, creating a mapset if mapset location does not exist"""
         location_path = project_dir + '/grassdata/' + project
@@ -82,7 +95,7 @@ class Basemap:
             if p.returncode != 0:
                 print >>sys.stderr, 'ERROR: %s' % err
                 print >>sys.stderr, 'ERROR: Cannot generate location (%s)' % startcmd
-                sys.exit(-1)
+                sys.exit(-1)  #quits program
             else:
                 print('Created location %s' % location_path)
         else:
@@ -93,55 +106,162 @@ class Basemap:
         return(location_path, rcfile)
 
     
-    def inspect_dxf(self, project_dir, topogDXF):
+    def inspect_dxf(self, project_dir, topogDXF, dbg=0):
         """report layers of dxf data file"""
         if os.path.isfile(project_dir + topogDXF) == True:
             out = self.read_grass("v.in.dxf", input=topogDXF,flags='l')
-            print(out[0].decode())
+            print(out[dbg].decode())
         else:
             print(topogDXF + ' does not exist')
-
             
             
-    def import_dxf(self, project_dir, topogDXF, layers_dxf):
-        """import dxf data file into grass map topog_vect"""
+    def import_dxf(self, project_dir, topogDXF, layers_dxf, dbg=0):
+        """import DXF data file to grass map topog_vect"""
+        
+        # check that DXF data file exists and import if it exists
         if os.path.isfile(project_dir + topogDXF) == True:
             out = self.read_grass("v.in.dxf", input=topogDXF, layers=layers_dxf,  
                                   output='topog_vect')
-            print(out[0].decode())
+            print(out[dbg].decode())
         else:
             print(project_dir + topogDXF + ' does not exist')
+            
+        # rebuild topog_vect topogology as good practice
+        self.read_grass("v.build", map='topog_vect')
         print('import_dxf completed')
 
         
-    def rasterize_vect(self):
-        """convert topog_vect to raster DEM"""
-        # convert vector topograpy to raste demr
-        out = self.read_grass("v.to.rast", input='topog_vect', use='z', 
-                              output='topog_rast')
-        print(out[0].decode())
-        # reample raster dem
-        out = self.read_grass("r.resamp.rst", input='topog_rast', 
-                              elevation='topog_rast_resamp')
-        print(out[0].decode())
-        print('rasterixe_vect completed')
+    def rasterize_vect_lines(self, ew_res=10, ns_res=10, dbg=0):                                  #JK tmp fix !!
+        """convert vector topograpy using contour lines, polylines to raste dem"""
 
+        # convert topog_vect to raster DEM
+        out = self.read_grass("v.to.rast", input='topog_vect', use='z', 
+                              layer='-1', output='topog_rast')
+        print(out[dbg].decode())
+
+        # reample raster dem
+        out = self.read_grass("r.resamp.rst", input='topog_rast', ew_res=ew_res, ns_res=ns_res, 
+                              elevation='topog_rast_resamp')
+        print(out[dbg].decode())
+        print('rasterize_vect_lines completed')
+
+
+    def rasterize_vect_faces(self, ew_res=10, ns_res=10, overlap=3, dbg=0):                        #JK tmp fix !!
+        """convert vector topograpy using faces (dxf 3dfaces) to raste dem"""
+
+        # convert vector feature type from face to line
+        out = self.read_grass("v.type", input='topog_vect', layer=-1, from_type='face',
+                              to_type='line', output='topog_vect_lines')
+        print(out[dbg].decode())
+        print("v.type complete \n")
         
-    def hillslope(self):
+        # convert topog_vect to raster DEM
+        out = self.read_grass("v.to.rast", input='topog_vect_lines', use='z', 
+                              layer='-1', output='topog_rast')
+        print(out[dbg].decode())
+
+        # resample raster dem
+        out = self.read_grass("r.resamp.rst", input='topog_rast', ew_res=ew_res, ns_res=ns_res, 
+                              overlap=overlap, elevation='topog_rast_resamp')
+        print(out[dbg].decode())
+        print('rasterize_vect_faces completed')
+
+
+    def rasterize_vect_using_points(self, ew_res=10, ns_res=10, dbg=0):                           #JK fix !!
+        """convert vector topograpy using extracted points to raster dem"""
+
+        # extract points from vector topography
+        out = self.read_grass("v.to.points", input='topog_vect', layer=-1, output='topog_vect_points')
+        print(out[dbg].decode())
+        
+        # convert topog_vect_points to raster DEM using v.surf.idw (inverse distance weighting interpolation)
+        out = self.read_grass("v.surf.idw", input='topog_vect_points', 
+                              layer='-1', output='topog_rast_resamp')
+        print(out[dbg].decode())
+        print('rasterize_vect_using_points completed')
+                
+        
+    def hillslope(self, dbg=0):
         """create a hillslope raster map from raster DEM"""
         out = self.read_grass("r.slope.aspect", elevation='topog_rast_resamp',
                               slope='topog_slope')
-        print(out[0].decode())
+        print(out[dbg].decode())
         print('hillslope completed')
 
 
-    def relief_map(self):
+    def relief_map(self, dbg=0):
         """create an shaded relief map from raster DEM"""
         out = self.read_grass("r.relief", input='topog_rast_resamp',
                               output='topog_relief')
-        print(out[0].decode())
+        print(out[dbg].decode())
+
         out = self.read_grass("r.shade", shade='topog_relief', color='topog_rast_resamp',
                               output='topog_relief_color')
-        print(out[0].decode())
+        print(out[dbg].decode())
         print('shaded relief map completed')
+
+
+    def hydrology_map(self, dbg=0):
+        """create a hydrologic map from raster DEM"""
+
+        # determine watershed basins using a medium threshold size
+        out = self.read_grass("r.watershed", elevation='topog_rast_resamp',
+                              basin='topog_basin', threshold=100000)
+        print(out[dbg].decode())
+
+        # determine watercourses and accumulations using a low threshold size
+        out = self.read_grass("r.watershed", elevation='topog_rast_resamp',
+                              accumulation='topog_accum',
+                              stream='topog_stream', threshold=1000)
+        print(out[dbg].decode())
+
+        # filter accumulations (number of cells that drain through each cell) for > 100 and set these = 1
+        out = self.read_grass("r.mapcalc",
+                              expression='topog_accum_filtered = if(abs(topog_accum) > 1000, 1, null())')
+        print(out[dbg].decode())
+
+        # vectorize watershed basin raster data
+        out = self.read_grass("r.to.vect", input='topog_basin', 
+                              output='topog_basin_vect', type='area', flags='s')
+        print(out[dbg].decode())
+
+        # clean raster data of streamcourses in preparation for converting to vector data
+        out = self.read_grass("r.thin", input='topog_accum_filtered',
+                              output='topog_accum_thin')
+        print(out[dbg].decode())
+
+        # vectorize streamcourses raster data
+        out = self.read_grass("r.to.vect", input="topog_accum_thin", 
+                              out='topog_accum_vect', type='line', flags='s')
+        print(out[dbg].decode())
+        print('hydrologic map completed')
+        
+
+    def layout_map(self, project_dir, layoutPDF, dbg=0):
+        """create a project layout map (raster image) from a PNG image"""
+
+        # check that PNG image file exists and import if it exists        
+        if os.path.isfile(project_dir + layoutPDF) == True:
+            out = self.read_grass("r.in.gdal", input=layoutPDF,  
+                                  flags='o', verbose=True, output='layout_rast')
+            print(out[dbg].decode())
+        else:
+            print(project_dir + layoutPDF + ' does not exist')
+
+        # set boundary coordinates of layout image raster
+        # flag='c' sets region from current region
+        out = self.read_grass("r.region", map='layout_rast.red', flags='c', verbose=True)
+        print(out[dbg].decode())
+        out = self.read_grass("r.region", map='layout_rast.blue', flags='c', verbose=True)
+        print(out[dbg].decode())
+        out = self.read_grass("r.region", map='layout_rast.green', flags='c', verbose=True)
+        print(out[dbg].decode())
+            
+        # produce a composite image of layout_raster rgb components
+        out = self.read_grass("r.composite",
+                              red='layout_rast.red', blue='layout_rast.blue', green='layout_rast.green',
+                              verbose=True, output='layout_rast_rgb')
+        print(out[dbg].decode())
+        print('layout map completed')
+
 
