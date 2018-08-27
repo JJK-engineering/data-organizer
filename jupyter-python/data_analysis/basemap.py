@@ -3,11 +3,26 @@
       prepare a set of raster basemaps for a project
       basemaps are suitable for geospatial querying from alignments
       basemaps are suitable for importing as layers into qgis
+
+    Usage:')
+    1. map.inspect_dxf(project_dir, topogDXF): examine DXF data containing topography
+    2. map.import_dxf(project_dir, topogDXF, layers_dxf): import DXF data layer containing topography
+    3. rasterize vector data
+          map.rasterize_vect_lines
+          OR map.rasterize_vect_faces
+          OR map.rasterize_vect_using_points
+    4. 
+    
+    ... 3 vect -> rast routines with hints .... sparse/dense data, regular/irregular boundary ...
+    ... individual optional function parameters 
+
+    dbg=0 in function parameters -> show error messages only
+    dbg=1 in function parameters -> show std output from grass routines (verbose)
 """
 
 
 # system configuation
-#   move this to a separate json configuration file                                                     #JK ToDo
+#   move this to a separate json configuration file                                                     #JK Todo
 project_basedir = '/home/kaelin_joseph/projects/'
 
 
@@ -46,23 +61,28 @@ from subprocess import PIPE
 
 # further setup for GRASS GIS 
 gs.set_raise_on_error(True)
-#gs.set_capture_stderr(True)  #might be Python 2 vs 3 issue (unsure if Python 3 required for this Notebook)
+#gs.set_capture_stderr(True)  #might be Python 2 vs 3 issue
 
 
 class Basemap():
     """prepares a set of basemaps for project layout"""
 
-    project = None
-    
-    
     def __init__(self, project):
         self.project = project
-        print('project: ' + self.project)
-        print('\n')
-        print('dbg=0 in function arguments -> show error messages only')
-        print('dbg=1 in function arguments -> show std output from grass routines (verbose)')
-    
-    
+
+        #define project dir
+        project_dir = project_basedir + project + '/'
+        self.project_dir = project_dir
+        if os.path.exists(project_dir + 'grassdata') == True:
+            os.chdir(project_dir)
+        else:
+            raise SystemExit('The project dir ' + project_dir +'/grassdata does not yet exist and is required')
+            # handle error with os.mkdir(path)                                                          #JK ToDo
+        
+        print('project: ' + project + '\n')
+        print(__doc__)
+        
+        
     def read_grass(self, *args, **kwargs):
         """execute a grass function with error output """
         # returns a tuple (stderr,stdout)
@@ -70,24 +90,14 @@ class Basemap():
         kwargs['stderr'] = grass.PIPE
         ps = grass.start_command(*args, **kwargs)
         return ps.communicate()
-
     
-    def grass_setup(self, project):
-        """define project dir"""
-        project_dir=project_basedir + project + '/'
-        if os.path.exists(project_dir + 'grassdata') == True:
-            os.chdir(project_dir)
-        else:
-            print('The project dir ' + project_dir +'/grassdata does not yet exist and is required')
-            sys.exit(0)
-        return(project_dir)
 
-
-    def grass_mapset(self, project, project_dir, crs):
+    def grass_mapset(self, crs):
         """open mapset, creating a mapset if mapset location does not exist"""
-        location_path = project_dir + '/grassdata/' + project
+        location_path = self.project_dir + '/grassdata/' + self.project
         startcmd = 'grass' + ' -c ' + crs+' -e ' + location_path
         print(startcmd)
+
         if os.path.exists(location_path) == False:
             p = subprocess.Popen(startcmd, shell=True,
                                  stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -99,39 +109,41 @@ class Basemap():
             else:
                 print('Created location %s' % location_path)
         else:
-            print('The location ' + project + 'already exists')
-            rcfile = gsetup.init(gisbase,
-                                 project_dir + '/grassdata',
-                                 project, "PERMANENT")
+            print('The location ' + self.project + ' already exists')
+
+        rcfile = gsetup.init(gisbase,
+                             self.project_dir + '/grassdata',
+                             self.project, "PERMANENT")
+
         return(location_path, rcfile)
 
     
-    def inspect_dxf(self, project_dir, topogDXF, dbg=0):
+    def inspect_dxf(self, topogDXF, dbg=0):
         """report layers of dxf data file"""
-        if os.path.isfile(project_dir + topogDXF) == True:
+        if os.path.isfile(self.project_dir + topogDXF) == True:
             out = self.read_grass("v.in.dxf", input=topogDXF,flags='l')
             print(out[dbg].decode())
         else:
             print(topogDXF + ' does not exist')
             
             
-    def import_dxf(self, project_dir, topogDXF, layers_dxf, dbg=0):
+    def import_dxf(self, topogDXF, layers_dxf, dbg=0):
         """import DXF data file to grass map topog_vect"""
         
         # check that DXF data file exists and import if it exists
-        if os.path.isfile(project_dir + topogDXF) == True:
+        if os.path.isfile(self.project_dir + topogDXF) == True:
             out = self.read_grass("v.in.dxf", input=topogDXF, layers=layers_dxf,  
                                   output='topog_vect')
             print(out[dbg].decode())
         else:
-            print(project_dir + topogDXF + ' does not exist')
+            print(self.project_dir + topogDXF + ' does not exist')
             
         # rebuild topog_vect topogology as good practice
         self.read_grass("v.build", map='topog_vect')
         print('import_dxf completed')
 
         
-    def rasterize_vect_lines(self, ew_res=10, ns_res=10, dbg=0):                                  #JK tmp fix !!
+    def rasterize_vect_lines(self, ew_res=10, ns_res=10, dbg=0):
         """convert vector topograpy using contour lines, polylines to raste dem"""
 
         # convert topog_vect to raster DEM
@@ -153,7 +165,7 @@ class Basemap():
         out = self.read_grass("v.type", input='topog_vect', layer=-1, from_type='face',
                               to_type='line', output='topog_vect_lines')
         print(out[dbg].decode())
-        print("v.type complete \n")
+        print('v.type complete \n')
         
         # convert topog_vect to raster DEM
         out = self.read_grass("v.to.rast", input='topog_vect_lines', use='z', 
@@ -167,7 +179,7 @@ class Basemap():
         print('rasterize_vect_faces completed')
 
 
-    def rasterize_vect_using_points(self, ew_res=10, ns_res=10, dbg=0):                           #JK fix !!
+    def rasterize_vect_using_points(self, dbg=0):
         """convert vector topograpy using extracted points to raster dem"""
 
         # extract points from vector topography
@@ -237,16 +249,16 @@ class Basemap():
         print('hydrologic map completed')
         
 
-    def layout_map(self, project_dir, layoutPDF, dbg=0):
+    def layout_map(self, layoutPDF, dbg=0):
         """create a project layout map (raster image) from a PNG image"""
 
         # check that PNG image file exists and import if it exists        
-        if os.path.isfile(project_dir + layoutPDF) == True:
+        if os.path.isfile(self.project_dir + layoutPDF) == True:
             out = self.read_grass("r.in.gdal", input=layoutPDF,  
                                   flags='o', verbose=True, output='layout_rast')
             print(out[dbg].decode())
         else:
-            print(project_dir + layoutPDF + ' does not exist')
+            print(self.project_dir + layoutPDF + ' does not exist')
 
         # set boundary coordinates of layout image raster
         # flag='c' sets region from current region
