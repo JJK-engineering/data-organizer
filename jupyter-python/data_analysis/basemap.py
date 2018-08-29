@@ -1,23 +1,30 @@
 """ 
-    basemapy.py - Basemap Module
-      prepare a set of raster basemaps for a project
-      basemaps are suitable for geospatial querying from alignments
-      basemaps are suitable for importing as layers into qgis
+basemapy.py - Basemap Module
+    prepares a set of raster basemaps for a project
+       basemaps are suitable for geospatial querying from alignments
+       basemaps are suitable for importing as layers into qgis
 
-    Usage:')
-    1. map.inspect_dxf(project_dir, topogDXF): examine DXF data containing topography
-    2. map.import_dxf(project_dir, topogDXF, layers_dxf): import DXF data layer containing topography
-    3. rasterize vector data
-          map.rasterize_vect_lines
-          OR map.rasterize_vect_faces
-          OR map.rasterize_vect_using_points
-    4. 
-    
-    ... 3 vect -> rast routines with hints .... sparse/dense data, regular/irregular boundary ...
-    ... individual optional function parameters 
+Usage:
+    1. map = Basemap(project)                              instantiate a project basemap
+    2. map.inspect_dxf(project_dir, topogDXF)              examine DXF data containing topography
+    3. map.import_dxf(project_dir, topogDXF, layers_dxf)   import DXF data layer containing topography
+    4. map.rasterize_vect_lines                            rasterize vector data - sparse data, irregular bounds
+       OR map.rasterize_vect_faces                                               - dense date, regular bounds
+       OR map.rasterize_vect_using_points                                        - sparse data, regular bounds
+    5. map.hillslope()                                     create a hillslope raster map
+    6. map.relief_map()                                    create a shaded relief map
+    7. map.hydrology_map()                                 create a hydrologic map 
+    8. map.layout_map(layoutPDF)                           import PNG image with project layout
 
-    dbg=0 in function parameters -> show error messages only
-    dbg=1 in function parameters -> show std output from grass routines (verbose)
+Optional function parameters: 
+    all grass functions (except map)
+        dbg=0 in function parameters -> show error messages only
+        dbg=1 in function parameters -> show std output from grass routines (verbose)
+
+    def rasterize_vect_lines
+        ew_res=10, ns_res=10              -> change resolution as required
+    def rasterize_vect_faces
+        ew_res=10, ns_res=10, overlap=3   -> change resolution as required
 """
 
 
@@ -85,10 +92,10 @@ class Basemap():
         
     def read_grass(self, *args, **kwargs):
         """execute a grass function with error output """
-        # returns a tuple (stderr,stdout)
         kwargs['stdout'] = grass.PIPE
         kwargs['stderr'] = grass.PIPE
         ps = grass.start_command(*args, **kwargs)
+        # returns a tuple (stderr,stdout)
         return ps.communicate()
     
 
@@ -158,7 +165,7 @@ class Basemap():
         print('rasterize_vect_lines completed')
 
 
-    def rasterize_vect_faces(self, ew_res=10, ns_res=10, overlap=3, dbg=0):                        #JK tmp fix !!
+    def rasterize_vect_faces(self, ew_res=10, ns_res=10, overlap=3, dbg=0):
         """convert vector topograpy using faces (dxf 3dfaces) to raste dem"""
 
         # convert vector feature type from face to line
@@ -179,7 +186,7 @@ class Basemap():
         print('rasterize_vect_faces completed')
 
 
-    def rasterize_vect_using_points(self, dbg=0):
+    def rasterize_vect_using_points(self, npoints=12, power=2, dbg=0):
         """convert vector topograpy using extracted points to raster dem"""
 
         # extract points from vector topography
@@ -188,7 +195,7 @@ class Basemap():
         
         # convert topog_vect_points to raster DEM using v.surf.idw (inverse distance weighting interpolation)
         out = self.read_grass("v.surf.idw", input='topog_vect_points', 
-                              layer='-1', output='topog_rast_resamp')
+                              layer='-1', output='topog_rast_resamp', npoints=npoints, power=power)
         print(out[dbg].decode())
         print('rasterize_vect_using_points completed')
                 

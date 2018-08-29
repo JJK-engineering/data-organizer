@@ -1,0 +1,11 @@
+COMMAND: v.in.dxf -e input="/home/kaelin_joseph/projects/RogunHPP/data/testing/Test7_Rogun_ComponentExportFromSketchup.Layer9.dxf" output="Test1"
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Fri Jul 20 14:45:20 2018
+---------------------------------------------------------------------------------
+COMMAND: QGIS --quiet
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Thu Jul 19 14:43:16 2018
+---------------------------------------------------------------------------------
+COMMAND: v.to.points input="Test1@PERMANENT" layer="1" type="line" output="Test1_points" use="vertex" dmax=5
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Mon Jul 23 14:06:58 2018

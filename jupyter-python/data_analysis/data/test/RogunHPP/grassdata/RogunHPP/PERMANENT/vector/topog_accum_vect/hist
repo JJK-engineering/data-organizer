@@ -1,0 +1,3 @@
+COMMAND: r.to.vect -s input="topog_accum_thin" output="topog_accum_vect" type="line" column="value"
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP//grassdata
+LOCATION: RogunHPP MAPSET: PERMANENT USER: kaelin_joseph DATE: Wed Aug 29 09:46:28 2018

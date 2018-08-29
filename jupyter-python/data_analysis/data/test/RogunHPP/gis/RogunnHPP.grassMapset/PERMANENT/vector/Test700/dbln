@@ -1,0 +1,2 @@
+1/Test700_1|Test700_1|cat|$GISDBASE/$LOCATION_NAME/$MAPSET/sqlite/sqlite.db|sqlite
+2/Test700_2|Test700_2|cat|$GISDBASE/$LOCATION_NAME/$MAPSET/sqlite/sqlite.db|sqlite

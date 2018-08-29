@@ -1,0 +1,2 @@
+1/0|test999_0|cat|$GISDBASE/$LOCATION_NAME/$MAPSET/sqlite/sqlite.db|sqlite
+2/BOUNDARIES_FAULT|test999_boundaries_fault|cat|$GISDBASE/$LOCATION_NAME/$MAPSET/sqlite/sqlite.db|sqlite

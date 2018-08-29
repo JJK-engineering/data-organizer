@@ -1,0 +1,7 @@
+COMMAND: v.in.dxf -e input="/home/kaelin_joseph/projects/RogunHPP/data/testing/Aignment_DG4.dxf" output="test_alignment"
+GISDBASE: /home/kaelin_joseph//projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Mon Jul 30 08:33:25 2018
+---------------------------------------------------------------------------------
+COMMAND: v.to.points input="test_alignment" layer="1" type="point,line,boundary,centroid,face" output="test_points" dmax=100
+GISDBASE: /home/kaelin_joseph//projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Mon Jul 30 08:33:26 2018

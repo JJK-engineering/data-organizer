@@ -1,0 +1,3 @@
+COMMAND: r.to.vect -s input="topog_basin" output="topog_basin_vect" type="area" column="value"
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP//grassdata
+LOCATION: RogunHPP MAPSET: PERMANENT USER: kaelin_joseph DATE: Wed Aug 29 09:46:27 2018

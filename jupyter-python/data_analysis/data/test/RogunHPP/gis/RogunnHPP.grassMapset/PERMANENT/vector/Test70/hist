@@ -1,0 +1,3 @@
+COMMAND: v.in.dxf -e input="/home/kaelin_joseph/projects/RogunHPP/data/testing/Test7_Rogun_ComponentExportFromSketchup.Layer9.dxf" output="Test70"
+GISDBASE: /home/kaelin_joseph/projects/RogunHPP/gis
+LOCATION: RogunnHPP.grassMapset MAPSET: PERMANENT USER: kaelin_joseph DATE: Thu Jul 19 19:18:51 2018
