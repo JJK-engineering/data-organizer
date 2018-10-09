@@ -8,7 +8,8 @@ Usage:
     1. map = Basemap(project)                              instantiate a project basemap
     2. map.inspect_dxf(project_dir, topogDXF)              examine DXF data containing topography
     3. map.import_dxf(project_dir, topogDXF, layers_dxf)   import DXF data layer containing topography
-    4. map.rasterize_vect_lines                            rasterize vector data - sparse data, irregular bounds
+    4. map.rasterize_vect_lines                            rasterize vector data - sparse data, 
+                                                                                   irregular bounds
        OR map.rasterize_vect_faces                                               - dense date, regular bounds
        OR map.rasterize_vect_using_points                                        - sparse data, regular bounds
     5. map.hillslope()                                     create a hillslope raster map
@@ -34,7 +35,7 @@ project_basedir = '/home/kaelin_joseph/projects/'
 
 
 # grass setup
-#   setup is put into global namespace to enable grass functionality in a Jupyter Notebook importing this module
+#   setup is put into global namespace to enable grass functionality in Jupyter Notebook importing this module
 #   putting setup into this module simplifies maintenance of the grass setup
 
 # set up Python for GRASS GIS
@@ -70,6 +71,11 @@ from subprocess import PIPE
 gs.set_raise_on_error(True)
 #gs.set_capture_stderr(True)  #might be Python 2 vs 3 issue
 
+## set default encoding
+#import sys
+#reload(sys)
+#sys.setdefaultencoding('utf-8')
+
 
 class Basemap():
     """prepares a set of basemaps for project layout"""
@@ -84,7 +90,7 @@ class Basemap():
             os.chdir(project_dir)
         else:
             raise SystemExit('The project dir ' + project_dir +'/grassdata does not yet exist and is required')
-            # handle error with os.mkdir(path)                                                          #JK ToDo
+            # handle error with os.mkdir(path)                                                        #JK ToDo
         
         print('project: ' + project + '\n')
         print(__doc__)
@@ -129,7 +135,8 @@ class Basemap():
         """report layers of dxf data file"""
         if os.path.isfile(self.project_dir + topogDXF) == True:
             out = self.read_grass("v.in.dxf", input=topogDXF,flags='l')
-            print(out[dbg].decode())
+            #print(out[dbg].decode())
+            print(out[dbg].decode('utf8').encode('utf8'))
         else:
             print(topogDXF + ' does not exist')
             
