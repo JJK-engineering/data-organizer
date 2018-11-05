@@ -3730,3 +3730,578 @@ Xlib:  extension "XInputExtension" missing on display ":1.0".
 [I 06:32:04.064 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
 [I 06:36:49.053 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
 [I 06:36:55.079 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 07:14:30.524 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 07:14:41.585 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 07:14:43.945 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 07:14:44.653 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 07:16:32.350 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 07:20:35.011 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 07:22:34.995 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 07:22:47.118 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 07:22:47.887 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 07:24:40.750 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:24:59.813 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:25:19.342 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:27:30.459 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 07:27:36.458 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.45ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:27:57.911 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 07:28:22.910 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 07:28:23.792 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 07:28:26.890 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[W 07:28:26.961 NotebookApp] Replacing stale connection: 659633e3-4083-4a34-9427-48700676a17b:2FC182ED18194CB08BC5FE7605D5E231
+[I 07:28:27.138 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 07:28:51.005 NotebookApp] 302 GET / (139.162.79.87) 0.64ms
+[I 07:29:57.180 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 07:34:07.141 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:36:30.135 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:51:41.578 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:52:02.972 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:52:38.053 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:55:11.109 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:59:56.245 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 07:59:58.891 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 07:59:59.664 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:00:31.882 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:00:44.921 NotebookApp] 302 GET / (95.181.1.237) 0.72ms
+[I 08:01:14.594 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:02:35.597 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:02:59.717 NotebookApp] 302 GET / (179.189.201.115) 0.58ms
+[I 08:04:08.254 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:04:17.010 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:04:17.841 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:04:28.549 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:05:54.818 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:06:31.043 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:07:10.413 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:07:12.255 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:07:13.183 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:08:14.721 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:08:34.206 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:09:39.975 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:09:41.597 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:09:42.572 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:10:40.466 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:10:46.897 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:13:54.285 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:16:52.524 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:17:40.907 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:17:42.158 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:17:46.863 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:17:48.405 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:18:40.965 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:19:52.525 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:21:28.414 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:22:14.560 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:22:24.516 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:22:25.336 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:22:55.561 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:23:21.613 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:25:53.021 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:28:58.760 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:31:53.433 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:35:10.942 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:35:11.754 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:35:12.559 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:35:18.495 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:37:52.923 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:38:57.030 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:39:34.288 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:40:01.073 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:43:53.557 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:48:49.484 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:51:32.702 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:51:33.547 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:51:36.785 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:52:19.130 NotebookApp] 302 GET / (181.64.140.232) 0.49ms
+[I 08:52:21.552 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:55:54.195 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:58:53.323 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:59:16.480 NotebookApp] Kernel restarted: 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:59:17.263 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 08:59:23.314 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:59:26.235 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 08:59:54.999 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 09:01:53.401 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:03:30.574 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:03:36.593 NotebookApp] Saving file at /data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[I 09:03:49.195 NotebookApp] 302 GET / (185.143.221.49) 0.75ms
+[I 09:03:49.571 NotebookApp] 302 GET /tree? (185.143.221.49) 0.88ms
+[I 09:10:53.334 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:36:55.962 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:37:53.345 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:38:37.001 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:40:11.166 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:40:18.427 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:43:53.267 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:43:57.830 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:46:42.144 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:50:30.949 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:52:45.078 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:55:52.083 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:57:09.785 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:58:21.573 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:00:30.440 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:03:13.590 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:04:18.775 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:04:29.418 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:05:17.869 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:07:09.837 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:10:29.827 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:20:29.651 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:20:41.781 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:21:19.143 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:27:38.807 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:28:05.776 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:28:48.611 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:30:17.148 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:33:50.045 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:34:21.721 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:36:25.462 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:36:56.303 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:38:02.197 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:38:05.585 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:39:57.951 NotebookApp] 302 GET / (58.136.97.6) 0.50ms
+[I 10:42:00.616 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:42:07.251 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:43:41.662 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:45:38.668 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:48:21.754 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:48:37.288 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:49:44.992 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:50:10.860 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:50:25.596 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:51:29.937 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:52:55.936 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:53:09.315 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:53:13.691 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:55:26.558 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:56:33.361 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:57:09.507 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:58:00.762 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 10:58:01.730 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 10:58:03.054 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:01:40.801 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:05:51.434 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:07:09.172 NotebookApp] 302 GET / (191.17.161.48) 0.66ms
+[I 11:10:01.580 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:10:49.211 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:11:58.560 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:13:02.141 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:14:14.014 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:17:40.744 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:18:21.556 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:18:47.593 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:20:54.127 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:21:11.566 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:22:59.867 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.20ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:24:57.940 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 11:24:58.471 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 11:25:03.362 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[W 11:26:49.199 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.87ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:27:11.488 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 11:28:33.360 NotebookApp] 302 GET / (85.109.182.174) 0.59ms
+[I 11:49:13.945 NotebookApp] 302 GET / (107.170.211.92) 0.59ms
+[I 11:55:19.032 NotebookApp] 302 GET / (201.13.140.166) 0.57ms
+[I 12:17:21.610 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:21:30.931 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:24:36.962 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:25:53.498 NotebookApp] 302 GET / (180.253.26.250) 0.53ms
+[I 12:27:31.128 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:28:54.976 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:30:13.405 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:32:59.276 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:33:10.639 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:33:13.168 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:37:59.092 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:40:35.861 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:43:15.881 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:28.960 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:36.092 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:49.199 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:48:05.195 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:48:55.597 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:49:53.896 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:51:34.928 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:53:05.034 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:53:42.857 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:54:40.432 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:55:23.148 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:56:19.272 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:57:12.177 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:58:34.811 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:58:37.264 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:59:50.642 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:00:55.884 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:04:41.793 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:05:39.445 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:09:33.761 NotebookApp] 302 GET / (177.185.158.85) 0.63ms
+[I 13:11:55.281 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:06:58.621 NotebookApp] 302 GET / (198.108.66.96) 0.58ms
+[I 16:06:58.719 NotebookApp] 302 GET /tree? (198.108.66.96) 0.96ms
+[I 18:14:32.769 NotebookApp] 302 GET / (131.108.13.47) 0.51ms
+[I 18:45:04.781 NotebookApp] 302 GET / (61.216.152.133) 0.51ms
+[I 18:46:45.253 NotebookApp] 302 GET / (203.202.245.69) 0.48ms
+[I 18:50:32.534 NotebookApp] 302 GET / (23.20.41.185) 0.50ms
+[I 18:50:32.630 NotebookApp] 302 GET /tree? (23.20.41.185) 0.75ms
+[W 20:40:02.360 NotebookApp] 404 GET /admin/assets/js/views/login.js (87.251.81.83) 2.06ms referer=None
+[I 21:05:32.268 NotebookApp] 302 GET / (185.143.221.42) 0.59ms
+[I 21:05:32.561 NotebookApp] 302 GET /tree? (185.143.221.42) 0.92ms
+[I 21:34:18.301 NotebookApp] 302 GET / (138.219.108.19) 0.66ms
+[I 22:16:39.214 NotebookApp] 302 GET / (164.52.24.170) 0.53ms
+[W 22:22:11.489 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 22:22:27.941 NotebookApp] WebSocket ping timeout after 119789 ms.
+[W 22:22:28.472 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 22:36:56.624 NotebookApp] 302 GET / (201.92.168.100) 0.64ms
+[I 22:44:20.817 NotebookApp] 302 GET / (14.207.137.11) 0.73ms
+[I 23:23:13.677 NotebookApp] 302 GET / (141.105.87.186) 0.49ms
+[I 00:30:12.119 NotebookApp] 302 GET / (74.82.47.3) 0.51ms
+[I 00:39:21.813 NotebookApp] 302 GET / (125.162.148.20) 0.51ms
+[I 01:08:13.930 NotebookApp] 302 GET / (60.191.38.77) 0.46ms
+[I 01:08:14.590 NotebookApp] 302 GET /tree? (60.191.38.77) 0.78ms
+[I 01:53:56.326 NotebookApp] 302 GET / (177.125.44.181) 0.64ms
+[I 03:29:44.001 NotebookApp] 302 GET / (152.250.111.100) 0.60ms
+[I 03:29:44.005 NotebookApp] 302 GET / (152.250.111.100) 0.51ms
+[I 03:29:44.007 NotebookApp] 302 GET / (152.250.111.100) 0.41ms
+[I 04:53:04.454 NotebookApp] 302 GET / (200.153.253.25) 0.63ms
+[I 05:26:38.529 NotebookApp] 302 GET / (203.189.152.177) 0.62ms
+[W 07:01:25.345 NotebookApp] 403 POST /tmUnblock.cgi (185.244.25.155): '_xsrf' argument missing from POST
+[W 07:01:25.347 NotebookApp] 403 POST /tmUnblock.cgi (185.244.25.155) 2.75ms referer=None
+[W 07:01:25.399 NotebookApp] 404 GET /tmUnblock.cgi (185.244.25.155) 1.57ms referer=None
+[I 07:12:38.718 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 07:13:46.660 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 07:14:01.642 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 07:34:55.799 NotebookApp] 302 GET / (31.223.90.32) 0.57ms
+[I 08:18:07.756 NotebookApp] 302 GET / (185.143.221.23) 0.52ms
+[I 08:18:07.870 NotebookApp] 302 GET /tree? (185.143.221.23) 0.99ms
+[I 09:24:53.754 NotebookApp] 302 GET / (197.248.62.214) 0.75ms
+[W 09:38:44.524 NotebookApp] 403 POST /tmUnblock.cgi (185.244.25.144): '_xsrf' argument missing from POST
+[W 09:38:44.526 NotebookApp] 403 POST /tmUnblock.cgi (185.244.25.144) 2.89ms referer=None
+[W 09:38:44.568 NotebookApp] 404 GET /tmUnblock.cgi (185.244.25.144) 1.94ms referer=None
+[W 09:54:02.386 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.76ms referer=None
+[I 10:30:01.672 NotebookApp] 302 GET / (168.196.131.96) 0.71ms
+[I 13:02:53.770 NotebookApp] 302 GET / (189.47.255.97) 0.67ms
+[I 14:28:22.136 NotebookApp] 302 GET / (189.90.104.111) 0.56ms
+[W 17:20:03.899 NotebookApp] 404 GET /manager/html (123.249.0.172) 2.44ms referer=None
+[W 17:27:51.767 NotebookApp] 405 CONNECT www.google.com:443 (185.8.49.146) 2.32ms referer=None
+[I 19:07:19.314 NotebookApp] 302 GET / (165.227.185.126) 0.61ms
+[I 19:07:19.397 NotebookApp] 302 GET /tree? (165.227.185.126) 0.81ms
+[I 19:24:54.682 NotebookApp] 302 GET / (201.220.155.190) 0.60ms
+[W 20:19:00.407 NotebookApp] 405 CONNECT www.google.com:443 (185.8.49.146) 2.07ms referer=None
+[W 21:15:31.644 NotebookApp] WebSocket ping timeout after 119934 ms.
+[W 21:15:38.719 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 21:15:46.662 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 21:28:25.093 NotebookApp] 302 GET / (103.232.151.146) 0.47ms
+[I 23:33:32.683 NotebookApp] 302 GET / (41.86.48.130) 0.56ms
+[I 23:35:17.116 NotebookApp] 302 GET / (81.89.75.20) 0.63ms
+[I 00:04:20.398 NotebookApp] 302 GET / (184.105.247.195) 0.56ms
+[I 00:26:46.929 NotebookApp] 302 GET / (201.43.40.188) 0.58ms
+[I 01:19:26.586 NotebookApp] 302 GET / (185.143.221.42) 0.48ms
+[I 01:19:26.737 NotebookApp] 302 GET /tree? (185.143.221.42) 0.71ms
+[W 01:22:00.431 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 2.02ms referer=None
+[I 04:09:12.077 NotebookApp] 302 GET / (80.89.189.34) 0.57ms
+[I 05:16:02.786 NotebookApp] 302 GET / (85.229.97.33) 0.50ms
+[I 05:24:03.900 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[I 05:24:10.888 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 05:24:18.875 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[I 06:51:08.064 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:52:40.842 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:52:52.417 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:53:12.093 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:53:19.495 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:53:29.457 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:54:20.121 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:55:16.438 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 06:58:19.890 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:03:17.091 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:03:48.868 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:04:29.499 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:05:49.550 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:07:30.474 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:07:59.879 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:09:18.093 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:12:15.456 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:14:11.441 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:14:49.528 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 07:18:20.950 NotebookApp] 404 GET /manager/html (111.73.45.208) 1.84ms referer=None
+[I 07:19:57.557 NotebookApp] 302 GET / (114.33.32.11) 0.60ms
+[I 07:25:48.932 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:27:33.195 NotebookApp] 302 GET / (177.95.44.44) 0.60ms
+[I 07:36:50.946 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:38:13.945 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:42:19.224 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:46:08.918 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:47:09.004 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:47:54.807 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:48:01.187 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:51:51.910 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:53:19.613 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:54:01.180 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:55:44.413 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:56:06.547 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:56:08.772 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:57:07.937 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:58:49.298 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:58:58.354 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:00:16.527 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:01:40.186 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:04:03.520 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:09:48.826 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:11:46.993 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:15:19.097 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:22:48.772 NotebookApp] 302 GET / (119.18.147.159) 0.55ms
+[I 08:23:48.989 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:24:24.808 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:26:18.824 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:27:24.178 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:31:48.562 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:38:57.237 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:40:20.546 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:42:47.849 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:45:01.562 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:47:23.769 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:48:17.991 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:49:09.281 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 08:51:43.816 NotebookApp] 404 GET /favicon.ico (80.254.184.33) 2.02ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:53:48.130 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:54:58.450 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:59:18.087 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:04:48.085 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:05:51.148 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:08:06.647 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:10:19.463 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:11:16.390 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:15:49.501 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:19:28.988 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:21:24.478 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:21:32.433 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:23:21.917 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:26:38.139 NotebookApp] Kernel interrupted: 659633e3-4083-4a34-9427-48700676a17b
+[I 09:26:50.249 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:31:59.248 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:32:40.838 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:33:10.528 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:38:00.253 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:38:08.620 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:38:13.390 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:39:04.165 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:43:19.601 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:43:50.537 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:46:30.396 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:48:07.290 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:49:50.609 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:50:10.278 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:50:30.588 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:53:47.261 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:54:13.119 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:54:23.831 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:58:41.869 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:59:30.384 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:00:39.128 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:02:14.864 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:02:51.578 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:03:48.861 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:05:18.681 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:10:48.984 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:12:00.982 NotebookApp] 302 GET / (179.113.56.227) 0.57ms
+[I 10:16:19.797 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:19:25.152 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:21:49.084 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:23:27.884 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:24:08.188 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:28:08.979 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:28:52.571 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:29:13.516 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:29:26.230 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:29:59.932 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:30:57.098 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:31:24.046 NotebookApp] 302 GET / (203.128.16.2) 0.54ms
+[I 10:31:42.615 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:32:11.717 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:38:19.035 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:45:37.465 NotebookApp] 302 GET / (177.20.218.0) 0.60ms
+[I 10:51:04.151 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:52:12.323 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:53:37.703 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:54:50.629 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:55:30.729 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:56:33.428 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:57:30.889 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:59:03.102 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:00:19.773 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:00:58.866 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:01:33.107 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:05:49.662 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:08:49.456 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:33:21.561 NotebookApp] 404 GET /static/components/preact/preact.min.js.map (80.254.184.33) 2.09ms referer=None
+[W 11:33:21.587 NotebookApp] 404 GET /static/components/proptypes/index.js.map (80.254.184.33) 1.65ms referer=None
+[W 11:33:21.616 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (80.254.184.33) 2.14ms referer=None
+[I 11:38:49.256 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:42:15.640 NotebookApp] 302 GET / (103.118.113.227) 0.53ms
+[I 11:44:20.093 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:55:19.468 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:56:13.192 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:00:50.028 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:17:20.479 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:18:12.751 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:20:49.979 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:20:57.006 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:22:13.329 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:24:53.132 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:28:19.224 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:29:17.512 NotebookApp] 302 GET / (177.102.215.190) 0.58ms
+[I 12:29:31.116 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:31:46.286 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:33:49.376 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:38:29.786 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:39:21.764 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:39:52.432 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:44:49.142 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:23.267 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:32.857 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:47:21.405 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:47:52.786 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:50:18.276 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:52:25.847 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:52:30.013 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:53:53.424 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:54:37.776 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 13:03:50.735 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.67ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:06:45.688 NotebookApp] Adapting to protocol v5.1 for kernel 31cf8b39-7395-4c15-a003-4481a48e77f2
+[W 13:06:46.264 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.14ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalFaults.ipynb
+[W 13:06:47.476 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.02ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SurfaceDXFtoNodesCSV.GeologicalLayers.ipynb
+[I 13:06:47.547 NotebookApp] Adapting to protocol v5.1 for kernel b7373cfa-4c01-487f-b4cd-47e63f6e5250
+[W 13:06:56.813 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.58ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:07:24.048 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 13:09:34.039 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:12:06.747 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:13:30.599 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:14:09.815 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:14:13.157 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:18:25.147 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:22:29.680 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:22:36.806 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:26:25.423 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:27:03.123 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:30:25.204 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:31:57.766 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:33:19.121 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:33:49.912 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:38:32.508 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:38:36.426 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 13:38:45.285 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.45ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:39:01.264 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 13:39:20.352 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 13:39:25.522 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 13:41:08.809 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:43:32.371 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:49:59.385 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:50:07.029 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:50:49.933 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:52:57.296 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:53:30.080 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:55:40.471 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:58:20.130 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:00:59.309 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:02:12.458 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:02:16.901 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:03:29.302 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:05:10.460 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:06:30.971 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:06:49.707 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:07:18.146 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:08:35.996 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:09:58.636 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:11:42.987 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:14:30.111 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:48:59.613 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:53:31.358 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:56:29.031 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:58:28.795 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:02:29.096 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:02:56.185 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:06:31.432 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:07:38.541 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:07:42.759 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:10:29.108 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:11:20.759 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:11:28.925 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:14:29.678 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:18:31.147 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:20:10.106 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:20:12.896 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:21:57.812 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:24:58.342 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:25:28.685 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:30:29.958 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:32:51.375 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:33:03.963 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 15:33:05.093 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 15:35:26.317 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:40:26.907 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:58:52.355 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:00:27.885 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:02:28.666 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:05:26.812 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:10:27.608 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:13:33.171 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:14:00.636 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:14:22.679 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:15:27.092 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:20:26.884 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 16:21:27.574 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.82ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[I 16:21:42.541 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 16:25:28.027 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:27:13.259 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:30:28.770 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:32:21.828 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:35:27.087 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:39:17.825 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:40:27.700 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:41:30.755 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:42:52.997 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:45:02.165 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:45:28.014 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:46:54.571 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:47:01.438 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:50:28.140 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:50:56.142 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:59:47.268 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:01:25.668 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:01:50.761 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:02:15.643 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:05:27.969 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:08:59.020 NotebookApp] 302 GET / (189.18.105.106) 0.72ms
+[I 17:10:28.007 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:11:14.702 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:12:40.628 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:14:09.864 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:17:46.577 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:18:51.527 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:19:02.463 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:22:56.048 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:25:28.390 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:29:41.593 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:30:27.908 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:35:27.939 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:36:37.303 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:38:12.310 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:40:27.612 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:41:11.564 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:41:19.526 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:41:47.195 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 17:41:48.607 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[W 17:42:57.113 NotebookApp] 404 GET /manager/html (185.128.40.182) 2.47ms referer=None
+[I 17:45:27.654 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 17:50:28.059 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
