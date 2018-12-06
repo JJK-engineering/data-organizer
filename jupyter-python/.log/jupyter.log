@@ -5512,3 +5512,1229 @@ Xlib:  extension "XInputExtension" missing on display ":1.0".
 [I 08:14:23.423 NotebookApp] Kernel shutdown: 7520b5ee-bc02-49eb-8001-3f8a3a40697e
 [I 08:14:23.627 NotebookApp] Kernel shutdown: abf226e0-8fcd-4c60-93c4-98d3b545a240
 [I 08:14:31.725 NotebookApp] Kernel shutdown: 992e6179-0a4d-43b1-96b8-1eb0c98e2477
+[I 08:31:01.615 NotebookApp] 302 GET / (179.191.55.218) 0.65ms
+[I 09:33:34.246 NotebookApp] 302 GET / (46.1.108.227) 0.70ms
+[I 09:34:51.289 NotebookApp] 302 GET / (121.215.147.18) 0.50ms
+[I 09:38:21.676 NotebookApp] 302 GET / (196.52.43.104) 0.65ms
+[I 09:46:44.137 NotebookApp] 302 GET / (185.196.180.206) 0.60ms
+[I 10:00:35.821 NotebookApp] 302 GET / (122.102.43.242) 0.72ms
+[I 10:08:32.342 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:09:18.376 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:10:31.024 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:11:18.634 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:11:22.513 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:11:29.291 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:12:29.679 NotebookApp] 302 GET / (103.69.219.252) 0.63ms
+[I 10:14:03.024 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:20:30.967 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:21:25.473 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:23:25.510 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:42:30.698 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:43:00.791 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:43:25.884 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:45:46.997 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:45:52.879 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:47:25.879 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:51:18.885 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:51:25.483 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:51:27.925 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:52:26.001 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:53:07.473 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:53:48.818 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:55:25.448 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:57:25.445 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 10:57:49.590 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:05:25.461 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:05:40.749 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:34:51.592 NotebookApp] 302 GET / (146.247.39.93) 0.66ms
+[I 11:39:25.471 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:41:25.855 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:42:53.934 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:43:25.405 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:44:44.730 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:45:25.446 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:47:25.419 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:49:25.405 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:51:25.427 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:51:50.459 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:52:15.561 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:52:21.236 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:52:33.349 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[I 11:52:33.526 NotebookApp] Saving file at /data_analysis/PatternToolboxJK.ipynb
+[W 12:07:43.597 NotebookApp] WebSocket ping timeout after 119936 ms.
+[W 12:07:45.914 NotebookApp] WebSocket ping timeout after 119561 ms.
+[I 12:08:45.780 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 12:09:33.770 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[I 12:18:13.880 NotebookApp] Copying data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb to /data_analysis
+[W 12:18:20.044 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.45ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis-Copy1.ipynb
+[I 12:18:37.358 NotebookApp] Kernel started: 1f189b2c-607e-424b-984c-1000609ece27
+[I 12:18:38.357 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 12:20:39.874 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:22:39.037 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:24:39.242 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:26:38.943 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:26:42.254 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:28:39.380 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:29:12.804 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:29:19.802 NotebookApp] Kernel restarted: 1f189b2c-607e-424b-984c-1000609ece27
+[I 12:29:20.591 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 12:29:45.592 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:30:27.167 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:30:37.457 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:31:25.192 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:39:52.692 NotebookApp] 302 GET / (201.49.226.115) 0.60ms
+[I 12:52:38.398 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:53:30.538 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:54:37.895 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 12:56:26.598 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:57:55.731 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:58:49.477 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:59:09.413 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:01:46.192 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:02:37.502 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:03:17.559 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:03:54.042 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:04:25.511 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:04:38.557 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:06:33.708 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:07:05.648 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:07:38.924 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:08:37.672 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:08:49.929 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:09:45.836 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:10:33.569 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:10:58.022 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:12:25.655 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:12:37.796 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:13:07.119 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:14:37.741 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:28:37.646 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:32:37.374 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:33:41.412 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:34:37.375 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:36:25.420 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:36:25.731 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:36:37.492 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:37:46.246 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:38:41.286 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:40:39.437 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[W 13:41:45.970 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 2.31ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:41:49.280 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[W 13:42:39.081 NotebookApp] 404 GET /manager/html (204.13.67.244) 1.74ms referer=None
+[I 13:43:13.786 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:44:58.151 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 13:44:59.494 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 13:45:51.707 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 13:47:06.533 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:49:45.821 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 13:52:29.496 NotebookApp] WebSocket ping timeout after 119981 ms.
+[W 13:52:33.773 NotebookApp] WebSocket ping timeout after 119933 ms.
+[I 13:52:58.584 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 13:55:58.752 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[W 13:55:59.747 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.99ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/PatternToolboxJK.ipynb
+[I 13:56:51.983 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 13:57:28.630 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 14:26:59.421 NotebookApp] 302 GET / (88.231.157.161) 0.67ms
+[W 14:28:47.586 NotebookApp] 404 GET /manager/html (218.60.67.117) 1.65ms referer=None
+[W 15:13:20.134 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.62ms referer=None
+[I 15:31:58.273 NotebookApp] 302 GET / (92.115.64.229) 0.49ms
+[I 15:43:48.447 NotebookApp] 302 GET / (201.76.125.143) 0.55ms
+[W 15:54:21.984 NotebookApp] WebSocket ping timeout after 119955 ms.
+[W 15:54:28.631 NotebookApp] WebSocket ping timeout after 119918 ms.
+[W 15:54:28.754 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 16:18:58.414 NotebookApp] 302 GET / (103.109.238.146) 0.49ms
+[I 16:31:03.633 NotebookApp] 302 GET / (188.4.19.158) 0.56ms
+[W 16:36:30.436 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.70ms referer=None
+[I 16:51:05.771 NotebookApp] 302 GET / (73.210.240.115) 0.68ms
+[I 18:04:46.009 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 18:04:52.027 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[I 18:05:02.977 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 18:40:41.149 NotebookApp] 302 GET / (185.207.8.5) 0.41ms
+[I 18:47:08.228 NotebookApp] 302 GET / (163.172.32.18) 0.53ms
+[I 19:32:07.172 NotebookApp] 302 GET / (209.17.96.50) 0.49ms
+[W 20:24:02.978 NotebookApp] WebSocket ping timeout after 119939 ms.
+[W 20:24:16.012 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 20:24:22.029 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 21:48:37.122 NotebookApp] 302 GET / (103.10.63.226) 0.46ms
+[I 23:12:56.797 NotebookApp] 302 GET / (101.127.166.241) 0.57ms
+[I 00:07:12.594 NotebookApp] 302 GET / (184.105.247.252) 0.48ms
+[I 00:08:36.554 NotebookApp] 302 GET / (191.255.60.121) 0.59ms
+[I 02:17:20.158 NotebookApp] 302 GET / (222.165.33.170) 0.62ms
+[I 02:43:15.777 NotebookApp] 302 GET / (177.52.26.34) 0.55ms
+[W 03:20:55.975 NotebookApp] 404 GET /manager/html (58.215.75.210) 1.64ms referer=None
+[W 03:24:24.059 NotebookApp] 404 GET /manager/html (118.37.46.1) 1.58ms referer=None
+[I 03:57:59.566 NotebookApp] 302 GET / (177.45.241.227) 0.51ms
+[I 05:26:11.464 NotebookApp] 302 GET / (194.143.249.9) 0.66ms
+[I 06:17:49.670 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 06:18:01.897 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 06:18:07.866 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[W 06:47:01.898 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 06:47:07.867 NotebookApp] WebSocket ping timeout after 119887 ms.
+[W 06:47:19.671 NotebookApp] WebSocket ping timeout after 119915 ms.
+[I 07:56:32.559 NotebookApp] 302 GET / (170.79.83.2) 0.49ms
+[I 08:17:28.076 NotebookApp] 302 GET / (183.101.154.208) 0.57ms
+[I 08:33:35.333 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 08:33:41.108 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[I 08:33:54.749 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:38:10.456 NotebookApp] 302 GET / (109.160.106.193) 0.49ms
+[I 08:45:49.280 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[W 08:45:51.641 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.43ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 08:47:01.915 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 2.31ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 08:47:04.531 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 2.08ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/PatternToolboxJK.ipynb
+[I 08:47:04.655 NotebookApp] Adapting to protocol v5.1 for kernel 5e8524aa-26a9-4967-9612-b500e5a1602f
+[W 08:47:05.056 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 2.81ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 08:49:04.185 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 08:49:35.740 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:52:30.267 NotebookApp] Kernel restarted: 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:52:31.047 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:53:32.964 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 09:29:36.728 NotebookApp] 302 GET / (114.218.66.211) 0.58ms
+[W 09:58:01.048 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 10:18:44.726 NotebookApp] 302 GET / (149.140.87.175) 0.60ms
+[I 10:33:59.909 NotebookApp] 302 GET / (58.187.9.195) 0.44ms
+[I 10:34:00.216 NotebookApp] 302 GET /tree? (58.187.9.195) 0.97ms
+[I 11:01:07.516 NotebookApp] 302 GET / (200.232.128.238) 0.72ms
+[I 11:07:31.954 NotebookApp] 302 GET / (24.154.215.183) 0.77ms
+[I 11:12:59.781 NotebookApp] 302 GET / (171.244.68.6) 0.68ms
+[I 12:00:22.566 NotebookApp] 302 GET / (60.191.38.77) 0.46ms
+[I 12:00:23.244 NotebookApp] 302 GET /tree? (60.191.38.77) 0.81ms
+[I 12:03:45.910 NotebookApp] 302 GET / (181.211.101.58) 0.46ms
+[I 12:31:15.558 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 13:19:34.949 NotebookApp] 302 GET / (109.62.201.172) 0.50ms
+[W 15:55:15.560 NotebookApp] WebSocket ping timeout after 119936 ms.
+[I 16:36:08.716 NotebookApp] 302 GET / (114.25.124.198) 0.49ms
+[I 17:21:29.421 NotebookApp] 302 GET / (47.40.138.221) 0.62ms
+[I 18:02:32.433 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 20:53:08.290 NotebookApp] 302 GET / (186.219.242.168) 6.42ms
+[W 21:15:02.434 NotebookApp] WebSocket ping timeout after 119956 ms.
+[I 22:34:56.871 NotebookApp] 302 GET / (191.255.217.34) 0.81ms
+[I 22:47:00.049 NotebookApp] 302 GET / (180.234.213.196) 0.89ms
+[I 00:26:23.559 NotebookApp] 302 GET / (184.105.247.196) 0.42ms
+[I 02:03:24.640 NotebookApp] 302 GET / (177.138.251.78) 0.51ms
+[I 02:22:25.075 NotebookApp] 302 GET / (39.109.203.79) 0.52ms
+[I 05:30:08.929 NotebookApp] 302 GET / (95.7.213.240) 0.66ms
+[I 05:58:52.815 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 06:28:40.027 NotebookApp] 302 GET / (148.243.225.59) 0.59ms
+[I 06:38:24.962 NotebookApp] 302 GET / (118.100.111.57) 0.61ms
+[I 06:46:48.020 NotebookApp] 302 GET / (80.95.15.101) 0.47ms
+[I 07:29:03.173 NotebookApp] 302 GET / (201.43.219.195) 0.50ms
+[I 07:55:08.393 NotebookApp] 302 GET / (58.96.247.32) 0.62ms
+[W 09:25:29.153 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.45ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[I 09:25:44.812 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 09:28:20.805 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[I 10:00:01.924 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 10:00:56.166 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 10:12:48.056 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 10:34:25.046 NotebookApp] 302 GET / (200.158.92.185) 0.65ms
+[W 10:51:35.098 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.13ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:51:52.472 NotebookApp] Kernel started: 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 10:51:53.357 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 10:54:20.501 NotebookApp] 302 GET / (139.162.111.98) 0.60ms
+[W 11:18:05.755 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 2.26ms referer=None
+[I 11:32:04.600 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:34:49.957 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:45:45.848 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:46:14.000 NotebookApp] Kernel restarted: 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 11:46:14.009 NotebookApp] zmq message arrived on closed channel
+[I 11:46:15.153 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:48:26.004 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:51:32.825 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:02:02.797 NotebookApp] Adapting to protocol v5.1 for kernel 54685d48-a53d-49b7-8843-cccd61a96866
+[I 12:14:40.945 NotebookApp] Saving file at /data_analysis/RogunHPP.SetupBasemaps.r2.ipynb
+[I 13:30:54.090 NotebookApp] 302 GET / (87.251.221.4) 0.56ms
+[I 15:01:57.025 NotebookApp] 302 GET / (165.16.37.150) 0.49ms
+[I 15:23:32.069 NotebookApp] 302 GET / (196.251.28.113) 0.49ms
+[I 16:27:20.318 NotebookApp] 302 GET / (80.198.75.81) 0.68ms
+[W 17:15:04.402 NotebookApp] 404 GET /manager/html (218.60.67.117) 2.36ms referer=None
+[I 17:57:36.909 NotebookApp] 302 GET / (78.178.40.97) 0.64ms
+[I 18:05:40.796 NotebookApp] 302 GET / (186.226.218.117) 0.76ms
+[W 18:25:32.118 NotebookApp] 404 GET /manager/html (218.60.67.118) 1.79ms referer=None
+[I 20:06:10.937 NotebookApp] 302 GET / (103.90.207.66) 0.55ms
+[I 20:15:15.186 NotebookApp] 302 GET / (177.185.221.225) 0.60ms
+[W 20:19:58.150 NotebookApp] 404 GET /manager/html (218.60.67.119) 1.79ms referer=None
+[W 20:56:22.817 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 22:28:25.422 NotebookApp] 302 GET / (46.235.181.102) 0.54ms
+[I 00:02:32.029 NotebookApp] 302 GET / (216.218.206.69) 0.57ms
+[I 00:32:23.443 NotebookApp] 302 GET / (179.111.95.106) 0.71ms
+[W 00:43:53.175 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 1.87ms referer=None
+[I 03:12:45.305 NotebookApp] 302 GET / (78.212.188.38) 0.47ms
+[I 03:12:45.326 NotebookApp] 302 GET /tree? (78.212.188.38) 0.89ms
+[W 03:15:44.245 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.72ms referer=None
+[I 04:02:51.717 NotebookApp] 302 GET / (103.15.253.181) 0.55ms
+[I 04:35:40.292 NotebookApp] 302 GET / (181.197.104.82) 0.53ms
+[I 04:44:42.255 NotebookApp] 302 GET / (91.205.51.35) 0.47ms
+[I 04:47:49.141 NotebookApp] 302 GET / (23.253.156.200) 0.46ms
+[I 04:47:49.225 NotebookApp] 302 GET /tree? (23.253.156.200) 0.85ms
+[I 04:58:46.927 NotebookApp] 302 GET / (46.237.68.179) 0.53ms
+[I 04:58:48.437 NotebookApp] 302 GET / (209.17.96.10) 0.46ms
+[I 05:07:48.762 NotebookApp] 302 GET / (109.242.249.135) 0.69ms
+[I 05:51:08.996 NotebookApp] 302 GET / (181.112.159.86) 0.70ms
+[I 06:00:58.341 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 06:38:13.492 NotebookApp] 302 GET / (90.188.36.146) 0.58ms
+[I 06:42:07.579 NotebookApp] 302 GET / (60.191.38.77) 0.46ms
+[I 06:42:08.239 NotebookApp] 302 GET /tree? (60.191.38.77) 0.75ms
+[I 06:55:47.487 NotebookApp] 302 GET / (114.134.11.31) 0.63ms
+[I 07:11:02.074 NotebookApp] 302 GET / (82.200.161.102) 0.58ms
+[I 07:36:06.862 NotebookApp] 302 GET / (83.19.11.74) 0.77ms
+[W 07:39:12.736 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.11ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:39:33.794 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 07:43:45.406 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:55:44.164 NotebookApp] 302 GET / (31.184.195.108) 0.60ms
+[I 07:57:26.676 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 07:57:51.255 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:00:27.812 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:00:35.825 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:06:50.661 NotebookApp] 302 GET / (103.70.188.154) 0.72ms
+[I 08:08:32.746 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:16:12.360 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 08:27:26.068 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.82ms referer=None
+[I 08:58:19.539 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:09:49.579 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:19:37.396 NotebookApp] 302 GET / (45.56.107.219) 0.70ms
+[I 09:23:34.978 NotebookApp] 302 GET / (190.145.120.182) 0.56ms
+[I 09:52:29.853 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:55:51.106 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 10:07:50.581 NotebookApp] 404 GET http://www.bing.com/ (91.195.99.114) 1.73ms referer=None
+[I 10:24:31.495 NotebookApp] 302 GET / (211.202.237.168) 0.52ms
+[I 10:57:10.262 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:08:37.153 NotebookApp] 302 GET / (45.115.255.242) 0.52ms
+[W 11:24:31.890 NotebookApp] 404 GET /manager/html (218.60.67.79) 1.67ms referer=None
+[I 12:25:15.141 NotebookApp] 302 GET / (103.10.231.230) 0.49ms
+[I 12:40:59.339 NotebookApp] 302 GET / (83.226.181.241) 0.64ms
+[I 12:51:11.646 NotebookApp] 302 GET / (185.143.221.42) 0.50ms
+[I 12:51:11.865 NotebookApp] 302 GET /tree? (185.143.221.42) 0.90ms
+[I 13:43:46.141 NotebookApp] 302 GET / (103.10.231.21) 0.53ms
+[I 14:14:03.782 NotebookApp] 302 GET / (24.211.237.230) 0.70ms
+[I 14:19:45.619 NotebookApp] 302 GET / (177.55.177.235) 0.68ms
+[I 14:58:04.104 NotebookApp] 302 GET / (158.58.225.105) 0.48ms
+[I 16:07:11.561 NotebookApp] 302 GET / (198.108.66.128) 0.62ms
+[I 16:07:11.658 NotebookApp] 302 GET /tree? (198.108.66.128) 0.72ms
+[I 16:37:51.611 NotebookApp] 302 GET / (185.143.223.34) 0.53ms
+[I 16:37:51.664 NotebookApp] 302 GET /tree? (185.143.223.34) 0.93ms
+[W 17:30:20.640 NotebookApp] 404 GET /manager/html (204.44.65.126) 1.63ms referer=None
+[I 17:44:38.545 NotebookApp] 302 GET / (61.81.0.152) 0.54ms
+[I 18:34:24.933 NotebookApp] 302 GET / (36.237.102.76) 0.58ms
+[I 19:20:13.817 NotebookApp] 302 GET / (103.242.0.104) 0.49ms
+[I 19:20:14.088 NotebookApp] 302 GET /tree? (103.242.0.104) 0.84ms
+[W 19:47:03.795 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 19:47:28.342 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 19:48:05.505 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 19:48:30.511 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 20:51:32.997 NotebookApp] 302 GET / (60.191.38.77) 0.43ms
+[I 20:51:33.596 NotebookApp] 302 GET /tree? (60.191.38.77) 0.72ms
+[I 22:40:43.876 NotebookApp] 302 GET / (185.143.223.13) 0.48ms
+[I 22:40:43.987 NotebookApp] 302 GET /tree? (185.143.223.13) 0.75ms
+[I 23:53:47.704 NotebookApp] 302 GET / (61.92.228.44) 0.60ms
+[I 00:24:33.530 NotebookApp] 302 GET / (184.105.247.195) 0.51ms
+[I 00:39:58.291 NotebookApp] 302 GET / (152.249.120.183) 0.54ms
+[I 00:45:04.456 NotebookApp] 302 GET / (186.138.139.77) 0.53ms
+[W 00:46:17.845 NotebookApp] 404 GET http://5.188.210.12/echo.php (5.188.210.12) 1.92ms referer=https://www.google.com/
+[W 01:18:16.474 NotebookApp] 404 GET /manager/html (200.37.252.82) 1.69ms referer=None
+[I 02:04:10.214 NotebookApp] 302 GET / (92.112.45.15) 0.65ms
+[I 02:43:10.528 NotebookApp] 302 GET / (124.244.254.198) 0.47ms
+[W 02:45:11.831 NotebookApp] 404 GET /manager/html (175.6.25.183) 1.83ms referer=None
+[I 03:36:15.161 NotebookApp] 302 GET / (185.36.173.225) 0.63ms
+[I 03:45:00.673 NotebookApp] 302 GET / (118.97.142.250) 0.61ms
+[I 03:51:24.026 NotebookApp] 302 GET / (177.139.123.137) 0.67ms
+[I 03:51:24.027 NotebookApp] 302 GET / (177.139.123.137) 0.45ms
+[W 05:00:22.936 NotebookApp] 404 GET /manager/html (58.215.75.210) 1.57ms referer=None
+[W 07:16:21.757 NotebookApp] 404 GET /manager/html (103.242.2.60) 1.58ms referer=None
+[I 09:53:01.500 NotebookApp] 302 GET / (190.195.205.58) 0.65ms
+[I 09:55:54.893 NotebookApp] 302 GET / (196.52.43.130) 0.60ms
+[I 10:17:58.525 NotebookApp] 302 GET / (194.61.25.45) 0.52ms
+[I 10:17:58.580 NotebookApp] 302 GET /tree? (194.61.25.45) 0.74ms
+[I 10:31:37.437 NotebookApp] 302 GET / (180.248.24.157) 0.62ms
+[I 11:05:26.174 NotebookApp] 302 GET / (176.106.3.205) 0.48ms
+[I 11:21:04.168 NotebookApp] 302 GET / (103.74.94.92) 0.47ms
+[I 11:22:00.429 NotebookApp] 302 GET / (138.97.218.243) 0.56ms
+[I 11:30:50.481 NotebookApp] 302 GET / (51.15.191.81) 0.59ms
+[W 11:51:28.153 NotebookApp] 403 POST /tmUnblock.cgi (27.140.189.162): '_xsrf' argument missing from POST
+[W 11:51:28.155 NotebookApp] 403 POST /tmUnblock.cgi (27.140.189.162) 2.07ms referer=None
+[I 12:21:44.849 NotebookApp] 302 GET / (157.119.227.105) 0.66ms
+[W 13:15:21.708 NotebookApp] 404 GET /manager/html (60.12.252.19) 1.65ms referer=None
+[I 13:15:29.263 NotebookApp] 302 GET / (185.143.223.13) 0.62ms
+[I 13:15:29.372 NotebookApp] 302 GET /tree? (185.143.223.13) 0.68ms
+[I 13:49:15.227 NotebookApp] 302 GET / (45.239.136.69) 0.49ms
+[I 14:00:39.556 NotebookApp] 302 GET / (138.94.139.19) 0.48ms
+[I 16:22:35.238 NotebookApp] 302 GET / (58.182.238.4) 0.57ms
+[I 16:36:42.714 NotebookApp] 302 GET / (217.61.109.220) 0.48ms
+[I 16:36:42.726 NotebookApp] 302 GET /tree? (217.61.109.220) 0.77ms
+[I 17:07:21.925 NotebookApp] 302 GET / (203.124.53.70) 0.73ms
+[I 17:35:21.977 NotebookApp] 302 GET / (31.184.195.108) 0.53ms
+[I 18:03:00.531 NotebookApp] 302 GET / (201.13.174.102) 0.67ms
+[I 19:21:58.844 NotebookApp] 302 GET / (31.184.195.108) 0.61ms
+[W 20:27:11.722 NotebookApp] 404 GET /manager/html (60.190.237.234) 1.64ms referer=None
+[W 20:27:12.338 NotebookApp] 404 GET /manager/html (118.37.46.1) 1.93ms referer=None
+[W 20:31:04.076 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 2.11ms referer=None
+[I 21:36:44.226 NotebookApp] 302 GET / (187.34.217.198) 0.60ms
+[W 22:03:30.512 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 22:03:35.506 NotebookApp] WebSocket ping timeout after 119864 ms.
+[I 22:55:18.667 NotebookApp] 302 GET / (36.237.90.53) 0.57ms
+[I 23:00:41.725 NotebookApp] 302 GET / (201.93.205.225) 0.63ms
+[I 23:10:33.192 NotebookApp] 302 GET / (196.219.197.126) 0.47ms
+[I 23:50:02.930 NotebookApp] 302 GET / (46.101.187.87) 0.63ms
+[I 00:11:32.386 NotebookApp] 302 GET / (74.82.47.2) 0.45ms
+[I 01:00:40.598 NotebookApp] 302 GET / (177.101.141.189) 0.50ms
+[W 01:09:38.578 NotebookApp] 404 GET /manager/html (218.60.67.118) 1.60ms referer=None
+[W 01:20:18.307 NotebookApp] 404 GET /manager/html (218.60.67.119) 1.54ms referer=None
+[I 01:37:48.907 NotebookApp] 302 GET / (189.46.158.115) 0.77ms
+[W 01:56:47.660 NotebookApp] 404 GET HTTP/1.1 (80.211.90.168) 1.94ms referer=None
+[W 01:56:47.716 NotebookApp] 404 GET \phpmyadmin\scripts\setup.php (80.211.90.168) 1.77ms referer=None
+[W 01:56:47.773 NotebookApp] 404 GET /2phpmyadmin/scripts/setup.php (80.211.90.168) 1.65ms referer=None
+[W 01:56:47.824 NotebookApp] 404 GET /MyAdmin/scripts/setup.php (80.211.90.168) 1.77ms referer=None
+[W 01:56:47.893 NotebookApp] 404 GET /PHPMYADMIN/scripts/setup.php (80.211.90.168) 1.81ms referer=None
+[W 01:56:47.953 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 1.64ms referer=None
+[W 01:56:48.011 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (80.211.90.168) 1.85ms referer=None
+[W 01:56:48.063 NotebookApp] 404 GET /db/scripts/setup.php (80.211.90.168) 1.52ms referer=None
+[W 01:56:48.120 NotebookApp] 404 GET /dbadmin/scripts/setup.php (80.211.90.168) 1.61ms referer=None
+[W 01:56:48.172 NotebookApp] 404 GET /my/scripts/setup.php (80.211.90.168) 1.68ms referer=None
+[W 01:56:48.222 NotebookApp] 404 GET /myadmin/scripts/setup.php (80.211.90.168) 1.66ms referer=None
+[W 01:56:48.281 NotebookApp] 404 GET /mysql/scripts/setup.php (80.211.90.168) 2.10ms referer=None
+[W 01:56:48.337 NotebookApp] 404 GET /mysqladmin/scripts/setup.php (80.211.90.168) 1.52ms referer=None
+[W 01:56:48.400 NotebookApp] 404 GET /p/m/a/scripts/setup.php (80.211.90.168) 1.98ms referer=None
+[W 01:56:48.483 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 1.87ms referer=None
+[W 01:56:48.550 NotebookApp] 404 GET /phpLDAPadmin/scripts/setup.php (80.211.90.168) 1.77ms referer=None
+[W 01:56:48.623 NotebookApp] 404 GET /phpmy-admin/scripts/setup.php (80.211.90.168) 1.83ms referer=None
+[W 01:56:48.699 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (80.211.90.168) 1.87ms referer=None
+[W 01:56:48.774 NotebookApp] 404 GET /pma/scripts/setup.php (80.211.90.168) 1.69ms referer=None
+[W 01:56:48.834 NotebookApp] 404 GET /scripts/setup.php (80.211.90.168) 1.61ms referer=None
+[W 01:56:48.912 NotebookApp] 404 GET /setup.php (80.211.90.168) 1.88ms referer=None
+[W 01:56:48.996 NotebookApp] 404 GET /sqladm/scripts/setup.php (80.211.90.168) 2.02ms referer=None
+[W 01:56:49.057 NotebookApp] 404 GET /sqladmin/scripts/setup.php (80.211.90.168) 1.84ms referer=None
+[W 01:56:49.112 NotebookApp] 404 GET /sqlweb/scripts/setup.php (80.211.90.168) 1.89ms referer=None
+[W 01:56:49.181 NotebookApp] 404 GET /phpmyadmin/scripts/db___.init.php (80.211.90.168) 1.77ms referer=None
+[W 01:56:49.234 NotebookApp] 404 GET /phpMyAdmin/scripts/db___.init.php (80.211.90.168) 1.67ms referer=None
+[W 01:56:49.335 NotebookApp] 404 GET /phpMyAdmin/libraries/database_interface.lib.php (80.211.90.168) 1.70ms referer=None
+[W 01:56:49.416 NotebookApp] 404 GET /phpMyAdmin/css/phpmyadmin.css.php (80.211.90.168) 1.63ms referer=None
+[W 01:56:49.478 NotebookApp] 404 GET /phpmyadmin/config.user.inc.php (80.211.90.168) 1.65ms referer=None
+[W 01:56:49.557 NotebookApp] 404 GET /phpmyadmin/config_inf.php (80.211.90.168) 1.67ms referer=None
+[I 01:56:49.621 NotebookApp] 302 GET /phpmyadmin/4.2/installing/ (80.211.90.168) 0.75ms
+[W 01:56:49.679 NotebookApp] 404 GET /phpmyadmin/config.inc.php (80.211.90.168) 1.64ms referer=None
+[W 01:56:49.745 NotebookApp] 404 GET /config.inc.php (80.211.90.168) 1.70ms referer=None
+[W 01:56:49.805 NotebookApp] 404 GET /phpmyadmin/scripts/config.inc.php (80.211.90.168) 1.58ms referer=None
+[W 01:56:49.868 NotebookApp] 404 GET /phpmyadmin/config/config.inc.php (80.211.90.168) 1.68ms referer=None
+[W 01:56:49.934 NotebookApp] 404 GET /config/config.inc.php (80.211.90.168) 1.70ms referer=None
+[W 01:56:49.997 NotebookApp] 404 GET /phpMyAdmin/scripts/config.inc.php (80.211.90.168) 1.79ms referer=None
+[W 01:56:50.071 NotebookApp] 404 GET /phpMyAdmin/config/config.inc.php (80.211.90.168) 1.68ms referer=None
+[I 03:07:50.120 NotebookApp] 302 GET / (193.238.46.144) 0.46ms
+[I 03:07:50.135 NotebookApp] 302 GET /tree (193.238.46.144) 0.76ms
+[W 03:39:46.897 NotebookApp] 404 GET /manager/html (218.60.67.117) 1.60ms referer=None
+[I 03:40:37.155 NotebookApp] 302 GET / (188.60.227.44) 0.56ms
+[I 03:40:45.740 NotebookApp] 302 GET / (14.46.230.37) 0.52ms
+[I 03:44:54.711 NotebookApp] 302 GET / (218.2.0.179) 0.48ms
+[I 03:44:55.077 NotebookApp] 302 GET /tree? (218.2.0.179) 0.80ms
+[W 03:44:55.821 NotebookApp] 404 GET /index.action (218.2.0.179) 1.71ms referer=None
+[W 04:49:08.371 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.98ms referer=None
+[I 05:30:43.319 NotebookApp] 302 GET / (189.69.204.185) 0.59ms
+[I 05:37:43.905 NotebookApp] 302 GET / (43.252.159.78) 0.87ms
+[I 06:05:01.593 NotebookApp] 302 GET / (24.2.105.250) 0.71ms
+[I 06:10:15.289 NotebookApp] 302 GET / (58.176.25.222) 0.47ms
+[I 06:21:27.553 NotebookApp] 302 GET / (111.254.125.50) 0.48ms
+[I 06:47:52.563 NotebookApp] 302 GET / (172.222.85.86) 0.55ms
+[I 06:57:36.724 NotebookApp] 302 GET / (139.162.79.87) 0.49ms
+[I 07:00:18.363 NotebookApp] 302 GET / (137.74.30.6) 0.71ms
+[I 07:00:18.385 NotebookApp] 302 GET /tree? (137.74.30.6) 0.76ms
+[I 08:01:15.915 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:01:20.929 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 08:10:39.635 NotebookApp] 404 GET /adminsf (148.243.225.59) 2.08ms referer=None
+[I 09:41:23.039 NotebookApp] 302 GET / (189.46.10.137) 0.68ms
+[I 10:23:16.247 NotebookApp] 302 GET / (185.189.199.121) 0.66ms
+[I 11:19:51.031 NotebookApp] 302 GET / (93.157.154.82) 0.59ms
+[W 11:35:15.916 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 11:35:20.930 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 11:36:17.632 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 11:36:22.628 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 12:37:35.697 NotebookApp] 302 GET / (189.18.139.132) 0.52ms
+[W 12:48:03.051 NotebookApp] 404 GET /adminsf (148.243.225.59) 1.64ms referer=None
+[I 13:02:33.806 NotebookApp] 302 GET / (36.85.57.114) 0.46ms
+[I 13:05:50.892 NotebookApp] 302 GET / (189.78.232.180) 0.62ms
+[I 13:14:04.599 NotebookApp] 302 GET / (118.163.92.237) 0.60ms
+[W 14:18:18.706 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.89ms referer=None
+[I 15:00:27.932 NotebookApp] 302 GET / (73.208.136.249) 0.63ms
+[I 15:17:50.202 NotebookApp] 302 GET / (190.210.238.155) 0.77ms
+[I 16:49:05.722 NotebookApp] 302 GET / (109.248.61.24) 0.46ms
+[I 16:50:21.815 NotebookApp] 302 GET / (189.18.136.1) 0.64ms
+[I 17:11:25.559 NotebookApp] 302 GET / (189.78.166.66) 0.58ms
+[I 17:11:25.564 NotebookApp] 302 GET / (189.78.166.66) 0.55ms
+[I 17:34:31.697 NotebookApp] 302 GET / (201.18.241.2) 0.61ms
+[I 18:36:19.175 NotebookApp] 302 GET / (45.235.8.121) 0.54ms
+[W 19:35:27.076 NotebookApp] 404 GET HTTP/1.1 (80.211.90.168) 1.81ms referer=None
+[W 19:35:27.132 NotebookApp] 404 GET \phpmyadmin\scripts\setup.php (80.211.90.168) 1.63ms referer=None
+[W 19:35:27.184 NotebookApp] 404 GET /2phpmyadmin/scripts/setup.php (80.211.90.168) 1.94ms referer=None
+[W 19:35:27.248 NotebookApp] 404 GET /MyAdmin/scripts/setup.php (80.211.90.168) 1.75ms referer=None
+[W 19:35:27.301 NotebookApp] 404 GET /PHPMYADMIN/scripts/setup.php (80.211.90.168) 2.19ms referer=None
+[W 19:35:27.358 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 1.52ms referer=None
+[W 19:35:27.415 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (80.211.90.168) 1.60ms referer=None
+[W 19:35:27.470 NotebookApp] 404 GET /db/scripts/setup.php (80.211.90.168) 1.66ms referer=None
+[W 19:35:27.521 NotebookApp] 404 GET /dbadmin/scripts/setup.php (80.211.90.168) 1.49ms referer=None
+[W 19:35:27.587 NotebookApp] 404 GET /my/scripts/setup.php (80.211.90.168) 1.70ms referer=None
+[W 19:35:27.642 NotebookApp] 404 GET /myadmin/scripts/setup.php (80.211.90.168) 1.51ms referer=None
+[W 19:35:27.699 NotebookApp] 404 GET /mysql/scripts/setup.php (80.211.90.168) 1.93ms referer=None
+[W 19:35:27.766 NotebookApp] 404 GET /mysqladmin/scripts/setup.php (80.211.90.168) 1.88ms referer=None
+[W 19:35:27.826 NotebookApp] 404 GET /p/m/a/scripts/setup.php (80.211.90.168) 1.92ms referer=None
+[W 19:35:27.884 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 1.64ms referer=None
+[W 19:35:28.014 NotebookApp] 404 GET /phpLDAPadmin/scripts/setup.php (80.211.90.168) 1.67ms referer=None
+[W 19:35:28.090 NotebookApp] 404 GET /phpmy-admin/scripts/setup.php (80.211.90.168) 1.66ms referer=None
+[W 19:35:28.155 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (80.211.90.168) 1.71ms referer=None
+[W 19:35:28.208 NotebookApp] 404 GET /pma/scripts/setup.php (80.211.90.168) 1.68ms referer=None
+[W 19:35:28.285 NotebookApp] 404 GET /scripts/setup.php (80.211.90.168) 1.54ms referer=None
+[W 19:35:28.373 NotebookApp] 404 GET /setup.php (80.211.90.168) 1.89ms referer=None
+[W 19:35:28.432 NotebookApp] 404 GET /sqladm/scripts/setup.php (80.211.90.168) 2.20ms referer=None
+[W 19:35:28.493 NotebookApp] 404 GET /sqladmin/scripts/setup.php (80.211.90.168) 1.66ms referer=None
+[W 19:35:28.562 NotebookApp] 404 GET /sqlweb/scripts/setup.php (80.211.90.168) 1.64ms referer=None
+[W 19:35:28.614 NotebookApp] 404 GET /phpmyadmin/scripts/db___.init.php (80.211.90.168) 1.60ms referer=None
+[W 19:35:28.666 NotebookApp] 404 GET /phpMyAdmin/scripts/db___.init.php (80.211.90.168) 1.94ms referer=None
+[W 19:35:28.752 NotebookApp] 404 GET /phpMyAdmin/libraries/database_interface.lib.php (80.211.90.168) 1.75ms referer=None
+[W 19:35:28.820 NotebookApp] 404 GET /phpMyAdmin/css/phpmyadmin.css.php (80.211.90.168) 1.90ms referer=None
+[W 19:35:28.904 NotebookApp] 404 GET /phpmyadmin/config.user.inc.php (80.211.90.168) 2.03ms referer=None
+[W 19:35:28.965 NotebookApp] 404 GET /phpmyadmin/config_inf.php (80.211.90.168) 1.64ms referer=None
+[I 19:35:29.023 NotebookApp] 302 GET /phpmyadmin/4.2/installing/ (80.211.90.168) 0.59ms
+[W 19:35:29.080 NotebookApp] 404 GET /phpmyadmin/config.inc.php (80.211.90.168) 1.62ms referer=None
+[W 19:35:29.141 NotebookApp] 404 GET /config.inc.php (80.211.90.168) 1.66ms referer=None
+[W 19:35:29.203 NotebookApp] 404 GET /phpmyadmin/scripts/config.inc.php (80.211.90.168) 1.84ms referer=None
+[W 19:35:29.293 NotebookApp] 404 GET /phpmyadmin/config/config.inc.php (80.211.90.168) 1.63ms referer=None
+[W 19:35:29.346 NotebookApp] 404 GET /config/config.inc.php (80.211.90.168) 2.03ms referer=None
+[W 19:35:29.418 NotebookApp] 404 GET /phpMyAdmin/scripts/config.inc.php (80.211.90.168) 1.62ms referer=None
+[W 19:35:29.478 NotebookApp] 404 GET /phpMyAdmin/config/config.inc.php (80.211.90.168) 1.69ms referer=None
+[I 19:52:12.178 NotebookApp] 302 GET / (206.189.172.84) 0.48ms
+[I 19:52:12.313 NotebookApp] 302 GET /tree? (206.189.172.84) 0.69ms
+[I 20:17:04.134 NotebookApp] 302 GET / (31.184.195.108) 0.55ms
+[I 20:17:35.218 NotebookApp] 302 GET / (201.13.69.167) 0.50ms
+[W 21:30:17.634 NotebookApp] WebSocket ping timeout after 119955 ms.
+[W 21:30:22.629 NotebookApp] WebSocket ping timeout after 119964 ms.
+[I 22:28:57.180 NotebookApp] 302 GET / (165.16.43.66) 0.47ms
+[W 22:56:17.361 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.97ms referer=None
+[I 00:26:05.644 NotebookApp] 302 GET / (74.82.47.5) 0.53ms
+[I 00:43:59.795 NotebookApp] 302 GET / (179.113.96.26) 0.63ms
+[I 01:10:27.757 NotebookApp] 302 GET / (177.197.72.227) 0.93ms
+[I 01:45:10.789 NotebookApp] 302 GET / (186.219.56.7) 0.58ms
+[I 02:04:06.956 NotebookApp] 302 GET / (71.95.45.237) 0.63ms
+[W 02:39:24.874 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.154) 1.71ms referer=None
+[I 05:17:16.122 NotebookApp] 302 GET / (81.25.229.182) 0.48ms
+[I 05:47:50.897 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 05:47:55.882 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 06:06:45.541 NotebookApp] 403 POST /tmUnblock.cgi (181.22.106.14): '_xsrf' argument missing from POST
+[W 06:06:45.543 NotebookApp] 403 POST /tmUnblock.cgi (181.22.106.14) 2.27ms referer=None
+[I 08:50:20.784 NotebookApp] 302 GET / (177.103.234.231) 0.68ms
+[I 08:54:46.266 NotebookApp] 302 GET / (82.53.201.61) 0.67ms
+[I 08:54:46.276 NotebookApp] 302 GET / (82.53.201.61) 0.62ms
+[I 08:55:26.936 NotebookApp] 302 GET / (95.156.73.30) 0.59ms
+[I 09:36:44.450 NotebookApp] 302 GET / (60.191.38.77) 0.46ms
+[I 09:36:45.046 NotebookApp] 302 GET /tree? (60.191.38.77) 0.74ms
+[I 10:08:37.301 NotebookApp] 302 GET / (149.36.239.97) 0.63ms
+[I 10:12:07.435 NotebookApp] 302 GET / (213.155.252.132) 0.52ms
+[I 10:48:08.920 NotebookApp] 302 GET / (194.61.25.45) 0.46ms
+[I 10:48:08.975 NotebookApp] 302 GET /tree? (194.61.25.45) 0.71ms
+[I 13:23:55.081 NotebookApp] 302 GET / (36.72.194.34) 0.51ms
+[I 13:40:20.430 NotebookApp] 302 GET / (197.159.216.218) 0.58ms
+[W 14:06:12.570 NotebookApp] 404 GET /index.action (115.231.233.38) 1.77ms referer=None
+[I 14:28:14.250 NotebookApp] 302 GET / (31.184.195.108) 0.76ms
+[I 14:46:20.300 NotebookApp] 302 GET / (185.168.173.15) 0.57ms
+[W 15:15:33.930 NotebookApp] 404 GET /manager/html (218.60.67.79) 1.67ms referer=None
+[I 17:30:06.849 NotebookApp] 302 GET / (187.56.59.106) 0.53ms
+[I 17:31:42.955 NotebookApp] 302 GET / (189.78.135.51) 0.69ms
+[W 18:19:56.618 NotebookApp] 404 GET http://95.179.131.215/judge/ (35.227.36.152) 1.58ms referer=None
+[I 20:59:12.227 NotebookApp] 302 GET / (77.166.38.75) 0.71ms
+[I 21:24:10.485 NotebookApp] 302 GET / (191.37.132.228) 0.50ms
+[I 21:32:34.044 NotebookApp] 302 GET / (71.6.232.4) 0.42ms
+[W 21:32:50.898 NotebookApp] WebSocket ping timeout after 119923 ms.
+[W 21:32:55.883 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 22:34:14.181 NotebookApp] 302 GET / (201.95.145.167) 0.54ms
+[I 23:50:32.342 NotebookApp] 302 GET / (179.98.82.109) 0.61ms
+[I 00:12:21.810 NotebookApp] 302 GET / (61.19.190.57) 0.63ms
+[I 00:34:53.137 NotebookApp] 302 GET / (184.105.247.195) 0.49ms
+[I 02:07:52.881 NotebookApp] 302 GET / (31.13.228.11) 0.53ms
+[I 02:07:52.925 NotebookApp] 302 GET /tree? (31.13.228.11) 0.78ms
+[I 02:25:25.710 NotebookApp] 302 GET / (200.195.57.2) 0.64ms
+[I 02:33:58.503 NotebookApp] 302 GET / (91.121.203.94) 0.46ms
+[I 02:44:19.299 NotebookApp] 302 GET / (191.205.51.158) 0.61ms
+[I 02:44:19.303 NotebookApp] 302 GET / (191.205.51.158) 0.60ms
+[W 03:51:47.595 NotebookApp] 404 GET http://5.188.210.12/echo.php (5.188.210.12) 1.97ms referer=https://www.google.com/
+[I 04:05:43.619 NotebookApp] 302 GET / (180.211.233.50) 0.52ms
+[I 04:06:35.296 NotebookApp] 302 GET / (24.245.127.177) 0.57ms
+[I 05:17:04.998 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 05:17:09.976 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 06:13:04.998 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 06:13:09.977 NotebookApp] WebSocket ping timeout after 119931 ms.
+[I 06:17:52.906 NotebookApp] 302 GET / (103.53.108.2) 0.45ms
+[I 06:36:20.288 NotebookApp] 302 GET / (67.43.97.242) 0.65ms
+[I 06:38:44.275 NotebookApp] 302 GET / (185.46.149.62) 0.53ms
+[W 06:46:50.863 NotebookApp] 404 GET /manager/html (58.215.75.210) 1.67ms referer=None
+[I 08:13:10.664 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 08:13:15.668 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 10:02:10.666 NotebookApp] WebSocket ping timeout after 119910 ms.
+[W 10:02:15.669 NotebookApp] WebSocket ping timeout after 119977 ms.
+[I 10:08:50.375 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 10:08:55.376 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 10:22:38.530 NotebookApp] 302 GET / (201.43.42.30) 0.53ms
+[W 11:09:01.549 NotebookApp] 404 GET /manager/html (111.73.46.162) 1.98ms referer=None
+[W 11:31:20.376 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 11:31:25.377 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 11:33:36.043 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 11:33:41.027 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 11:59:41.028 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 12:00:06.045 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 12:01:16.697 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 12:01:41.691 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 13:28:21.184 NotebookApp] 302 GET / (185.245.71.61) 0.64ms
+[I 15:26:58.485 NotebookApp] 302 GET / (209.17.97.98) 0.51ms
+[I 15:28:49.571 NotebookApp] 302 GET / (177.45.143.68) 0.68ms
+[W 15:59:11.693 NotebookApp] WebSocket ping timeout after 119967 ms.
+[W 15:59:16.698 NotebookApp] WebSocket ping timeout after 119891 ms.
+[I 16:27:28.153 NotebookApp] 302 GET / (150.242.254.254) 0.49ms
+[I 16:39:35.389 NotebookApp] 302 GET / (200.207.69.233) 0.56ms
+[I 17:26:50.952 NotebookApp] 302 GET / (90.22.84.126) 0.55ms
+[I 17:26:50.970 NotebookApp] 302 GET /tree? (90.22.84.126) 0.81ms
+[I 18:23:30.862 NotebookApp] 302 GET / (217.112.129.1) 0.49ms
+[I 18:29:31.732 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 18:29:36.737 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 18:36:33.170 NotebookApp] 302 GET / (89.97.148.240) 0.51ms
+[I 21:22:53.153 NotebookApp] 302 GET / (5.103.13.6) 0.58ms
+[W 21:37:01.733 NotebookApp] WebSocket ping timeout after 119880 ms.
+[W 21:37:06.738 NotebookApp] WebSocket ping timeout after 119760 ms.
+[I 23:11:57.660 NotebookApp] 302 GET / (189.68.119.87) 0.59ms
+[I 23:44:23.814 NotebookApp] 302 GET / (201.150.151.182) 0.60ms
+[W 00:21:49.972 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 1.88ms referer=None
+[W 01:03:27.038 NotebookApp] 403 POST /tmUnblock.cgi (68.232.48.10): '_xsrf' argument missing from POST
+[W 01:03:27.040 NotebookApp] 403 POST /tmUnblock.cgi (68.232.48.10) 2.80ms referer=None
+[I 01:03:27.040 NotebookApp] Malformed HTTP message from 68.232.48.10: Malformed HTTP request line
+[I 01:04:05.335 NotebookApp] 302 GET / (196.52.43.98) 0.73ms
+[W 01:16:02.027 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 1.73ms referer=None
+[W 01:18:51.325 NotebookApp] 404 GET /manager/html (218.60.67.119) 1.83ms referer=None
+[I 01:19:52.918 NotebookApp] 302 GET / (185.143.221.42) 0.50ms
+[I 01:19:53.040 NotebookApp] 302 GET /tree? (185.143.221.42) 0.84ms
+[W 01:39:22.680 NotebookApp] 404 GET /manager/html (218.60.67.118) 1.48ms referer=None
+[W 03:22:30.119 NotebookApp] 404 GET /manager/html (218.60.67.117) 1.65ms referer=None
+[I 04:53:12.971 NotebookApp] 302 GET / (60.191.38.77) 0.44ms
+[I 04:53:14.754 NotebookApp] 302 GET /tree? (60.191.38.77) 0.85ms
+[I 05:32:16.262 NotebookApp] 302 GET / (103.96.51.35) 0.54ms
+[I 06:04:27.977 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 06:04:33.024 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 06:17:27.978 NotebookApp] WebSocket ping timeout after 119957 ms.
+[W 06:17:33.025 NotebookApp] WebSocket ping timeout after 119883 ms.
+[I 06:48:06.266 NotebookApp] 302 GET / (159.65.124.253) 0.54ms
+[I 06:48:06.334 NotebookApp] 302 GET /tree? (159.65.124.253) 0.84ms
+[I 07:02:26.703 NotebookApp] 302 GET / (185.10.68.26) 0.53ms
+[I 07:30:56.325 NotebookApp] 302 GET / (42.188.255.171) 0.47ms
+[I 07:38:52.720 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 07:38:57.718 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 07:54:05.934 NotebookApp] 302 GET / (46.252.38.46) 0.62ms
+[I 08:11:45.561 NotebookApp] 302 GET / (179.34.79.170) 0.50ms
+[I 08:54:59.788 NotebookApp] 302 GET / (187.35.184.156) 0.56ms
+[I 09:00:23.149 NotebookApp] 302 GET / (106.68.181.117) 0.65ms
+[I 09:00:23.152 NotebookApp] 302 GET / (106.68.181.117) 0.63ms
+[I 09:38:46.540 NotebookApp] 302 GET / (43.252.221.9) 0.60ms
+[I 09:40:42.600 NotebookApp] 302 GET / (45.71.228.19) 0.60ms
+[I 10:23:15.803 NotebookApp] 302 GET / (43.225.169.194) 0.63ms
+[I 12:17:33.387 NotebookApp] 302 GET / (177.185.158.15) 0.47ms
+[I 13:11:08.677 NotebookApp] 302 GET / (177.21.100.207) 0.47ms
+[W 14:02:04.645 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.96ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:04:08.271 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 14:04:59.251 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 14:28:46.369 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[W 14:28:48.984 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.85ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[I 14:29:17.042 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 14:56:18.528 NotebookApp] 302 GET / (115.231.233.38) 0.47ms
+[I 14:56:21.012 NotebookApp] 302 GET /tree? (115.231.233.38) 0.84ms
+[W 14:56:27.057 NotebookApp] 404 GET /index.action (115.231.233.38) 1.64ms referer=None
+[W 14:56:31.491 NotebookApp] 403 POST /invoker/readonly (115.231.233.38): '_xsrf' argument missing from POST
+[W 14:56:31.492 NotebookApp] 403 POST /invoker/readonly (115.231.233.38) 2.17ms referer=http://104.155.55.255:8080/invoker/readonly
+[W 15:13:16.370 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 15:13:17.043 NotebookApp] WebSocket ping timeout after 119930 ms.
+[W 17:00:38.996 NotebookApp] 404 HEAD http://180.163.113.82/check_proxy (180.97.106.164) 1.62ms referer=None
+[I 17:40:00.697 NotebookApp] 302 GET / (181.191.200.170) 0.51ms
+[I 17:41:53.118 NotebookApp] 302 GET / (60.191.38.77) 0.45ms
+[I 17:41:53.779 NotebookApp] 302 GET /tree? (60.191.38.77) 0.70ms
+[I 17:50:36.327 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 17:54:59.268 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 18:38:55.536 NotebookApp] 302 GET / (196.41.195.223) 0.45ms
+[I 19:12:03.138 NotebookApp] 302 GET / (187.56.253.167) 0.61ms
+[W 21:10:29.269 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 21:10:36.328 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 00:02:40.143 NotebookApp] 302 GET / (182.134.62.36) 0.67ms
+[I 00:04:27.659 NotebookApp] 302 GET / (74.82.47.4) 0.49ms
+[I 00:06:55.274 NotebookApp] 302 GET / (85.96.2.42) 0.63ms
+[I 00:14:47.877 NotebookApp] 302 GET / (139.162.79.87) 0.50ms
+[I 01:03:41.079 NotebookApp] 302 GET / (191.255.125.85) 0.67ms
+[I 01:13:17.802 NotebookApp] 302 GET / (121.52.139.213) 0.61ms
+[I 01:29:25.631 NotebookApp] 302 GET / (36.65.57.27) 0.49ms
+[I 01:43:31.161 NotebookApp] 302 GET / (46.175.138.75) 0.59ms
+[I 02:49:23.213 NotebookApp] 302 GET / (178.62.55.227) 0.46ms
+[I 02:49:23.221 NotebookApp] 302 GET /tree? (178.62.55.227) 0.78ms
+[I 03:28:04.116 NotebookApp] 302 GET / (177.95.247.208) 0.54ms
+[I 03:56:44.875 NotebookApp] 302 GET / (62.99.70.71) 0.52ms
+[I 03:57:42.666 NotebookApp] 302 GET / (195.230.113.229) 0.46ms
+[I 05:13:54.798 NotebookApp] 302 GET / (183.89.157.96) 0.66ms
+[I 05:17:35.618 NotebookApp] 302 GET / (131.221.192.250) 0.51ms
+[W 05:24:27.247 NotebookApp] 404 GET /manager/html (198.44.228.97) 1.79ms referer=None
+[I 05:51:38.096 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 05:51:45.081 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 07:14:00.642 NotebookApp] 403 POST /GponForm/diag_Form?images/ (117.27.239.204): '_xsrf' argument missing from POST
+[W 07:14:00.645 NotebookApp] 403 POST /GponForm/diag_Form?images/ (117.27.239.204) 2.88ms referer=None
+[I 07:19:06.139 NotebookApp] 302 GET / (77.29.0.49) 0.50ms
+[I 08:44:41.376 NotebookApp] 302 GET / (78.108.105.141) 0.48ms
+[I 09:21:23.199 NotebookApp] 302 GET / (185.100.87.190) 0.66ms
+[W 09:23:21.690 NotebookApp] 405 HEAD / (185.100.87.190) 0.66ms referer=None
+[I 09:23:21.693 NotebookApp] 302 GET / (185.100.87.190) 0.56ms
+[I 09:23:21.842 NotebookApp] 302 GET / (185.100.87.190) 0.60ms
+[I 09:23:21.846 NotebookApp] 302 GET / (185.100.87.190) 0.54ms
+[W 09:23:21.952 NotebookApp] 404 GET /nmaplowercheck1543483400 (185.100.87.190) 2.20ms referer=None
+[I 09:23:22.001 NotebookApp] 302 GET /tree? (185.100.87.190) 1.02ms
+[W 09:23:22.102 NotebookApp] 404 GET /evox/about (185.100.87.190) 2.02ms referer=None
+[W 09:23:22.309 NotebookApp] 403 POST /sdk (185.100.87.190): '_xsrf' argument missing from POST
+[W 09:23:22.311 NotebookApp] 403 POST /sdk (185.100.87.190) 2.84ms referer=None
+[W 09:23:22.458 NotebookApp] 404 GET /HNAP1 (185.100.87.190) 1.96ms referer=None
+[I 12:55:32.814 NotebookApp] 302 GET / (152.249.173.27) 0.63ms
+[I 14:10:22.627 NotebookApp] 302 GET / (185.53.91.26) 0.43ms
+[I 14:10:22.668 NotebookApp] 302 GET /tree? (185.53.91.26) 0.86ms
+[I 14:10:23.165 NotebookApp] 302 GET / (185.53.91.26) 0.46ms
+[I 14:10:23.209 NotebookApp] 302 GET /tree? (185.53.91.26) 0.92ms
+[I 14:10:23.348 NotebookApp] 302 GET / (185.53.91.26) 0.51ms
+[I 14:10:23.395 NotebookApp] 302 GET /tree? (185.53.91.26) 0.90ms
+[I 14:30:22.178 NotebookApp] 302 GET / (103.96.51.171) 0.60ms
+[I 14:38:46.544 NotebookApp] 302 GET / (203.76.106.194) 0.50ms
+[W 15:02:18.710 NotebookApp] 404 GET /adminsf (148.243.225.59) 2.10ms referer=None
+[I 16:31:45.529 NotebookApp] 302 GET / (202.51.189.238) 0.49ms
+[I 18:36:16.270 NotebookApp] 302 GET / (41.50.80.155) 0.55ms
+[I 18:41:46.633 NotebookApp] 302 GET / (170.79.203.47) 0.50ms
+[I 19:38:56.966 NotebookApp] 302 GET / (121.52.142.159) 0.61ms
+[I 20:02:11.891 NotebookApp] 302 GET / (187.56.156.82) 0.58ms
+[I 20:18:42.793 NotebookApp] 302 GET / (78.7.180.68) 0.67ms
+[I 20:45:39.469 NotebookApp] 302 GET / (170.233.47.46) 0.48ms
+[I 21:01:02.575 NotebookApp] 302 GET / (177.188.204.191) 0.70ms
+[W 21:06:08.097 NotebookApp] WebSocket ping timeout after 119904 ms.
+[W 21:06:15.082 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 22:16:52.957 NotebookApp] 302 GET / (177.45.234.140) 0.53ms
+[I 23:10:02.387 NotebookApp] 302 GET / (170.233.46.171) 0.59ms
+[I 23:45:26.136 NotebookApp] 302 GET / (143.255.242.174) 0.48ms
+[I 00:20:26.194 NotebookApp] 302 GET / (184.105.247.195) 0.57ms
+[I 00:44:55.284 NotebookApp] 302 GET / (165.16.37.139) 0.53ms
+[I 01:39:44.369 NotebookApp] 302 GET / (201.42.205.8) 0.61ms
+[I 01:54:22.410 NotebookApp] 302 GET / (186.211.11.174) 0.52ms
+[I 02:24:15.003 NotebookApp] 302 GET / (79.107.225.220) 0.52ms
+[I 02:53:22.302 NotebookApp] 302 GET / (201.1.204.160) 0.70ms
+[I 02:53:22.307 NotebookApp] 302 GET / (201.1.204.160) 0.62ms
+[I 02:53:22.310 NotebookApp] 302 GET / (201.1.204.160) 0.48ms
+[I 03:29:58.413 NotebookApp] 302 GET / (185.99.65.254) 0.56ms
+[I 03:58:25.776 NotebookApp] 302 GET / (51.144.55.38) 0.46ms
+[I 03:58:25.796 NotebookApp] 302 GET /tree? (51.144.55.38) 0.89ms
+[I 04:07:10.519 NotebookApp] 302 GET / (197.251.229.166) 0.61ms
+[I 04:41:53.662 NotebookApp] 302 GET / (185.156.177.164) 0.46ms
+[I 04:41:53.679 NotebookApp] 302 GET /tree (185.156.177.164) 0.77ms
+[I 04:41:56.866 NotebookApp] 302 GET /HNAP1/ (185.156.177.164) 0.45ms
+[W 04:41:56.883 NotebookApp] 404 GET /HNAP1 (185.156.177.164) 1.68ms referer=http://104.155.55.255:8080/
+[I 05:03:12.268 NotebookApp] 302 GET / (72.49.68.3) 0.66ms
+[W 05:16:46.273 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.77ms referer=None
+[I 05:22:56.756 NotebookApp] 302 GET / (89.216.28.26) 0.53ms
+[I 05:31:30.214 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 05:31:37.195 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 05:42:29.240 NotebookApp] 404 GET /manager/html (118.37.46.1) 1.78ms referer=None
+[I 05:43:30.110 NotebookApp] 302 GET / (185.143.221.42) 0.57ms
+[I 05:43:30.221 NotebookApp] 302 GET /tree? (185.143.221.42) 0.79ms
+[I 06:15:56.105 NotebookApp] 302 GET / (209.17.97.26) 0.45ms
+[I 07:11:52.068 NotebookApp] 302 GET / (148.243.225.59) 0.51ms
+[I 08:53:17.007 NotebookApp] 302 GET / (134.236.240.132) 0.53ms
+[I 09:13:56.376 NotebookApp] 302 GET / (221.120.218.30) 0.54ms
+[I 09:23:13.797 NotebookApp] 302 GET / (82.79.216.211) 0.46ms
+[I 09:24:34.199 NotebookApp] 302 GET / (82.79.216.211) 0.55ms
+[I 09:25:31.826 NotebookApp] 302 GET / (36.72.219.6) 0.62ms
+[I 10:43:08.119 NotebookApp] 302 GET / (80.78.68.75) 0.64ms
+[I 11:03:36.377 NotebookApp] 302 GET / (183.81.1.177) 0.54ms
+[W 12:28:56.686 NotebookApp] 404 GET /manager/html (218.60.67.79) 1.85ms referer=None
+[W 13:32:19.600 NotebookApp] 404 GET /manager/html (111.73.46.162) 1.78ms referer=None
+[I 13:33:49.245 NotebookApp] 302 GET / (92.112.24.121) 0.80ms
+[I 14:47:55.133 NotebookApp] 302 GET / (125.64.94.201) 0.58ms
+[I 15:30:58.857 NotebookApp] 302 GET / (139.162.79.87) 0.51ms
+[I 15:45:44.569 NotebookApp] 302 GET / (187.5.218.245) 0.57ms
+[I 16:07:49.593 NotebookApp] 302 GET / (179.113.46.54) 0.62ms
+[I 16:07:49.599 NotebookApp] 302 GET / (179.113.46.54) 0.58ms
+[I 17:19:55.642 NotebookApp] 302 GET / (81.230.96.75) 0.63ms
+[I 17:44:51.905 NotebookApp] 302 GET / (139.162.111.98) 0.63ms
+[I 18:00:44.585 NotebookApp] 302 GET / (190.52.197.166) 0.73ms
+[I 18:11:49.701 NotebookApp] 302 GET / (187.53.60.226) 0.49ms
+[I 18:14:53.947 NotebookApp] 302 GET / (186.159.244.144) 0.49ms
+[I 18:39:08.094 NotebookApp] 302 GET / (185.47.64.169) 0.59ms
+[I 19:05:08.779 NotebookApp] 302 GET / (187.10.114.136) 0.64ms
+[I 20:12:37.362 NotebookApp] 302 GET / (198.108.66.208) 0.48ms
+[I 20:12:37.460 NotebookApp] 302 GET /tree? (198.108.66.208) 0.78ms
+[W 20:14:13.864 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 2.03ms referer=None
+[W 20:20:10.666 NotebookApp] 404 GET /manager/html (218.60.67.79) 1.64ms referer=None
+[W 21:59:30.215 NotebookApp] WebSocket ping timeout after 119956 ms.
+[W 21:59:37.196 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 22:43:18.453 NotebookApp] 302 GET / (194.44.36.19) 0.65ms
+[I 23:40:30.661 NotebookApp] 302 GET / (60.191.38.77) 0.42ms
+[I 23:40:31.319 NotebookApp] 302 GET /tree? (60.191.38.77) 0.83ms
+[I 23:43:50.029 NotebookApp] 302 GET / (196.52.43.119) 0.62ms
+[I 00:09:07.158 NotebookApp] 302 GET / (179.110.241.182) 0.55ms
+[I 00:13:43.611 NotebookApp] 302 GET / (85.130.28.94) 0.56ms
+[I 00:18:52.421 NotebookApp] 302 GET / (184.105.139.68) 0.46ms
+[I 01:09:05.905 NotebookApp] 302 GET / (197.255.255.25) 0.52ms
+[I 01:43:10.292 NotebookApp] 302 GET / (179.111.80.79) 0.63ms
+[I 01:45:14.342 NotebookApp] 302 GET / (45.70.15.28) 0.45ms
+[I 02:56:01.281 NotebookApp] 302 GET / (177.190.146.234) 0.68ms
+[I 03:56:06.144 NotebookApp] 302 GET / (131.255.153.86) 0.78ms
+[I 05:00:00.684 NotebookApp] 302 GET / (137.74.30.67) 0.51ms
+[I 05:00:00.710 NotebookApp] 302 GET /tree? (137.74.30.67) 0.74ms
+[W 05:37:17.238 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 1.74ms referer=None
+[I 05:56:12.872 NotebookApp] 302 GET / (190.198.28.28) 0.69ms
+[I 06:16:56.760 NotebookApp] 302 GET / (189.69.155.61) 0.65ms
+[I 06:16:56.766 NotebookApp] 302 GET / (189.69.155.61) 0.66ms
+[W 06:27:42.110 NotebookApp] 404 GET /carambol (148.243.225.59) 1.65ms referer=None
+[I 07:04:54.428 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 07:05:01.416 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 07:14:52.609 NotebookApp] 302 GET / (191.37.74.5) 0.64ms
+[W 08:17:36.620 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 1.66ms referer=None
+[I 09:10:28.117 NotebookApp] 302 GET / (125.64.94.201) 0.55ms
+[I 09:29:59.102 NotebookApp] 302 GET / (177.45.147.34) 0.53ms
+[I 09:47:18.771 NotebookApp] 302 GET / (60.191.38.77) 0.57ms
+[I 09:47:19.361 NotebookApp] 302 GET /tree? (60.191.38.77) 0.89ms
+[I 09:52:51.754 NotebookApp] 302 GET / (203.202.243.233) 0.65ms
+[I 10:05:53.808 NotebookApp] 302 GET / (200.148.101.177) 0.62ms
+[I 12:39:21.200 NotebookApp] 302 GET / (78.188.192.116) 0.58ms
+[I 13:16:35.070 NotebookApp] 302 GET / (202.169.246.110) 0.58ms
+[I 13:24:50.798 NotebookApp] 302 GET / (176.193.22.221) 0.49ms
+[I 13:42:44.744 NotebookApp] 302 GET / (31.220.161.163) 0.50ms
+[I 14:38:52.974 NotebookApp] 302 GET / (154.73.209.242) 0.66ms
+[I 14:40:02.642 NotebookApp] 302 GET / (91.224.156.123) 0.54ms
+[I 14:42:39.014 NotebookApp] 302 GET / (103.195.26.237) 0.52ms
+[I 15:02:37.035 NotebookApp] 302 GET / (178.156.83.200) 0.60ms
+[I 15:28:19.990 NotebookApp] 302 GET / (46.236.76.33) 0.50ms
+[I 17:16:44.102 NotebookApp] 302 GET / (46.252.38.188) 0.51ms
+[I 19:13:32.747 NotebookApp] 302 GET / (139.162.111.98) 0.61ms
+[I 19:58:28.733 NotebookApp] 302 GET / (203.207.56.148) 0.45ms
+[I 20:12:41.467 NotebookApp] 302 GET / (185.143.221.42) 0.53ms
+[I 20:12:41.581 NotebookApp] 302 GET /tree? (185.143.221.42) 0.76ms
+[W 22:27:24.429 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 22:27:31.417 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 00:02:06.925 NotebookApp] 302 GET / (109.187.110.154) 0.57ms
+[I 00:02:34.065 NotebookApp] 302 GET / (74.82.47.5) 0.65ms
+[I 00:18:04.957 NotebookApp] 302 GET / (81.214.22.43) 0.55ms
+[I 00:34:56.206 NotebookApp] 302 GET / (143.255.242.160) 0.59ms
+[W 01:46:45.945 NotebookApp] 404 GET /manager/html (58.218.66.107) 1.73ms referer=None
+[W 01:47:47.381 NotebookApp] 404 GET http://www.123cha.com (36.35.31.175) 1.69ms referer=None
+[W 01:47:47.389 NotebookApp] 405 CONNECT www.baidu.com (111.85.179.108) 1.75ms referer=None
+[W 01:47:47.645 NotebookApp] 404 GET http://api.ipify.org/ (113.57.114.175) 1.58ms referer=None
+[I 02:33:25.964 NotebookApp] 302 GET / (103.102.144.20) 0.46ms
+[W 03:22:14.055 NotebookApp] 404 GET /manager/html (218.60.67.118) 2.05ms referer=None
+[W 03:32:47.795 NotebookApp] 404 GET /manager/html (218.60.67.119) 1.83ms referer=None
+[I 03:33:00.841 NotebookApp] 302 GET / (125.64.94.200) 0.54ms
+[I 03:35:18.104 NotebookApp] 302 GET / (88.148.108.154) 0.61ms
+[W 03:44:20.540 NotebookApp] 404 GET /manager/html (218.60.67.114) 1.71ms referer=None
+[I 04:15:58.947 NotebookApp] 302 GET / (139.162.79.87) 0.67ms
+[I 04:28:39.692 NotebookApp] 302 GET / (194.135.194.103) 0.49ms
+[W 04:47:29.100 NotebookApp] 404 GET /manager/html (218.60.67.117) 1.73ms referer=None
+[I 05:46:36.025 NotebookApp] 302 GET / (189.110.253.66) 0.59ms
+[I 06:22:43.544 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 06:22:51.577 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 06:55:19.977 NotebookApp] 302 GET / (85.107.135.115) 0.68ms
+[W 07:13:13.545 NotebookApp] WebSocket ping timeout after 119933 ms.
+[W 07:13:21.578 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 07:32:29.427 NotebookApp] 302 GET / (27.72.235.222) 0.60ms
+[I 07:41:43.125 NotebookApp] 302 GET / (169.239.236.41) 0.48ms
+[I 07:54:33.990 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 07:54:42.001 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 08:11:03.992 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 08:11:12.002 NotebookApp] WebSocket ping timeout after 119827 ms.
+[I 08:32:31.112 NotebookApp] 302 GET / (119.237.157.108) 0.54ms
+[I 09:01:21.659 NotebookApp] 302 GET / (46.237.76.133) 0.55ms
+[I 10:27:17.704 NotebookApp] 302 GET / (119.42.89.246) 0.58ms
+[I 10:44:04.461 NotebookApp] 302 GET / (78.163.203.45) 0.63ms
+[I 11:06:05.173 NotebookApp] 302 GET / (80.229.189.50) 0.70ms
+[I 12:32:45.665 NotebookApp] 302 GET / (77.239.65.98) 0.49ms
+[I 13:28:16.066 NotebookApp] 302 GET / (200.5.34.68) 0.51ms
+[I 13:53:40.047 NotebookApp] 302 GET / (66.240.205.34) 0.52ms
+[I 13:53:40.330 NotebookApp] 302 GET /tree (66.240.205.34) 0.75ms
+[W 13:53:40.936 NotebookApp] 404 GET /robots.txt (66.240.205.34) 1.89ms referer=None
+[W 13:53:41.220 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.84ms referer=None
+[W 13:53:41.504 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.74ms referer=None
+[W 14:16:48.867 NotebookApp] 405 CONNECT sso.godaddy.com:443 (35.196.252.167) 1.92ms referer=None
+[I 14:18:58.537 NotebookApp] 302 GET / (103.101.104.156) 0.57ms
+[I 14:47:50.651 NotebookApp] 302 GET / (84.237.231.115) 0.66ms
+[I 16:19:07.756 NotebookApp] 302 GET / (190.145.15.180) 0.63ms
+[I 17:30:10.401 NotebookApp] 302 GET / (177.138.102.130) 0.54ms
+[W 18:13:19.679 NotebookApp] 404 GET /Security/users?auth=YWRtaW46MTEK (182.48.105.210) 2.33ms referer=http://104.155.55.255:8080/Security/users?auth=YWRtaW46MTEK
+[I 18:38:22.226 NotebookApp] 302 GET / (177.144.147.200) 0.60ms
+[I 19:19:10.448 NotebookApp] 302 GET / (85.96.2.42) 0.50ms
+[I 21:54:52.389 NotebookApp] 302 GET / (109.184.200.54) 0.47ms
+[I 22:24:27.778 NotebookApp] 302 GET / (125.64.94.200) 0.66ms
+[I 00:07:58.994 NotebookApp] 302 GET / (74.82.47.3) 0.50ms
+[I 00:23:20.689 NotebookApp] 302 GET / (186.194.186.104) 0.59ms
+[I 01:18:00.336 NotebookApp] 302 GET / (201.150.151.57) 0.51ms
+[I 01:24:59.270 NotebookApp] 302 GET / (165.255.165.121) 0.59ms
+[I 04:36:36.178 NotebookApp] 302 GET / (185.143.223.13) 0.66ms
+[I 04:36:36.276 NotebookApp] 302 GET /tree? (185.143.223.13) 1.13ms
+[I 05:14:17.619 NotebookApp] 302 GET / (43.252.221.168) 0.48ms
+[W 07:42:51.565 NotebookApp] 404 GET HTTP/1.1 (80.211.90.168) 1.80ms referer=None
+[W 07:42:51.676 NotebookApp] 404 GET \phpmyadmin\scripts\setup.php (80.211.90.168) 1.72ms referer=None
+[W 07:42:51.762 NotebookApp] 404 GET /2phpmyadmin/scripts/setup.php (80.211.90.168) 1.67ms referer=None
+[W 07:42:54.821 NotebookApp] 404 GET /PHPMYADMIN/scripts/setup.php (80.211.90.168) 1.83ms referer=None
+[W 07:42:55.872 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 1.79ms referer=None
+[W 07:42:55.928 NotebookApp] 404 GET /phpMyAdmin/scripts/setup.php (80.211.90.168) 1.77ms referer=None
+[W 07:42:58.987 NotebookApp] 404 GET /dbadmin/scripts/setup.php (80.211.90.168) 1.81ms referer=None
+[W 07:43:14.059 NotebookApp] 404 GET /pHpMyAdMiN/scripts/setup.php (80.211.90.168) 2.07ms referer=None
+[W 07:43:14.117 NotebookApp] 404 GET /phpLDAPadmin/scripts/setup.php (80.211.90.168) 2.14ms referer=None
+[W 07:43:14.169 NotebookApp] 404 GET /phpmy-admin/scripts/setup.php (80.211.90.168) 2.12ms referer=None
+[W 07:43:20.232 NotebookApp] 404 GET /scripts/setup.php (80.211.90.168) 2.18ms referer=None
+[W 07:43:20.283 NotebookApp] 404 GET /setup.php (80.211.90.168) 2.08ms referer=None
+[W 07:43:20.340 NotebookApp] 404 GET /sqladm/scripts/setup.php (80.211.90.168) 2.09ms referer=None
+[W 07:43:20.530 NotebookApp] 404 GET /sqladmin/scripts/setup.php (80.211.90.168) 2.41ms referer=None
+[W 07:43:20.719 NotebookApp] 404 GET /sqlweb/scripts/setup.php (80.211.90.168) 2.17ms referer=None
+[W 07:43:20.887 NotebookApp] 404 GET /phpmyadmin/scripts/db___.init.php (80.211.90.168) 2.23ms referer=None
+[W 07:43:20.984 NotebookApp] 404 GET /phpMyAdmin/scripts/db___.init.php (80.211.90.168) 2.28ms referer=None
+[I 07:43:33.048 NotebookApp] 302 GET /phpmyadmin/4.2/installing/ (80.211.90.168) 0.51ms
+[W 07:43:33.104 NotebookApp] 404 GET /phpmyadmin/config.inc.php (80.211.90.168) 2.04ms referer=None
+[W 07:43:43.164 NotebookApp] 404 GET /config/config.inc.php (80.211.90.168) 1.55ms referer=None
+[W 07:43:43.219 NotebookApp] 404 GET /phpMyAdmin/scripts/config.inc.php (80.211.90.168) 1.84ms referer=None
+[W 07:43:44.274 NotebookApp] 404 GET /phpMyAdmin/config/config.inc.php (80.211.90.168) 1.65ms referer=None
+[I 09:25:55.504 NotebookApp] 302 GET / (103.105.106.15) 0.47ms
+[W 09:38:07.820 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.21ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataVisualization.ipynb
+[W 09:38:13.333 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.03ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:38:13.417 NotebookApp] Adapting to protocol v5.1 for kernel 1f189b2c-607e-424b-984c-1000609ece27
+[I 09:38:40.393 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 09:58:58.517 NotebookApp] 302 GET / (196.61.12.8) 0.72ms
+[W 10:59:57.094 NotebookApp] 405 CONNECT sso.godaddy.com:443 (35.196.252.167) 2.03ms referer=None
+[I 11:36:52.047 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:39:46.351 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:41:37.394 NotebookApp] 302 GET / (107.170.210.111) 0.55ms
+[I 11:42:02.584 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:42:26.298 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:42:47.118 NotebookApp] 302 GET / (196.2.10.79) 0.56ms
+[I 11:45:06.755 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:45:50.067 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:47:46.409 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:50:26.119 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:51:26.212 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:53:06.367 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:55:26.160 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:55:46.962 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:58:25.046 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:58:27.750 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:58:36.212 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:02:34.216 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:03:41.429 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:05:06.001 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:05:16.279 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:08:41.624 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:12:52.072 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:13:41.830 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:14:50.273 NotebookApp] 302 GET / (78.188.213.106) 0.57ms
+[I 12:24:00.251 NotebookApp] 302 GET / (138.97.144.254) 0.62ms
+[I 12:43:41.595 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:45:33.819 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:48:21.451 NotebookApp] 302 GET / (109.175.6.34) 0.49ms
+[I 12:48:42.349 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:03:41.824 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:05:31.261 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:06:08.261 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:07:21.363 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:08:41.484 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:09:38.599 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:11:56.053 NotebookApp] 302 GET / (45.115.176.52) 0.61ms
+[I 13:12:03.285 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:13:42.140 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:15:04.406 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:16:07.642 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:18:42.487 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:23:41.289 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 13:24:22.868 NotebookApp] 404 GET /carambol (148.243.225.59) 1.78ms referer=None
+[I 13:26:29.327 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:26:43.416 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:31:28.605 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:48:42.200 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:53:41.434 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:57:49.242 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 13:58:41.426 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:03:41.442 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:08:41.499 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:13:42.476 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:18:41.585 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:23:41.564 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:28:41.578 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:53:41.456 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 14:55:21.601 NotebookApp] Kernel restarted: 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 14:55:22.355 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 14:58:41.827 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:03:41.568 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:08:25.334 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:13:41.473 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:16:38.162 NotebookApp] 302 GET / (41.76.246.38) 0.61ms
+[I 15:27:54.008 NotebookApp] 302 GET / (213.181.202.64) 0.51ms
+[I 15:28:42.142 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:33:41.467 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:38:41.150 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:38:57.899 NotebookApp] 302 GET / (188.233.22.133) 0.50ms
+[I 15:39:44.331 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:39:59.200 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:42:02.584 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:42:21.760 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:43:24.541 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:43:48.723 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:43:54.512 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:47:47.910 NotebookApp] 302 GET / (201.27.64.129) 0.65ms
+[I 15:48:42.038 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:49:12.076 NotebookApp] 302 GET / (110.232.248.63) 0.59ms
+[I 15:49:21.342 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:49:47.489 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:53:41.563 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 15:58:43.018 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:03:42.591 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:08:43.243 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:13:41.729 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:15:41.039 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:18:25.326 NotebookApp] 302 GET / (125.64.94.200) 0.54ms
+[W 16:21:07.385 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.59ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:22:08.957 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 16:26:19.040 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:29:53.944 NotebookApp] Kernel restarted: 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 16:29:54.692 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 16:31:34.029 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 16:34:30.347 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 18:15:40.402 NotebookApp] 302 GET / (165.16.43.66) 0.66ms
+[I 18:35:50.106 NotebookApp] 302 GET / (91.139.246.75) 0.47ms
+[I 18:38:34.690 NotebookApp] 302 GET / (200.153.145.146) 0.87ms
+[I 18:59:32.252 NotebookApp] 302 GET / (175.174.148.143) 0.53ms
+[I 19:23:06.558 NotebookApp] 302 GET / (65.254.24.250) 0.65ms
+[I 20:27:00.375 NotebookApp] 302 GET / (41.75.67.241) 0.59ms
+[I 20:40:55.371 NotebookApp] 302 GET / (115.231.233.38) 0.45ms
+[I 20:40:57.328 NotebookApp] 302 GET /tree? (115.231.233.38) 0.79ms
+[W 20:41:01.110 NotebookApp] 404 GET /index.action (115.231.233.38) 1.76ms referer=None
+[W 20:41:04.666 NotebookApp] 403 POST /invoker/readonly (115.231.233.38): '_xsrf' argument missing from POST
+[W 20:41:04.668 NotebookApp] 403 POST /invoker/readonly (115.231.233.38) 2.69ms referer=http://104.155.55.255:8080/invoker/readonly
+[I 20:48:46.375 NotebookApp] 302 GET / (71.6.232.4) 0.49ms
+[W 20:55:54.694 NotebookApp] WebSocket ping timeout after 119863 ms.
+[I 21:09:30.847 NotebookApp] 302 GET / (80.211.63.37) 0.44ms
+[I 21:09:30.872 NotebookApp] 302 GET /tree? (80.211.63.37) 0.74ms
+[I 21:31:52.093 NotebookApp] 302 GET / (213.92.251.70) 0.59ms
+[I 23:04:49.017 NotebookApp] 302 GET / (185.143.221.42) 0.48ms
+[I 23:04:49.129 NotebookApp] 302 GET /tree? (185.143.221.42) 0.86ms
+[I 00:06:27.864 NotebookApp] 302 GET / (216.218.206.66) 0.60ms
+[I 00:21:51.212 NotebookApp] 302 GET / (36.89.38.143) 0.51ms
+[W 00:54:00.731 NotebookApp] 404 GET /manager/html (58.218.66.87) 1.98ms referer=None
+[W 00:54:01.629 NotebookApp] 405 CONNECT www.baidu.com (113.4.75.76) 2.07ms referer=None
+[W 00:54:01.659 NotebookApp] 404 GET http://www.123cha.com (106.91.211.108) 1.81ms referer=None
+[W 00:54:01.775 NotebookApp] 404 GET http://api.ipify.org/ (113.57.114.16) 1.70ms referer=None
+[I 01:35:42.272 NotebookApp] 302 GET / (190.242.42.146) 0.62ms
+[I 03:28:26.175 NotebookApp] 302 GET / (5.154.9.150) 0.56ms
+[I 04:25:36.732 NotebookApp] 302 GET / (222.164.65.34) 0.49ms
+[W 05:27:43.668 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.67ms referer=None
+[I 06:22:31.813 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 06:46:01.814 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 08:19:56.969 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 08:43:05.034 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:44:14.130 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 08:45:13.900 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:59:23.613 NotebookApp] 302 GET / (35.233.220.21) 0.82ms
+[I 09:59:23.751 NotebookApp] 302 GET /tree? (35.233.220.21) 0.95ms
+[I 11:00:54.616 NotebookApp] 302 GET / (41.60.235.49) 0.55ms
+[I 11:01:34.522 NotebookApp] 302 GET / (165.16.37.160) 0.52ms
+[I 11:23:22.228 NotebookApp] 302 GET / (125.64.94.201) 0.51ms
+[W 12:14:56.971 NotebookApp] WebSocket ping timeout after 119874 ms.
+[I 12:23:41.870 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 12:24:05.809 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.92ms referer=http://gis.jkaelin.com:8080/notebooks/hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:24:10.062 NotebookApp] Kernel started: 307de559-4533-411c-9026-6aa7e060220c
+[I 12:24:10.726 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+[I 12:24:30.967 NotebookApp] Kernel restarted: 307de559-4533-411c-9026-6aa7e060220c
+[I 12:24:31.682 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 12:26:10.180 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/parentpoller.py", line 36, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'getppid'
+[I 12:26:39.091 NotebookApp] Kernel restarted: 307de559-4533-411c-9026-6aa7e060220c
+[I 12:26:39.801 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[W 12:26:59.434 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.82ms referer=http://gis.jkaelin.com:8080/notebooks/hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:27:01.922 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+Unhandled exception in thread started by <bound method ParentPollerUnix.__bootstrap of <ParentPollerUnix(Thread-1, stopped daemon 139639733274368)>>
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/ipykernel/kernelapp.py", line 162, in excepthook
+    traceback.print_exception(etype, evalue, tb, file=sys.__stderr__)
+TypeError: 'NoneType' object is not callable
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 774, in __bootstrap
+    self.__bootstrap_inner()
+  File "/usr/lib/python2.7/threading.py", line 814, in __bootstrap_inner
+    (self.name, _format_exc()))
+  File "/usr/lib/python2.7/traceback.py", line 241, in format_exc
+    etype, value, tb = sys.exc_info()
+AttributeError: 'NoneType' object has no attribute 'exc_info'
+[I 12:27:22.983 NotebookApp] Kernel restarted: 307de559-4533-411c-9026-6aa7e060220c
+[I 12:27:23.991 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 12:29:02.004 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:37:14.277 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 12:40:13.812 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.97ms referer=http://gis.jkaelin.com:8080/notebooks/hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:40:15.949 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+[I 12:42:15.810 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:42:22.305 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:42:46.955 NotebookApp] Kernel restarted: 307de559-4533-411c-9026-6aa7e060220c
+[I 12:42:47.771 NotebookApp] Adapting to protocol v5.1 for kernel 307de559-4533-411c-9026-6aa7e060220c
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 12:44:16.936 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 12:48:17.320 NotebookApp] Saving file at /hydraulic_confinement/hdyraulic_confinement_SM2_r2.ipynb
+[I 13:47:48.613 NotebookApp] 302 GET / (185.118.169.173) 0.70ms
+[W 13:53:26.651 NotebookApp] 405 CONNECT www.google.com:443 (217.61.99.19) 2.12ms referer=None
+[I 13:59:51.793 NotebookApp] 302 GET / (148.243.225.59) 0.53ms
+[I 14:02:57.125 NotebookApp] 302 GET / (152.250.20.14) 0.61ms
+[I 14:14:35.827 NotebookApp] 302 GET / (121.159.116.21) 0.62ms
+[W 15:19:41.871 NotebookApp] WebSocket ping timeout after 119896 ms.
+[I 15:54:22.745 NotebookApp] 302 GET / (94.102.49.190) 0.49ms
+[I 15:54:24.016 NotebookApp] 302 GET /tree (94.102.49.190) 0.75ms
+[I 16:38:16.290 NotebookApp] 302 GET / (220.141.165.204) 0.47ms
+[I 17:43:16.352 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 17:52:44.321 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 17:59:40.595 NotebookApp] 302 GET / (109.121.162.65) 0.61ms
+[I 18:25:37.528 NotebookApp] 302 GET / (66.240.205.34) 0.43ms
+[I 18:25:37.812 NotebookApp] 302 GET /tree (66.240.205.34) 1.14ms
+[W 18:25:38.410 NotebookApp] 404 GET /robots.txt (66.240.205.34) 1.74ms referer=None
+[W 18:25:38.695 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.55ms referer=None
+[W 18:25:38.980 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.60ms referer=None
+[I 18:52:22.885 NotebookApp] 302 GET / (92.60.229.76) 0.49ms
+[W 19:11:34.471 NotebookApp] 404 GET /manager/html (58.218.66.87) 1.65ms referer=None
+[I 19:21:40.054 NotebookApp] 302 GET / (83.240.13.164) 0.73ms
+[W 19:57:26.193 NotebookApp] 404 GET /manager/html (218.60.67.35) 1.50ms referer=None
+[I 20:31:07.288 NotebookApp] 302 GET / (189.46.243.110) 0.55ms
+[I 21:14:26.628 NotebookApp] 302 GET / (196.52.43.108) 0.57ms
+[I 21:19:10.051 NotebookApp] 302 GET / (51.137.110.154) 0.64ms
+[I 21:19:10.070 NotebookApp] 302 GET /tree? (51.137.110.154) 0.69ms
+[I 21:22:19.049 NotebookApp] 302 GET / (141.105.98.136) 0.79ms
+[W 21:58:14.322 NotebookApp] WebSocket ping timeout after 119931 ms.
+[I 00:06:10.612 NotebookApp] 302 GET / (184.105.139.68) 0.65ms
+[I 00:08:27.272 NotebookApp] 302 GET / (159.65.124.253) 0.49ms
+[I 00:08:27.292 NotebookApp] 302 GET /tree? (159.65.124.253) 0.72ms
+[I 00:20:17.280 NotebookApp] 302 GET / (139.162.79.87) 0.48ms
+[I 00:41:31.158 NotebookApp] 302 GET / (190.216.232.66) 0.54ms
+[I 01:16:21.720 NotebookApp] 302 GET / (78.90.243.201) 0.51ms
+[I 01:24:58.118 NotebookApp] 302 GET / (192.119.222.10) 0.52ms
+[I 01:31:27.359 NotebookApp] 302 GET / (187.11.111.30) 0.62ms
+[I 02:30:22.533 NotebookApp] 302 GET / (200.232.214.211) 0.66ms
+[I 02:57:31.426 NotebookApp] 302 GET / (181.196.57.50) 0.54ms
+[I 05:14:40.899 NotebookApp] 302 GET / (102.132.41.175) 0.54ms
+[I 05:37:09.758 NotebookApp] 302 GET / (113.22.98.36) 0.61ms
+[I 05:39:52.007 NotebookApp] 302 GET / (187.232.222.198) 0.63ms
+[I 05:47:48.780 NotebookApp] 302 GET / (125.64.94.201) 0.71ms
+[I 05:53:07.506 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 06:10:47.770 NotebookApp] 302 GET / (110.137.166.105) 0.49ms
+[W 06:16:37.507 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 08:02:37.160 NotebookApp] 302 GET / (195.2.222.6) 0.50ms
+[W 08:11:54.460 NotebookApp] 404 GET /manager/html (111.73.46.166) 1.61ms referer=None
+[I 08:20:54.337 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 09:51:24.390 NotebookApp] 302 GET / (41.86.151.74) 0.64ms
+[W 10:02:02.496 NotebookApp] 404 GET /manager/html (218.60.67.35) 1.94ms referer=None
+[I 10:29:56.372 NotebookApp] 302 GET / (212.69.137.148) 0.73ms
+[I 10:55:16.819 NotebookApp] 302 GET / (148.243.225.59) 0.61ms
+[I 10:55:40.729 NotebookApp] 302 GET / (61.219.11.151) 0.58ms
+[W 11:12:17.725 NotebookApp] 404 GET /manager/html (218.60.67.118) 1.64ms referer=None
+[W 12:03:22.706 NotebookApp] 403 POST /GponForm/diag_Form?images/ (220.83.183.36): '_xsrf' argument missing from POST
+[W 12:03:22.708 NotebookApp] 403 POST /GponForm/diag_Form?images/ (220.83.183.36) 2.30ms referer=None
+[I 12:03:22.709 NotebookApp] Malformed HTTP message from 220.83.183.36: Malformed HTTP request line
+[W 12:15:54.338 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 12:26:30.252 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 1.60ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:28:07.094 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[W 12:28:09.774 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (46.14.48.6) 2.01ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 12:28:31.091 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 14:04:23.423 NotebookApp] 302 GET / (186.232.16.94) 0.50ms
+[I 14:06:58.225 NotebookApp] 302 GET / (185.136.39.246) 0.55ms
+[W 15:47:04.652 NotebookApp] 404 GET /manager/html (58.218.66.87) 1.56ms referer=None
+[W 16:00:31.093 NotebookApp] WebSocket ping timeout after 119871 ms.
+[I 16:21:36.299 NotebookApp] 302 GET / (195.133.220.50) 0.47ms
+[I 16:31:56.468 NotebookApp] 302 GET / (185.143.221.42) 0.52ms
+[I 16:31:56.582 NotebookApp] 302 GET /tree? (185.143.221.42) 0.93ms
+[I 17:34:05.961 NotebookApp] 302 GET / (67.162.3.70) 0.72ms
+[I 18:04:00.820 NotebookApp] 302 GET / (188.61.155.10) 0.54ms
+[I 19:06:39.418 NotebookApp] 302 GET / (202.89.165.171) 0.51ms
+[I 19:15:12.826 NotebookApp] 302 GET / (170.82.230.5) 0.55ms
+[I 20:19:39.836 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 20:44:13.956 NotebookApp] 302 GET / (95.86.200.25) 0.61ms
+[I 20:44:27.276 NotebookApp] 302 GET / (189.68.236.222) 0.85ms
+[I 21:04:58.659 NotebookApp] 302 GET / (87.0.107.87) 0.80ms
+[W 21:14:39.837 NotebookApp] WebSocket ping timeout after 119927 ms.
+[I 21:36:22.307 NotebookApp] 302 GET / (76.10.244.25) 0.68ms
+[I 22:01:52.736 NotebookApp] 302 GET / (103.89.57.120) 0.65ms
+[I 22:37:13.580 NotebookApp] 302 GET / (178.156.83.5) 0.59ms
+[I 23:50:02.922 NotebookApp] 302 GET / (125.64.94.200) 0.71ms
+[I 00:20:10.462 NotebookApp] 302 GET / (184.105.139.70) 0.48ms
+[I 01:32:13.121 NotebookApp] 302 GET / (60.191.38.77) 0.46ms
+[I 01:32:13.766 NotebookApp] 302 GET /tree? (60.191.38.77) 0.92ms
+[I 01:32:14.944 NotebookApp] 302 GET / (91.233.137.145) 0.66ms
+[I 01:55:17.607 NotebookApp] 302 GET / (202.62.56.14) 0.67ms
+[I 02:32:17.922 NotebookApp] 302 GET / (110.235.210.199) 0.46ms
+[I 03:05:03.659 NotebookApp] 302 GET / (80.211.63.37) 0.61ms
+[I 03:05:03.690 NotebookApp] 302 GET /tree? (80.211.63.37) 0.79ms
+[I 03:37:34.014 NotebookApp] 302 GET / (189.78.215.96) 0.57ms
+[I 04:10:15.158 NotebookApp] 302 GET / (178.94.54.105) 0.55ms
+[W 06:46:35.369 NotebookApp] 404 GET /manager/html (52.214.212.197) 1.73ms referer=None
+[I 06:47:49.574 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 06:51:51.091 NotebookApp] 302 GET / (37.44.16.63) 0.55ms
+[I 07:00:28.000 NotebookApp] 302 GET / (39.33.106.230) 0.88ms
+[I 07:20:54.903 NotebookApp] 302 GET / (186.49.243.158) 0.67ms
+[W 09:16:43.349 NotebookApp] 404 GET http://www.123cha.com (119.118.6.239) 1.54ms referer=None
+[W 09:16:43.480 NotebookApp] 405 CONNECT www.baidu.com (36.34.10.79) 1.64ms referer=None
+[W 09:16:43.854 NotebookApp] 404 GET http://api.ipify.org/ (221.11.5.55) 1.60ms referer=None
+[W 09:16:51.965 NotebookApp] 404 GET /manager/html (220.191.249.124) 1.75ms referer=None
+[I 09:53:19.998 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:56:05.988 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:56:18.405 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 09:59:42.755 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:01:43.065 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:01:52.467 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 10:06:06.284 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 2.52ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:06:25.659 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 10:09:46.863 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:10:37.632 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:13:40.923 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:13:46.594 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:21:36.036 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:25:26.763 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:27:52.924 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:29:15.889 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:33:06.469 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:34:02.535 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:36:56.466 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 10:39:36.851 NotebookApp] 302 GET / (41.75.69.32) 0.78ms
+[I 10:40:48.316 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:44:37.306 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:48:27.345 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:52:16.292 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 10:56:04.013 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 10:56:06.899 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:00:35.128 NotebookApp] Notebook data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb is not trusted
+[I 11:02:05.592 NotebookApp] Adapting to protocol v5.1 for kernel 9ec40a68-d18c-484f-9424-06a9b7fe3dc0
+[I 11:02:20.028 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[W 11:02:20.706 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.78ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:06:16.865 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:06:31.728 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:06:31.829 NotebookApp] Saving untrusted notebook data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:11:31.103 NotebookApp] Saving file at /data_analysis/2018.11.19.RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:11:46.284 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:11:46.506 NotebookApp] Saving untrusted notebook data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:12:46.145 NotebookApp] 404 GET /static/plotly.js?v=20181014113501 (80.254.184.33) 4.45ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:14:07.844 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 11:14:08.725 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:14:16.221 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:14:16.558 NotebookApp] Saving untrusted notebook data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:17:22.780 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[W 11:20:17.485 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181014113501 (80.254.184.33) 1.48ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:20:44.957 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+[I 11:22:19.483 NotebookApp] Kernel restarted: 659633e3-4083-4a34-9427-48700676a17b
+[I 11:22:20.537 NotebookApp] Adapting to protocol v5.1 for kernel 659633e3-4083-4a34-9427-48700676a17b
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[I 11:22:52.854 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:24:56.812 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:27:55.295 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:37:11.262 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:40:15.014 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
+[I 11:40:20.508 NotebookApp] Saving file at /data_analysis/RogunHPP.PowerhouseDataAnalysis.ipynb
