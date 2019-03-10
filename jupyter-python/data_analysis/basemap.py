@@ -48,6 +48,8 @@ from IPython.display import Image, display
 # set up GRASS GIS runtime environment
 gisbase = subprocess.check_output(["grass", "--config", "path"]).strip()
 os.environ['GISBASE'] = gisbase
+# LD_LIBRARY_PATH should append to previously defined PATH (not defined at present)
+os.environ['LD_LIBRARY_PATH'] = gisbase+'/lib'
 os.environ['GRASS_FONT'] = 'sans'
 os.environ['GRASS_OVERWRITE'] = '1'  #overwrite existing maps
 sys.path.append(os.path.join(gisbase, "etc", "python"))
@@ -64,6 +66,9 @@ from grass.script import core as grass
 
 # for pygrass
 from grass.pygrass.modules.shortcuts import raster as r, vector as v, general as g, display as d
+#  testing pygrass
+##from grass.pygrass.vector import VectorTopo  # gives error
+##from grass.pygrass.vector.geometry import Point  # gives error
 
 from subprocess import PIPE
 
