@@ -1,0 +1,23 @@
+structure_id,structure_name,structure_type,anchor_id,anchor_type,steel_tensile_strength_char,steel_xsect_area,anchor_load_char_calculation_method,anchor_load_char,warning_value_calculation_method,alarm_value_calculation_method,warning_value,alarm_value,installation_date,installed_anchor_load,measurement_date,measured_anchor_load,stress_unit,force_unit,area_unit
+Bauwerk ID,Bauwerk,Bauwerktyp,Anker ID,Ankertyp,zul. Stahlfestigkeit,Stahlquerschnitt,Berechnungsmethode zul. Ankerkraft,zul. Ankerkraft,Berechnungsmethode Aufmerksamkeitswert,Berechnungsmethode Interventionswert,Aufmerksamkeitswert,Interventionswert,Baujahr,installierte Ankerkraft,Messdatum,gemssene Ankerkrfaft,Spannungseinheit,Krafteinheit,Flächeneinheit
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,101,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,102,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,103,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,104,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,105,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,106,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,107,,1770,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,101,,1770,1100,,,,,,,2003,1000,2010,1120,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,102,,1770,1100,,,,,,,2003,1000,2010,1105,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,103,,1770,1100,,,,,,,2003,1000,2010,1130,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,104,,1770,1100,,,,,,,2003,1000,2010,1094,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,105,,1770,1100,,,,,,,2003,1000,2010,1155,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,106,,1770,1100,,,,,,,2003,1000,2010,1140,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,107,,1770,1100,,,,,,,2003,1000,2010,1138,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,101,,1770,1100,,,,,,,2003,1000,2019,1106,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,102,,1770,1100,,,,,,,2003,1000,2019,1102,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,103,,1770,1100,,,,,,,2003,1000,2019,1117,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,104,,1770,1100,,,,,,,2003,1000,2019,1066,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,105,,1770,1100,,,,,,,2003,1000,2019,1124,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,106,,1770,1100,,,,,,,2003,1000,2019,1102,MPa,kN,mm
+Felssicherung Chuebalm,Chüebalmtunnel Westportal,Tunnelportal,107,,1770,1100,,,,,,,2003,1000,2019,1113,MPa,kN,mm

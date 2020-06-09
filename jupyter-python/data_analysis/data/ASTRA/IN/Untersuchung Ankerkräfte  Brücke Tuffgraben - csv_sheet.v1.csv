@@ -1,0 +1,11 @@
+inventory_id,structure_name,data_source,structure_type,anchor_id,anchor_type,steel_tensile_strength_char,steel_xsect_area,anchor_load_char_calculation_method,anchor_load_char,warning_value_calculation_method,alarm_value_calculation_method,warning_value,alarm_value,installation_date,installed_anchor_load,measurement_date,measured_anchor_load,stress_unit,force_unit,area_unit
+IO-Nummer,Objektname,Dateiquelle,Bauwerktyp,Anker ID,Ankertyp,zul. Stahlfestigkeit,Stahlquerschnitt,Berechnungsmethode zul. Ankerkraft,zul. Ankerkraft,Berechnungsmethode Aufmerksamkeitswert,Berechnungsmethode Interventionswert,Aufmerksamkeitswert,Interventionswert,Baujahr,installierte Ankerkraft,Messdatum,gemssene Ankerkrfaft,Spannungseinheit,Krafteinheit,Flächeneinheit
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""1""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,1980,900,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""2""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,1980,900,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""3""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,1980,900,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""1""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2010,980,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""2""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2010,983,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""3""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2010,960,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""1""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2019,1005,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""2""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2019,1004,MPa,kN,mm
+02.08.60.410.63,BRÜCKE Tuffgraben,Bruecke Tuffgraben,Brücke,"""3""",VSL Typ EG 5-12,1770,1023,,,,,,,1980,900.00,2019,1010,MPa,kN,mm

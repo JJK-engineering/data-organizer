@@ -1,0 +1,23 @@
+inventory_id,structure_name,data_source,structure_type,anchor_id,anchor_type,steel_tensile_strength_char,steel_xsect_area,anchor_load_char_calculation_method,anchor_load_char,warning_value_calculation_method,alarm_value_calculation_method,warning_value,alarm_value,installation_date,installed_anchor_load,measurement_date,measured_anchor_load,stress_unit,force_unit,area_unit
+IO-Nummer,Objektname,Dateiquelle,Bauwerktyp,Anker ID,Ankertyp,zul. Stahlfestigkeit,Stahlquerschnitt,Berechnungsmethode zul. Ankerkraft,zul. Ankerkraft,Berechnungsmethode Aufmerksamkeitswert,Berechnungsmethode Interventionswert,Aufmerksamkeitswert,Interventionswert,Baujahr,installierte Ankerkraft,Messdatum,gemssene Ankerkrfaft,Spannungseinheit,Krafteinheit,Flächeneinheit
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""101""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""102""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""103""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""104""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""105""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""106""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""107""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2003,1000,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""101""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1120,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""102""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1105,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""103""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1130,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""104""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1094,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""105""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1155,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""106""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1140,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""107""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2010,1138,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""101""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1106,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""102""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1102,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""103""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1117,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""104""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1066,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""105""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1124,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""106""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1102,MPa,kN,mm
+02.08.60.714.12,SSB Louberli & Chüebalm,Felssicherung Chuebalm,Tunnelportal,"""107""",VSL Typ EG 5-12,1820,1100,,,,,,,2003,1000,2019,1113,MPa,kN,mm
